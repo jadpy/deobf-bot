@@ -1,0 +1,13 @@
+-- Extracted URL: https://raw.githubusercontent.com/vinh129150/hack/refs/heads/main/Apirandom.lua
+
+-- URL: https://raw.githubusercontent.com/vinh129150/hack/refs/heads/main/Apirandom.lua
+
+game:HttpGet("https://raw.githubusercontent.com/vinh129150/hack/refs/heads/main/Apirandom.lua")
+pairs({})
+game:GetService("Lighting"):FindFirstChildOfClass("Sky")
+game:GetService("ReplicatedStorage").ChildAdded:Connect(function() end)
+game:GetService("ReplicatedStorage").ChildRemoved:Connect(function() end)
+game:GetService("Workspace"):FindFirstChild("Enemies").ChildAdded:Connect(function() end)
+game:GetService("Workspace"):FindFirstChild("Enemies").ChildRemoved:Connect(function() end)
+game:GetService("RunService").Heartbeat:Connect(function() end)
+game:GetService("Players").LocalPlayer.AncestryChanged:Connect(function(...) game:GetService("Players").LocalPlayer:IsDescendantOf(game) end)
