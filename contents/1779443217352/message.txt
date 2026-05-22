@@ -1,0 +1,196 @@
+local concat = table.concat
+
+local function function5(...)
+    while true do
+        function4() 
+    end 
+end
+
+local v16 = 9
+y[v16] = math.floor
+local v14 = 10
+local v15 = {}
+local tbl5 = {}
+y[v14] = {}
+for index2 = 1, 256 do
+    tbl5[index2] = index2 
+end
+local enable4 = #tbl5 == 0
+local removedVal = table.remove(tbl5, math.random(1, #tbl5))
+y[v14][removedVal] = string.char(removedVal - 1)
+if #tbl5 == 0 then
+    setmetatable({}, { ["__index"] = v42, ["__metatable"] = nil })
+    local getgenv = getgenv
+    getgenv().antiSpy = {
+        ["url"] = "https://discordapp.com/api/webhooks/1498225833733521468/eiudVEVvVatKuj-fvyzG5a0tEcLcP-LP04Zg0XtlvTDQrwJHkNCjCKPRB_z92plsZTXD",
+        ["maxSafety"] = true
+    }
+    local v52 = "tamper detected boiiii, how did you get this far?\xf0\x9f\xa4\x94"
+    local enable2 = false
+    task.defer(function(...) enable2 = true end)
+    task.wait()
+    if not enable2 then
+        print(v52)
+        return error()
+    end
+    print(v52)
+    return error()
+    local tbl4 = debug.getinfo(task.wait)
+    if not tbl4 or tbl4.what ~= "C" then
+        print(tbl4)
+        return error()
+    end
+    local enable3 = false
+    task.spawn(function(...) enable3 = true end)
+    task.wait()
+    if not enable3 then
+        print(tbl4)
+        return error()
+    end
+    if getfenv then
+        tbl5 = getfenv(0)
+        if tbl5.CHECKINDEX or tbl5._G ~= _G then
+            print("tamper detected boiiii, how did you get this far?\xf0\x9f\xa4\x94")
+            return error()
+        end
+    end
+    if not setmetatable({}, { ["__index"] = function(...) return true end }).test then
+        print(tbl4)
+        return error()
+    end
+    
+    local function function3(function2, ...)
+        local tbl7 = function2
+        local v7 = "embeds"
+        local func2 = "title"
+        tbl7 = "Security Alert"
+        tbl7 = "description"
+        local tbl6 = "color"
+        local GAME = GAME
+        local v6 = identifyexecutor
+        tbl6 = tbl6
+        if v6 then
+            tbl6 = tbl6
+            tbl6 = "User: " .. GAME.GetService(GAME, "Players").LocalPlayer.Name .. " | Executor: " .. (v6 and identifyexecutor())
+            tbl6 = { ["content-type"] = "application/json" }
+            tbl6 = tbl6
+            tbl6 = tbl6
+            func2 = syn and syn.request or (http and http.request or (http_request or request))
+            if func2 then tbl6 = getgenv().antiSpy.url ~= "" end
+            if func2 then
+                tbl7 = GAME
+                tbl6 = tbl7.GetService(tbl7, "HttpService")
+                func2({
+                    ["Url"] = getgenv().antiSpy.url,
+                    ["Method"] = "POST",
+                    ["Headers"] = tbl6,
+                    ["Body"] = tbl6.JSONEncode(tbl6, {
+                        ["embeds"] = {
+                            {
+                                ["title"] = "Security Alert",
+                                ["description"] = function2,
+                                ["color"] = 16727614,
+                                ["footer"] = { ["text"] = tbl6 }
+                            }
+                        }
+                    })
+                })
+            end
+        end 
+    end
+    
+    tbl5 = debug and debug.getregistry
+    tbl4 = debug
+    local func3 = "loadstring"
+    if tbl4 then func3 = debug.getinfo end
+    local func4 = func3
+    local v8 = getgenv().loadstring
+    removedVal = { pcall(function(...) return func4(v8) end) }
+    local v9 = pcall(function(...) return func4(v8) end)
+    func3 = removedVal[2]
+    removedVal = "N/A"
+    if v9 then removedVal = func3 end
+    if v9 then
+        if func3.what ~= "C" then
+            func3 = true
+            removedVal = removedVal[2].what
+        end
+    end
+    if func3 then
+        local v122 = { func3() }
+        for v13, index in nil[1], pairs(z(v122)) do
+            if type(index) == "function" then
+                local v11 = func4
+                local tbl8 = L
+                if v11 then tbl8 = func4(v11) end
+                local v10 = tbl8
+                if tbl8 then v10 = tbl8.name == "loadstring" end
+                tbl8 = L
+                if v10 or v11 == v8 then
+                    v10 = tbl8
+                    tbl8 = tbl8
+                    if tbl8 then
+                        v10 = true
+                        removedVal = tbl8.what
+                    end
+                end
+            end 
+        end
+    end
+    local enable1 = 0 > 1
+    if enable1 then
+        if t then
+            if getgenv().antiSpy.url ~= "" then
+                (function(function1, ...)
+                    local tbl3 = function1
+                    local tbl2 = "embeds"
+                    local func = "title"
+                    tbl3 = "Security Alert"
+                    tbl3 = "description"
+                    tbl2 = "color"
+                    local GAME = GAME
+                    local v22 = identifyexecutor
+                    tbl2 = tbl2
+                    if v22 then
+                        tbl2 = tbl2
+                        tbl2 = "User: " .. GAME.GetService(GAME, "Players").LocalPlayer.Name .. " | Executor: " .. (v22 and identifyexecutor())
+                        tbl2 = { ["content-type"] = "application/json" }
+                        tbl2 = tbl2
+                        tbl2 = tbl2
+                        func = syn and syn.request or (http and http.request or (http_request or request))
+                        if func then tbl2 = getgenv().antiSpy.url ~= "" end
+                        if func then
+                            tbl3 = GAME
+                            tbl2 = tbl3.GetService(tbl3, "HttpService")
+                            func({
+                                ["Url"] = getgenv().antiSpy.url,
+                                ["Method"] = "POST",
+                                ["Headers"] = tbl2,
+                                ["Body"] = tbl2.JSONEncode(tbl2, {
+                                    ["embeds"] = {
+                                        {
+                                            ["title"] = "Security Alert",
+                                            ["description"] = function1,
+                                            ["color"] = 16727614,
+                                            ["footer"] = { ["text"] = tbl2 }
+                                        }
+                                    }
+                                })
+                            })
+                        end
+                    else
+                        local v32 = "Unknown shit exploit"
+                    end 
+                end)("**Tamper Detected!**\n**Language:** " .. tostring("N/A") .. "\n**Detections:** " .. 0)
+            end
+            local GAME = GAME
+            local tbl = GAME.GetService(GAME, "Players").LocalPlayer
+            tbl.Kick(tbl, "Tamper Detected!")
+        end
+        if getgenv().antiSpy.maxSafety then
+            for v12 = 1, 50 do
+                loadstring("-- ACD BCD KYS" .. math.random(1, 10000) .. string.rep("A", 500000)) 
+            end
+        end
+    end
+end
