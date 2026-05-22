@@ -1,0 +1,64 @@
+local ref1 = Instance.new("ScreenGui", game:GetService("Players").LocalPlayer:WaitForChild("PlayerGui"))
+ref1.IgnoreGuiInset = true
+ref1.ScreenInsets = Enum.ScreenInsets.DeviceSafeInsets
+ref1.ClipToDeviceSafeArea = false
+ref1.ResetOnSpawn = false
+local ref2 = Instance.new("ImageLabel", ref1)
+ref2.ZIndex = -1
+ref2.BorderSizePixel = 0
+Color3.fromRGB(0, 0, 0)
+ref2.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+ref2.ImageColor3 = Color3.fromRGB(0, 0, 0)
+Vector2.new(0.5, 0.5)
+ref2.AnchorPoint = Vector2.new(0.5, 0.5)
+ref2.Image = "rbxassetid://79478122856326"
+UDim2.new(0.49495, 0, 0.61992, 0)
+ref2.Size = UDim2.new(0.49495, 0, 0.61992, 0)
+ref2.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ref2.BackgroundTransparency = 1
+ref2.Name = "shaodw"
+UDim2.new(0.5, 0, 0.5, 0)
+ref2.Position = UDim2.new(0.5, 0, 0.5, 0)
+ref2.ImageTransparency = 0.634
+local ref3 = Instance.new("Frame", ref2)
+ref3.BorderSizePixel = 0
+Color3.fromRGB(41, 41, 41)
+ref3.BackgroundColor3 = Color3.fromRGB(41, 41, 41)
+ref3.AnchorPoint = Vector2.new(0.5, 0.5)
+UDim2.new(0.82537, 0, 0.78231, 0)
+ref3.Size = UDim2.new(0.82537, 0, 0.78231, 0)
+UDim2.new(0.49887, 0, 0.5, 0)
+ref3.Position = UDim2.new(0.49887, 0, 0.5, 0)
+ref3.BorderColor3 = Color3.fromRGB(0, 0, 0)
+local ref4 = Instance.new("UICorner", ref3)
+UDim.new(0.03, 0)
+ref4.CornerRadius = UDim.new(0.03, 0)
+local ref5 = Instance.new("Frame", ref3)
+ref5.BorderSizePixel = 0
+Color3.fromRGB(84, 84, 84)
+ref5.BackgroundColor3 = Color3.fromRGB(84, 84, 84)
+UDim2.new(0.96606, 0, 0.06522, 0)
+ref5.Size = UDim2.new(0.96606, 0, 0.06522, 0)
+UDim2.new(0.01567, 0, 0.02174, 0)
+ref5.Position = UDim2.new(0.01567, 0, 0.02174, 0)
+ref5.BorderColor3 = Color3.fromRGB(0, 0, 0)
+ref5.Name = "bar"
+ref5.BackgroundTransparency = 1
+local ref6 = Instance.new("Frame", ref5)
+ref6.BorderSizePixel = 0
+Color3.fromRGB(91, 91, 91)
+ref6.BackgroundColor3 = Color3.fromRGB(91, 91, 91)
+UDim2.new(0.949, 0, 1, 0)
+ref6.Size = UDim2.new(0.949, 0, 1, 0)
+ref6.BorderColor3 = Color3.fromRGB(0, 0, 0)
+local ref7 = Instance.new("TextLabel", ref6)
+ref7.TextWrapped = true
+ref7.BorderSizePixel = 0
+ref7.TextXAlignment = Enum.TextXAlignment.Left
+ref7.TextScaled = true
+Color3.fromRGB(255, 255, 255)
+ref7.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+ref7.TextSize = 14
+
+-- Execution Error:
+-- attempt to index nil with 'new'
