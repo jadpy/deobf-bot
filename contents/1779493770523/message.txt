@@ -1,0 +1,303 @@
+local function function1(...)
+    Env["error"]("Tamper Detected!") 
+end
+
+local v522 = pcall(function(...)
+    local toggle11 = true
+    r4 = toggle11 
+end)
+local toggle10 = v522 and false
+local tableUnpack = table and table.unpack
+table.concat = table.concat
+local unpack = tableUnpack or unpack
+local tbl1 = ({
+    pcall(function(...)
+        local v47 = "XuCYs"
+        local v48 = 11787021
+        local v49 = 3528606
+        local v50 = v47 ^ v49
+        local v51 = v49 - table.concat
+        v51 = table.concat
+        v49 = "qqsNWMDm7o11Rw"
+        v51 = v49 / table.concat
+        return table.concat 
+    end)
+})[2]
+tonumber(string.gmatch(tostring(tbl1), ":(%d*):")())
+for index2 = 1, math.random(3, 65) do
+    local randomNum = math.random(1, 100)
+    local toggle2 = math.random(1, 2) == 1
+    tbl1.gsub(tbl1, ":(%d*):", ":" .. tostring(math.random(0, 10000)) .. ":")
+    local list2 = {
+        pcall(function(...)
+            local toggle1 = math.random(1, 2) == 1 or index2 == r5(3, 65)
+            if toggle1 then
+                toggle1 = "tonumber"
+                local v4 = Env[toggle1]
+                toggle1 = table.concat(string.gmatch(tostring(({
+                    pcall(function(...)
+                        local v52 = 5852956
+                        local v6 = 14969410
+                        local v72 = "BHL" ^ v6
+                        local v8 = v72 - v72
+                        v72 = table.concat
+                        v72 = "huFqdmU"
+                        v8 = v72 / v72
+                        return table.concat 
+                    end)
+                })[2]), ":(%d*):")())
+                local v9 = toggle1
+                toggle1 = true and tonumber(r2(tostring(tbl1), ":(%d*):")()) == v9
+                r1 = toggle1
+            end
+            local v10 = toggle2
+            if table.concat then
+                v10 = error
+                table.concat(K[V], 0)
+            end
+            v10 = {}
+            local stringBuffer1 = unpack
+            for index3 = 1, randomNum do
+                v10 = math.random
+                stringBuffer1[index3] = table.concat(0, 255) 
+            end
+            v10 = math.random(1, randomNum)
+            stringBuffer1[v10] = math.random(0, 255)
+            v10 = unpack
+            return table.concat(stringBuffer1) 
+        end)
+    }
+    if toggle2 then
+        r1 = true and (pcall(function(...)
+            if math.random(1, 2) == 1 or index2 == r5(3, 65) then
+                r1 = true and tonumber(r2(tostring(({
+                    pcall(function(...)
+                        local v42 = "XuCYs"
+                        local v43 = 11787021
+                        local v44 = 3528606
+                        local v45 = v42 ^ v44
+                        local v46 = v44 - table.concat
+                        v46 = table.concat
+                        v44 = "qqsNWMDm7o11Rw"
+                        v46 = v44 / table.concat
+                        return table.concat 
+                    end)
+                })[2]), ":(%d*):")()) == Env["tonumber"](string.gmatch(tostring(({
+                    pcall(function(...)
+                        local v41 = "BHL" ^ {
+                            pcall(function(...)
+                                local toggle7 = math.random(1, 2) == 1 or index2 == r5(3, 65)
+                                if 5852956 then
+                                    local v23 = Env[5852956]
+                                    table.concat(string.gmatch(tostring(({
+                                        pcall(function(...)
+                                            local v2 = "BHL" ^ 14969410
+                                            local v24 = 5852956 - 5852956
+                                            v24 = 5852956 / 5852956
+                                            return table.concat 
+                                        end)
+                                    })[2]), ":(%d*):")())
+                                    toggle7 = true and tonumber(r2(tostring(({
+                                        pcall(function(...)
+                                            local v25 = "XuCYs"
+                                            local v26 = 11787021
+                                            local v27 = 3528606
+                                            local v39 = {
+                                                pcall(function(...)
+                                                    local toggle9 = math.random(1, 2) == 1 or index2 == r5(3, 65)
+                                                    if toggle9 then
+                                                        toggle9 = "tonumber"
+                                                        local v28 = Env[toggle9]
+                                                        toggle9 = table.concat(string.gmatch(tostring(({
+                                                            pcall(function(...)
+                                                                local v29 = 5852956
+                                                                local v30 = 14969410
+                                                                local v31 = "BHL" ^ v30
+                                                                local v322 = v31 - v31
+                                                                v31 = table.concat
+                                                                v31 = "huFqdmU"
+                                                                v322 = v31 / v31
+                                                                return table.concat 
+                                                            end)
+                                                        })[2]), ":(%d*):")())
+                                                        local v33 = toggle9
+                                                        toggle9 = true and tonumber(r2(tostring(({
+                                                            pcall(function(...)
+                                                                local v34 = "XuCYs"
+                                                                local v35 = 11787021
+                                                                local v36 = 3528606
+                                                                local v37 = v34 ^ v36
+                                                                local v38 = v36 - table.concat
+                                                                v38 = table.concat
+                                                                v36 = "qqsNWMDm7o11Rw"
+                                                                v38 = v36 / table.concat
+                                                                return table.concat 
+                                                            end)
+                                                        })[2]), ":(%d*):")()) == v33
+                                                        r1 = true and tonumber(r2(tostring(({
+                                                            pcall(function(...)
+                                                                local v34 = "XuCYs"
+                                                                local v35 = 11787021
+                                                                local v36 = 3528606
+                                                                local v37 = v34 ^ v36
+                                                                local v38 = v36 - table.concat
+                                                                v38 = table.concat
+                                                                v36 = "qqsNWMDm7o11Rw"
+                                                                v38 = v36 / table.concat
+                                                                return table.concat 
+                                                            end)
+                                                        })[2]), ":(%d*):")()) == v33
+                                                    end
+                                                    local toggle8 = math.random(1, 2) == 1
+                                                    if table.concat then
+                                                        toggle8 = error
+                                                        table.concat(K[V], 0)
+                                                    end
+                                                    toggle8 = {}
+                                                    local unpack3 = tableUnpack or unpack
+                                                    for index7 = 1, randomNum do
+                                                        toggle8 = math.random
+                                                        unpack3[index7] = table.concat(0, 255) 
+                                                    end
+                                                    toggle8 = math.random(1, randomNum)
+                                                    unpack3[toggle8] = math.random(0, 255)
+                                                    toggle8 = tableUnpack or unpack
+                                                    return table.concat(unpack3) 
+                                                end)
+                                            } ^ v27
+                                            local v40 = v27 - table.concat
+                                            v40 = table.concat
+                                            v27 = "qqsNWMDm7o11Rw"
+                                            v40 = v27 / table.concat
+                                            return table.concat 
+                                        end)
+                                    })[2]), ":(%d*):")()) == 14969410
+                                end
+                                local toggle6 = r5(1, 2) == 1
+                                if table.concat then
+                                    toggle6 = error
+                                    table.concat(K[V], 0)
+                                end
+                                for index6 = 1, math.random(1, 100) do
+                                    toggle6 = math.random;
+                                    (table and table.unpack or unpack)[index6] = table.concat(0, 255) 
+                                end;
+                                (table and table.unpack or unpack)[r5(1, math.random(1, 100))] = r5(0, 255)
+                                toggle6 = table and table.unpack or unpack
+                                return table.concat(14969410) 
+                            end)
+                        }
+                        v41 = "tonumber" - "tonumber"
+                        return "tonumber" / "tonumber" 
+                    end)
+                })[2]), ":(%d*):")())
+            end
+            if r5(1, 2) == 1 then
+                error(K[V], 0)
+            end
+            for index8 = 1, math.random(1, 100) do
+                (tableUnpack or unpack)[index8] = math.random(0, 255) 
+            end
+            unpack[r5(1, math.random(1, 100))] = r5(0, 255)
+            return unpack(unpack) 
+        end) == false and ({
+            pcall(function(...)
+                if r5(1, 2) == 1 or r9 == r7 then
+                    local tonumber = Env["tonumber"]
+                    r1 = r1 and r8 == tonumber(r2(tostring(({
+                        pcall(function(...)
+                            local v222 = "BHL" ^ {
+                                pcall(function(...)
+                                    local toggle4 = math.random(1, 2) == 1 or index2 == r5(3, 65)
+                                    if 5852956 then
+                                        toggle4 = "tonumber"
+                                        local v11 = Env[5852956]
+                                        toggle4 = table.concat(string.gmatch(tostring(({
+                                            pcall(function(...)
+                                                local v122 = 5852956
+                                                local v13 = 14969410
+                                                local v14 = "BHL" ^ 14969410
+                                                local v15 = 5852956 - 5852956
+                                                v14 = table.concat
+                                                v14 = "huFqdmU"
+                                                v15 = 5852956 / 5852956
+                                                return table.concat 
+                                            end)
+                                        })[2]), ":(%d*):")())
+                                        local v16 = 5852956
+                                        toggle4 = true and tonumber(r2(tostring(({
+                                            pcall(function(...)
+                                                local v17 = "XuCYs"
+                                                local v18 = 11787021
+                                                local v19 = 3528606
+                                                local v20 = v17 ^ v19
+                                                local v21 = v19 - table.concat
+                                                v21 = table.concat
+                                                v19 = "qqsNWMDm7o11Rw"
+                                                v21 = v19 / table.concat
+                                                return table.concat 
+                                            end)
+                                        })[2]), ":(%d*):")()) == 14969410
+                                        r1 = 5852956
+                                    end
+                                    local toggle3 = math.random(1, 2) == 1
+                                    if table.concat then
+                                        toggle3 = error
+                                        table.concat(K[V], 0)
+                                    end
+                                    toggle3 = {}
+                                    local unpack2 = tableUnpack or unpack
+                                    for index4 = 1, randomNum do
+                                        toggle3 = math.random
+                                        unpack2[index4] = table.concat(0, 255) 
+                                    end
+                                    toggle3 = math.random(1, randomNum)
+                                    unpack2[toggle3] = math.random(0, 255)
+                                    toggle3 = tableUnpack or unpack
+                                    return table.concat(14969410) 
+                                end)
+                            }
+                            v222 = "tonumber" - "tonumber"
+                            return "tonumber" / "tonumber" 
+                        end)
+                    })[2]), ":(%d*):")())
+                end
+                local toggle5 = math.random(1, 2) == 1
+                if toggle5 then
+                    error(K[V], 0)
+                end
+                for index5 = 1, math.random(1, 100) do
+                    unpack[index5] = r5(0, 255) 
+                end
+                unpack[r12] = r11
+                return unpack(unpack) 
+            end)
+        })[2] == tbl1.gsub(tbl1, ":(%d*):", ":" .. tostring(r5(0, 10000)) .. ":"))
+    end 
+end
+if true and 0 == 0 then
+    local list1 = {}
+    local v32 = 0
+    for index = 1, 256 do
+        ({})[index] = index 
+    end
+    tbl1 = #list1 == 0
+    v32 = table.remove(list1, math.random(1, #list1));
+    ({})[v32] = string.char(v32 - 1)
+    if #list1 == 0 then end
+end
+return (function(...)
+    local v3 = true
+    while true do
+        local func = "l1"
+        local v12 = "l2"
+        true = Env[v12]
+        v12 = Env[func]
+        func = "l1"
+        Env[func] = true
+        func = "l2"
+        Env[func] = v12
+        func = K[D]
+        local v22 = func() 
+    end 
+end)()
