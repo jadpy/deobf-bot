@@ -1,0 +1,54 @@
+local ref1 = getgenv()
+ref1.LuxyHub_Unload()
+ref1.HubRunning = true
+ref1.AFarm = false
+ref1.TBrainrot = { [1] = "Any" }
+ref1.TRarity = { [1] = "Any" }
+ref1.TMutation = { [1] = "Any" }
+ref1.ATrain = false
+ref1.ATrainCollect = false
+ref1.TrainCollectDelay = 20
+ref1.IsFlashCollecting = false
+ref1.NextFlashCollect = 0
+ref1.A2xTrain = false
+ref1.ACollect = false
+ref1.CollectDelay = 60
+ref1.AUpgrade = false
+ref1.TUpgrade = { [1] = "Any" }
+ref1.MaxUpLevel = 1
+ref1.PlotBrainrotList = { [1] = "Any" }
+ref1.ARebirth = false
+ref1.APlotUpgrade = false
+ref1.APlaceBest = false
+ref1.TProtectedBrainrots = {}
+ref1.AProtectFilter = false
+ref1.IsPlacingPet = false
+ref1.ABuySpeed = false
+ref1.ABuyWeights = false
+ref1.ABuyBest = false
+ref1.TTargetWeight = "None"
+ref1.ASellAll = false
+ref1.ASellFilter = false
+ref1.SellDelay = 20
+ref1.TSSellBrainrot = { [1] = "Any" }
+ref1.TSSellRarity = { [1] = "Any" }
+ref1.TSSellMutation = { [1] = "Any" }
+ref1.ASummonWeather = false
+ref1.TSummonWeather = "Any"
+ref1.MaxSummonCount = 1
+ref1.CurrentSummonCount = 0
+ref1.makefolder = nil
+ref1.writefile = nil
+ref1.readfile = nil
+ref1.listfiles = nil
+ref1.isfile = nil
+ref1.isfolder = nil
+isfile("LuxyHub_Configs/KickBlox_Auto.json")
+readfile("LuxyHub_Configs/KickBlox_Auto.json")
+game:GetService("HttpService"):JSONDecode(readfile("LuxyHub_Configs/KickBlox_Auto.json"))
+pairs(game:GetService("HttpService"):JSONDecode(readfile("LuxyHub_Configs/KickBlox_Auto.json")))
+game:GetService("StarterGui"):SetCore("SendNotification", {
+    Text = "Config Loaded Successfully!",
+    Title = "Luxy Hub",
+    Duration = 3
+})
