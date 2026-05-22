@@ -1,0 +1,10 @@
+game:GetService("HttpService"):JSONEncode({ jobId = game.JobId })
+syn.request({
+    Body = game:GetService("HttpService"):JSONEncode({ jobId = game.JobId }),
+    Url = "http://fi3.bot-hosting.net:22357/api/roblox/server",
+    Method = "POST",
+    Headers = {
+        ["x-api-key"] = "BaconHub_BloxApi_K3y!2025",
+        ["Content-Type"] = "application/json"
+    }
+})
