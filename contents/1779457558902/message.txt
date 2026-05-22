@@ -1,0 +1,20 @@
+-- UniveilR Reconstructed Execution Trace:
+FlatIdent_2BD95 = 1
+Type = 3
+Cons = "string"
+Cons = "char"
+Cons = "byte"
+Cons = "sub"
+Cons = "bit32"
+Cons = "bit"
+Cons = "bxor"
+Cons = "table"
+Cons = "concat"
+Cons = "insert"
+Type = 2
+Cons = 0
+Cons = "\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbd"
+Cons = "~\xef\xbf\xbd\xef\xbf\xbd\xef\xbf\xbdE\xef\xbf\xbd\xdb\xa7"
+Cons = "print"
+Cons = 1
+Cons = 256
