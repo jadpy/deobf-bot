@@ -1,0 +1,429 @@
+local v18 = 4
+I[v18] = true
+local v32 = 5
+local v23 = 6
+local v33 = 7
+I[v23] = string.gmatch
+I[n] = function(...) Env["error"]("Tamper Detected!") end
+I[v33] = false
+local pcall = pcall
+local v30 = pcall(function(...)
+    local toggle3 = true
+    I[v33] = toggle3 
+end)
+local v21 = v30
+pcall = v21
+v30 = 8
+I[v30] = math.random
+local v322 = 15
+I[v322] = table and table.unpack or unpack
+local v20 = 0
+local v31 = 16
+local v19 = 0
+I[v31] = I[v30](3, 65)
+local list3 = {
+    pcall(function(...)
+        local v25 = 6815189
+        local v26 = 10411734
+        local v27 = "Zr5PaLUr7A"
+        local v28 = v27 ^ v26
+        local v29 = v25 - v28
+        v25 = "xet"
+        v28 = table.concat
+        v29 = v25 / v28
+        return table.concat 
+    end)
+}
+local v222 = list3[2]
+v8 = tonumber
+local v24 = 17
+I[v24] = v8(I[v23](tostring(v222), ":(%d*):")())
+v21 = 1
+I[v18] = I[v18] and v20 == v19
+if I[v18] then
+    local v42 = 1
+    local tbl2 = "table"
+    local func4 = "string"
+    local list1 = {}
+    local func6 = "math"
+    local v82 = 18
+    local tbl5 = Env[func6]
+    local v52 = 256
+    func6 = "floor"
+    local tbl1 = {}
+    local v142 = tbl5[func6]
+    local func5 = "math"
+    tbl5 = 19
+    I[tbl5] = v142
+    func6 = Env[func5]
+    func5 = "random"
+    v142 = func6[func5]
+    func5 = Env[tbl2]
+    tbl2 = "remove"
+    func6 = func5[tbl2]
+    tbl2 = Env[func4]
+    local v72 = 20
+    func4 = "char"
+    func5 = tbl2[func4]
+    func4 = 21
+    tbl2 = 0
+    I[func4] = tbl2
+    tbl2 = 2
+    I[v72] = tbl2
+    tbl2 = {}
+    I[v82] = tbl1
+    tbl1 = 0
+    v52 = 1
+    local v152 = v52
+    v52 = 0
+    for index2 = v42, v52, v152 do
+        v42 = index2
+        list1[v42] = v42 
+    end
+    v52 = #list1
+    v42 = v52 == 0
+    v52 = 1
+    local func2 = 1
+    v42 = func2(v52, #list1)
+    v52 = func6(list1, v42)
+    local v162 = v52 - func2
+    v152 = func5(v162)
+    I[v82][v52] = v152
+    local v172 = 0
+    v52 = #list1
+    v42 = v52 == v172
+    if v42 then
+        v42 = {}
+        v52 = 1
+        I[v52] = v42
+        func2 = {}
+        
+        local function function2(...)
+            local list2 = I[v52]
+            local v92 = #list2
+            list2 = 0
+            local toggle2 = v92 == list2
+            if toggle2 then
+                local v62 = 213
+                local func3 = I[func4]
+                func3 = func3 * v62
+                func3 = 22986644664781
+                v92 = func3 + func3
+                func3 = 35184372088832
+                toggle2 = v92 % func3
+                func3 = 1
+                I[func4] = toggle2
+                func3 = I[v72]
+                v92 = func3 ~= func3
+                func3 = I[v72]
+                v62 = 237
+                func3 = func3 * v62
+                func3 = 257
+                v92 = func3 % func3
+                I[v72] = v92
+                func3 = I[v72]
+                v62 = 1
+                func3 = func3 ~= v62
+                if func3 then
+                    v62 = 32
+                    func4 = 2
+                    func3 = I[v72]
+                    func3 = func3 % v62
+                    func2 = I[function2]
+                    func5 = I[func4]
+                    tbl1 = 13
+                    v42 = I[v72]
+                    list1 = v42 - func3
+                    v42 = 32
+                    v82 = list1 / v42
+                    v72 = tbl1 - v82
+                    tbl2 = func4 ^ v72
+                    func6 = func5 / tbl2
+                    function2 = func2(func6)
+                    func2 = 4294967296
+                    v62 = function2 % func2
+                    function2 = 2
+                    func2 = function2 ^ func3
+                    tbl2 = 1
+                    func3 = v62 / func2
+                    func2 = I[function2]
+                    func5 = func3 % tbl2
+                    tbl2 = 4294967296
+                    func6 = func5 * tbl2
+                    function2 = func2(func6)
+                    func2 = I[function2]
+                    func6 = func2(func3)
+                    v62 = function2 + func6
+                    func5 = 65536
+                    function2 = 65536
+                    func2 = v62 % function2
+                    func6 = v62 - func2
+                    function2 = func6 / func5
+                    func5 = 256
+                    func6 = func2 % func5
+                    tbl1 = 256
+                    func4 = 256
+                    tbl2 = func2 - func6
+                    func5 = tbl2 / func4
+                    func4 = 256
+                    tbl2 = function2 % func4
+                    v72 = function2 - tbl2
+                    func4 = v72 / tbl1
+                    v72 = { func6, func5, tbl2, func4 }
+                    I[v52] = v72
+                    v62 = "table"
+                    func3 = Env[v62]
+                    v62 = "remove"
+                    func3 = func3[v62]
+                    v62 = I[v52]
+                    func3 = { func3(v62) }
+                    return F(func3)
+                end
+            end 
+        end
+        
+        local func7 = 2
+        v42 = 3
+        tbl2 = "\x94\xc3\xb0\x81\xbag\xe6k_\x8ahmh\x13"
+        I[v42] = function2
+        local tbl3 = "setmetatable"
+        function2 = {}
+        I[func7] = function2
+        function2 = Env[tbl3]
+        tbl3 = function2(func2, { ["__index"] = I[func7], ["__metatable"] = nil })
+        
+        local function function1(function4, function3, ...)
+            func7 = function3
+            local v102 = I[func7]
+            local v112 = function4
+            tbl3 = v102
+            v102 = tbl3[v112]
+            if v102 then
+            else
+                func5 = 255
+                tbl2 = "string"
+                v102 = {}
+                I[v52] = v102
+                function1 = 35184372088832
+                local v122 = I[v82]
+                func2 = v122
+                v122 = v112 % function1
+                I[func4] = v122
+                func6 = v112 % func5
+                func5 = 2
+                v72 = 1
+                function1 = func6 + func5
+                I[v72] = function1
+                func5 = Env[tbl2]
+                tbl1 = v72
+                tbl2 = "len"
+                func6 = func5[tbl2]
+                func5 = func6(v112)
+                tbl2 = 1
+                func6 = ""
+                tbl3[v112] = func6
+                func6 = 50
+                func4 = func5
+                v72 = 0
+                for index = tbl2, func4, tbl1 do
+                    local v132 = "string"
+                    local tbl4 = Env[v132]
+                    v132 = "byte"
+                    local func8 = tbl4[v132]
+                    tbl2 = index
+                    tbl4 = func8(v132, tbl2)
+                    func8 = I[v42]
+                    v132 = func8()
+                    v52 = tbl4 + v132
+                    v132 = 1
+                    v42 = v52 + func6
+                    v52 = 256
+                    list1 = v42 % v52
+                    v52 = func8[v132]
+                    func6 = list1
+                    tbl4 = func6 + v132
+                    func8 = tbl4[tbl4]
+                    v42 = v52 .. func8
+                    func8[v132] = v42 
+                end
+                return v112
+            end 
+        end
+        
+        func6 = "getgenv"
+        tbl3 = tbl3
+        func4 = 10981542863162
+        func7 = function1
+        function1 = Env[func6]
+        func6 = function1()
+        func5 = func7(tbl2, func4)
+        function1 = tbl3[func5]
+        func2 = func6[function1]
+        func5 = "\x08\xe3n\xf9\x06\xa4\\'C\xf8XA\xeah"
+        function1 = "getgenv"
+        func2 = Env[function1]
+        tbl2 = 27486929502520
+        function1 = func2()
+        v72 = 5495289661234
+        func6 = func7(func5, tbl2)
+        tbl2 = 24023992935731
+        v52 = 5610892722959
+        v42 = 18657757849544
+        func2 = 31206983939342
+        func2 = tbl3[func6]
+        tbl1 = 13277772251605
+        func6 = true
+        func5 = "z\x9c\x7fxO\xe1N\xd3\x80\xa8\xe8"
+        function1[func2] = func6
+        func4 = "f\x00\x85\x9d\xf2\xdd\xe5|\x14\xe3>"
+        v82 = 7752739384468
+        list1 = 34649277937300
+        function1 = "getgenv"
+        func2 = Env[function1]
+        function1 = func2()
+        func6 = func7(func5, tbl2)
+        func2 = tbl3[func6]
+        function1 = 23126363285643
+        tbl2 = func7(func4, v72)
+        v72 = "\x04\xd6\xac\x95\x0b`p\x1b\xb7\x10\xf2\x9d"
+        func5 = tbl3[tbl2]
+        func4 = func7(v72, tbl1)
+        tbl2 = tbl3[func4]
+        tbl1 = "\xfd\xe9\xc9\xe4\xd0\xed!\xf1T`\x04"
+        func7 = 18100369711397
+        v72 = func7(tbl1, v82)
+        func4 = tbl3[v72]
+        v82 = "s`\"\x1a\x86\x19(\x9c\xb2|\xe3\x856"
+        tbl1 = func7(v82, list1)
+        list1 = ";^\xbc\x8b|y]c\xfd\x14\x99p\x89\x1c!\xe6\xc7\xa1E\xbf"
+        v72 = tbl3[tbl1]
+        v82 = func7(list1, v42)
+        tbl1 = tbl3[v82]
+        v42 = "R\xca\xd6Q-\xde\x17\x98\xa4\xb1h\xdf\xfa(_b2MW"
+        list1 = func7(v42, v52)
+        v82 = tbl3[list1]
+        v52 = "A\xc2IJ5\x89}\xd9\x9e\xa4"
+        v42 = func7(v52, function1)
+        list1 = tbl3[v42]
+        function1 = "O\x9cf\xd9^\xa5\xa2\x1d\xea\xcb\x1d\x07\xad\xd5N"
+        v52 = func7(function1, func7)
+        func7 = "\xe5Hm\x9aUc!/\xf5m\xa6C\xecli"
+        v42 = tbl3[v52]
+        function1 = func7(func7, func2)
+        v52 = tbl3[function1]
+        func2 = "\x15\x81Y\x0f\x9f\xf7\xf0\xba\xea\x8d \x9c"
+        func7 = func7(func2, 31142239557978)
+        function1 = tbl3[func7]
+        func2 = func7("F\xaa\xc1,SS\xfeF'\x10\xa2\x00\x0c\x81E\xe7,\xf7\xcb\x0b", 12633090926541)
+        func7 = tbl3[func2]
+        func2 = tbl3[func7("v\xdcg6\xa12\xfe\xab\x84\x151U", 34394155606760)]
+        func6 = {
+            func5,
+            tbl2,
+            func4,
+            v72,
+            tbl1,
+            v82,
+            list1,
+            v42,
+            v52,
+            function1,
+            func7,
+            func2
+        }
+        function1[func2] = func6
+        function1 = "getgenv"
+        func2 = Env[function1]
+        func5 = "\xff\xe7T\xca\x99\x97\xb1\x01\\\xd5"
+        tbl2 = 23654868564668
+        func4 = 20973488745649
+        function1 = func2()
+        func6 = func7(func5, tbl2)
+        v72 = 2701504517119
+        func2 = tbl3[func6]
+        tbl2 = "\xd8\xdf8\x16\xc1\x9a\x90\"\xd6@\x9d;"
+        func5 = func7(tbl2, func4)
+        func6 = tbl3[func5]
+        tbl1 = 13689329755438
+        function1[func2] = func6
+        function1 = "getgenv"
+        func2 = Env[function1]
+        function1 = func2()
+        func5 = "\xc4\x06e\xd6\xed\x93="
+        v82 = 29571510466649
+        func4 = 23530499508091
+        tbl2 = 8937285602665
+        func6 = func7(func5, tbl2)
+        v42 = 12548914681193
+        func2 = tbl3[func6]
+        tbl2 = "o]H\xc0\xdbM\xac\xf1\xe3\x11Q\xef\"$q\xfa\xa1\xba\xecf4"
+        func5 = func7(tbl2, func4)
+        func6 = tbl3[func5]
+        function1[func2] = func6
+        list1 = 24212344403433
+        func5 = "S3\x03)\x8cmG\x05b\xd3\xbf"
+        function1 = "getgenv"
+        tbl2 = 33318608031096
+        func2 = Env[function1]
+        func4 = "\x16\r\xcbN\x04\xc9\x82\xec\x0ft\x17bt\x1c\xdb"
+        function1 = func2()
+        func6 = func7(func5, tbl2)
+        func2 = tbl3[func6]
+        tbl2 = func7(func4, v72)
+        v72 = "o\x0f\xd5\xffsu\xbb\x94\x13a\xef\xa6\xad"
+        func5 = tbl3[tbl2]
+        func4 = func7(v72, tbl1)
+        tbl2 = tbl3[func4]
+        tbl1 = "\x81&\x9brR3\x11^f(\x9b\x18\xe2\xf5\xdd\xf4\xa6\r\x12P\xffWRU\xafV\xf5"
+        func7 = 17829161964491
+        v72 = func7(tbl1, v82)
+        func4 = tbl3[v72]
+        v52 = 10201407435333
+        v82 = "\xb3\x1dKB\x1d\xa8\x83fV\x8a\xa8\x9d"
+        tbl1 = func7(v82, list1)
+        list1 = "\x06\xc3\xce\x03\xcf\xfc\xc6\xf0\x02\x86\xc7\xdc3\x96,\xa2"
+        v72 = tbl3[tbl1]
+        v82 = func7(list1, v42)
+        tbl1 = tbl3[v82]
+        v42 = "\xbf\xe7\xe2Z\x16\xfe2\x11\xfd\x89\xe5#\xd8\xaau-"
+        list1 = func7(v42, v52)
+        v82 = tbl3[list1]
+        function1 = 33087780272123
+        v52 = "\xcf\x0eMm\xe8\x97\x08\xbb\xbe\xbb\x95\xd7\xe2\x81+\xfd"
+        v42 = func7(v52, function1)
+        list1 = tbl3[v42]
+        function1 = "\x91j\xf76x\xfd\xba"
+        v52 = func7(function1, func7)
+        v42 = tbl3[v52]
+        func6 = { func5, tbl2, func4, v72, tbl1, v82, list1, v42 }
+        v72 = "\xdc\xee\xdbI\x8bOO\xe5Cl\xd6qrH\xc0#V:\xa0\x98\x7fa\xbb\x0c\x98\xec6\x97\x8d]\xf2\xbbE\xd8\xd7\x07\xa5J\x9e\x8e\x02\x9c:\xd7B\x1b\xbd\xf4Z\xfe\x16q\xac\xb3\xe8\xb4\xc1/\xe7\x02xb\xc1\xe0\x8cuw"
+        tbl1 = 12867888176639
+        function1[func2] = func6
+        function1 = "loadstring"
+        func2 = Env[function1]
+        func5 = "game"
+        func6 = Env[func5]
+        func4 = func7(v72, tbl1)
+        tbl2 = tbl3[func4]
+        func4 = "HttpGet"
+        func4 = func6[func4]
+        func5 = { func4(func6, tbl2) }
+        function1 = func2(F(func5))
+        func2 = function1()
+    end
+end
+return (function(...)
+    local toggle1 = true
+    while toggle1 do
+        local v22 = "l2"
+        toggle1 = Env[v22]
+        local func = "l1"
+        v22 = Env[func]
+        func = "l1"
+        Env[func] = toggle1
+        func = "l2"
+        Env[func] = v22
+        func = I[v32]
+        local v17 = func() 
+    end 
+end)()
