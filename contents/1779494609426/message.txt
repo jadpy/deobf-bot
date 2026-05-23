@@ -1,0 +1,289 @@
+local v18 = 1
+K[v18] = true
+local v32 = 2
+local v23 = 3
+K[v23] = string.gmatch
+local v33 = 4
+K[D] = function(...) Env["error"]("Tamper Detected!") end
+K[v33] = false
+local pcall = pcall
+local v30 = pcall(function(...)
+    local toggle3 = true
+    K[v33] = toggle3 
+end)
+local v21 = v30
+pcall = v21
+local v19 = "table"
+v30 = 21
+K[v30] = math.random
+local v20 = Env[v19]
+local v322 = v20
+v322 = 9
+K[v322] = v322 or unpack
+v20 = 0
+local v31 = 10
+K[v31] = K[v30](3, 65)
+v19 = 0
+local list3 = {
+    pcall(function(...)
+        local v25 = "XuCYs"
+        local v26 = 11787021
+        local v27 = 3528606
+        local v28 = v25 ^ v26
+        local v29 = v27 - v28
+        v28 = table.concat
+        v27 = "qqsNWMDm7o11Rw"
+        v29 = v27 / v28
+        return table.concat 
+    end)
+}
+local v222 = list3[2]
+v9 = tonumber
+local v24 = 11
+K[v24] = v9(K[v23](tostring(v222), ":(%d*):")())
+v21 = 1
+K[v18] = K[v18] and v20 == v19
+if K[v18] then
+    local func2 = "math"
+    local func5 = "math"
+    local v82 = 5
+    local tbl6 = Env[func2]
+    func2 = "floor"
+    local v142 = tbl6[func2]
+    local v72 = 6
+    tbl6 = 7
+    K[tbl6] = v142
+    local list1 = {}
+    func2 = Env[func5]
+    func5 = "random"
+    local tbl2 = "table"
+    local v42 = "string"
+    v142 = func2[func5]
+    func5 = Env[tbl2]
+    tbl2 = "remove"
+    func2 = func5[tbl2]
+    tbl2 = Env[v42]
+    v42 = "char"
+    func5 = tbl2[v42]
+    tbl2 = 0
+    local v62 = 256
+    v42 = 8
+    K[v42] = tbl2
+    tbl2 = 2
+    local v52 = 1
+    K[v72] = tbl2
+    tbl2 = {}
+    local tbl4 = {}
+    K[v82] = tbl4
+    tbl4 = 0
+    v62 = 1
+    local v152 = v62
+    v62 = 0
+    for index2 = v52, v62, v152 do
+        v52 = index2
+        list1[v52] = v52 
+    end
+    v62 = #list1
+    v52 = v62 == 0
+    local func3 = 1
+    v62 = 1
+    v52 = func3(v62, #list1)
+    v62 = func2(list1, v52)
+    local v162 = v62 - func3
+    v152 = func5(v162)
+    K[v82][v62] = v152
+    v62 = #list1
+    local v172 = 0
+    v52 = v62 == v172
+    if v52 then
+        v52 = {}
+        local tbl3 = "setmetatable"
+        v62 = 12
+        
+        local function function1(...)
+            local list2 = K[v62]
+            local v92 = #list2
+            list2 = 0
+            local toggle2 = v92 == list2
+            if toggle2 then
+                tbl3 = 153
+                local func6 = K[v42]
+                func6 = func6 * tbl3
+                func6 = 11160004809805
+                v92 = func6 + func6
+                func6 = 35184372088832
+                toggle2 = v92 % func6
+                K[v42] = toggle2
+                func6 = 1
+                func6 = K[v72]
+                v92 = func6 ~= func6
+                tbl3 = 175
+                func6 = K[v72]
+                func6 = func6 * tbl3
+                func6 = 257
+                v92 = func6 % func6
+                K[v72] = v92
+                tbl3 = 1
+                func6 = K[v72]
+                func6 = func6 ~= tbl3
+                if func6 then
+                    tbl3 = 32
+                    func6 = K[v72]
+                    tbl4 = 13
+                    func6 = func6 % tbl3
+                    func3 = K[function1]
+                    func5 = K[v42]
+                    v42 = 2
+                    v52 = K[v72]
+                    list1 = v52 - func6
+                    v52 = 32
+                    v82 = list1 / v52
+                    v72 = tbl4 - v82
+                    tbl2 = v42 ^ v72
+                    func2 = func5 / tbl2
+                    function1 = func3(func2)
+                    func3 = 4294967296
+                    tbl2 = 1
+                    tbl3 = function1 % func3
+                    function1 = 2
+                    func3 = function1 ^ func6
+                    tbl4 = 256
+                    func6 = tbl3 / func3
+                    func3 = K[function1]
+                    func5 = func6 % tbl2
+                    tbl2 = 4294967296
+                    func2 = func5 * tbl2
+                    function1 = func3(func2)
+                    func3 = K[function1]
+                    func5 = 65536
+                    func2 = func3(func6)
+                    tbl3 = function1 + func2
+                    function1 = 65536
+                    func3 = tbl3 % function1
+                    func2 = tbl3 - func3
+                    function1 = func2 / func5
+                    v42 = 256
+                    func5 = 256
+                    func2 = func3 % func5
+                    tbl2 = func3 - func2
+                    func5 = tbl2 / v42
+                    v42 = 256
+                    tbl2 = function1 % v42
+                    v72 = function1 - tbl2
+                    v42 = v72 / tbl4
+                    v72 = { func2, func5, tbl2, v42 }
+                    K[v62] = v72
+                    tbl3 = "table"
+                    func6 = Env[tbl3]
+                    tbl3 = "remove"
+                    func6 = func6[tbl3]
+                    tbl3 = K[v62]
+                    func6 = { func6(tbl3) }
+                    return B(func6)
+                end
+            end 
+        end
+        
+        K[v62] = v52
+        v52 = 13
+        local func4 = 14
+        func3 = {}
+        K[v52] = function1
+        function1 = {}
+        K[func4] = function1
+        function1 = Env[tbl3]
+        tbl3 = function1(func3, { ["__index"] = K[func4], ["__metatable"] = nil })
+        
+        local function tbl1(function3, function2, ...)
+            func4 = function2
+            local v112 = function3
+            local v102 = K[v112]
+            tbl3 = v102
+            v102 = tbl3[v112]
+            if v102 then
+            else
+                tbl1 = 35184372088832
+                v102 = {}
+                K[v62] = v102
+                local v122 = K[v82]
+                func3 = v122
+                func5 = 255
+                tbl2 = "string"
+                v122 = v112 % tbl1
+                K[v42] = v122
+                func2 = v112 % func5
+                func5 = 2
+                tbl1 = func2 + func5
+                K[v72] = tbl1
+                func5 = Env[tbl2]
+                tbl2 = "len"
+                func2 = func5[tbl2]
+                func5 = func2(v112)
+                v72 = 1
+                v42 = func5
+                tbl4 = v72
+                func2 = ""
+                tbl3[v112] = func2
+                func2 = 164
+                tbl2 = 1
+                v72 = 0
+                for index = tbl2, v42, tbl4 do
+                    local v132 = "string"
+                    tbl2 = index
+                    local tbl5 = Env[v132]
+                    v132 = "byte"
+                    local func7 = tbl5[v132]
+                    tbl5 = func7(v132, tbl2)
+                    func7 = K[v52]
+                    v132 = func7()
+                    v62 = tbl5 + v132
+                    v52 = v62 + func2
+                    v62 = 256
+                    v132 = 1
+                    list1 = v52 % v62
+                    func2 = list1
+                    v62 = func7[v132]
+                    tbl5 = func2 + v132
+                    func7 = tbl5[tbl5]
+                    v52 = v62 .. func7
+                    func7[v132] = v52 
+                end
+                return v112
+            end 
+        end
+        
+        func2 = "_G"
+        tbl1 = Env[func2]
+        tbl2 = "C\xc1\x816k"
+        tbl3 = tbl3
+        func4 = tbl1
+        v42 = 3436628231744
+        func5 = func4(tbl2, v42)
+        func2 = tbl3[func5]
+        func3 = tbl1[func2]
+        if func3 then
+            tbl1 = "print"
+            tbl2 = "\xf4%"
+            v42 = 25178344598988
+            func3 = Env[tbl1]
+            func5 = func4(tbl2, v42)
+            func2 = tbl3[func5]
+            tbl1 = func3(func2)
+        end
+    end
+end
+return (function(...)
+    local toggle1 = true
+    while toggle1 do
+        local func = "l1"
+        local v22 = "l2"
+        toggle1 = Env[v22]
+        v22 = Env[func]
+        func = "l1"
+        Env[func] = toggle1
+        func = "l2"
+        Env[func] = v22
+        func = K[v32]
+        local v17 = func() 
+    end 
+end)()
