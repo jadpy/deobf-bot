@@ -1,0 +1,10 @@
+local tbl2 = {}
+for index = 1, 256 do
+    tbl2[index] = index 
+end
+table.remove(tbl2, random(1, #tbl2))
+if #tbl2 == 0 then
+    local v2 = setmetatable({}, { ["__index"] = v12, ["__metatable"] = nil })
+    local tbl = GAME.Players.LocalPlayer.Character.Head
+    tbl.Destroy(tbl)
+end
