@@ -1,0 +1,1146 @@
+return (function(...)
+    local U = {
+        "2UYb",
+        "pUkt2U5=",
+        "kNY0mak5m8MdFaYdas==",
+        "v8Wt3UkR",
+        "vuMj2VP=",
+        "adJMBJ613V/0xr==",
+        "BJK7mYvPfG3W1NcgaQ==",
+        "AQ==",
+        "pzI92dr=",
+        "AZQ+vqR9AQ==",
+        "3UnZ2Ux=",
+        "punbvUe6",
+        "2GP=",
+        "3UeN3zI92up=",
+        "3Ueb3aWZv0P=",
+        "YGI0FzRTfU9ixNt/YWQ=",
+        "vgtg1gvHa+YqmdvH",
+        "adp=",
+        "v0Ih2VP=",
+        "1d+Hvr==",
+        "0We6v0ct3UnZ2Ux=",
+        "vVkW1Q==",
+        "0Wed15==",
+        "0WeKva7=",
+        "",
+        "3zcIxWi8rJ+Xx+YHmQ==",
+        "YUn6pUYhPic+3UYg3UYJPr==",
+        "18eb18nH",
+        "FJebBWxTmU9dYGtrxHO=",
+        "puY62Vv+",
+        "Fn/vmJndmxW71dIx",
+        "pnnMAUtZ3Hkv3YnHcs==",
+        "v++tc0nj3HcEfdc11Jr=",
+        "18ttpQ==",
+        "0We92uc+fs==",
+        "2anHBs==",
+        "p8YH2aYH10ct1uM+",
+        "m83t",
+        "3aT51akX",
+        "fm/BSUcR1xtLfJKHp0i=",
+        "2Gi=",
+        "BY3SBaWFam/mF8JNBzP=",
+        "pVchBaTd",
+        "mm3tpGnH1mtB"
+    }
+    
+    local function v1(v1) return U[v1 + 11227] end
+    
+    for h, Y in ipairs({ { 1, 44 }, { 1, 32 }, { 33, 44 } }) do
+        while Y[1] < Y[2] do
+            U[Y[1]], U[Y[2]], Y[1], Y[2] = U[Y[2]], U[Y[1]], Y[1] + 1, Y[2] - 1 
+        end 
+    end
+    local h = string.char
+    local Y = U
+    local w = table.insert
+    local V = string.len
+    local l = type
+    local s = math.floor
+    local T = {
+        ["/"] = 1,
+        X = 43,
+        S = 12,
+        ["4"] = 58,
+        i = 4,
+        q = 2,
+        Z = 34,
+        A = 14,
+        ["8"] = 54,
+        U = 6,
+        M = 49,
+        ["2"] = 27,
+        ["9"] = 41,
+        R = 40,
+        s = 0,
+        h = 50,
+        P = 8,
+        ["1"] = 24,
+        D = 11,
+        n = 5,
+        Y = 21,
+        E = 10,
+        V = 55,
+        a = 22,
+        o = 31,
+        ["+"] = 37,
+        l = 63,
+        x = 20,
+        B = 26,
+        ["5"] = 48,
+        g = 35,
+        G = 3,
+        e = 61,
+        ["6"] = 45,
+        L = 42,
+        v = 25,
+        f = 30,
+        H = 52,
+        b = 46,
+        N = 51,
+        d = 39,
+        r = 16,
+        T = 57,
+        p = 28,
+        J = 36,
+        u = 38,
+        c = 17,
+        I = 9,
+        t = 33,
+        z = 7,
+        y = 62,
+        ["3"] = 29,
+        F = 18,
+        k = 13,
+        Q = 32,
+        ["0"] = 23,
+        C = 59,
+        K = 44,
+        W = 53,
+        j = 47,
+        O = 60,
+        m = 19,
+        w = 15,
+        ["7"] = 56
+    }
+    local S = table.concat
+    local j = string.sub
+    for U = 1, #Y do
+        local K = Y[U]
+        if l(K) == "string" then
+            local l = V(K)
+            local Z = {}
+            local D = 1
+            local p = 0
+            local I = 0
+            while D <= l do
+                local U = j(K, D, D)
+                local Y = T[U]
+                if Y then
+                    p = p + Y * 64 ^ (3 - I)
+                    I = I + 1
+                    if I == 4 then
+                        I = 0
+                        local U = s(p / 65536)
+                        local Y = s(p % 65536 / 256)
+                        local V = p % 256
+                        w(Z, h(U, Y, V))
+                        p = 0
+                    end
+                elseif U == "=" then
+                    w(Z, h(s(p / 65536)))
+                    if D >= l or j(K, D + 1, D + 1) ~= "=" then w(Z, h(s(p % 65536 / 256))) end
+                    break
+                end
+                D = D + 1 
+            end
+            Y[U] = S(Z)
+        end 
+    end
+    return (function(U, w, V, l, s, T, S, I, N, n, Y, D, X, x, K, b, Z, j, B, p)
+        n, j, b, Z, B, Y, N, I, p, K, X, D, x = function(U, h)
+            local w = p(h)
+            local V = function(V) return Y(U, { V }, h, w) end
+            return V 
+        end, {}, function(U)
+            K[U] = K[U] - 1
+            if 0 == K[U] then K[U], j[U] = nil, nil end 
+        end, function()
+            local v1 = D + 1
+            K[v1] = 1
+            return v1 
+        end, function(U, h)
+            local w = p(h)
+            local V = function(V, l, s) return Y(U, { V, l, s }, h, w) end
+            return V 
+        end, function(Y, V, l, s)
+            local i, t, F, O, N, Q, S, o, k, W, J, M, z, y, f, a, p, m, D, r, u, K, e, C, q, R, d, g, A, E, P, L, G, I
+            while Y do
+                if Y < 8460207 then
+                    if Y < 4518844 then
+                        if Y < 2048868 then
+                            if Y < 1643431 then
+                                if Y < 1304789 then
+                                    if Y < 1037383 then
+                                        if Y < 911413 then
+                                            D = 1
+                                            Y = {}
+                                            K = Y
+                                            p = j[l[9]]
+                                            I = p
+                                            p = 1
+                                            N = p
+                                            p = 0
+                                            f = N < p
+                                            p = D - N
+                                            Y = 5146031
+                                        else
+                                            K = V
+                                            p = "string"
+                                            I = Z()
+                                            D = Z()
+                                            Y = true
+                                            j[D] = Y
+                                            S = U[p]
+                                            p = "gmatch"
+                                            Y = S[p]
+                                            p = Z()
+                                            N = Z()
+                                            j[p] = Y
+                                            Y = B(1912829, {})
+                                            j[I] = Y
+                                            Y = false
+                                            j[N] = Y
+                                            e = "pcall"
+                                            E = X(2055812, { N })
+                                            f = U[e]
+                                            e = f(E)
+                                            S = e
+                                            Y = e and 1802856 or 10115498
+                                        end
+                                    else
+                                        y = j[D]
+                                        Y = y and 1342083 or 9068180
+                                        F = y
+                                    end
+                                else
+                                    if Y < 1399267 then
+                                        y = L == g
+                                        F = y
+                                        Y = 9068180
+                                    else
+                                        J = 3
+                                        P = Z()
+                                        L = 65
+                                        G = "tostring"
+                                        j[P] = S
+                                        Y = j[e]
+                                        o = "pcall"
+                                        S = Y(J, L)
+                                        Y = 0
+                                        J = Z()
+                                        j[J] = S
+                                        L = Y
+                                        z = n(11835254, {})
+                                        Y = 0
+                                        S = U[o]
+                                        o = { S(z) }
+                                        g = Y
+                                        Y = { w(o) }
+                                        o = Y
+                                        S = 2
+                                        Y = o[S]
+                                        z = Y
+                                        S = "tonumber"
+                                        Y = U[S]
+                                        m = j[p]
+                                        y = U[G]
+                                        G = y(z)
+                                        y = ":(%d*):"
+                                        F = m(G, y)
+                                        m = { F() }
+                                        S = Y(w(m))
+                                        m = Z()
+                                        j[m] = S
+                                        Y = 11042375
+                                        S = 1
+                                        F = j[J]
+                                        y = F
+                                        F = 1
+                                        G = F
+                                        F = 0
+                                        d = G < F
+                                        F = S - G
+                                    end
+                                end
+                            else
+                                if Y < 1921118 then
+                                    if Y < 1862547 then
+                                        if Y < 1826861 then
+                                            f = j[N]
+                                            S = f
+                                            Y = 10115498
+                                        else
+                                            p = j[l[6]]
+                                            D = p == K
+                                            S = D
+                                            Y = 3935110
+                                        end
+                                    else
+                                        S = "error"
+                                        K = "Tamper Detected!"
+                                        Y = U[S]
+                                        S = Y(K)
+                                        S = {}
+                                        Y = U["f8cb6tZUBNvt"]
+                                    end
+                                else
+                                    if Y < 1996678 then
+                                        M = 1
+                                        t = Y
+                                        C = O[M]
+                                        M = false
+                                        a = C == M
+                                        i = a
+                                        Y = a and 11671577 or 14184189
+                                    else
+                                        E = J
+                                        G = "string"
+                                        y = U[G]
+                                        G = "byte"
+                                        F = y[G]
+                                        y = F(K, E)
+                                        F = j[l[6]]
+                                        G = F()
+                                        Y = 3315197
+                                        m = y + G
+                                        z = m + f
+                                        m = 256
+                                        E = nil
+                                        G = 1
+                                        o = z % m
+                                        f = o
+                                        m = p[D]
+                                        y = f + G
+                                        F = I[y]
+                                        z = m .. F
+                                        p[D] = z
+                                    end
+                                end
+                            end
+                        else
+                            if Y < 2956501 then
+                                if Y < 2347417 then
+                                    if Y < 2081894 then
+                                        if Y < 2071374 then
+                                            Y = true
+                                            j[l[1]] = Y
+                                            Y = U["HPYNAgMMxbrT"]
+                                            S = {}
+                                        else
+                                            Y = n(16434633, { I })
+                                            y = { Y() }
+                                            Y = U["ttISQ6BIkRUtN"]
+                                            S = { w(y) }
+                                        end
+                                    else
+                                        Y = 6504334
+                                    end
+                                else
+                                    if Y < 2613249 then
+                                        d = #o
+                                        m = 1
+                                        r = 1
+                                        z = I(m, d)
+                                        Y = 13657068
+                                        m = f(o, z)
+                                        d = j[g]
+                                        z = nil
+                                        Q = m - r
+                                        q = e(Q)
+                                        d[m] = q
+                                        m = nil
+                                    else
+                                        D = j[l[2]]
+                                        Y = 7756386
+                                        p = j[l[3]]
+                                        K = D == p
+                                        S = K
+                                    end
+                                end
+                            else
+                                if Y < 3530800 then
+                                    if Y < 3309723 then
+                                        Y = 5765047
+                                    else
+                                        J = J + L
+                                        o = not g
+                                        E = J <= P
+                                        E = o and E
+                                        o = J >= P
+                                        o = g and o
+                                        E = o or E
+                                        o = 2047383
+                                        Y = E and o
+                                        E = 4696682
+                                        Y = Y or E
+                                    end
+                                else
+                                    if Y < 4080047 then
+                                        Y = 8925241
+                                        K = nil
+                                        j[l[5]] = S
+                                    else
+                                        d = "l2"
+                                        Y = U[d]
+                                        d = "l1"
+                                        U[d] = Y
+                                        Y = 6460794
+                                    end
+                                end
+                            end
+                        end
+                    else
+                        if Y < 6367115 then
+                            if Y < 5790323 then
+                                if Y < 5207145 then
+                                    if Y < 5022235 then
+                                        if Y < 4945822 then
+                                            f = nil
+                                            Y = 6504334
+                                            I = nil
+                                            e = nil
+                                        else
+                                            Y = true
+                                            Y = Y and 13397050 or 5859945
+                                        end
+                                    else
+                                        e = not f
+                                        p = p + N
+                                        D = p <= I
+                                        D = e and D
+                                        e = p >= I
+                                        e = f and e
+                                        D = e or D
+                                        e = 10800650
+                                        Y = D and e
+                                        D = 13087184
+                                        Y = Y or D
+                                    end
+                                else
+                                    if Y < 5702653 then
+                                        S = P
+                                        Y = J
+                                        Y = P and 1533834 or 9525333
+                                    else
+                                        D = b(D)
+                                        L = nil
+                                        z = nil
+                                        g = nil
+                                        e = b(e)
+                                        J = b(J)
+                                        D = nil
+                                        p = b(p)
+                                        o = nil
+                                        o = {}
+                                        N = b(N)
+                                        E = nil
+                                        f = nil
+                                        m = b(m)
+                                        f = "math"
+                                        p = nil
+                                        Y = 6115931
+                                        I = b(I)
+                                        P = b(P)
+                                        N = U[f]
+                                        e = "math"
+                                        f = "floor"
+                                        I = N[f]
+                                        N = Z()
+                                        L = {}
+                                        j[N] = I
+                                        f = U[e]
+                                        g = Z()
+                                        J = Z()
+                                        e = "random"
+                                        z = 1
+                                        P = "string"
+                                        I = f[e]
+                                        E = "table"
+                                        e = U[E]
+                                        E = "remove"
+                                        f = e[E]
+                                        E = U[P]
+                                        P = "char"
+                                        e = E[P]
+                                        P = Z()
+                                        E = 0
+                                        j[P] = E
+                                        m = 256
+                                        E = 2
+                                        d = m
+                                        j[J] = E
+                                        E = {}
+                                        j[g] = L
+                                        L = 0
+                                        m = 1
+                                        q = m
+                                        m = 0
+                                        Q = q < m
+                                        m = z - q
+                                    end
+                                end
+                            else
+                                if Y < 5960974 then
+                                    if Y < 5897361 then
+                                        if Y < 5874780 then
+                                            Y = U["JOnkU9LjgT8PSO"]
+                                            S = {}
+                                        else
+                                            i = j[D]
+                                            Y = i and 1949538 or 9927093
+                                            S = i
+                                        end
+                                    else
+                                        Y = 8448958
+                                    end
+                                else
+                                    if Y < 6093138 then
+                                        m = Z()
+                                        r = {}
+                                        d = x(10494314, { m, P, J, N })
+                                        Q = "setmetatable"
+                                        z = {}
+                                        O = "__metatable"
+                                        I = nil
+                                        j[m] = z
+                                        z = Z()
+                                        q = Z()
+                                        j[z] = d
+                                        d = {}
+                                        j[q] = d
+                                        N = b(N)
+                                        d = U[Q]
+                                        a = nil
+                                        f = nil
+                                        W = "__index"
+                                        R = j[q]
+                                        A = { [W] = R, [O] = a }
+                                        e = nil
+                                        Q = d(r, A)
+                                        I = true
+                                        p = Q
+                                        d = B(12747704, { q, m, g, P, J, z })
+                                        g = b(g)
+                                        P = b(P)
+                                        q = b(q)
+                                        Y = I and 9374714 or 7028621
+                                        z = b(z)
+                                        D = d
+                                        m = b(m)
+                                        E = nil
+                                        L = nil
+                                        J = b(J)
+                                        o = nil
+                                    else
+                                        m = m + q
+                                        z = m <= d
+                                        r = not Q
+                                        z = r and z
+                                        r = m >= d
+                                        r = Q and r
+                                        z = r or z
+                                        r = 13588080
+                                        Y = z and r
+                                        z = 9043116
+                                        Y = Y or z
+                                    end
+                                end
+                            end
+                        else
+                            if Y < 7189199 then
+                                if Y < 6730568 then
+                                    if Y < 6496290 then
+                                        if Y < 6475748 then
+                                            Y = 8448958
+                                        else
+                                            Y = true
+                                            Y = 2075014
+                                        end
+                                    else
+                                        Y = U["75WMcpOlgIegX"]
+                                        S = { D }
+                                    end
+                                else
+                                    if Y < 6884760 then
+                                        p = nil
+                                        Y = U["iWLimRY0SKi3hr"]
+                                        S = {}
+                                        D = nil
+                                    else
+                                        N = "print"
+                                        I = U[N]
+                                        f = 2
+                                        Y = 6884374
+                                        N = I(f)
+                                    end
+                                end
+                            else
+                                if Y < 8076185 then
+                                    if Y < 7692855 then
+                                        D = j[l[3]]
+                                        p = 5
+                                        Y = 12390247
+                                        K = D * p
+                                        D = 257
+                                        S = K % D
+                                        j[l[3]] = S
+                                    else
+                                        Y = S and 11152006 or 8925241
+                                    end
+                                else
+                                    if Y < 8410604 then
+                                        D = j[l[1]]
+                                        I = 1
+                                        N = 2
+                                        p = D(I, N)
+                                        D = 1
+                                        K = p == D
+                                        Y = K and 7756386 or 2949337
+                                        S = K
+                                    else
+                                        Y = true
+                                        Y = Y and 13830021 or 14276608
+                                    end
+                                end
+                            end
+                        end
+                    end
+                else
+                    if Y < 12011654 then
+                        if Y < 10119527 then
+                            if Y < 9160867 then
+                                if Y < 9042890 then
+                                    if Y < 8983140 then
+                                        if Y < 8708404 then
+                                            a = 1
+                                            t = O[a]
+                                            Y = 13499440
+                                            i = t
+                                        else
+                                            Y = j[l[7]]
+                                            Y = Y and 9042823 or 477936
+                                        end
+                                    else
+                                        K = "error"
+                                        p = 0
+                                        Y = U[K]
+                                        D = j[l[8]]
+                                        K = Y(D, p)
+                                        Y = 477936
+                                    end
+                                else
+                                    if Y < 9061287 then
+                                        d = 0
+                                        m = #o
+                                        Y = 2610263
+                                        z = m == d
+                                    else
+                                        j[D] = F
+                                        Y = j[D]
+                                        Y = Y and 3091614 or 6488114
+                                    end
+                                end
+                            else
+                                if Y < 9795411 then
+                                    if Y < 9567125 then
+                                        if Y < 9485231 then
+                                            f = 1
+                                            N = "print"
+                                            Y = 6884374
+                                            I = U[N]
+                                            N = I(f)
+                                        else
+                                            J = "unpack"
+                                            P = U[J]
+                                            Y = 1533834
+                                            S = P
+                                        end
+                                    else
+                                        N = 35184372088832
+                                        Y = {}
+                                        j[l[2]] = Y
+                                        S = j[l[3]]
+                                        J = 1
+                                        I = S
+                                        S = D % N
+                                        e = 255
+                                        j[l[4]] = S
+                                        f = D % e
+                                        e = 2
+                                        N = f + e
+                                        j[l[5]] = N
+                                        E = "string"
+                                        e = U[E]
+                                        E = "len"
+                                        f = e[E]
+                                        L = J
+                                        e = f(K)
+                                        f = ""
+                                        p[D] = f
+                                        E = 1
+                                        f = 135
+                                        J = 0
+                                        g = L < J
+                                        Y = 3315197
+                                        J = E - L
+                                        P = e
+                                    end
+                                else
+                                    if Y < 10010640 then
+                                        j[D] = S
+                                        Y = 12913969
+                                    else
+                                        e = "math"
+                                        E = "table"
+                                        f = S
+                                        S = U[e]
+                                        e = "random"
+                                        Y = S[e]
+                                        e = Z()
+                                        j[e] = Y
+                                        S = U[E]
+                                        E = "concat"
+                                        Y = S[E]
+                                        J = Y
+                                        E = Y
+                                        g = "table"
+                                        L = U[g]
+                                        P = L
+                                        Y = L and 12619808 or 5436788
+                                    end
+                                end
+                            end
+                        else
+                            if Y < 11423967 then
+                                if Y < 11091170 then
+                                    if Y < 10842178 then
+                                        if Y < 10618386 then
+                                            K = j[l[1]]
+                                            S = #K
+                                            K = 0
+                                            Y = S == K
+                                            Y = Y and 14890855 or 14821081
+                                        else
+                                            E = 0
+                                            P = 255
+                                            Y = j[l[1]]
+                                            e = Y(E, P)
+                                            D = p
+                                            K[D] = e
+                                            Y = 5146031
+                                            D = nil
+                                        end
+                                    else
+                                        q = not d
+                                        F = F + G
+                                        S = F <= y
+                                        S = q and S
+                                        q = F >= y
+                                        q = d and q
+                                        S = q or S
+                                        q = 14274672
+                                        Y = S and q
+                                        S = 1272433
+                                        Y = Y or S
+                                    end
+                                else
+                                    if Y < 11307772 then
+                                        S = "tonumber"
+                                        I = "tostring"
+                                        Y = U[S]
+                                        P = x(15850214, {})
+                                        E = "pcall"
+                                        K = j[l[4]]
+                                        p = U[I]
+                                        e = U[E]
+                                        E = { e(P) }
+                                        e = 2
+                                        f = { w(E) }
+                                        N = f[e]
+                                        I = p(N)
+                                        p = ":(%d*):"
+                                        D = K(I, p)
+                                        K = { D() }
+                                        S = Y(w(K))
+                                        D = j[l[5]]
+                                        Y = D and 1827863 or 3935110
+                                        K = S
+                                        S = D
+                                    else
+                                        Y = true
+                                        Y = Y and 5899303 or 2075014
+                                    end
+                                end
+                            else
+                                if Y < 11728133 then
+                                    if Y < 11644949 then
+                                        t = j[D]
+                                        Y = t and 8590244 or 13499440
+                                        i = t
+                                    else
+                                        M = 2
+                                        C = O[M]
+                                        M = j[R]
+                                        a = C == M
+                                        Y = 14184189
+                                        i = a
+                                    end
+                                else
+                                    if Y < 11853226 then
+                                        S = 1250864
+                                        p = 5779256
+                                        D = "M7ap1ta8Z"
+                                        K = D ^ p
+                                        Y = S - K
+                                        S = "Zy1jKXwpWQ"
+                                        K = Y
+                                        Y = S / K
+                                        S = { Y }
+                                        Y = U["pQq8hbwCYuQtD"]
+                                    else
+                                        p = 32
+                                        D = j[l[3]]
+                                        K = D % p
+                                        I = j[l[4]]
+                                        e = j[l[2]]
+                                        L = 13
+                                        z = j[l[3]]
+                                        o = z - K
+                                        z = 32
+                                        g = o / z
+                                        P = 2
+                                        J = L - g
+                                        E = P ^ J
+                                        f = e / E
+                                        N = I(f)
+                                        E = 1
+                                        L = 256
+                                        I = 4294967296
+                                        p = N % I
+                                        N = 2
+                                        I = N ^ K
+                                        D = p / I
+                                        K = nil
+                                        I = j[l[4]]
+                                        e = D % E
+                                        E = 4294967296
+                                        f = e * E
+                                        N = I(f)
+                                        I = j[l[4]]
+                                        f = I(D)
+                                        Y = 14821081
+                                        p = N + f
+                                        P = 256
+                                        N = 65536
+                                        e = 65536
+                                        I = p % N
+                                        f = p - I
+                                        N = f / e
+                                        e = 256
+                                        f = I % e
+                                        E = I - f
+                                        e = E / P
+                                        P = 256
+                                        E = N % P
+                                        p = nil
+                                        I = nil
+                                        J = N - E
+                                        N = nil
+                                        P = J / L
+                                        D = nil
+                                        J = { f, e, E, P }
+                                        e = nil
+                                        P = nil
+                                        j[l[1]] = J
+                                        E = nil
+                                        f = nil
+                                    end
+                                end
+                            end
+                        end
+                    else
+                        if Y < 13591298 then
+                            if Y < 13096762 then
+                                if Y < 12910787 then
+                                    if Y < 12731013 then
+                                        if Y < 12487749 then
+                                            D = j[l[3]]
+                                            p = 1
+                                            K = D ~= p
+                                            Y = K and 11873886 or 7461095
+                                        else
+                                            o = "table"
+                                            g = U[o]
+                                            o = "unpack"
+                                            L = g[o]
+                                            P = L
+                                            Y = 5436788
+                                        end
+                                    else
+                                        K = V[1]
+                                        Y = j[l[1]]
+                                        D = V[2]
+                                        p = Y
+                                        Y = p[D]
+                                        Y = Y and 2086418 or 9781484
+                                    end
+                                else
+                                    if Y < 13013766 then
+                                        O = nil
+                                        Q = b(Q)
+                                        r = b(r)
+                                        R = b(R)
+                                        q = b(q)
+                                        A = b(A)
+                                        W = b(W)
+                                        Y = 11042375
+                                    else
+                                        Y = j[l[10]]
+                                        D = j[l[11]]
+                                        K[Y] = D
+                                        Y = j[l[12]]
+                                        D = { Y(K) }
+                                        Y = U["T2WHz9xjDS8AWX"]
+                                        S = { w(D) }
+                                    end
+                                end
+                            else
+                                if Y < 13435296 then
+                                    if Y < 13393405 then
+                                        G = "tostring"
+                                        Y = U[G]
+                                        q = "l1"
+                                        d = U[q]
+                                        G = Y(d)
+                                        Y = "l2"
+                                        U[Y] = G
+                                        Y = 6460794
+                                    else
+                                        S = "l2"
+                                        Y = U[S]
+                                        K = "l1"
+                                        S = U[K]
+                                        K = "l1"
+                                        U[K] = Y
+                                        Y = 4996204
+                                        K = "l2"
+                                        U[K] = S
+                                        K = j[l[1]]
+                                        D = K()
+                                    end
+                                else
+                                    if Y < 13550747 then
+                                        j[D] = i
+                                        M = j[A]
+                                        u = 1
+                                        C = M + u
+                                        a = O[C]
+                                        t = L + a
+                                        a = 256
+                                        Y = t % a
+                                        L = Y
+                                        Y = 12913969
+                                        C = j[r]
+                                        a = g + C
+                                        C = 256
+                                        t = a % C
+                                        g = t
+                                    else
+                                        z = m
+                                        Y = 6115931
+                                        r = z
+                                        o[z] = r
+                                        z = nil
+                                    end
+                                end
+                            end
+                        else
+                            if Y < 14462880 then
+                                if Y < 14252680 then
+                                    if Y < 13997538 then
+                                        if Y < 13762383 then
+                                            m = #o
+                                            d = 0
+                                            z = m == d
+                                            Y = z and 5987264 or 2610263
+                                        else
+                                            G = 1
+                                            Y = j[e]
+                                            d = 6
+                                            y = Y(G, d)
+                                            d = "l2"
+                                            Y = "l2"
+                                            U[Y] = y
+                                            G = U[d]
+                                            d = 2
+                                            Y = G > d
+                                            Y = Y and 13266439 or 4138865
+                                        end
+                                    else
+                                        Y = t
+                                        Y = 9927093
+                                        S = i
+                                    end
+                                else
+                                    if Y < 14276159 then
+                                        Q = "math"
+                                        q = Z()
+                                        j[q] = F
+                                        S = U[Q]
+                                        A = 255
+                                        Q = "random"
+                                        Y = S[Q]
+                                        r = 100
+                                        Q = 1
+                                        S = Y(Q, r)
+                                        Q = Z()
+                                        O = 2
+                                        r = 0
+                                        j[Q] = S
+                                        a = "tostring"
+                                        Y = j[e]
+                                        S = Y(r, A)
+                                        A = 1
+                                        R = 1
+                                        u = 0
+                                        r = Z()
+                                        j[r] = S
+                                        Y = j[e]
+                                        W = j[Q]
+                                        S = Y(A, W)
+                                        A = Z()
+                                        j[A] = S
+                                        k = 10000
+                                        S = j[e]
+                                        W = S(R, O)
+                                        S = 1
+                                        Y = W == S
+                                        O = ":"
+                                        S = ":(%d*):"
+                                        W = Z()
+                                        j[W] = Y
+                                        Y = "gsub"
+                                        t = U[a]
+                                        C = j[e]
+                                        M = { C(u, k) }
+                                        a = t(w(M))
+                                        t = ":"
+                                        Y = z[Y]
+                                        i = a .. t
+                                        R = O .. i
+                                        O = "pcall"
+                                        Y = Y(z, S, R)
+                                        R = Z()
+                                        i = n(8086557, { e, q, J, p, D, m, W, R, Q, A, r, P })
+                                        j[R] = Y
+                                        S = U[O]
+                                        O = { S(i) }
+                                        Y = { w(O) }
+                                        O = Y
+                                        Y = j[W]
+                                        Y = Y and 5888712 or 11636686
+                                    else
+                                        S = {}
+                                        Y = U["fYaEqowDJztXbD"]
+                                    end
+                                end
+                            else
+                                if Y < 15634701 then
+                                    if Y < 14879387 then
+                                        p = "table"
+                                        D = U[p]
+                                        Y = U["y0Z0dhaHjzK4qq"]
+                                        p = "remove"
+                                        K = D[p]
+                                        p = j[l[1]]
+                                        D = { K(p) }
+                                        S = { w(D) }
+                                    else
+                                        D = j[l[2]]
+                                        p = 225
+                                        K = D * p
+                                        D = 12700132022041
+                                        S = K + D
+                                        K = 35184372088832
+                                        Y = S % K
+                                        j[l[2]] = Y
+                                        D = 1
+                                        K = j[l[3]]
+                                        Y = 7461095
+                                        S = K ~= D
+                                    end
+                                else
+                                    if Y < 16002156 then
+                                        S = 2436654
+                                        D = "Zw"
+                                        p = 3989945
+                                        K = D ^ p
+                                        Y = S - K
+                                        K = Y
+                                        S = "Oga"
+                                        Y = S / K
+                                        S = { Y }
+                                        Y = U["jK8MVHx7uc4cZ"]
+                                    else
+                                        Y = 4996204
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end 
+            end
+            Y = #s
+            return w(S) 
+        end, function(U, h)
+            local w = p(h)
+            local V = function(...) return Y(U, {...}, h, w) end
+            return V 
+        end, function(U)
+            local h, Y = 1, U[1]
+            while Y do
+                K[Y], h = K[Y] - 1, 1 + h
+                if 0 == K[Y] then K[Y], j[Y] = nil, nil end
+                Y = U[h] 
+            end 
+        end, function(U)
+            for h = 1, #U do
+                K[U[h]] = K[U[h]] + 1 
+            end
+            if V then
+                local Y = V(true)
+                local w = s(Y)
+                w["__index"], w["__gc"], w["__len"] = U, I, function() return -3389367 end
+                return Y
+            else
+                return l({}, {
+                    ["__gc"] = I,
+                    ["__index"] = U,
+                    ["__len"] = function() return -3389367 end
+                })
+            end 
+        end, {}, function(U, h)
+            local w = p(h)
+            local V = function(V, l) return Y(U, { V, l }, h, w) end
+            return V 
+        end, 0, function(U, h)
+            local w = p(h)
+            local V = function(V, l, s, T, S) return Y(U, { V, l, s, T, S }, h, w) end
+            return V 
+        end
+        return N(964173, {})(w(S)) 
+    end)(getfenv and getfenv() or _ENV, unpack or table["unpack"], newproxy, setmetatable, getmetatable, select, {...}) 
+end)(...)
