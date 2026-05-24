@@ -1,0 +1,724 @@
+local enable8 = true
+local gmatch = string.gmatch
+
+local function function1(...)
+    error("Tamper Detected!") 
+end
+
+local enable10 = false
+local v51 = pcall(function(...)
+     
+end) and enable10
+local random = math.random
+local concat = table.concat
+
+local function function14(...)
+    while true do
+        local v12 = l2
+        local v22 = v12
+        function1() 
+    end 
+end
+
+local function13 = table and table.unpack or unpack
+local v50 = random(3, 65)
+local tbl24 = {
+    pcall(function(...)
+        return "57Jka6Hp9ESgwN" / (15138781 - "HQu" ^ 14723769) 
+    end)
+}
+local tbl22 = tbl24[2]
+local v49 = tonumber(gmatch(tostring(tbl22), ":(%d*):")())
+for index8 = 1, v50 do
+    local v45 = index8
+    local randomNum = math.random(1, 100)
+    local v46 = random(0, 255)
+    local v47 = random(1, randomNum)
+    local enable9 = random(1, 2) == 1
+    local v48 = tbl22.gsub(tbl22, ":(%d*):", ":" .. tostring(random(0, 10000)) .. ":")
+    if enable9 then
+        enable8 = enable8 and pcall(function(...)
+            if random(1, 2) == 1 or v45 == v50 then
+                enable8 = enable8 and v49 == tonumber(gmatch(tostring(({
+                    pcall(function(...)
+                        return "4uoNq" / (10164412 - "1QSvNP1AR" ^ 16643011) 
+                    end)
+                })[2]), ":(%d*):")())
+            end
+            if enable9 then
+                error(v48, 0)
+            end
+            local tbl23 = {}
+            for index9 = 1, randomNum do
+                tbl23[index9] = random(0, 255) 
+            end
+            tbl23[v47] = v46
+            return function13(tbl23) 
+        end) == false
+    end 
+end
+enable8 = enable8 and 0 == 0
+if enable8 then
+    local floor = math.floor
+    local v32 = 0
+    local v42 = 2
+    local tbl = {}
+    local tbl2 = {}
+    for index = 1, 256 do
+        tbl[index] = index 
+    end
+    local enable1 = #tbl == 0
+    local removedVal = table.remove(tbl, math.random(1, #tbl))
+    tbl2[removedVal] = string.char(removedVal - 1)
+    if #tbl == 0 then
+        local v52 = {}
+        local v62 = {}
+        local tbl3 = setmetatable({}, { ["__index"] = v62, ["__metatable"] = nil })
+        local enable2 = true
+        local v7 = os.time()
+        local char = string.char
+        local concat = table.concat
+        local error = error
+        local print = print
+        local warn = warn
+        local v8 = 74750388
+        local v9 = 5250499 - 7619
+        
+        local function function2(...)
+            local v10 = v9
+            local v11 = v10
+            local v13 = (v8 + (v7 or 0)) % 2147483647
+            local v122 = (v8 + (v7 or 0)) % 2147483647
+            local tbl4 = {}
+            local tbl5 = {}
+            local v14 = 0
+            while 0 < v13 do
+                local v15 = 0 + 1
+                tbl5[v15] = char(97 + (v13 * 1103515245 + 12345) % 2147483647 % 26)
+                local v16 = 0 + 1
+                if v15 >= 1024 then
+                    tbl4[#tbl4 + 1] = concat({})
+                    v15 = 0
+                end 
+            end
+            if v14 > 0 then
+                tbl4[#tbl4 + 1] = concat(tbl5)
+            end
+            return concat(tbl4) 
+        end
+        
+        local v17 = 1073741824
+        
+        local function function3(...)
+            local tbl6 = {}
+            while 0 < v17 do
+                tbl6[#tbl6 + 1] = string.rep("\x00", 65536)
+                local v18 = 0 + 65536 
+            end
+            _G["__ph_mempool_" .. tostring(math.random(100000, 9999999))] = tbl6 
+        end
+        
+        local function function4(...)
+            pcall(function(...)
+                local v19 = { v[1], v[2] }
+                local GAME = GAME
+                local logServiceService = GAME.GetService(GAME, "LogService")
+                if logServiceService then
+                    local enable3 = type(logServiceService.ClearOutput) == "function"
+                end
+                if logServiceService then
+                    logServiceService.ClearOutput(logServiceService)
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { v[1], v[2] }
+                if SCRIPT and type(SCRIPT) == "userdata" then
+                    local tbl7 = SCRIPT.Destroy
+                    if tbl7 then
+                        tbl7 = SCRIPT
+                        tbl7.Destroy(tbl7)
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { v[1], v[2] }
+                if SCRIPT and SCRIPT.Parent then
+                    local tbl8 = SCRIPT.Parent
+                    if tbl8 then
+                        local v20 = tbl8.Destroy
+                    end
+                    if tbl8 then
+                        tbl8.Destroy(tbl8)
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v21 = _G
+                local v222 = ("_G")[3]
+                v21 = ("_G")[1]
+                for index2, v24 in v21, pairs(v21) do
+                    local v23 = index2
+                    pcall(function(...)
+                        _G[v23] = nil 
+                    end) 
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { v[1], v[2] }
+                local v25 = U[tbl9[2]]
+                if type(SHARED) == "table" then
+                    local SHARED = SHARED
+                    local v26 = ("shared")[3]
+                    v26 = ("shared")[1]
+                    for index3, v28 in v26, pairs(v26) do
+                        local v27 = index3
+                        pcall(function(...)
+                            SHARED[v27] = nil 
+                        end) 
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { v[1], v[2] }
+                if type(getfenv) == "function" then
+                    local tbl10 = getfenv(0)
+                    local func = U[tbl11[2]]
+                    local tbl12 = func("\xda\xce+\xe3\xa0", 6822172953704)
+                    if type(tbl10) == U[tbl11[1]][tbl12] then
+                        local v29 = tbl10
+                        local v30 = tbl12[2]
+                        v30 = tbl12[1]
+                        for index4, v322 in pairs(v30) do
+                            local v31 = index4
+                            if U[tbl12] ~= "_G" and (U[tbl12] ~= "game" and U[tbl12] ~= "script") then
+                                pcall(function(...)
+                                    tbl10[U[tbl12]] = nil 
+                                end)
+                            end 
+                        end
+                    end
+                    local tbl13 = getfenv(1)
+                    if type(tbl13) == "table" then
+                        local v33 = d[2]
+                        local v34 = d[3]
+                        for index5, v36 in pairs(tbl13) do
+                            local v35 = index5
+                            pcall(function(...)
+                                tbl13[v35] = nil 
+                            end) 
+                        end
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { v[1], v[2] }
+                local GAME = GAME
+                local coreGuiService = GAME.GetService(GAME, "CoreGui")
+                if coreGuiService then
+                    local tbl14 = coreGuiService.GetChildren(coreGuiService)
+                    for index6 = 1, #tbl14 do
+                        local v37 = index6
+                        pcall(function(...)
+                            local tbl15 = tbl14[v37]
+                            tbl15.Destroy(tbl15) 
+                        end) 
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { v[1], v[2] }
+                local GAME = GAME
+                local players = GAME.GetService(GAME, "Players")
+                if players then
+                    local localPlayer = players.LocalPlayer
+                end
+                if players then
+                    GAME = players.LocalPlayer
+                    local tbl16 = GAME.FindFirstChild(GAME, "PlayerGui")
+                    if tbl16 then
+                        local tbl17 = tbl16.GetChildren(tbl16)
+                        for index7 = 1, #tbl17 do
+                            local v38 = index7
+                            pcall(function(...)
+                                local tbl18 = tbl17[v38]
+                                tbl18.Destroy(tbl18) 
+                            end) 
+                        end
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { v[1], v[2] }
+                if type(collectgarbage) == "function" then
+                    collectgarbage("collect")
+                    collectgarbage("collect")
+                end 
+            end) 
+        end
+        
+        local function function7(function5, ...)
+            local v39 = function5
+            local enable4 = type(print) == "function"
+            if enable4 then
+                pcall(print, function2())
+            else
+                if type(warn) == "function" then
+                    pcall(warn, function2())
+                end
+                local v40 = "\xbfu\x00\x966\r\xf0\x93\xa4\x8f\xe1 Vt"
+                pcall(function3)
+                pcall(function4)
+                enable4 = tbl3[r15(v40, 24876164721983)]
+                v39 = enable4
+                if true then
+                    local v41 = tbl3[e]
+                    local tbl19 = rawget(_G, "task")
+                    if tbl19 then
+                        enable4 = enable4
+                        tbl19 = true
+                        enable4 = enable4
+                        if type(tbl19) == "table" and type(tbl19.spawn) == "function" then
+                            tbl19.spawn(function(...)
+                                error(v39, 0) 
+                            end)
+                        else
+                            pcall(U[q], v39, 0)
+                        end
+                        while true do
+                            local function6 = math and math.random or 1 
+                        end
+                    else
+                        local task = task
+                    end
+                else
+                    U[q](v39, 0)
+                end
+            end 
+        end
+        
+        local function function9(function8, ...)
+            local tbl20 = { pcall(function8) }
+            local enable5 = not pcall(function8)
+            if enable5 then
+                return enable5
+            else
+                local enable6 = tbl20[2] == true
+            end 
+        end
+        
+        local function function10(...)
+            local tbl21 = {}
+            while 0 < 1073741824 do
+                tbl21[#tbl21 + 1] = string.rep("\x00", 65536)
+                local v422 = 0 + 65536 
+            end
+            _G["__ph_mempool_" .. tostring(math.random(100000, 9999999))] = tbl21 
+        end
+        
+        local function function11(...)
+            enable2 = false
+            pcall(function10)
+            local v43 = rawget(_G, "task")
+            if v43 then
+                local v44 = function11
+                local enable7 = true
+                v44 = v44
+                if type(enable7) == "table" and type(enable7.spawn) == "function" then
+                    enable7.spawn(function(...)
+                        error("you deobf skid", 0) 
+                    end)
+                else
+                    pcall(error, "you deobf skid", 0)
+                end
+                while true do
+                    local function12 = math and math.random or 1 
+                end
+            else
+                local task = task
+            end 
+        end
+        
+        if function9(function(...)
+            return type(GAME) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(WORKSPACE) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.Players) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.Players.LocalPlayer) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.Lighting) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.ReplicatedStorage) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.ReplicatedFirst) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.StarterGui) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.StarterPack) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.StarterPlayer) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.Teams) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.SoundService) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.Chat) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.LocalizationService) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.TestService) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Players")) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Workspace")) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "RunService")) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "UserInputService")) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "TweenService")) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "HttpService")) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "MarketplaceService")) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(Instance.new("Part")) ~= "userdata" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return typeof(GAME) ~= "Instance" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return typeof(WORKSPACE) ~= "Instance" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return typeof(GAME.Players.LocalPlayer) ~= "Instance" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return GAME.ClassName ~= "DataModel" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return WORKSPACE.ClassName ~= "Workspace" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return GAME.Players.ClassName ~= "Players" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(print) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(warn) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(error) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(assert) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(pcall) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(xpcall) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.GetService) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(GAME.FindFirstChild) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(Instance.new) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(getmetatable) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(setmetatable) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(rawget) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(rawset) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(next) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(pairs) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(ipairs) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(tostring) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(tonumber) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(select) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(tick) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(wait) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(spawn) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(delay) ~= "function" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(_G) ~= "table" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(SHARED) ~= "table" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(math) ~= "table" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(string) ~= "table" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(table) ~= "table" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(coroutine) ~= "table" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(debug) ~= "table" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(os) ~= "table" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(utf8) ~= "table" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(bit32) ~= "table" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(math.pi) ~= "number" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(math.huge) ~= "number" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(true) ~= "boolean" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(false) ~= "boolean" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return type(nil) ~= "nil" 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return WORKSPACE.Parent ~= GAME 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return GAME.Players.LocalPlayer.Parent ~= GAME.Players 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return getmetatable(GAME) == nil 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            return getmetatable(WORKSPACE) == nil 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return GAME.GetService(GAME, "Players") == nil 
+        end) then
+            function11()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return GAME.GetService(GAME, "Workspace") == nil 
+        end) then
+            function11()
+            U[v[1]] = true
+        end
+    end
+end
+return (function(...)
+    while true do
+        local v12 = l2
+        local v22 = v12
+        function1() 
+    end 
+end)()
