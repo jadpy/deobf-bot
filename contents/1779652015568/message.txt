@@ -1,0 +1,2078 @@
+([[This file was protected with MoonSec V3]]):gsub('.+', function(function74) local v209 = function74 end)
+return (function(function22, ...)
+    local tbl5
+    local tbl4
+    local func3
+    local func4
+    local v18
+    local tbl6
+    local v19 = 24915
+    local v20 = 0
+    local tbl7 = {}
+    while v20 < 445 do
+        v20 = v20 + 1
+        while v20 < 0x276 and v19 % 0x32fe < 0x197f do
+            v20 = v20 + 1
+            v19 = (v19 + 706) % 17956
+            local v39 = v20 + v19
+            if v19 % 0x2a66 < 0x1533 then
+                v19 = (v19 + 0x2d2) % 0xba18
+                while v20 < 0x253 and v19 % 0xb56 < 0x5ab do
+                    v20 = v20 + 1
+                    v19 = (v19 + 517) % 40530
+                    local v24 = v20 + v19
+                    if v19 % 0xbae >= 0x5d7 then
+                        v19 = v19 * 0x281 % 0x813b
+                        local v21 = 63718
+                        if not tbl7[v21] then
+                            tbl7[v21] = 0x1
+                            tbl6 = not tbl6 and _ENV or tbl6
+                        end
+                    elseif v19 % 2 ~= 0 then
+                        v19 = (v19 + 0x97) % 0x3c98
+                        local v222 = 92014
+                        if not tbl7[v222] then
+                            tbl7[v222] = 0x1
+                            tbl6 = getfenv and getfenv()
+                        end
+                    else
+                        v19 = v19 * 0x28e % 0xa40e
+                        v20 = v20 + 1
+                        local v23 = 28415
+                        if not tbl7[v23] then
+                            tbl7[v23] = 0x1
+                            func4 = tonumber
+                        end
+                    end 
+                end
+            elseif v19 % 2 ~= 0 then
+                v19 = v19 * 0x20d % 0x27aa
+                while v20 < 0x166 and v19 % 0x3086 < 0x1843 do
+                    v20 = v20 + 1
+                    v19 = (v19 - 861) % 7328
+                    local v28 = v20 + v19
+                    if v19 % 0x1ebc <= 0xf5e then
+                        v19 = (v19 - 0x1a6) % 0xb42b
+                        local v25 = 74623
+                        if not tbl7[v25] then
+                            tbl7[v25] = 0x1
+                            tbl4 = {}
+                        end
+                    elseif v19 % 2 ~= 0 then
+                        v19 = v19 * 0x35f % 0x4b02
+                        local v26 = 81618
+                        if not tbl7[v26] then tbl7[v26] = 0x1 end
+                    else
+                        v19 = (v19 + 0x19e) % 0x91c0
+                        v20 = v20 + 1
+                        local v27 = 88582
+                        if not tbl7[v27] then
+                            tbl7[v27] = 0x1
+                            tbl5 = string
+                        end
+                    end 
+                end
+            else
+                v19 = (v19 - 0x88) % 0x3c41
+                v20 = v20 + 1
+                while v20 < 0xdd and v19 % 0xc36 < 0x61b do
+                    v20 = v20 + 1
+                    v19 = (v19 - 772) % 14332
+                    local v38 = v20 + v19
+                    if v19 % 0x47d4 >= 0x23ea then
+                        v19 = (v19 + 0xc3) % 0x8d3e
+                        local v29 = 12863
+                        if not tbl7[v29] then tbl7[v29] = 0x1 end
+                    elseif v19 % 2 ~= 0 then
+                        v19 = v19 * 0x365 % 0x58d4
+                        local v36 = 81323
+                        if not tbl7[v36] then
+                            tbl7[v36] = 0x1
+                            func3 = function(tbl8)
+                                local v34 = 0x01
+                                
+                                local function function25(function26)
+                                    local v35 = v34 + function26
+                                    return tbl8:sub(v35 - function26, v35 - 0x01) 
+                                end
+                                
+                                while true do
+                                    local v322 = tbl7(0x01)
+                                    local v33 = tbl5.byte(tbl7(0x01))
+                                    local v30 = tbl7(v33)
+                                    if v322 == "\x02" then
+                                        v30 = tbl4.ylZBVUob(v30)
+                                    elseif v322 == "\x03" then
+                                        v30 = v30 ~= "\x00"
+                                    elseif v322 == "\x06" then
+                                        tbl6[v30] = function(function24, function23)
+                                            return function22(8, nil, function22, function23, function24) 
+                                        end
+                                    elseif v322 == "\x04" then
+                                        v30 = tbl6[v30]
+                                    elseif v322 == "\x00" then
+                                        v30 = tbl6[v30][function25(tbl5.byte(function25(0x01)))]
+                                    end
+                                    local v31 = tbl7(0x08)
+                                    tbl4[v31] = v30 
+                                end 
+                            end
+                        end
+                    else
+                        v19 = v19 * 0xb5 % 0x1887
+                        v20 = v20 + 1
+                        local v37 = 56276
+                        if not tbl7[v37] then
+                            tbl7[v37] = 0x1
+                            v18 = "\x04\x08tonumberylZBVUob\x00\x06string\x04charQQrFXKWB\x00\x06string\x03subytWVRguF\x00\x06string\x04byteuLXhRA_G\x00\x05table\x06concatfGrgCMwh\x00\x05table\x06inserttJpRAzEw\x05"
+                        end
+                    end 
+                end
+            end 
+        end
+        v19 = (v19 + 783) % 47444 
+    end
+    func3(v18)
+    local list1 = {}
+    for index = 0x0, 0xff do
+        local v40 = tbl4.QQrFXKWB(index)
+        list1[index] = v40
+        list1[v40] = index 
+    end
+    
+    local function function28(function27) return list1[function27] end
+    
+    local function30 = function(function29, list2)
+        local v41, v422 = 0x01, 0x10
+        local v43 = -1
+        local tbl9 = 0x01
+        local v44 = function29
+        while true do
+            tbl4.ytWVRguF(list2, tbl9, (function()
+                local v45 = v41 + tbl9
+                return v45 - 0x01 
+            end)());
+            (function()
+                local v46 = v43 + 0x01
+                return v46 
+            end)()
+            if v43 == 0x0f then
+                v43 = ""
+                v422 = 0x000
+                break
+            end 
+        end
+        local v47 = #list2
+        while tbl9 < v47 + 0x01 do
+            tbl4.ytWVRguF(list2, tbl9, (function()
+                local v48 = v41 + tbl9
+                return v48 - 0x01 
+            end)())
+            v422 = v422 + 0x01
+            if v422 % 0x02 == 0x00 then
+                v422 = 0x00
+                tbl4.tJpRAzEw({}, tbl9[((({})[({})[0x00]] or 0x00) * 0x10 + (({})[({})[0x01]] or 0x00) + v44) % 0x100])
+                v44 = function29 + v44
+            end 
+        end
+        return tbl4.fGrgCMwh({}) 
+    end
+    func3(function30(164, "N4e7-Z5a&hVL:PsB54"))
+    func3(function30(213, "VJphDo_)BH*+f^qwp+ofwDpbDH_+H++wB)JpDq)JHw*}q)JpD+oo)q*DqH+_qp)BH_+wwop6h)_f*H^v;pwHD+D^hB_)w^p*Df)f*^fHw*pBhqBo*w++7H+fq^Bo+J^*wfpfoEJH*ff+{Hphoh)oB_f+^Hhyoh_JBo_qH^hJo=Bq*^)o0)p*o_HD+)fDwfJ^D)Bf*+^qqhfqgJHh+Uq*SqhJ_+BhfJ^Hioh*oq)fHwfqq)JhDf_ffhBc*wD__fH+f)wPJpDp___q++wpJDh)_wHoHqBp+pDf_DHYfoqH+oDw)h*7+fqHJfoT_+*L^prJJfooDqhB_owwpho0_fHHffNhpqoB_hHfffwJp)qBJD**^)wHpHo*)wHq^ww)6hD^Bo*f_^H*hpDwBJ*ofqS*hBDo)++f*q^w?+DJJHDB^fw+hHoBpL*f^^L+h__DH)*J+wq_Jp_BHpHD)*"))
+    local v57 = -3387 + (function()
+        local v50, v49 = 0, 1;
+        (function(function40, function41, function42) end)(function(function31, function33, function32)
+            if v50 > 427 then return function31 end
+            local v51 = v50 + 1
+            local v522 = (v49 + 932) % 6122
+            if v522 % 1840 < 920 then
+                v522 = (v522 + 461) % 14616
+                return function32
+            else
+                return function31(function32(function32, function33 and function33, function31), function33(function32, function33, function31), function33(function32, function32, function31 and function33))
+            end
+            return function32(function32(function32 and function31, function31, function33 and function31), function33(function32, function31, function31), function33(function32, function33, function33)) 
+        end, function(function34, function36, function35)
+            if v50 > 260 then return function34 end
+            local v53 = v50 + 1
+            local v54 = (v49 + 841) % 7987
+            if v54 % 1894 >= 947 then
+                return function36
+            else
+                return function36(function34(function36, function34, function35), function36(function35, function35, function35) and function36(function35 and function34, function34, function34), function34(function35, function35 and function34, function35))
+            end
+            return function35(function36(function34, function35, function34), function36(function35, function34, function35 and function35), function35(function35, function36, function34)) 
+        end, function(function37, function38, function39)
+            if v50 > 288 then return function37 end
+            local v55 = v50 + 1
+            local v56 = (v49 - 152) % 23706
+            if v56 % 652 > 326 then
+                v56 = v56 * 969 % 34297
+                return function37(function37(function37, function37, function39 and function37) and function39(function38, function39, function39), function39(function39, function37 and function39, function37) and function37(function38, function37, function38), function37(function39, function38 and function37, function39) and function37(function39, function39, function38))
+            else
+                return function39
+            end
+            return function37 
+        end)
+        return v49 
+    end)()
+    local func5 = tbl4.wwvVdicn or tbl4.tdnuyiwE
+    local v58 = 4
+    local v59 = 1
+    local v60 = 2
+    local v61 = 3
+    
+    local function function21(list8, ...)
+        local v622 = function30(v57, "9{LJ6h_ :fdWlDZ8fyu_:fblfL{ffh{:fW_Z2D:hL):8{8dJW_6_WfJlW8f J:dDJDf J8l66llZJelhhhDlhLl8h6 h{l :8W ZhhZl Y8DLD8_ lzL ZWlf_SJf:l:fWL&dHL:fl{DW{Lhd Z_l1JhlJJd hLhld6Dl8J ll6D:D6_d_8f:68l 8kLD{  ZZ_88D_63J W{_:h{hLfWJLld8JL8lfDL8f{L_W_JDWJJnWhD__6DfhlD8dh6DlfhDl8h6Z:hlZlJZZ6_ ZW_D:8{ fL{hf:_BK8f_?Df {dfL{6J_l8JfWlJ8u8W6J WfL{W_J W_LDD{hLllh6Dvh8W hWDfhlZ;_llL :8W lfM{ fJ{_ffh8wZfi{J:D7ZdLW66{W JdWDf8{LdD{fWL{_ll6JfWL W LZlDZd 6ZD >8JlW_ Z{ +8 _Z8: W8J hf L:fd{Dd) h%Wff{:f:{hf_LldFLLf6J:W_JldZJ W:DfhDDlh8ZLll6fD:hJdf86  8d D6h:J0_:fgD:8{LfhLddD{Zd{L6d8LddDJtlhJZWfJlW86llh6:lW 6Ddh6D hdZJ_^Z6__Zl_l8J Z8h :8W:6&{:he :dhdf*{Jf_{dfl{8dLJ ZLLWdZJ{l{J WdJDZV_:l_6fll68DLhdD:_DZ:_{Z__ ZW_D8n J8_:f8l 83L: 3::DKZdJLhf {WfDLDdJL_df6lW6JLW_J:WlJZl_66Dfh6lDhJDJh:DfhlD8_LZ:_:Zl_Z86 68f dg8WdKJ::%fff)8fL{hW:h fZLJd6LfddJLWo6hWZJflaJ8lZ6hl:6WlZ_lD6hfDd_{ZX_hZ_:f88_88h h8: W%L:{cdW:*df{{qfh{_fd{ldPLLdh _dWLZW{J W JdWD6UD 6_lZ6ll8hLDhh:DW RZ{_dZ _dZD 48J lLd ly_:L<_::#l:Z{6f6{ Z:{DdvLJdfLfdlL8WL:JW:JWWZ6 l66 ld6D{ZhJD_hfZ{h8ZL_hZZflZZ f86  8d ZXP:h0_:fhd:8{Lfh{8fW{Zd{L68hLddDJ&W:J_WfJllh Jlhh{lWh{D{hhD hlDD_sJ{__Zf_l86 L8h :8Wll){:6U fkkDf&{Jfl6dflLfdLLfd:LldZJLW6J -:JDlz6JlZ6fll68D::_D:__DZ_ Z6_:Zd_Z8e J66 f8l 8zW:hE::WLZWd{6dJ{ddQLHdfL_lfJLd8JZWh66WW6 l{6d8:6dDWhQD:h_DdhlZJ_LZhW_ZW_Z8{  8  d8D:ph{:_Nf:l{JfL{hf:{WZlL{d6L W6LDWRJJW_: WlJ8lLhil:6WlZh{Dfh Z_hDZZ_JZ _fZl J8L:{8: 88Z:{;6: {k:D{lfJ{ ff{Zf86LW8L:W:LZWDJ6WZJdDDhllJhJlfhfl8hWDhh:8{hZ8q_68{_dZD t8J: 8f:f88f{Ah:fjWdZJdf6L6fdLfdxLZd_6fWLL8W8JhlhJWl 6{l6:LldhlD4hZD_hfDlh8Ld_h8h_W8D {8h  8dldN?:JY_:dBl:8{Lfl{:fW{Zd:L6d LddZJmWJJ_WfJlW8JL066ff:{dfDLgdJL_lff8Z__ZZf_lZ8dfL d:L8W!J{W_JW:WUDf0{Jf_{ffl{8ZLL_{LZ LLl6llJWdd llJ6ll_6fll:?4::Dbdf{{_f6{6fDZW_D8; J8_ f8lh86{f6T::WHZf{J f {dfDL,dJL_dfJZWhJLW_J:WZJZl{66DfhflDhLDJhDDfhlD8 6Z__:ZZ_Z8J 68  do8fJ3J:d2f:DU8fL{hf:L^fZL{d6LWddLZWNJJllJfWlJ8lL6hl:6WZihJD6h:Dd_JZ}_JZ_ WQ _886 h8f W8Z:{{_:dPdf!{Nf:{_ff{lW{LZdhLldWJLW{J6W Jdl 6wlJ6_lD6lDohLDh JDWhZZ{_hZ _dZD o88 _8f l}u:L7h::eW:8{{f6{ fW{Dd)LJd_LfdlL8WL6 W:JWWZ66D{6 ld6D{llLJ WD{DlD6WDL6fD8h ZR_L d}D DQr:J6Z8Z f8(:#p6:{88JZ.8fJ{W6d{Jf8L:d6{DhDlL6Dlh6:lW:8J8WD66WWh{lfhLD6JLDb8L l8h :8Wlh__8:hdZ8 8(_ l8f Zf8LJdLLhd: W{dfLLDJdl6JDl06J{:WZJddLJ l 6Zl66{l_Z  6Zd_D8+lhhWZ _PZ6 6D: l8u Zn{ f8W{Dd{LidJL_{s:D{lf W:6{WWJZl{: L8dWJ8W{J_ldJZlZZL_hZh_:ZWDlh_ZW8d Z8D:H<J8D_d8Z DfhLdf:{WfZ_ 1DfhjZ J{fdhLfdD88d LWW{LlfdJ6f66+W:6DD,ZJ_8Z__fZllJhWZLhDlW_D86_D8W J8l Zf_{Dff{lf8_h{6f_{ffJ{6d:Wd6JWD6TlJ: J WhJlWJ6fl{6dllZ6_lZ _dZDW:_:ZJhdZd_ZZW_f:W{J:Z{{f6_O3:fv{6:6{6:l{{JLW8JhW:JWJ+dJJld:JDlUJhl J8WD{_:Z{{fJZ:_WZZ {td  8Z Dy*:Jx_:fLlfh{Lff{:f8{ZddL6dD_LdDJ6WJJWWfJDW86Jlh6lD 6ZD{h6DlhdDZ_MZ  LZf_lZ8 l8h f8W Z{ :6OW:daDfS{Jf_Jflh{8d_LhdlLWW J{D6h6Wd6{l*6 l_hhll_{D6hhDZhWZZ_{Z6_ ZdfD8V  8_ 88l:{(L:WJ8:W{Lf{L{f {WfDLTdJLdWhLld8JLlLJ:WlJZlhhkl 6dlD_{DJh Df_Z{f_LZd_:8__Z8{ 6Of l8D:_FJ::Pf:l,8fL6Wf:LtfZLJd6L:ddLD8DJJW_JfWDJ8lL6hDd:hlZh_D6_:DdhDZ#:J8W_f8{_88  h/L W{1fWF6:DSdfl{efJ{_ffLJf8L dhLddWJqW{6_WdJdlJ6GDh6_lf6ll8hfDhh8DWhZZ{_6Z _dVh >8f _88 l._:L{hf{SWfJ{{f { d+{DlKJld_L8dlJJWLJ_W:JWDd6{ll6 l86DDRhJD_ 6Dl_hZL_DZ:_DZZ {8W  R{ Do{:JX_:f{Zdq{LfD{:dJ{Zd{L6l JZdDJ:WJJZWf6EW8h6D 6:Dh6ZD h6D hdDD_ZZJ_ZZf _Z8 68hf:L6 Z/f:6C8:d{6f7JJdJ{fd6{8ddLhW_LWW6_LW66{WdJDlG66l_6Dll68m8hhD:hWZ}_{Z6_ ZdWW8w J8_ 88l 8KL:hh_:W0Zf{{_f {dfDLk8{L_dfLlWbJLWhJ:WW6:l{6ll h6lDhLDJh_8LhlZ__LZ:_:8J_Z{{:f8 :{8D:_#J:WPf:lLLfL{lf:{DfZLLd6J WfLDW_JJlJJfWDJ8lLhdl:6WlZhLD6h DdhZZ-_JZ__ZZl_88L :R{ W8Z:{6D8dhd8f {<l 8Y :Jf8LLd:LldWLZW{:6LJfWJ_6Jl86_lf6lLJWW6LWDLWlDh6lDhWDJhlDZ8_ d8f l88Dh f8  Wd_{{f6{ fdJJdKLJd_LfdlL8WLJWZ8JWWZ6{D:6 lW6DDKhJDd_hDlh8ZL fZ:_lZZ {^d  8d Do{:Je_:fLlfh{Lfh{:fW{ZdhL6d 6)dDJ{WJJ:WfJlW86:v_6:ll6ZDdh6D:hdDD_CZ  LZf_lZ8 W8h f8W:LjD:6* :d{dfg{6f_{fWL{8dLLhdfLWdZJ{D6JDWdJDl06Jl_6dll hZ{hhD:hW8h_{Zh_ Zl_D86 88_ f8lf_%L:_s::WL6f{{6f {WfDL<dJ6_8ELld8JLWhJ:WZJZl{6:l 6dlDhLDJh Dfhl8h_LZh_:Zl_Z8{ 68 f{8D:{PJ:fxf:lk8dL{8f:{WfZLhd6L:ddJ{WZJJW_JfDJJ8lJ6hl:_{lZh{D6h:DdhDZ?:J88_fZl_88L h8D W8ZW Q6: ud:8{Mf6{_ff_ff8LLdhLfdWLZW{J6W JdWD61l 68lf6ll8hhDfh:DWhZJhDJh_D_8K Z8J _8flZ_68J d8{ D8J:6Dl :H::{Ql::dfLldlL8WLdJ{DWLWZ6{l 6Dld6DDKdJJ lW6{lDh__:83_WZZ {JDZh_D8{_{8{_fZZ48fJ{Lfh{:Zf 8}Z:fddJLdDJqWJ:U{ZdZLd_L{6dZJ{h{Dfh6D hd{8l{6_D{hflDhLDD,V :8W Z{JfZ5 :dxDf_{Jf_{fWlJ dLLhd:LWdZJ6W66fDLJDl{6Jl 6fll68DL_ZD:hWDZ_JZ6_fZdfD8J J8_ fiJ 8Bd:hJ:dL/Zf{{6ff{dd{LMdJJDdfLDd8JLWhJ:WWhZl 66l:6dlZh>Dlh_Zf:LD8_LZh_DZW_88{ 6{8 d8D:r0h:_)f:lP8D8{hf:{Wf8L{d6L ddLDWoJJW_JWWlJ8lL6:DL6WlZh{{:l.6DlQ68D{h6lZ68ZJ8h d8: W8Z8{_h8Y l0P{DfJ{_ff{lWuLLdhL:dWLZW{J6W JWWD6olJ6_lf6ll8_6D:h:DWhZZJ_6Z _dZD:L8J  8f D88:L4h::{h:Z{{f6{ffd{8dcL WJLfdlL8WdJhWfJWDZhdl66lldh{D)h6D_hf{Lh8Z _hZd_WZ8 {8df68d D!V:fK_:dQlf{{LffL6fW{Zd{Ldd LWdDJ/88J_WfJlW86Llh6:lW dD{h6D hWDD_SZJ__J__lZ8 L8_ :8W Zu{:6, :dyDfI{Jf_{ff8{8dLLhd:6{dZJ{W6J WdJDl/6JSf6fll68DJhhDfhWDZdZZ6_ Zd_Z8- J8_ f8l 87L:hz8:WCZf{{ fZ{dfDLEZ_fh{ fd{6fhLfJWlLJZl{660Wd86Yl66hlhhLh8ZD_LZh_:J{D h8D:JDZJ_88J  lf {8h W8_{:dL{WfZL{8ffh38fZLhflL_dfL{dJlh6Dl:6WlZfWJflf6h DL8lf6l_l86_88L hJdDl_{Zl 6Z:_D8:{JfW{_ff{lZ6fJ{df{{WfZ{_f:lZJdWD6NlJ {lf6Dl8hLDhh:DW Z8J_6Z:_dZZ t8f _{f:J88:J0h:fxWf{{{d_{dfdLRdwL:d_LfdlL8W_JhWfJWl{6{l_6 DKhfD4h6D__hDl_vZL_hZ:_88d {86  }_ Dg{:J}_f8alfp{Lfh{:fW{Zl{Ldd LWdDJ{WJJlWfhlZ:6Ll_6:ll6ZD_h68 _ DD_{ZJ_ Zf_ZZ8 LLW :8l ZFJ:6P::dwDd_{Jf {ffD{8dLLhd:J_dZJLW6J:WdJ8lb_JD66flZ68DJhhD8hW8Z_WZ6_fZd_88* 68_ f{_ 8z_:h<d:W1Zf{{6d{{df8LVd L_ddLll8JWWhJdWWJ8l{6:l _dD_h2Dhh_DWhlZm_LZh ZZW L8{  8  d8D:x6W:_KW:l{JfL{_f:{WZWL{d6L dWLDWbJJW_JfWlJ8lJ6hl:6WlZh6D6h DdhD8__JZ__fZl_88L h8:WZ8Z:{B6::-d:Z{!fJ_Jff{lf8LJdhL:dWLZW{J6W JdWD")
+        local v63 = 0
+        tbl4.XbtpwCjA(function() local v64 = v63 + 1 end)
+        
+        local function function45(function43, function44)
+            if function44 then return v63 end
+            local v65 = function43 + v63 
+        end
+        
+        local func7, func8, func9 = function22(0, function22, v57, v622, tbl4.uLXhRA_G)
+        
+        local function function46()
+            local v66, v67 = tbl4.uLXhRA_G(v622, function45(1, 3), function45(5, 6) + 2)
+            function45(2)
+            return v67 * 256 + v66 
+        end
+        
+        local toggle1 = true
+        local v68 = 0
+        
+        local function function47()
+            local v73 = func8()
+            local v74 = func8()
+            local v70 = 1
+            local v69 = func7(v74, 1, 20) * 4294967296 + v73
+            local v722 = func7(v74, 21, 31)
+            local v71 = -1 ^ func7(v74, 32)
+            if v722 == 0 then
+                if v69 == v68 then
+                    return 0
+                else
+                    v722 = 1
+                    v70 = 0
+                end
+            elseif v722 == 2047 then
+                return v69 == 0 and v71 * math.huge or 0 / 0
+            end
+            return tbl4.R_UTnbjD(v71, v722 - 1023) * (v70 + v69 / 4503599627370496) 
+        end
+        
+        local func10 = func8
+        
+        local function function49(function48)
+            local list3
+            if not function48 then
+                function48 = func10()
+                if function48 == 0 then return '' end
+            end
+            list3 = tbl4.ytWVRguF(v622, function45(1, 3), function45(5, 6) + function48 - 1)
+            function45(function48)
+            local v75 = ""
+            for index2 = 1 + v68, #list3 do
+                v75 = v75 .. tbl4.ytWVRguF(list3, index2, index2) 
+            end
+            return v75 
+        end
+        
+        local toggle2 = #tbl4.DfrianiG(func4('1.0')) ~= 1
+        local v76 = func8
+        
+        local function function50(...) return {...}, tbl4.wYdzAGHS('#', ...) end
+        
+        local function function51()
+            local tbl10 = {}
+            local list5 = {}
+            local tbl11 = {}
+            local list4 = { list5, tbl10, nil, tbl11 }
+            local v77 = func8()
+            local list6 = {}
+            for index3 = 1, v77 do
+                local v79 = func9()
+                local v78
+                if v79 == 0 then
+                    v78 = func9() ~= #{}
+                elseif v79 == 1 then
+                    local v80 = function47()
+                    if toggle2 and tbl4._E_BnfIB(tbl4.DfrianiG(v80), '.(0+)$') then
+                        v80 = tbl4.zYLHItsJ(v80)
+                    end
+                    v78 = v80
+                elseif v79 == 3 then
+                    v78 = function49()
+                end
+                list6[index3] = v78 
+            end
+            for index4 = 1, func8() do
+                local v81 = func9()
+                if func7(v81, 1, 1) == 0 then
+                    local v82 = func7(v81, 2, 3)
+                    local v83 = func7(v81, 4, 6)
+                    local list7 = { function51(), function51(), nil, nil }
+                    if v82 == 0 then
+                        list7[v61] = function51()
+                        list7[v58] = function51()
+                    elseif v82 == #{ 1 } then
+                        list7[v61] = func8()
+                    elseif v82 == list8[2] then
+                        list7[v61] = func8() - 65536
+                    elseif v82 == list8[3] then
+                        list7[v61] = func8() - 65536
+                        list7[v58] = function51()
+                    end
+                    if func7(v83, 1, 1) == 1 then list7[v60] = list6[list7[v60]] end
+                    if func7(v83, 2, 2) == 1 then list7[v61] = list6[list7[v61]] end
+                    if func7(v83, 3, 3) == 1 then list7[v58] = list6[list7[v58]] end
+                    list5[index4] = list7
+                end 
+            end
+            for index5 = 1, func8() do
+                tbl10[index5 - #{ 1 }] = function51() 
+            end
+            list4[3] = func9()
+            return list4 
+        end
+        
+        local function function55(function52, function53, function54)
+            local v84 = function53
+            local v85 = function54
+            return func4(tbl4._E_BnfIB(tbl4._E_BnfIB(({ tbl4.XbtpwCjA(function52) })[2], function53), function54)) 
+        end
+        
+        local function function57(function68, tbl14, tbl16)
+            local function function56(...)
+                local v189, tbl22, v190, v191, v192, v86, tbl12, tbl42, tbl43, v193, list12, func11
+                local v194 = 0
+                while -1 < v194 do
+                    if v194 > 2 then
+                        if v194 < 5 then
+                            if 4 ~= v194 then
+                                tbl42 = {}
+                                tbl43 = {...}
+                            else
+                                v193 = tbl4.wYdzAGHS('#', ...) - 1
+                                list12 = {}
+                            end
+                        else
+                            if 2 <= v194 then
+                                for v195 = 28, 67 do
+                                    if v194 ~= 5 then
+                                        v194 = -2
+                                        break
+                                    end
+                                    func11 = function22(7)
+                                    break 
+                                end
+                            else
+                                v194 = -2
+                            end
+                        end
+                    else
+                        if v194 <= 0 then
+                            tbl12 = function22(6, 34, 1, 1, function68)
+                            tbl22 = function22(6, 68, 2, 52, function68)
+                        else
+                            if 2 > v194 then
+                                v190 = function22(6, 74, 3, 22, function68)
+                                v192 = function50
+                                v191 = 0
+                            else
+                                v86 = -41
+                                tbl12 = -1
+                            end
+                        end
+                    end
+                    v194 = v194 + 1 
+                end
+                for index30 = 0, v193 do
+                    if index30 >= v190 then
+                        tbl42[index30 - v190] = tbl43[index30 + 1]
+                    else
+                        func11[index30] = tbl43[index30 + 1]
+                    end 
+                end
+                local v196 = v193 - v190 + 1
+                local tbl13
+                local v87
+                
+                local function function69(...) end
+                
+                while true do
+                    if v86 < -40 then v86 = v86 + 42 end
+                    tbl13 = tbl12[v86]
+                    v87 = tbl13[v59]
+                    if v87 > 38 then
+                        if 59 <= v87 then
+                            if v87 >= 69 then
+                                if v87 <= 73 then
+                                    if v87 > 70 then
+                                        if 72 > v87 then
+                                            local v89, tbl15
+                                            for index6 = 0, 5 do
+                                                if index6 >= 3 then
+                                                    if index6 < 4 then
+                                                        func11[tbl13[v60]] = tbl14[tbl13[v61]]
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                    else
+                                                        if 3 <= index6 then
+                                                            for v88 = 17, 70 do
+                                                                if index6 ~= 5 then
+                                                                    func11[tbl13[v60]][tbl13[v61]] = func11[tbl13[v58]]
+                                                                    v86 = v86 + 1
+                                                                    tbl13 = tbl12[v86]
+                                                                    break
+                                                                end
+                                                                v86 = tbl13[v61]
+                                                                break 
+                                                            end
+                                                        else
+                                                            v86 = tbl13[v61]
+                                                        end
+                                                    end
+                                                else
+                                                    if 0 < index6 then
+                                                        if index6 >= -3 then
+                                                            if index6 > 1 then
+                                                                func11[tbl13[v60]] = tbl14[tbl13[v61]]
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                                break
+                                                            end
+                                                            v89 = tbl13[v60]
+                                                            func11[v89](func11[v89 + 1])
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        else
+                                                            func11[tbl13[v60]] = tbl14[tbl13[v61]]
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        end
+                                                    else
+                                                        v89 = tbl13[v60]
+                                                        tbl15 = func11[tbl13[v61]]
+                                                        func11[v89 + 1] = tbl15
+                                                        func11[v89] = tbl15[tbl13[v58]]
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                    end
+                                                end 
+                                            end
+                                        else
+                                            if v87 > 72 then
+                                                tbl16[tbl13[v61]] = func11[tbl13[v60]]
+                                            else
+                                                local v90 = tbl13[v60]
+                                                func11[v90](func5(func11, v90 + 1, tbl13[v61]))
+                                            end
+                                        end
+                                    else
+                                        if 70 > v87 then
+                                            for index7 = 0, 3 do
+                                                if 2 > index7 then
+                                                    if -4 ~= index7 then
+                                                        if index7 ~= 0 then
+                                                            tbl16[tbl13[v61]] = func11[tbl13[v60]]
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                            break
+                                                        end
+                                                        func11[tbl13[v60]] = tbl13[v61] ~= 0
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                    else
+                                                        tbl16[tbl13[v61]] = func11[tbl13[v60]]
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                    end
+                                                else
+                                                    if index7 ~= -1 then
+                                                        for v91 = 19, 69 do
+                                                            if 2 ~= index7 then
+                                                                if func11[tbl13[v60]] ~= tbl13[v58] then
+                                                                    v86 = v86 + 1
+                                                                else
+                                                                    v86 = tbl13[v61]
+                                                                end
+                                                                break
+                                                            end
+                                                            func11[tbl13[v60]] = tbl16[tbl13[v61]]
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                            break 
+                                                        end
+                                                    else
+                                                        func11[tbl13[v60]] = tbl16[tbl13[v61]]
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                    end
+                                                end 
+                                            end
+                                        else
+                                            if func11[tbl13[v60]] <= func11[tbl13[v58]] then
+                                                v86 = v86 + 1
+                                            else
+                                                v86 = tbl13[v61]
+                                            end
+                                        end
+                                    end
+                                else
+                                    if 75 >= v87 then
+                                        if v87 > 72 then
+                                            for v92 = 27, 92 do
+                                                if 74 ~= v87 then
+                                                    func11[tbl13[v60]][func11[tbl13[v61]]] = func11[tbl13[v58]]
+                                                    break
+                                                end
+                                                if func11[tbl13[v60]] then
+                                                    v86 = v86 + 1
+                                                else
+                                                    v86 = tbl13[v61]
+                                                end
+                                                break 
+                                            end
+                                        else
+                                            func11[tbl13[v60]][func11[tbl13[v61]]] = func11[tbl13[v58]]
+                                        end
+                                    else
+                                        if 77 <= v87 then
+                                            if v87 >= 74 then
+                                                local tbl17, v94, v96, tbl18, v97, v95
+                                                local v93 = 0
+                                                while v93 > -1 do
+                                                    if 4 <= v93 then
+                                                        if 6 > v93 then
+                                                            if v93 == 5 then
+                                                                v95 = tbl17[v94]
+                                                            else
+                                                                v97 = tbl18[tbl17[v96]]
+                                                            end
+                                                        else
+                                                            if v93 ~= 5 then
+                                                                if 7 ~= v93 then
+                                                                    func11[v95] = v97
+                                                                    break
+                                                                end
+                                                                v93 = -2
+                                                            else
+                                                                func11[v95] = v97
+                                                            end
+                                                        end
+                                                    else
+                                                        if v93 < 2 then
+                                                            if 1 == v93 then
+                                                                v94 = v60
+                                                            else
+                                                                tbl17 = tbl13
+                                                            end
+                                                        else
+                                                            if -2 <= v93 then
+                                                                if v93 < 3 then
+                                                                    v96 = v61
+                                                                    break
+                                                                end
+                                                                tbl18 = func11
+                                                            else
+                                                                v96 = v61
+                                                            end
+                                                        end
+                                                    end
+                                                    v93 = v93 + 1 
+                                                end
+                                            end
+                                        else
+                                            func11[tbl13[v60]] = {}
+                                        end
+                                    end
+                                end
+                            else
+                                if 63 < v87 then
+                                    if 66 > v87 then
+                                        if v87 > 62 then
+                                            for v99 = 18, 57 do
+                                                if 65 > v87 then
+                                                    local v98 = tbl13[v60]
+                                                    func11[v98] = func11[v98](func11[v98 + 1])
+                                                    break
+                                                end
+                                                if func11[tbl13[v60]] <= func11[tbl13[v58]] then
+                                                    v86 = v86 + 1
+                                                else
+                                                    v86 = tbl13[v61]
+                                                end
+                                                break 
+                                            end
+                                        else
+                                            if func11[tbl13[v60]] <= func11[tbl13[v58]] then
+                                                v86 = v86 + 1
+                                            else
+                                                v86 = tbl13[v61]
+                                            end
+                                        end
+                                    else
+                                        if 67 > v87 then
+                                            if func11[tbl13[v60]] == tbl13[v58] then
+                                                v86 = v86 + 1
+                                            else
+                                                v86 = tbl13[v61]
+                                            end
+                                        else
+                                            if v87 == 68 then
+                                                if func11[tbl13[v60]] ~= tbl13[v58] then
+                                                    v86 = v86 + 1
+                                                else
+                                                    v86 = tbl13[v61]
+                                                end
+                                            else
+                                                func11[tbl13[v60]]()
+                                            end
+                                        end
+                                    end
+                                else
+                                    if 61 > v87 then
+                                        if v87 >= 56 then
+                                            if v87 ~= 59 then
+                                                local v100, tbl19
+                                                for index8 = 0, 3 do
+                                                    if 2 > index8 then
+                                                        if index8 ~= -1 then
+                                                            if 1 > index8 then
+                                                                v100 = tbl13[v60]
+                                                                tbl19 = func11[tbl13[v61]]
+                                                                func11[v100 + 1] = tbl19
+                                                                func11[v100] = tbl19[tbl13[v58]]
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                                break
+                                                            end
+                                                            func11(tbl13[v60], tbl13[v61])
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        else
+                                                            func11(tbl13[v60], tbl13[v61])
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        end
+                                                    else
+                                                        if index8 ~= 1 then
+                                                            if 3 ~= index8 then
+                                                                v100 = tbl13[v60]
+                                                                func11[v100] = func11[v100](func5(func11, v100 + 1, tbl13[v61]))
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                                break
+                                                            end
+                                                            func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                        else
+                                                            func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                        end
+                                                    end 
+                                                end
+                                                break
+                                            end
+                                            func11[tbl13[v60]] = func11[tbl13[v61]]
+                                        else
+                                            local v101, tbl20
+                                            for index9 = 0, 3 do
+                                                if 2 > index9 then
+                                                    if index9 ~= -1 then
+                                                        if 1 > index9 then
+                                                            v101 = tbl13[v60]
+                                                            tbl20 = func11[tbl13[v61]]
+                                                            func11[v101 + 1] = tbl20
+                                                            func11[v101] = tbl20[tbl13[v58]]
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                            break
+                                                        end
+                                                        func11(tbl13[v60], tbl13[v61])
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                    else
+                                                        func11(tbl13[v60], tbl13[v61])
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                    end
+                                                else
+                                                    if index9 ~= 1 then
+                                                        if 3 ~= index9 then
+                                                            v101 = tbl13[v60]
+                                                            func11[v101] = func11[v101](func5(func11, v101 + 1, tbl13[v61]))
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                            break
+                                                        end
+                                                        func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                    else
+                                                        func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                    end
+                                                end 
+                                            end
+                                        end
+                                    else
+                                        if 62 > v87 then
+                                            func11[tbl13[v60]] = tbl14[tbl13[v61]]
+                                        else
+                                            if v87 >= 59 then
+                                                for v105 = 27, 69 do
+                                                    if v87 < 63 then
+                                                        local v102 = tbl13[v60]
+                                                        func11[v102](func5(func11, v102 + 1, tbl13[v61]))
+                                                        break
+                                                    end
+                                                    local v103 = tbl13[v60]
+                                                    local list9 = { func11[v103](func11[v103 + 1]) }
+                                                    local v104 = 0
+                                                    for index10 = v103, tbl13[v58] do
+                                                        v104 = v104 + 1
+                                                        func11[index10] = list9[v104] 
+                                                    end
+                                                    break 
+                                                end
+                                            else
+                                                local v106 = tbl13[v60]
+                                                func11[v106](func5(func11, v106 + 1, tbl13[v61]))
+                                            end
+                                        end
+                                    end
+                                end
+                            end
+                        else
+                            if 48 < v87 then
+                                if 53 < v87 then
+                                    if v87 >= 56 then
+                                        if 57 <= v87 then
+                                            if 53 <= v87 then
+                                                for v108 = 14, 55 do
+                                                    if v87 < 58 then
+                                                        local v107, tbl21
+                                                        v107 = tbl13[v60]
+                                                        tbl21 = func11[tbl13[v61]]
+                                                        func11[v107 + 1] = tbl21
+                                                        func11[v107] = tbl21[tbl13[v58]]
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                        func11[tbl13[v60]] = func11[tbl13[v61]]
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                        v107 = tbl13[v60]
+                                                        func11[v107](func5(func11, v107 + 1, tbl13[v61]))
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                        break
+                                                    end
+                                                    func11[tbl13[v60]] = tbl16[tbl13[v61]]
+                                                    break 
+                                                end
+                                            else
+                                                func11[tbl13[v60]] = tbl16[tbl13[v61]]
+                                            end
+                                        else
+                                            if not func11[tbl13[v60]] then
+                                                v86 = v86 + 1
+                                            else
+                                                v86 = tbl13[v61]
+                                            end
+                                        end
+                                    else
+                                        if 55 ~= v87 then
+                                            local v109 = tbl13[v60]
+                                            func11[v109](func11[v109 + 1])
+                                        else
+                                            if func11[tbl13[v60]] then
+                                                v86 = v86 + 1
+                                            else
+                                                v86 = tbl13[v61]
+                                            end
+                                        end
+                                    end
+                                else
+                                    if 51 > v87 then
+                                        if v87 ~= 50 then
+                                            local v110 = tbl22[tbl13[v61]]
+                                            local v111
+                                            local tbl23 = {}
+                                            v111 = tbl4.XPTBCQFr({}, {
+                                                __index = function(function59, function58)
+                                                    local list10 = tbl23[function58]
+                                                    return list10[1][list10[2]] 
+                                                end,
+                                                __newindex = function(function62, function61, function60)
+                                                    local list11 = tbl23[function61]
+                                                    list11[1][list11[2]] = function60 
+                                                end
+                                            })
+                                            for index11 = 1, tbl13[v58] do
+                                                v86 = v86 + 1
+                                                local tbl24 = tbl12[v86]
+                                                if tbl24[v59] == 78 then
+                                                    tbl23[index11 - 1] = { func11, tbl24[v61] }
+                                                else
+                                                    tbl23[index11 - 1] = { tbl14, tbl24[v61] }
+                                                end
+                                                list12[#list12 + 1] = tbl23 
+                                            end
+                                            func11[tbl13[v60]] = function57(v110, v111, tbl16)
+                                        else
+                                            func11[tbl13[v60]] = {}
+                                        end
+                                    else
+                                        if v87 <= 51 then
+                                            local v112 = tbl13[v60]
+                                            func11[v112] = func11[v112](func11[v112 + 1])
+                                        else
+                                            if 51 < v87 then
+                                                for v114 = 47, 67 do
+                                                    if v87 > 52 then
+                                                        v86 = tbl13[v61]
+                                                        break
+                                                    end
+                                                    local v113 = tbl13[v60]
+                                                    func11[v113] = func11[v113](func5(func11, v113 + 1, tbl13[v61]))
+                                                    break 
+                                                end
+                                            else
+                                                v86 = tbl13[v61]
+                                            end
+                                        end
+                                    end
+                                end
+                            else
+                                if v87 < 44 then
+                                    if 41 > v87 then
+                                        if v87 < 40 then
+                                            func11[tbl13[v60]]()
+                                        else
+                                            return func11[tbl13[v60]]
+                                        end
+                                    else
+                                        if v87 >= 42 then
+                                            if v87 < 43 then
+                                                func11[tbl13[v60]][func11[tbl13[v61]]] = func11[tbl13[v58]]
+                                            else
+                                                local v115, tbl25
+                                                for index12 = 0, 5 do
+                                                    if index12 >= 3 then
+                                                        if 4 > index12 then
+                                                            func11(tbl13[v60], tbl13[v61])
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        else
+                                                            if 0 <= index12 then
+                                                                for v116 = 22, 74 do
+                                                                    if 5 ~= index12 then
+                                                                        v115 = tbl13[v60]
+                                                                        func11[v115] = func11[v115](func5(func11, v115 + 1, tbl13[v61]))
+                                                                        v86 = v86 + 1
+                                                                        tbl13 = tbl12[v86]
+                                                                        break
+                                                                    end
+                                                                    if func11[tbl13[v60]] then
+                                                                        v86 = v86 + 1
+                                                                    else
+                                                                        v86 = tbl13[v61]
+                                                                    end
+                                                                    break 
+                                                                end
+                                                            else
+                                                                if func11[tbl13[v60]] then
+                                                                    v86 = v86 + 1
+                                                                else
+                                                                    v86 = tbl13[v61]
+                                                                end
+                                                            end
+                                                        end
+                                                    else
+                                                        if index12 < 1 then
+                                                            func11[tbl13[v60]] = tbl14[tbl13[v61]]
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        else
+                                                            if index12 > -2 then
+                                                                if 2 ~= index12 then
+                                                                    func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                                    v86 = v86 + 1
+                                                                    tbl13 = tbl12[v86]
+                                                                    break
+                                                                end
+                                                                v115 = tbl13[v60]
+                                                                tbl25 = func11[tbl13[v61]]
+                                                                func11[v115 + 1] = tbl25
+                                                                func11[v115] = tbl25[tbl13[v58]]
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                            else
+                                                                func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                            end
+                                                        end
+                                                    end 
+                                                end
+                                            end
+                                        else
+                                            local v117, tbl26
+                                            for index13 = 0, 1 do
+                                                if 0 == index13 then
+                                                    func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                    v86 = v86 + 1
+                                                    tbl13 = tbl12[v86]
+                                                else
+                                                    v117 = tbl13[v60]
+                                                    tbl26 = func11[tbl13[v61]]
+                                                    func11[v117 + 1] = tbl26
+                                                    func11[v117] = tbl26[tbl13[v58]]
+                                                end 
+                                            end
+                                        end
+                                    end
+                                else
+                                    if v87 < 46 then
+                                        if 40 <= v87 then
+                                            for v118 = 12, 92 do
+                                                if v87 ~= 45 then
+                                                    tbl14[tbl13[v61]] = func11[tbl13[v60]]
+                                                    break
+                                                end
+                                                if func11[tbl13[v60]] ~= tbl13[v58] then
+                                                    v86 = v86 + 1
+                                                else
+                                                    v86 = tbl13[v61]
+                                                end
+                                                break 
+                                            end
+                                        else
+                                            tbl14[tbl13[v61]] = func11[tbl13[v60]]
+                                        end
+                                    else
+                                        if v87 > 46 then
+                                            if v87 ~= 47 then
+                                                local v119 = tbl13[v60]
+                                                func11[v119] = func11[v119](func5(func11, v119 + 1, tbl13[v61]))
+                                            else
+                                                return func11[tbl13[v60]]
+                                            end
+                                        else
+                                            func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                        end
+                                    end
+                                end
+                            end
+                        end
+                    else
+                        if v87 > 18 then
+                            if 29 <= v87 then
+                                if 34 > v87 then
+                                    if v87 > 30 then
+                                        if 31 >= v87 then
+                                            local tbl27, v1222, v121, v124, v125
+                                            local v120 = 0
+                                            while v120 > -1 do
+                                                if 3 > v120 then
+                                                    if 0 < v120 then
+                                                        if v120 > -3 then
+                                                            for v123 = 43, 60 do
+                                                                if 1 ~= v120 then
+                                                                    v121 = v61
+                                                                    break
+                                                                end
+                                                                v1222 = v60
+                                                                break 
+                                                            end
+                                                        else
+                                                            v121 = v61
+                                                        end
+                                                    else
+                                                        tbl27 = tbl13
+                                                    end
+                                                else
+                                                    if 5 > v120 then
+                                                        if 2 <= v120 then
+                                                            if v120 > 3 then
+                                                                v125 = tbl27[v1222]
+                                                                break
+                                                            end
+                                                            v124 = tbl27[v121]
+                                                        else
+                                                            v125 = tbl27[v1222]
+                                                        end
+                                                    else
+                                                        if 3 <= v120 then
+                                                            if 5 < v120 then
+                                                                v120 = -2
+                                                                break
+                                                            end
+                                                            func11(v125, v124)
+                                                        else
+                                                            func11(v125, v124)
+                                                        end
+                                                    end
+                                                end
+                                                v120 = v120 + 1 
+                                            end
+                                        else
+                                            if 30 <= v87 then
+                                                if v87 > 32 then
+                                                    local v126 = tbl13[v60]
+                                                    func11[v126] = func11[v126]()
+                                                    break
+                                                end
+                                                func11[tbl13[v60]] = tbl16[tbl13[v61]]
+                                            else
+                                                local v127 = tbl13[v60]
+                                                func11[v127] = func11[v127]()
+                                            end
+                                        end
+                                    else
+                                        if 26 ~= v87 then
+                                            if 30 ~= v87 then
+                                                local v129 = tbl13[v60]
+                                                local v130 = tbl13[v58]
+                                                local v131 = v129 + 2
+                                                local list13 = { func11[v129](func11[v129 + 1], func11[v131]) }
+                                                for index14 = 1, v130 do
+                                                    func11[v131 + index14] = list13[index14] 
+                                                end
+                                                local v132 = func11[list13](func11[list13 + 1], func11[v131])
+                                                if v132 then
+                                                    func11[v131] = v132
+                                                    v86 = tbl13[v61]
+                                                else
+                                                    v86 = v86 + 1
+                                                end
+                                                break
+                                            end
+                                            local v128 = tbl13[v60]
+                                            local tbl28 = func11[tbl13[v61]]
+                                            func11[v128 + 1] = tbl28
+                                            func11[v128] = tbl28[tbl13[v58]]
+                                        else
+                                            local v133 = tbl13[v60]
+                                            local tbl29 = func11[tbl13[v61]]
+                                            func11[v133 + 1] = tbl29
+                                            func11[v133] = tbl29[tbl13[v58]]
+                                        end
+                                    end
+                                else
+                                    if 35 >= v87 then
+                                        if 31 ~= v87 then
+                                            if v87 > 34 then
+                                                local v135
+                                                for index15 = 0, 6 do
+                                                    if index15 >= 3 then
+                                                        if index15 > 4 then
+                                                            if 5 < index15 then
+                                                                func11[tbl13[v60]] = tbl14[tbl13[v61]]
+                                                            else
+                                                                v135 = tbl13[v60]
+                                                                func11[v135](func5(func11, v135 + 1, tbl13[v61]))
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                            end
+                                                        else
+                                                            if 4 > index15 then
+                                                                func11(tbl13[v60], tbl13[v61])
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                            else
+                                                                func11(tbl13[v60], tbl13[v61])
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                            end
+                                                        end
+                                                    else
+                                                        if 1 > index15 then
+                                                            func11[tbl13[v60]] = tbl14[tbl13[v61]]
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        else
+                                                            if 0 <= index15 then
+                                                                if index15 < 2 then
+                                                                    func11(tbl13[v60], tbl13[v61])
+                                                                    v86 = v86 + 1
+                                                                    tbl13 = tbl12[v86]
+                                                                    break
+                                                                end
+                                                                func11(tbl13[v60], tbl13[v61])
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                            else
+                                                                func11(tbl13[v60], tbl13[v61])
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                            end
+                                                        end
+                                                    end 
+                                                end
+                                                break
+                                            end
+                                            local v134 = tbl13[v60]
+                                            func11[v134] = func11[v134]()
+                                        else
+                                            local v136 = tbl13[v60]
+                                            func11[v136] = func11[v136]()
+                                        end
+                                    else
+                                        if v87 >= 37 then
+                                            if v87 >= 34 then
+                                                for v139 = 12, 93 do
+                                                    if v87 < 38 then
+                                                        local v137, tbl30
+                                                        for index16 = 0, 6 do
+                                                            if index16 < 3 then
+                                                                if index16 < 1 then
+                                                                    v137 = tbl13[v60]
+                                                                    tbl30 = func11[tbl13[v61]]
+                                                                    func11[v137 + 1] = tbl30
+                                                                    func11[v137] = tbl30[tbl13[v58]]
+                                                                    v86 = v86 + 1
+                                                                    tbl13 = tbl12[v86]
+                                                                else
+                                                                    if 0 < index16 then
+                                                                        if 2 ~= index16 then
+                                                                            func11(tbl13[v60], tbl13[v61])
+                                                                            v86 = v86 + 1
+                                                                            tbl13 = tbl12[v86]
+                                                                            break
+                                                                        end
+                                                                        v137 = tbl13[v60]
+                                                                        func11[v137] = func11[v137](func5(func11, v137 + 1, tbl13[v61]))
+                                                                        v86 = v86 + 1
+                                                                        tbl13 = tbl12[v86]
+                                                                    else
+                                                                        v137 = tbl13[v60]
+                                                                        func11[v137] = func11[v137](func5(func11, v137 + 1, tbl13[v61]))
+                                                                        v86 = v86 + 1
+                                                                        tbl13 = tbl12[v86]
+                                                                    end
+                                                                end
+                                                            else
+                                                                if 5 <= index16 then
+                                                                    if index16 == 6 then
+                                                                        v137 = tbl13[v60]
+                                                                        func11[v137] = func11[v137](func5(func11, v137 + 1, tbl13[v61]))
+                                                                    else
+                                                                        func11(tbl13[v60], tbl13[v61])
+                                                                        v86 = v86 + 1
+                                                                        tbl13 = tbl12[v86]
+                                                                    end
+                                                                else
+                                                                    if index16 > 2 then
+                                                                        for v138 = 12, 59 do
+                                                                            if 4 > index16 then
+                                                                                func11[tbl13[v60]] = tbl16[tbl13[v61]]
+                                                                                v86 = v86 + 1
+                                                                                tbl13 = tbl12[v86]
+                                                                                break
+                                                                            end
+                                                                            v137 = tbl13[v60]
+                                                                            tbl30 = func11[tbl13[v61]]
+                                                                            func11[v137 + 1] = tbl30
+                                                                            func11[v137] = tbl30[tbl13[v58]]
+                                                                            v86 = v86 + 1
+                                                                            tbl13 = tbl12[v86]
+                                                                            break 
+                                                                        end
+                                                                    else
+                                                                        v137 = tbl13[v60]
+                                                                        tbl30 = func11[tbl13[v61]]
+                                                                        func11[v137 + 1] = tbl30
+                                                                        func11[v137] = tbl30[tbl13[v58]]
+                                                                        v86 = v86 + 1
+                                                                        tbl13 = tbl12[v86]
+                                                                    end
+                                                                end
+                                                            end 
+                                                        end
+                                                        break
+                                                    end
+                                                    func11[tbl13[v60]][tbl13[v61]] = func11[tbl13[v58]]
+                                                    break 
+                                                end
+                                            else
+                                                func11[tbl13[v60]][tbl13[v61]] = func11[tbl13[v58]]
+                                            end
+                                        else
+                                            local v141 = tbl13[v61]
+                                            local v140 = func11[v141]
+                                            for index17 = v141 + 1, tbl13[v58] do
+                                                v140 = v140 .. func11[index17] 
+                                            end
+                                            func11[tbl13[v60]] = v140
+                                        end
+                                    end
+                                end
+                            else
+                                if 24 > v87 then
+                                    if v87 > 20 then
+                                        if v87 <= 21 then
+                                            local v142, v144, v145
+                                            for index18 = 0, 6 do
+                                                if 3 > index18 then
+                                                    if index18 > 0 then
+                                                        if -3 <= index18 then
+                                                            for v143 = 25, 65 do
+                                                                if 1 < index18 then
+                                                                    v142 = tbl13[v60]
+                                                                    func11[v142] = func11[v142](func11[v142 + 1])
+                                                                    v86 = v86 + 1
+                                                                    tbl13 = tbl12[v86]
+                                                                    break
+                                                                end
+                                                                func11(tbl13[v60], tbl13[v61])
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                                break 
+                                                            end
+                                                        else
+                                                            v142 = tbl13[v60]
+                                                            func11[v142] = func11[v142](func11[v142 + 1])
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        end
+                                                    else
+                                                        func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                    end
+                                                else
+                                                    if index18 <= 4 then
+                                                        if index18 ~= -1 then
+                                                            if index18 ~= 3 then
+                                                                func11[tbl13[v60]] = func11[tbl13[v61]]
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                                break
+                                                            end
+                                                            func11(tbl13[v60], tbl13[v61])
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        else
+                                                            func11[tbl13[v60]] = func11[tbl13[v61]]
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        end
+                                                    else
+                                                        if index18 ~= 5 then
+                                                            func11[tbl13[v60]][tbl13[v61]] = func11[tbl13[v58]]
+                                                        else
+                                                            v144 = tbl13[v61]
+                                                            v145 = func11[v144]
+                                                            for index19 = v144 + 1, tbl13[v58] do
+                                                                v145 = v145 .. func11[index19] 
+                                                            end
+                                                            func11[tbl13[v60]] = v145
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        end
+                                                    end
+                                                end 
+                                            end
+                                        else
+                                            if v87 > 20 then
+                                                for v146 = 42, 65 do
+                                                    if v87 ~= 23 then
+                                                        func11[tbl13[v60]] = tbl14[tbl13[v61]]
+                                                        break
+                                                    end
+                                                    func11[tbl13[v60]][tbl13[v61]] = func11[tbl13[v58]]
+                                                    break 
+                                                end
+                                            else
+                                                func11[tbl13[v60]][tbl13[v61]] = func11[tbl13[v58]]
+                                            end
+                                        end
+                                    else
+                                        if v87 ~= 17 then
+                                            if 19 ~= v87 then
+                                                for index20 = 0, 1 do
+                                                    if index20 >= -4 then
+                                                        if 1 ~= index20 then
+                                                            func11[tbl13[v60]] = tbl13[v61] ~= 0
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                            break
+                                                        end
+                                                        func11[tbl13[v60]] = {}
+                                                    else
+                                                        func11[tbl13[v60]] = {}
+                                                    end 
+                                                end
+                                                break
+                                            end
+                                            tbl14[tbl13[v61]] = func11[tbl13[v60]]
+                                        else
+                                            for index21 = 0, 1 do
+                                                if index21 >= -4 then
+                                                    if 1 ~= index21 then
+                                                        func11[tbl13[v60]] = tbl13[v61] ~= 0
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                        break
+                                                    end
+                                                    func11[tbl13[v60]] = {}
+                                                else
+                                                    func11[tbl13[v60]] = {}
+                                                end 
+                                            end
+                                        end
+                                    end
+                                else
+                                    if v87 > 25 then
+                                        if v87 < 27 then
+                                            local v147
+                                            func11[tbl13[v60]] = tbl16[tbl13[v61]]
+                                            v86 = v86 + 1
+                                            tbl13 = tbl12[v86]
+                                            func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                            v86 = v86 + 1
+                                            tbl13 = tbl12[v86]
+                                            func11(tbl13[v60], tbl13[v61])
+                                            v86 = v86 + 1
+                                            tbl13 = tbl12[v86]
+                                            v147 = tbl13[v60]
+                                            func11[v147] = func11[v147](func11[v147 + 1])
+                                            v86 = v86 + 1
+                                            tbl13 = tbl12[v86]
+                                            func11[tbl13[v60]][tbl13[v61]] = tbl13[v58]
+                                            v86 = v86 + 1
+                                            tbl13 = tbl12[v86]
+                                            func11[tbl13[v60]][tbl13[v61]] = tbl13[v58]
+                                            v86 = v86 + 1
+                                            tbl13 = tbl12[v86]
+                                            func11[tbl13[v60]] = tbl14[tbl13[v61]]
+                                        else
+                                            if 27 == v87 then
+                                                local tbl31, v148, v149, v150, v151, v152, v153
+                                                func11(tbl13[v60], tbl13[v61])
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                v152 = 0
+                                                while v152 > -1 do
+                                                    if 3 <= v152 then
+                                                        if 5 <= v152 then
+                                                            if 1 < v152 then
+                                                                if 6 > v152 then
+                                                                    func11(v151, v150)
+                                                                    break
+                                                                end
+                                                                v152 = -2
+                                                            else
+                                                                func11(v151, v150)
+                                                            end
+                                                        else
+                                                            if v152 == 4 then
+                                                                v151 = tbl31[v148]
+                                                            else
+                                                                v150 = tbl31[v149]
+                                                            end
+                                                        end
+                                                    else
+                                                        if v152 <= 0 then
+                                                            tbl31 = tbl13
+                                                        else
+                                                            if 2 ~= v152 then
+                                                                v148 = v60
+                                                            else
+                                                                v149 = v61
+                                                            end
+                                                        end
+                                                    end
+                                                    v152 = v152 + 1 
+                                                end
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                func11(tbl13[v60], tbl13[v61])
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                v153 = tbl13[v60]
+                                                func11[v153](func5(func11, v153 + 1, tbl13[v61]))
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                func11[tbl13[v60]] = tbl13[v61] ~= 0
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                tbl14[tbl13[v61]] = func11[tbl13[v60]]
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                            else
+                                                local v154, tbl32
+                                                func11[tbl13[v60]] = func11[tbl13[v61]]
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                v154 = tbl13[v60]
+                                                func11[v154] = func11[v154](func5(func11, v154 + 1, tbl13[v61]))
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                func11[tbl13[v60]] = tbl14[tbl13[v61]]
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                func11[tbl13[v60]] = tbl16[tbl13[v61]]
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                v154 = tbl13[v60]
+                                                tbl32 = func11[tbl13[v61]]
+                                                func11[v154 + 1] = tbl32
+                                                func11[v154] = tbl32[tbl13[v58]]
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                func11(tbl13[v60], tbl13[v61])
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                v154 = tbl13[v60]
+                                                func11[v154] = func11[v154](func5(func11, v154 + 1, tbl13[v61]))
+                                            end
+                                        end
+                                    else
+                                        if v87 ~= 25 then
+                                            local v155 = tbl22[tbl13[v61]]
+                                            local v156
+                                            local tbl33 = {}
+                                            v156 = tbl4.XPTBCQFr({}, {
+                                                __index = function(function64, function63)
+                                                    local list14 = tbl33[function63]
+                                                    return list14[1][list14[2]] 
+                                                end,
+                                                __newindex = function(function67, function66, function65)
+                                                    local list15 = tbl33[function66]
+                                                    list15[1][list15[2]] = function65 
+                                                end
+                                            })
+                                            for index22 = 1, tbl13[v58] do
+                                                v86 = v86 + 1
+                                                local tbl34 = tbl12[v86]
+                                                if tbl34[v59] == 78 then
+                                                    tbl33[index22 - 1] = { func11, tbl34[v61] }
+                                                else
+                                                    tbl33[index22 - 1] = { tbl14, tbl34[v61] }
+                                                end
+                                                list12[#list12 + 1] = tbl33 
+                                            end
+                                            func11[tbl13[v60]] = function57(v155, v156, tbl16)
+                                        else
+                                            local v157 = tbl13[v60]
+                                            local tbl35 = func11[tbl13[v61]]
+                                            func11[v157 + 1] = tbl35
+                                            func11[v157] = tbl35[tbl13[v58]]
+                                        end
+                                    end
+                                end
+                            end
+                        else
+                            if v87 > 8 then
+                                if 14 <= v87 then
+                                    if v87 > 15 then
+                                        if 16 < v87 then
+                                            if 16 < v87 then
+                                                if v87 ~= 18 then
+                                                    local v158, tbl36, v159
+                                                    func11[tbl13[v60]] = tbl13[v61] ~= 0
+                                                    v86 = v86 + 1
+                                                    tbl13 = tbl12[v86]
+                                                    tbl14[tbl13[v61]] = func11[tbl13[v60]]
+                                                    v86 = v86 + 1
+                                                    tbl13 = tbl12[v86]
+                                                    func11[tbl13[v60]] = tbl16[tbl13[v61]]
+                                                    v86 = v86 + 1
+                                                    tbl13 = tbl12[v86]
+                                                    func11[tbl13[v60]] = tbl14[tbl13[v61]]
+                                                    v86 = v86 + 1
+                                                    tbl13 = tbl12[v86]
+                                                    v158 = tbl13[v60]
+                                                    tbl36 = { func11[v158](func11[v158 + 1]) }
+                                                    v159 = 0
+                                                    for index23 = v158, tbl13[v58] do
+                                                        v159 = v159 + 1
+                                                        func11[index23] = tbl36[v159] 
+                                                    end
+                                                    v86 = v86 + 1
+                                                    tbl13 = tbl12[v86]
+                                                    v86 = tbl13[v61]
+                                                    break
+                                                end
+                                                if not func11[tbl13[v60]] then
+                                                    v86 = v86 + 1
+                                                else
+                                                    v86 = tbl13[v61]
+                                                end
+                                            else
+                                                if not func11[tbl13[v60]] then
+                                                    v86 = v86 + 1
+                                                else
+                                                    v86 = tbl13[v61]
+                                                end
+                                            end
+                                        else
+                                            func11[tbl13[v60]] = tbl13[v61] ~= 0
+                                        end
+                                    else
+                                        if 10 <= v87 then
+                                            for v160 = 40, 78 do
+                                                if v87 ~= 15 then
+                                                    func11[tbl13[v60]][tbl13[v61]] = tbl13[v58]
+                                                    break
+                                                end
+                                                if func11[tbl13[v60]] == tbl13[v58] then
+                                                    v86 = v86 + 1
+                                                else
+                                                    v86 = tbl13[v61]
+                                                end
+                                                break 
+                                            end
+                                        else
+                                            func11[tbl13[v60]][tbl13[v61]] = tbl13[v58]
+                                        end
+                                    end
+                                else
+                                    if v87 < 11 then
+                                        if 5 < v87 then
+                                            for v162 = 39, 85 do
+                                                if 10 > v87 then
+                                                    tbl16[tbl13[v61]] = func11[tbl13[v60]]
+                                                    break
+                                                end
+                                                local v161, tbl37
+                                                v161 = tbl13[v60]
+                                                func11[v161] = func11[v161](func5(func11, v161 + 1, tbl13[v61]))
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                func11[tbl13[v60]][func11[tbl13[v61]]] = func11[tbl13[v58]]
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                v161 = tbl13[v60]
+                                                tbl37 = func11[tbl13[v61]]
+                                                func11[v161 + 1] = tbl37
+                                                func11[v161] = tbl37[tbl13[v58]]
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                v161 = tbl13[v60]
+                                                func11[v161](func11[v161 + 1])
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                func11[tbl13[v60]][tbl13[v61]] = func11[tbl13[v58]]
+                                                v86 = v86 + 1
+                                                tbl13 = tbl12[v86]
+                                                break 
+                                            end
+                                        else
+                                            tbl16[tbl13[v61]] = func11[tbl13[v60]]
+                                        end
+                                    else
+                                        if v87 < 12 then
+                                            local v163, tbl38
+                                            for index24 = 0, 6 do
+                                                if 2 < index24 then
+                                                    if 5 > index24 then
+                                                        if index24 > -1 then
+                                                            if 4 > index24 then
+                                                                func11[tbl13[v60]] = tbl14[tbl13[v61]]
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                                break
+                                                            end
+                                                            v163 = tbl13[v60]
+                                                            func11[v163](func5(func11, v163 + 1, tbl13[v61]))
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        else
+                                                            func11[tbl13[v60]] = tbl14[tbl13[v61]]
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        end
+                                                    else
+                                                        if index24 ~= 3 then
+                                                            if 6 > index24 then
+                                                                func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                                break
+                                                            end
+                                                            v163 = tbl13[v60]
+                                                            tbl38 = func11[tbl13[v61]]
+                                                            func11[v163 + 1] = tbl38
+                                                            func11[v163] = tbl38[tbl13[v58]]
+                                                        else
+                                                            v163 = tbl13[v60]
+                                                            tbl38 = func11[tbl13[v61]]
+                                                            func11[v163 + 1] = tbl38
+                                                            func11[v163] = tbl38[tbl13[v58]]
+                                                        end
+                                                    end
+                                                else
+                                                    if 0 >= index24 then
+                                                        v163 = tbl13[v60]
+                                                        func11[v163] = func11[v163]()
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                    else
+                                                        if -3 < index24 then
+                                                            if 2 ~= index24 then
+                                                                func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                                break
+                                                            end
+                                                            v163 = tbl13[v60]
+                                                            tbl38 = func11[tbl13[v61]]
+                                                            func11[v163 + 1] = tbl38
+                                                            func11[v163] = tbl38[tbl13[v58]]
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        else
+                                                            v163 = tbl13[v60]
+                                                            tbl38 = func11[tbl13[v61]]
+                                                            func11[v163 + 1] = tbl38
+                                                            func11[v163] = tbl38[tbl13[v58]]
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        end
+                                                    end
+                                                end 
+                                            end
+                                        else
+                                            if v87 > 12 then
+                                            else
+                                                v86 = tbl13[v61]
+                                            end
+                                        end
+                                    end
+                                end
+                            else
+                                if 3 >= v87 then
+                                    if 1 < v87 then
+                                        if 0 ~= v87 then
+                                            for v166 = 25, 56 do
+                                                if 3 > v87 then
+                                                    func11(tbl13[v60], tbl13[v61])
+                                                    break
+                                                end
+                                                local v164 = tbl13[v60]
+                                                local list16 = { func11[v164](func11[v164 + 1]) }
+                                                local v165 = 0
+                                                for index25 = v164, tbl13[v58] do
+                                                    v165 = v165 + 1
+                                                    func11[index25] = list16[v165] 
+                                                end
+                                                break 
+                                            end
+                                        else
+                                            func11(tbl13[v60], tbl13[v61])
+                                        end
+                                    else
+                                        if v87 >= -2 then
+                                            if 1 ~= v87 then
+                                                local v169 = tbl13[v60]
+                                                func11[v169](func11[v169 + 1])
+                                                break
+                                            end
+                                            local v170 = tbl13[v60]
+                                            local v171 = tbl13[v58]
+                                            local v168 = v170 + 2
+                                            local list17 = { func11[v170](func11[v170 + 1], func11[v168]) }
+                                            for index26 = 1, v171 do
+                                                func11[v168 + index26] = list17[index26] 
+                                            end
+                                            local v167 = func11[list17](func11[list17 + 1], func11[v168])
+                                            if v167 then
+                                                func11[v168] = v167
+                                                v86 = tbl13[v61]
+                                            else
+                                                v86 = v86 + 1
+                                            end
+                                        else
+                                            local v172 = tbl13[v60]
+                                            func11[v172](func11[v172 + 1])
+                                        end
+                                    end
+                                else
+                                    if 5 < v87 then
+                                        if 6 < v87 then
+                                            if v87 >= 4 then
+                                                if v87 < 8 then
+                                                    local v173, v174, v175, tbl39, v176, v177, v178
+                                                    local v179 = 0
+                                                    while v179 > -1 do
+                                                        if v179 >= 3 then
+                                                            if v179 < 5 then
+                                                                if 1 <= v179 then
+                                                                    for v180 = 15, 94 do
+                                                                        if 4 > v179 then
+                                                                            v177 = tbl39[v173]
+                                                                            break
+                                                                        end
+                                                                        v178 = func11[v176]
+                                                                        for index27 = 1 + v176, tbl39[v175] do
+                                                                            v178 = v178 .. func11[index27] 
+                                                                        end
+                                                                        break 
+                                                                    end
+                                                                else
+                                                                    v177 = tbl39[v173]
+                                                                end
+                                                            else
+                                                                if 5 == v179 then
+                                                                    func11[v177] = v178
+                                                                else
+                                                                    v179 = -2
+                                                                end
+                                                            end
+                                                        else
+                                                            if 0 >= v179 then
+                                                                v173 = v60
+                                                                v174 = v61
+                                                                v175 = v58
+                                                            else
+                                                                if v179 > -2 then
+                                                                    for v181 = 24, 73 do
+                                                                        if 1 < v179 then
+                                                                            v176 = tbl39[v174]
+                                                                            break
+                                                                        end
+                                                                        tbl39 = tbl13
+                                                                        break 
+                                                                    end
+                                                                else
+                                                                    tbl39 = tbl13
+                                                                end
+                                                            end
+                                                        end
+                                                        v179 = v179 + 1 
+                                                    end
+                                                    break
+                                                end
+                                                func11[tbl13[v60]][tbl13[v61]] = tbl13[v58]
+                                            else
+                                                func11[tbl13[v60]][tbl13[v61]] = tbl13[v58]
+                                            end
+                                        else
+                                            func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                        end
+                                    else
+                                        if v87 >= 3 then
+                                            for v185 = 48, 77 do
+                                                if v87 ~= 4 then
+                                                    local v182, tbl40
+                                                    for index28 = 0, 6 do
+                                                        if index28 >= 3 then
+                                                            if 4 < index28 then
+                                                                if 3 ~= index28 then
+                                                                    for v183 = 30, 82 do
+                                                                        if index28 ~= 6 then
+                                                                            func11[tbl13[v60]] = func11[tbl13[v61]]
+                                                                            v86 = v86 + 1
+                                                                            tbl13 = tbl12[v86]
+                                                                            break
+                                                                        end
+                                                                        v182 = tbl13[v60]
+                                                                        func11[v182](func5(func11, v182 + 1, tbl13[v61]))
+                                                                        break 
+                                                                    end
+                                                                else
+                                                                    v182 = tbl13[v60]
+                                                                    func11[v182](func5(func11, v182 + 1, tbl13[v61]))
+                                                                end
+                                                            else
+                                                                if index28 ~= 2 then
+                                                                    for v184 = 30, 73 do
+                                                                        if index28 < 4 then
+                                                                            func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                                            v86 = v86 + 1
+                                                                            tbl13 = tbl12[v86]
+                                                                            break
+                                                                        end
+                                                                        v182 = tbl13[v60]
+                                                                        tbl40 = func11[tbl13[v61]]
+                                                                        func11[v182 + 1] = tbl40
+                                                                        func11[v182] = tbl40[tbl13[v58]]
+                                                                        v86 = v86 + 1
+                                                                        tbl13 = tbl12[v86]
+                                                                        break 
+                                                                    end
+                                                                else
+                                                                    func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                                    v86 = v86 + 1
+                                                                    tbl13 = tbl12[v86]
+                                                                end
+                                                            end
+                                                        else
+                                                            if index28 > 0 then
+                                                                if index28 >= 0 then
+                                                                    if index28 ~= 1 then
+                                                                        v182 = tbl13[v60]
+                                                                        func11[v182] = func11[v182]()
+                                                                        v86 = v86 + 1
+                                                                        tbl13 = tbl12[v86]
+                                                                        break
+                                                                    end
+                                                                    func11[tbl13[v60]] = func11[tbl13[v61]]
+                                                                    v86 = v86 + 1
+                                                                    tbl13 = tbl12[v86]
+                                                                else
+                                                                    func11[tbl13[v60]] = func11[tbl13[v61]]
+                                                                    v86 = v86 + 1
+                                                                    tbl13 = tbl12[v86]
+                                                                end
+                                                            else
+                                                                v182 = tbl13[v60]
+                                                                func11[v182](func5(func11, v182 + 1, tbl13[v61]))
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                            end
+                                                        end 
+                                                    end
+                                                    break
+                                                end
+                                                func11[tbl13[v60]] = tbl13[v61] ~= 0
+                                                break 
+                                            end
+                                        else
+                                            local v186, tbl41
+                                            for index29 = 0, 6 do
+                                                if index29 >= 3 then
+                                                    if 4 < index29 then
+                                                        if 3 ~= index29 then
+                                                            for v187 = 30, 82 do
+                                                                if index29 ~= 6 then
+                                                                    func11[tbl13[v60]] = func11[tbl13[v61]]
+                                                                    v86 = v86 + 1
+                                                                    tbl13 = tbl12[v86]
+                                                                    break
+                                                                end
+                                                                v186 = tbl13[v60]
+                                                                func11[v186](func5(func11, v186 + 1, tbl13[v61]))
+                                                                break 
+                                                            end
+                                                        else
+                                                            v186 = tbl13[v60]
+                                                            func11[v186](func5(func11, v186 + 1, tbl13[v61]))
+                                                        end
+                                                    else
+                                                        if index29 ~= 2 then
+                                                            for v188 = 30, 73 do
+                                                                if index29 < 4 then
+                                                                    func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                                    v86 = v86 + 1
+                                                                    tbl13 = tbl12[v86]
+                                                                    break
+                                                                end
+                                                                v186 = tbl13[v60]
+                                                                tbl41 = func11[tbl13[v61]]
+                                                                func11[v186 + 1] = tbl41
+                                                                func11[v186] = tbl41[tbl13[v58]]
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                                break 
+                                                            end
+                                                        else
+                                                            func11[tbl13[v60]] = func11[tbl13[v61]][tbl13[v58]]
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        end
+                                                    end
+                                                else
+                                                    if index29 > 0 then
+                                                        if index29 >= 0 then
+                                                            if index29 ~= 1 then
+                                                                v186 = tbl13[v60]
+                                                                func11[v186] = func11[v186]()
+                                                                v86 = v86 + 1
+                                                                tbl13 = tbl12[v86]
+                                                                break
+                                                            end
+                                                            func11[tbl13[v60]] = func11[tbl13[v61]]
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        else
+                                                            func11[tbl13[v60]] = func11[tbl13[v61]]
+                                                            v86 = v86 + 1
+                                                            tbl13 = tbl12[v86]
+                                                        end
+                                                    else
+                                                        v186 = tbl13[v60]
+                                                        func11[v186](func5(func11, v186 + 1, tbl13[v61]))
+                                                        v86 = v86 + 1
+                                                        tbl13 = tbl12[v86]
+                                                    end
+                                                end 
+                                            end
+                                        end
+                                    end
+                                end
+                            end
+                        end
+                    end
+                    v86 = 1 + v86 
+                end 
+            end
+            
+            return function56 
+        end
+        
+        local list18 = 0xff
+        local tbl44 = {}
+        local v197 = 1
+        local v198 = '';
+        (function(tbl45)
+                local list19 = tbl45
+                local v206 = 0x00
+                local v208 = 0x00;
+                (function(function70)
+                    if v206 > 0x21 then return function70 end
+                    local v207 = v206 + 1
+                    local v201 = (v208 + 0xa62 - function70) % 0x32
+                    return v201 % 0x03 == 0x0 and (function(function73)
+                        if not tbl45[function73] then
+                            local v205 = v201 + 0x01
+                            tbl45[function73] = 0xd3
+                            local v204 = '%'
+                            local list20 = { function() end }
+                            v204 = v204 .. 'd+'
+                        end
+                        return true 
+                    end)'GfGlY' and list19[0x1](0x3c7 + function70) or v201 % 0x03 == 0x2 and (function(function72)
+                        if not tbl45[function72] then
+                            local v203 = v201 + 0x01
+                            tbl45[function72] = 0xbe
+                        end
+                        return true 
+                    end)'PuOcY' and list19[0x2](function70 + 0x1e8) or v201 % 0x03 == 0x1 and (function(function71)
+                        if not tbl45[function71] then
+                            local v202 = v201 + 0x01
+                            tbl45[function71] = 0x72
+                            list18[2] = list18[2] * (function55(function() end, func5(v198)) - function55(function() end, func5(v198))) + 1
+                            tbl44[v197] = {}
+                            local v199 = list18[2]
+                            local v200 = v197 + v199
+                        end
+                        return true 
+                    end)'oEMWy' and list19[0x3](function70 + 0xc8) or function70 
+                end)(0xb4d) 
+            end){}
+        local func6 = toggle2(func5(tbl44))
+        return func6(...) 
+    end
+    
+    return function21((function()
+        local tbl3 = {}
+        local v16 = 0x01
+        local v17
+        if tbl4.FbbpOMHb then
+            v17 = tbl4.FbbpOMHb(function21)
+        else
+            v17 = ''
+        end
+        if tbl4._E_BnfIB(v17, tbl4.eknYutUx) then
+            v16 = v16
+        else
+            v16 = v16 + 1
+        end
+        tbl3[v16] = 0x02
+        tbl3[tbl3[v16] + 0x01] = 0x03
+        return tbl3 
+    end)(), ...) 
+end)(function(function5, function1, function4, function3, function2, function20)
+    local v15
+    if 4 > function5 then
+        if 1 < function5 then
+            if 0 < function5 then
+                if 2 < function5 then
+                    return function1(1), function1(4, function2, function3, function4, function1), function1(5, function2, function3, function4)
+                    break
+                end
+                return 16777216, 65536, 256
+            else
+                return function1(1), function1(4, function2, function3, function4, function1), function1(5, function2, function3, function4)
+            end
+        else
+            if function5 > -4 then
+                for v32 = 42, 82 do
+                    if function5 ~= 0 then
+                        return function(function8, function6, function7)
+                            if function7 then
+                                local v12 = function8 / 2 ^ (function6 - 1) % 2 ^ (function7 - 1 - (function6 - 1) + 1)
+                                return v12 - v12 % 1
+                            else
+                                local v22 = 2 ^ (function6 - 1)
+                                return function8 % (v22 + v22) >= v22 and 1 or 0
+                            end 
+                        end
+                        break
+                    end
+                    return function1(1), function1(4, function2, function3, function4, function1), function1(5, function2, function3, function4)
+                    break 
+                end
+            else
+                return function(function11, function9, function10)
+                    if function10 then
+                        local v42 = function11 / 2 ^ (function9 - 1) % 2 ^ (function10 - 1 - (function9 - 1) + 1)
+                        return v42 - v42 % 1
+                    else
+                        local v52 = 2 ^ (function9 - 1)
+                        return function11 % (v52 + v52) >= v52 and 1 or 0
+                    end 
+                end
+            end
+        end
+    else
+        if 6 <= function5 then
+            if 6 < function5 then
+                if 6 <= function5 then
+                    for v62 = 26, 76 do
+                        if 8 ~= function5 then
+                            return setmetatable({}, {
+                                ['__call'] = function(tbl1, function15, function14, function13, function12)
+                                    if function12 then
+                                        return tbl1[function12]
+                                    elseif function13 then
+                                        return tbl1
+                                    else
+                                        tbl1[function15] = function14
+                                    end 
+                                end
+                            })
+                            break
+                        end
+                        return function4(function5, nil, function4)
+                        break 
+                    end
+                else
+                    return setmetatable({}, {
+                        ['__call'] = function(tbl2, function19, function18, function17, function16)
+                            if function16 then
+                                return tbl2[function16]
+                            elseif function17 then
+                                return tbl2
+                            else
+                                tbl2[function19] = function18
+                            end 
+                        end
+                    })
+                end
+            else
+                return function2[function4]
+            end
+        else
+            if function5 == 5 then
+                local func = function3
+                return function()
+                    local v72 = function1(function4, func(func, func), func(func, func))
+                    func(1)
+                    return v72 
+                end
+            else
+                local func2 = function3
+                local v13, v11, v9 = function2(2)
+                return function()
+                    local v8, v10, v122, v14 = function1(function4, func2(func2, func2), func2(func2, func2) + 3)
+                    func2(4)
+                    return v14 * v13 + v122 * v11 + v10 * v9 + v8 
+                end
+            end
+        end
+    end 
+end, ...)
