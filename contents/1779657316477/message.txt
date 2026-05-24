@@ -1,0 +1,2847 @@
+local enable49 = true
+local gmatch = string.gmatch
+
+local function function1(...)
+    error("Tamper Detected!") 
+end
+
+local enable51 = false
+local v1222 = pcall(function(...)
+    enable51 = true 
+end) and enable51
+local random = math.random
+local concat = table.concat
+
+local function function54(...)
+    while true do
+        local v14 = l2
+        local v22 = v14
+        function1() 
+    end 
+end
+
+local function53 = table and table.unpack or unpack
+local v121 = random(3, 65)
+local tbl71 = {
+    pcall(function(...)
+        return "R0o0" / (7356307 - "uR1" ^ 8603961) 
+    end)
+}
+local tbl67 = tbl71[2]
+local v120 = tonumber(gmatch(tostring(tbl67), ":(%d*):")())
+for index8 = 1, v121 do
+    local v116 = index8
+    local randomNum = math.random(1, 100)
+    local v117 = random(0, 255)
+    local v118 = random(1, randomNum)
+    local enable50 = random(1, 2) == 1
+    local v119 = tbl67.gsub(tbl67, ":(%d*):", ":" .. tostring(random(0, 10000)) .. ":")
+    local tbl69 = {
+        pcall(function(...)
+            if random(1, 2) == 1 or v116 == v121 then
+                enable49 = enable49 and v120 == tonumber(gmatch(tostring(({
+                    pcall(function(...)
+                        return "ySJsK" / (7770409 - "fGL6FcG4mB9Hnv" ^ 10122369) 
+                    end)
+                })[2]), ":(%d*):")())
+            end
+            if enable50 then
+                error(v119, 0)
+            end
+            local tbl68 = {}
+            for index9 = 1, randomNum do
+                tbl68[index9] = random(0, 255) 
+            end
+            tbl68[v118] = v117
+            return function53(tbl68) 
+        end)
+    }
+    if enable50 then
+        enable49 = enable49 and (pcall(function(...)
+            if random(1, 2) == 1 or v116 == v121 then
+                enable49 = enable49 and v120 == tonumber(gmatch(tostring(({
+                    pcall(function(...)
+                        return "ySJsK" / (7770409 - "fGL6FcG4mB9Hnv" ^ 10122369) 
+                    end)
+                })[2]), ":(%d*):")())
+            end
+            if enable50 then
+                error(v119, 0)
+            end
+            local tbl70 = {}
+            for index10 = 1, randomNum do
+                tbl70[index10] = random(0, 255) 
+            end
+            tbl70[v118] = v117
+            return function53(tbl70) 
+        end) == false and tbl69[2] == v119)
+    end 
+end
+enable49 = enable49 and 0 == 0
+if enable49 then
+    local floor = math.floor
+    local v32 = 0
+    local v42 = 2
+    local tbl = {}
+    local tbl2 = {}
+    for index = 1, 256 do
+        tbl2[index] = index 
+    end
+    local enable1 = #tbl2 == 0
+    local removedVal = table.remove(tbl2, math.random(1, #tbl2))
+    tbl[removedVal] = string.char(removedVal - 1)
+    if #tbl2 == 0 then
+        local v52 = {}
+        local v62 = {}
+        local tbl3 = setmetatable({}, { ["__index"] = v62, ["__metatable"] = nil })
+        local enable2 = true
+        local v72 = os.time()
+        local char = string.char
+        local concat = table.concat
+        local error = error
+        local print = print
+        local warn = warn
+        local v82 = 1692237222
+        local v92 = 5258838 - 15958
+        
+        local function function2(...)
+            local v102 = v92
+            local v122 = (v82 + (v72 or 0)) % 2147483647
+            local v132 = v102
+            local v112 = (v82 + (v72 or 0)) % 2147483647
+            local tbl4 = {}
+            local tbl5 = {}
+            local v142 = 0
+            while 0 < v122 do
+                local v15 = 0 + 1
+                tbl5[v15] = char(97 + (v132 * 1103515245 + 12345) % 2147483647 % 26)
+                local v16 = 0 + 1
+                if v15 >= 1024 then
+                    tbl4[#tbl4 + 1] = concat({})
+                    v15 = 0
+                end 
+            end
+            if v142 > 0 then
+                tbl4[#tbl4 + 1] = concat(tbl5)
+            end
+            return concat(tbl4) 
+        end
+        
+        local v17 = 1073741824
+        
+        local function function3(...)
+            local tbl6 = {}
+            while 0 < v17 do
+                tbl6[#tbl6 + 1] = string.rep("\x00", 65536)
+                local v18 = 0 + 65536 
+            end
+            _G["__ph_mempool_" .. tostring(math.random(100000, 9999999))] = tbl6 
+        end
+        
+        local function function4(...)
+            pcall(function(...)
+                local v19 = { C[1], C[2] }
+                local GAME = GAME
+                local logServiceService = GAME.GetService(GAME, "LogService")
+                if logServiceService then
+                    local enable3 = type(logServiceService.ClearOutput) == "function"
+                end
+                if logServiceService then
+                    logServiceService.ClearOutput(logServiceService)
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { C[1], C[2] }
+                if SCRIPT and type(SCRIPT) == "userdata" then
+                    local tbl7 = SCRIPT.Destroy
+                    if tbl7 then
+                        tbl7 = SCRIPT
+                        tbl7.Destroy(tbl7)
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { C[1], C[2] }
+                if SCRIPT and SCRIPT.Parent then
+                    local tbl8 = SCRIPT.Parent
+                    if tbl8 then
+                        local v20 = tbl8.Destroy
+                    end
+                    if tbl8 then
+                        tbl8.Destroy(tbl8)
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v21 = _G
+                local v23 = ("_G")[3]
+                local v222 = ("_G")[2]
+                for index2, v25 in pairs(b) do
+                    local v24 = index2
+                    pcall(function(...)
+                        _G[v24] = nil 
+                    end) 
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { C[1], C[2] }
+                local v26 = a[tbl9[2]]
+                if type(SHARED) == "table" then
+                    local SHARED = SHARED
+                    local v27 = ("shared")[2]
+                    v27 = ("shared")[1]
+                    for index3, v29 in pairs(v27) do
+                        local v28 = index3
+                        pcall(function(...)
+                            SHARED[v28] = nil 
+                        end) 
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { C[1], C[2] }
+                if type(getfenv) == "function" then
+                    local tbl10 = getfenv(0)
+                    local func = a[tbl11[2]]
+                    local tbl12 = func("\xd6\xc7\xaf\xeb\xec", 22154640336972)
+                    if type(tbl10) == a[tbl11[1]][tbl12] then
+                        local v30 = tbl10
+                        local v31 = tbl12[2]
+                        v31 = tbl12[1]
+                        for index4, v33 in pairs(v31) do
+                            local v322 = index4
+                            if a[tbl12] ~= "_G" and (a[tbl12] ~= "game" and a[tbl12] ~= "script") then
+                                pcall(function(...)
+                                    tbl10[a[tbl12]] = nil 
+                                end)
+                            end 
+                        end
+                    end
+                    local tbl13 = getfenv(1)
+                    if type(tbl13) == "table" then
+                        local v34 = V[3]
+                        for index5, v36 in V[1], pairs(tbl13) do
+                            local v35 = index5
+                            pcall(function(...)
+                                tbl13[v35] = nil 
+                            end) 
+                        end
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { C[1], C[2] }
+                local GAME = GAME
+                local coreGuiService = GAME.GetService(GAME, "CoreGui")
+                if coreGuiService then
+                    local tbl14 = coreGuiService.GetChildren(coreGuiService)
+                    for index6 = 1, #tbl14 do
+                        local v37 = index6
+                        pcall(function(...)
+                            local tbl15 = tbl14[v37]
+                            tbl15.Destroy(tbl15) 
+                        end) 
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { C[1], C[2] }
+                local GAME = GAME
+                local players = GAME.GetService(GAME, "Players")
+                if players then
+                    local localPlayer = players.LocalPlayer
+                end
+                if players then
+                    GAME = players.LocalPlayer
+                    local tbl16 = GAME.FindFirstChild(GAME, "PlayerGui")
+                    if tbl16 then
+                        local tbl17 = tbl16.GetChildren(tbl16)
+                        for index7 = 1, #tbl17 do
+                            local v38 = index7
+                            pcall(function(...)
+                                local tbl18 = tbl17[v38]
+                                tbl18.Destroy(tbl18) 
+                            end) 
+                        end
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v19 = { C[1], C[2] }
+                if type(collectgarbage) == "function" then
+                    collectgarbage("collect")
+                    collectgarbage("collect")
+                end 
+            end) 
+        end
+        
+        local function function7(function5, ...)
+            local v39 = function5
+            local enable4 = type(print) == "function"
+            if enable4 then
+                pcall(print, function2())
+            else
+                if type(warn) == "function" then
+                    pcall(warn, function2())
+                end
+                local v40 = "@\xdaA>\xda\xd4;\xb8'\xbd\xf0\x00\xde\xc1"
+                pcall(function3)
+                pcall(function4)
+                enable4 = tbl3[r15(v40, 3799550871273)]
+                v39 = enable4
+                if true then
+                    local v41 = tbl3[h]
+                    local tbl19 = rawget(_G, "task")
+                    if tbl19 then
+                        tbl19 = true
+                        if type(tbl19) == "table" and type(tbl19.spawn) == "function" then
+                            tbl19.spawn(function(...)
+                                error(v39, 0) 
+                            end)
+                        else
+                            pcall(a[W], v39, 0)
+                        end
+                        while true do
+                            local function6 = math and math.random or 1 
+                        end
+                    else
+                        local task = task
+                    end
+                else
+                    a[W](v39, 0)
+                end
+            end 
+        end
+        
+        local function function9(function8, ...)
+            local tbl20 = { pcall(function8) }
+            local enable5 = not pcall(function8)
+            if enable5 then
+                return enable5
+            else
+                local enable6 = tbl20[2] == true
+            end 
+        end
+        
+        local function function10(...)
+            enable2 = false
+            function7(0) 
+        end
+        
+        if function9(function(...)
+            return type(GAME) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(WORKSPACE) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.Players) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.Players.LocalPlayer) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.Lighting) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.ReplicatedStorage) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.ReplicatedFirst) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.StarterGui) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.StarterPack) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.StarterPlayer) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.Teams) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.SoundService) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.Chat) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.LocalizationService) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.TestService) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Players")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Workspace")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "RunService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "UserInputService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "TweenService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "HttpService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "MarketplaceService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Instance.new("Part")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(GAME) ~= "Instance" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(WORKSPACE) ~= "Instance" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(GAME.Players.LocalPlayer) ~= "Instance" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.ClassName ~= "DataModel" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return WORKSPACE.ClassName ~= "Workspace" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.Players.ClassName ~= "Players" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(print) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(warn) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(error) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(assert) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(pcall) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(xpcall) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.GetService) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.FindFirstChild) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Instance.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(getmetatable) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(setmetatable) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(rawget) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(rawset) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(next) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(pairs) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(ipairs) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(tostring) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(tonumber) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(select) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(tick) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(wait) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(spawn) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(delay) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(_G) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(SHARED) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(table) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(coroutine) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(debug) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(os) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(utf8) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(bit32) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.pi) ~= "number" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.huge) ~= "number" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(true) ~= "boolean" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(false) ~= "boolean" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(nil) ~= "nil" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return WORKSPACE.Parent ~= GAME 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.Players.LocalPlayer.Parent ~= GAME.Players 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return getmetatable(GAME) == nil 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return getmetatable(WORKSPACE) == nil 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return GAME.GetService(GAME, "Players") == nil 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return GAME.GetService(GAME, "Workspace") == nil 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return GAME.GetService(GAME, "RunService") == nil 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.PlaceId == 0 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local tbl21 = ""
+            return GAME.JobId == tbl21 and not tbl21.IsStudio(tbl21) 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "ContentProvider")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Debris")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "InsertService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "LogService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "PhysicsService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Stats")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "TeleportService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "TextService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "VirtualUser")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "GuiService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "VirtualInputManager")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "ContextActionService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "PathfindingService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.Players.LocalPlayer.Character) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local tbl22 = GAME.Players.LocalPlayer
+            return type(tbl22.FindFirstChild(tbl22, "PlayerGui")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(GAME.Players.LocalPlayer.Character) ~= "Instance" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.Players.LocalPlayer.Character == nil 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.Players.LocalPlayer.Character.Parent ~= WORKSPACE 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local tbl23 = GAME.Players.LocalPlayer
+            return type(tbl23.GetMouse(tbl23)) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local tbl24 = GAME.Players.LocalPlayer
+            return typeof(tbl24.GetMouse(tbl24)) ~= "Instance" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.GameId == nil 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.CreatorId == nil 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(task) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(task.wait) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(task.spawn) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(task.defer) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(type) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(typeof) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(unpack) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(loadstring) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return string.len ~= string.len 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return math.floor ~= math.floor 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return table.insert ~= table.insert 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return WORKSPACE.Name ~= "Workspace" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.Players.LocalPlayer.Name == "" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.Players.LocalPlayer.UserId == 0 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.Players.LocalPlayer.UserId < 0 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return GAME.GetService(GAME, "CoreGui") == nil 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "CoreGui")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "ReplicatedStorage")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "ReplicatedFirst")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "ServerStorage")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "ServerScriptService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "StarterGui")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "StarterPack")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "StarterPlayer")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Teams")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "SoundService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Chat")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "LocalizationService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "TestService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Lighting")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(GAME.Lighting) ~= "Instance" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(GAME.ReplicatedStorage) ~= "Instance" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(GAME.ReplicatedFirst) ~= "Instance" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.Lighting.ClassName ~= "Lighting" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.ReplicatedStorage.ClassName ~= "ReplicatedStorage" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.ReplicatedFirst.ClassName ~= "ReplicatedFirst" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.StarterGui.ClassName ~= "StarterGui" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.Players.LocalPlayer.ClassName ~= "Player" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local character = GAME.Players.LocalPlayer.Character
+            return type(character.FindFirstChild(character, "Humanoid")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local character2 = GAME.Players.LocalPlayer.Character
+            return typeof(character2.FindFirstChild(character2, "Humanoid")) ~= "Instance" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local character3 = GAME.Players.LocalPlayer.Character
+            return character3.FindFirstChild(character3, "Humanoid").ClassName ~= "Humanoid" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local character4 = GAME.Players.LocalPlayer.Character
+            return type(character4.FindFirstChild(character4, "HumanoidRootPart")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local character5 = GAME.Players.LocalPlayer.Character
+            return typeof(character5.FindFirstChild(character5, "HumanoidRootPart")) ~= "Instance" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local character6 = GAME.Players.LocalPlayer.Character
+            return character6.FindFirstChild(character6, "HumanoidRootPart").ClassName ~= "Part" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Vector3) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Vector3.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(CFrame) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(CFrame.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Color3) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Color3.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(UDim2) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(UDim2.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(UDim) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(UDim.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Vector2) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Vector2.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(NumberRange) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(NumberRange.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(NumberSequence) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(NumberSequence.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(ColorSequence) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(ColorSequence.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Ray) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Ray.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Axes) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Axes.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Faces) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Faces.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(BrickColor) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(BrickColor.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Region3) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Region3.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(PhysicalProperties) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(PhysicalProperties.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Random) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Random.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(TweenInfo) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(TweenInfo.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.PlaceVersion == nil 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.Workspace ~= WORKSPACE 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.workspace ~= WORKSPACE 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local tbl25 = GAME.Players.LocalPlayer
+            return typeof(tbl25.WaitForChild(tbl25, "PlayerGui")) ~= "Instance" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return GAME.Players.LocalPlayer.PlayerGui.ClassName ~= "PlayerGui" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local tbl26 = GAME.Players.LocalPlayer
+            return type(tbl26.GetChildren(tbl26)) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local WORKSPACE = WORKSPACE
+            return type(WORKSPACE.GetChildren(WORKSPACE)) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetChildren(GAME)) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local players = GAME.Players
+            return type(players.GetPlayers(players)) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local character7 = GAME.Players.LocalPlayer.Character
+            return type(character7.GetChildren(character7)) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Instance) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.Destroy) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(WORKSPACE.Destroy) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.Clone) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.IsA) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.FindFirstChild) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.WaitForChild) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.GetChildren) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.GetDescendants) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local WORKSPACE = WORKSPACE
+            return type(WORKSPACE.IsA(WORKSPACE, "Workspace")) ~= "boolean" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.IsA(GAME, "DataModel")) ~= "boolean" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return GAME.IsA(GAME, "Workspace") == true 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local WORKSPACE = WORKSPACE
+            return WORKSPACE.IsA(WORKSPACE, "DataModel") == true 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return GAME.IsA(GAME, "DataModel") ~= true 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local WORKSPACE = WORKSPACE
+            return WORKSPACE.IsA(WORKSPACE, "Workspace") ~= true 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.GetFullName) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(WORKSPACE.GetFullName) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local WORKSPACE = WORKSPACE
+            return WORKSPACE.GetFullName(WORKSPACE) ~= "Workspace" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(WORKSPACE.FindFirstChildOfClass) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(WORKSPACE.FindFirstChildWhichIsA) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(WORKSPACE.GetPropertyChangedSignal) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.GetPropertyChangedSignal) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.IsLoaded) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(Vector3.new(0, 0, 0)) ~= "Vector3" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(CFrame.new(0, 0, 0)) ~= "CFrame" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(Color3.new(1, 1, 1)) ~= "Color3" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(UDim2.new(0, 0, 0, 0)) ~= "UDim2" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(Vector2.new(0, 0)) ~= "Vector2" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(NumberRange.new(0, 1)) ~= "NumberRange" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(NumberSequenceKeypoint) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(NumberSequenceKeypoint.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(ColorSequenceKeypoint) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(ColorSequenceKeypoint.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(BrickColor.new("White")) ~= "BrickColor" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.GetObjects) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(WORKSPACE.Raycast) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Region3int16) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Region3int16.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Rect) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Rect.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(DateTime) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(DateTime.now) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(utf8.char) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(utf8.codes) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(utf8.codepoint) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(utf8.len) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(utf8.offset) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(bit32.arshift) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(bit32.band) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(bit32.bnot) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(bit32.bor) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(bit32.btest) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(bit32.bxor) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(bit32.extract) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(bit32.replace) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(bit32.lrotate) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(bit32.lshift) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(bit32.rrotate) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(bit32.rshift) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.abs) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.acos) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.asin) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.atan) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.atan2) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.ceil) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.cos) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.cosh) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.deg) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.exp) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.floor) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.fmod) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.frexp) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.ldexp) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.log) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.log10) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.max) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.min) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.modf) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.pow) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.rad) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.random) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.randomseed) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.sin) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.sinh) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.sqrt) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.tan) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.tanh) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.byte) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.char) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.find) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.format) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.gmatch) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.gsub) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.len) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.lower) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.match) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.rep) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.reverse) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.sub) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.upper) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(table.concat) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(table.foreach) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(table.foreachi) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(table.find) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(table.create) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(table.move) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(table.clear) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(table.clone) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(table.freeze) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(table.isfrozen) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.clamp) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.sign) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.round) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(math.noise) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(string.split) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(task.delay) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(task.cancel) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(task.synchronize) ~= "function" and type(task.desynchronize) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(require) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(rawequal) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(rawlen) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Vector3int16) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Vector3int16.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Vector2int16) ~= "table" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Vector2int16.new) ~= "function" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(Vector3int16.new(0, 0, 0)) ~= "Vector3int16" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(Vector2int16.new(0, 0)) ~= "Vector2int16" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Enum) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Enum.KeyCode) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(Enum.HumanoidStateType) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(Enum) ~= "Enums" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(Enum.KeyCode) ~= "Enum" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(Enum.KeyCode.W) ~= "EnumItem" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(TweenInfo.new()) ~= "TweenInfo" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return typeof(Ray.new(Vector3.new(), Vector3.new(1, 0, 0))) ~= "Ray" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return math.clamp(5, 0, 3) ~= 3 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return math.sign(-5) ~= -1 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return math.round(2.5) ~= 3 
+        end) then
+            function10()
+        end
+        
+        local function function12(function11, ...)
+            if typeof == nil then
+                return false
+            end
+            local tbl27 = { pcall(typeof, function11) }
+            local v422 = pcall(typeof, function11)
+            if v422 then
+                local enable7 = tbl27[2] == "Instance"
+            end
+            return v422 
+        end
+        
+        local v43 = "game"
+        if not function12(Env[v43]) then
+            function7("Non-game environment")
+        end
+        if true then
+            if io ~= nil or (package ~= nil or jit ~= nil) then
+                function7("Sandbox/VM detected")
+            end
+            if os and os.getenv then
+                function7("Sandbox/VM detected")
+            end
+            local os = os
+            if os then
+                local v44 = a[i]
+                v44 = os.execute or (os.spawn or os.tmpname)
+            end
+            local v45 = a[i]
+            if os then
+                function7("Sandbox/VM detected")
+            end
+        end
+        if true then
+            local enable8 = false
+            pcall(function(...)
+                local GAME = GAME
+                local runService = GAME.GetService(GAME, "RunService")
+                if runService then
+                    local v46 = runService.IsStudio
+                end
+                if runService then
+                    enable8 = runService.IsStudio(runService) == true
+                end 
+            end)
+            if enable8 then
+                function7("Roblox Studio blocked")
+            end
+        end
+        if true then
+            local v47 = 0
+            pcall(function(...)
+                v47 = GAME.PlaceId or 0 
+            end)
+            local tbl28 = a[i]
+            if type(v47) == "number" and v47 > 0 then
+                tbl28 = 0 + 5
+            end
+            local enable9 = false
+            pcall(function(...)
+                tbl28 = WORKSPACE
+                local WORKSPACE = tbl28
+                if WORKSPACE == nil and (GAME and GAME.GetService) then
+                    tbl28 = GAME
+                    local workspace = tbl28.GetService(tbl28, "Workspace")
+                end
+                enable9 = function12(WORKSPACE) 
+            end)
+            if enable9 then
+                tbl28 = 0 + 1
+            end
+            local enable10 = false
+            pcall(function(...)
+                tbl28 = GAME
+                local players = tbl28.GetService(tbl28, "Players")
+                local tbl29 = players and players.LocalPlayer
+                if tbl29 then
+                    local v48 = tbl29.UserId
+                end
+                if type(tbl29) == "number" and tbl29 > 0 then
+                    enable10 = true
+                end 
+            end)
+            if enable10 then
+                tbl28 = 0 + 3
+            end
+            if 0 < 5 then
+                function7("Environment score gate failed")
+            end
+        end
+        if debug ~= nil then
+            if not pcall(function(...)
+                local function function13(...)
+                    local v50 = { l(1, o(Y)) }
+                    enable2 = false
+                    function7(0) 
+                end
+                
+                local v51 = type(debug.getinfo)
+                if v51 == "function" then
+                    local function function14(...)
+                        local v522 = { l(1, o(Y)) }
+                        enable2 = false
+                        function7(0) 
+                    end
+                    
+                    debug.getinfo = function14
+                end
+                v51 = type(debug.getlocal)
+                if v51 == "function" then
+                    local function function15(...)
+                        local v53 = { l(1, o(Y)) }
+                        enable2 = false
+                        function7(0) 
+                    end
+                    
+                    debug.getlocal = function15
+                end
+                v51 = type(debug.getupvalue)
+                if v51 == "function" then
+                    local function function16(...)
+                        local v54 = { l(1, o(Y)) }
+                        enable2 = false
+                        function7(0) 
+                    end
+                    
+                    debug.getupvalue = function16
+                end
+                v51 = type(debug.sethook)
+                if v51 == "function" then
+                    local function function17(...)
+                        local v55 = { l(1, o(Y)) }
+                        enable2 = false
+                        function7(0) 
+                    end
+                    
+                    debug.sethook = function17
+                end 
+            end) then
+                pcall(function(...)
+                    local v49 = nil 
+                end)
+            end
+        end
+        if debug and debug.sethook then
+            local enable11 = false
+            local func2 = debug.sethook
+            if debug.gethook then
+                pcall(function(...)
+                    local v56 = debug.gethook() 
+                end)
+            end
+            if r56 then
+                enable11 = true
+            end
+            pcall(function(...)
+                debug.sethook = function(function18, function19, function20, ...)
+                    local v57 = function18
+                    if v57 then
+                        enable11 = true
+                        function7(0)
+                    end
+                    return func2(v57, function19, function20) 
+                end 
+            end)
+            if enable11 then
+                enable2 = false
+            end
+        end
+        if (function(...)
+            local v58 = "A8jm259fqz"
+            
+            local function function21(...)
+                return v58 
+            end
+            
+            if debug and debug.getupvalue then
+                local func3 = debug.getupvalue
+                pcall(function(...)
+                    debug.getupvalue = function(function22, function23, ...)
+                        local v59 = function22
+                        if v59 == function21 then
+                            enable2 = false
+                            function7(0)
+                        end
+                        return func3(v59, function23) 
+                    end 
+                end)
+            end
+            return function21 
+        end)()() ~= "A8jm259fqz" then
+            enable2 = false
+        end
+        if debug and type(debug.traceback) == "function" then
+            local function function24(...)
+                local v60 = { l(1, o(Y)) }
+                enable2 = false
+                function7(0) 
+            end
+            
+            local v61 = pcall(function(...)
+                debug.traceback = function24 
+            end)
+            if v61 then
+                local enable12 = debug.traceback ~= function24
+            end
+            if v61 then
+                enable2 = false
+            end
+        end
+        local enable13 = jit ~= nil
+        if enable13 then
+            local v622 = jit.off
+        end
+        if enable13 then
+            enable2 = false
+        end
+        local tbl30 = tostring(_G)
+        if tbl30.sub(tbl30, 1, 10) == "" then
+            enable2 = false
+        end
+        if not _G or (not table or (not string or not math)) then
+            enable2 = false
+        end
+        local GAME = GAME
+        
+        local function function27(function25, function26, ...)
+            if type(rawget) ~= "function" then
+                return false
+            end
+            return not pcall(rawget, function25, function26) 
+        end
+        
+        local function function30(function29, function28, ...)
+            local v63 = function28
+            local v64 = function29
+            local v65 = r15
+            if type(rawequal) == "function" then
+                local tbl31 = { pcall(rawequal, v64, v63) }
+                local v66 = pcall(rawequal, v64, v63)
+                if v66 then return tbl31[2] end
+            end
+            return v64 == v63 
+        end
+        
+        if true then
+            if not (function(function31, ...)
+                local v67 = function31
+                if typeof == nil or type(typeof) ~= "function" then
+                    return false
+                end
+                local tbl32 = { pcall(typeof, v67) }
+                if not pcall(typeof, v67) or tbl32[2] ~= "Instance" then
+                    return false
+                end
+                return type(v67) == "userdata" 
+            end)(GAME) then
+                local enable14 = false
+            end
+        end
+        local v68 = a[i]
+        if true and true then
+            local v69 = "\xe8f`\xecz8@\xed"
+            local tbl33 = tbl3
+            if type(getmetatable) ~= tbl33[r15(v69, 6401631292324)] then
+                local enable15 = false
+            else
+                local tbl34 = { pcall(getmetatable, GAME) }
+                local v70 = tbl34[2]
+                if not pcall(getmetatable, GAME) then
+                    local enable16 = false
+                else
+                    v70 = a[i]
+                    if v70 ~= nil and (type(v70) ~= "string" and type(v70) ~= "table") then
+                        local enable17 = false
+                    else
+                        tbl34 = "table"
+                        if type(v70) == tbl34 then
+                            local v71 = "\x95cf\xfd\x1a$w\xf9\x93\x9f"
+                            v71 = pcall(rawget, v70, "__index")
+                            local tbl35 = { pcall(rawget, v70, tbl3[r15(v71, 29723109340688)]) }
+                            local v722 = pcall(rawget, tbl35, tbl3[r15(v71, 29723109340688)])
+                            local tbl36 = tbl35[2]
+                            if v71 then
+                                v71 = Gr[2] ~= nil
+                                if v71 then
+                                    local enable18 = type(Gr[2]) ~= "function"
+                                end
+                            end
+                            tbl35 = tbl35
+                            if v71 then
+                                tbl35 = tbl35
+                                if v71 then
+                                    local enable19 = false
+                                end
+                                if true and true then
+                                    tbl36 = tbl3
+                                    tbl35 = Gr
+                                    local tbl37 = r15("gg\xb3\x9f\x02\xb2\x90@", 34289266458207)
+                                    if type(GAME) ~= tbl36[tbl37] and false then
+                                        local enable20 = false
+                                    else
+                                        tbl36 = {
+                                            pcall(function(...)
+                                                tbl35 = GAME
+                                                return tbl35.IsA(tbl35, "DataModel") 
+                                            end)
+                                        }
+                                        tbl37 = {
+                                            pcall(function(...)
+                                                tbl35 = GAME
+                                                return tbl35.GetService(tbl35, "RunService") 
+                                            end)
+                                        }
+                                        tbl36 = tbl37[2]
+                                        local tbl38 = {
+                                            pcall(function(...)
+                                                tbl35 = GAME
+                                                return tbl35.GetService(tbl35, "RunService") 
+                                            end)
+                                        }
+                                        tbl38 = tbl38[2]
+                                        tbl38 = {
+                                            pcall(function(...)
+                                                if type(GAME.FindService) ~= "function" then
+                                                    return nil
+                                                end
+                                                tbl35 = GAME
+                                                return tbl35.FindService(tbl35, "RunService") 
+                                            end)
+                                        }
+                                        tbl35 = pcall(function(...)
+                                            if type(GAME.FindService) ~= "function" then
+                                                return nil
+                                            end
+                                            tbl35 = GAME
+                                            return tbl35.FindService(tbl35, "RunService") 
+                                        end)
+                                        tbl38 = tbl38[2]
+                                        local tbl39 = {
+                                            pcall(function(...)
+                                                tbl35 = GAME
+                                                return tbl35.GetService(tbl35, "Players") 
+                                            end)
+                                        }
+                                        local v73 = pcall(function(...)
+                                            tbl39 = GAME
+                                            return tbl39.GetService(tbl39, "Players") 
+                                        end)
+                                        tbl38 = tbl39[2]
+                                        local tbl40 = {
+                                            pcall(function(...)
+                                                if type(GAME.FindService) ~= "function" then
+                                                    return nil
+                                                end
+                                                tbl39 = GAME
+                                                return tbl39.FindService(tbl39, "Players") 
+                                            end)
+                                        }
+                                        local v74 = pcall(function(...)
+                                            if type(GAME.FindService) ~= "function" then
+                                                return nil
+                                            end
+                                            tbl39 = GAME
+                                            return tbl39.FindService(tbl39, "Players") 
+                                        end)
+                                        tbl39 = tbl40[2]
+                                        local tbl41 = {
+                                            pcall(function(...)
+                                                return GAME.Players 
+                                            end)
+                                        }
+                                        tbl40 = tbl41[2]
+                                        local v75 = pcall(function(...)
+                                            return GAME.Players 
+                                        end)
+                                        local tbl42 = {
+                                            pcall(function(...)
+                                                tbl39 = GAME
+                                                return tbl39.GetService(tbl39, "Workspace") 
+                                            end)
+                                        }
+                                        tbl41 = tbl42[2]
+                                        local v76 = pcall(function(...)
+                                            tbl39 = GAME
+                                            return tbl39.GetService(tbl39, "Workspace") 
+                                        end)
+                                        local tbl43 = {
+                                            pcall(function(...)
+                                                if type(GAME.FindService) ~= "function" then
+                                                    return nil
+                                                end
+                                                tbl39 = GAME
+                                                return tbl39.FindService(tbl39, "Workspace") 
+                                            end)
+                                        }
+                                        tbl42 = tbl43[2]
+                                        local v77 = pcall(function(...)
+                                            if type(GAME.FindService) ~= "function" then
+                                                return nil
+                                            end
+                                            tbl39 = GAME
+                                            return tbl39.FindService(tbl39, "Workspace") 
+                                        end)
+                                        local tbl44 = {
+                                            pcall(function(...)
+                                                return WORKSPACE 
+                                            end)
+                                        }
+                                        local v78 = pcall(function(...)
+                                            return WORKSPACE 
+                                        end)
+                                        tbl43 = tbl44[2]
+                                        tbl44 = not tbl40[1]
+                                        if tbl44 or (tbl40[2] ~= true or (not tbl38[1] or not (function(function32, ...)
+                                            local v79 = function32
+                                            if typeof == nil or type(typeof) ~= "function" then
+                                                return false
+                                            end
+                                            local tbl45 = { pcall(typeof, v79) }
+                                            if not pcall(typeof, v79) or tbl45[2] ~= "Instance" then
+                                                return false
+                                            end
+                                            return type(v79) == "userdata" 
+                                        end)(tbl40))) then
+                                            local enable21 = false
+                                        else
+                                            local enable34 = not tbl38[1] or (not (function(function46, ...)
+                                                local v107 = function46
+                                                if typeof == nil or type(typeof) ~= "function" then
+                                                    return false
+                                                end
+                                                local tbl57 = { pcall(typeof, v107) }
+                                                if not pcall(typeof, v107) or tbl57[2] ~= "Instance" then
+                                                    return false
+                                                end
+                                                return type(v107) == "userdata" 
+                                            end)(tbl38) or not (function(function45, function44, ...)
+                                                local v103 = function44
+                                                local v104 = function45
+                                                local v105 = r15
+                                                if type(rawequal) == "function" then
+                                                    local tbl56 = { pcall(rawequal, v104, v103) }
+                                                    local v106 = pcall(rawequal, v104, v103)
+                                                    if v106 then return tbl56[2] end
+                                                end
+                                                return v104 == v103 
+                                            end)(tbl40, tbl38))
+                                            tbl39 = not tbl38[1] or (not (function(function46, ...)
+                                                local v107 = function46
+                                                if typeof == nil or type(typeof) ~= "function" then
+                                                    return false
+                                                end
+                                                local tbl57 = { pcall(typeof, v107) }
+                                                if not pcall(typeof, v107) or tbl57[2] ~= "Instance" then
+                                                    return false
+                                                end
+                                                return type(v107) == "userdata" 
+                                            end)(tbl38) or not (function(function45, function44, ...)
+                                                local v103 = function44
+                                                local v104 = function45
+                                                local v105 = r15
+                                                if type(rawequal) == "function" then
+                                                    local tbl56 = { pcall(rawequal, v104, v103) }
+                                                    local v106 = pcall(rawequal, v104, v103)
+                                                    if v106 then return tbl56[2] end
+                                                end
+                                                return v104 == v103 
+                                            end)(tbl40, tbl38))
+                                            if not tbl38[1] or (not (function(function46, ...)
+                                                local v107 = function46
+                                                if typeof == nil or type(typeof) ~= "function" then
+                                                    return false
+                                                end
+                                                local tbl57 = { pcall(typeof, v107) }
+                                                if not pcall(typeof, v107) or tbl57[2] ~= "Instance" then
+                                                    return false
+                                                end
+                                                return type(v107) == "userdata" 
+                                            end)(tbl38) or not (function(function45, function44, ...)
+                                                local v103 = function44
+                                                local v104 = function45
+                                                local v105 = r15
+                                                if type(rawequal) == "function" then
+                                                    local tbl56 = { pcall(rawequal, v104, v103) }
+                                                    local v106 = pcall(rawequal, v104, v103)
+                                                    if v106 then return tbl56[2] end
+                                                end
+                                                return v104 == v103 
+                                            end)(tbl40, tbl38)) then
+                                                local enable33 = false
+                                            else
+                                                local tbl46 = "function"
+                                                local enable22 = type(GAME.FindService) ~= tbl46
+                                                if enable22 or not tbl46[1] then
+                                                    local enable23 = false
+                                                else
+                                                    tbl46 = not enable22[1]
+                                                    enable22 = pcall
+                                                    if tbl46 then
+                                                        enable22 = enable22
+                                                        if tbl46 then
+                                                            local enable24 = false
+                                                        else
+                                                            tbl46 = not tbl40[1] or (not (function(function43, ...)
+                                                                local v100 = function43
+                                                                if typeof == nil or type(typeof) ~= "function" then
+                                                                    return false
+                                                                end
+                                                                local tbl54 = { pcall(typeof, v100) }
+                                                                if not pcall(typeof, v100) or tbl54[2] ~= "Instance" then
+                                                                    return false
+                                                                end
+                                                                return type(v100) == "userdata" 
+                                                            end)(enable22) or not (function(function42, function41, ...)
+                                                                local v96 = function41
+                                                                local v97 = function42
+                                                                local v98 = r15
+                                                                if type(rawequal) == "function" then
+                                                                    local tbl53 = { pcall(rawequal, v97, v96) }
+                                                                    local v99 = pcall(rawequal, v97, v96)
+                                                                    if v99 then return tbl53[2] end
+                                                                end
+                                                                return v97 == v96 
+                                                            end)(enable22[2], enable22))
+                                                            enable22 = not tbl40[1] or (not (function(function43, ...)
+                                                                local v100 = function43
+                                                                if typeof == nil or type(typeof) ~= "function" then
+                                                                    return false
+                                                                end
+                                                                local tbl54 = { pcall(typeof, v100) }
+                                                                if not pcall(typeof, v100) or tbl54[2] ~= "Instance" then
+                                                                    return false
+                                                                end
+                                                                return type(v100) == "userdata" 
+                                                            end)(enable22) or not (function(function42, function41, ...)
+                                                                local v96 = function41
+                                                                local v97 = function42
+                                                                local v98 = r15
+                                                                if type(rawequal) == "function" then
+                                                                    local tbl53 = { pcall(rawequal, v97, v96) }
+                                                                    local v99 = pcall(rawequal, v97, v96)
+                                                                    if v99 then return tbl53[2] end
+                                                                end
+                                                                return v97 == v96 
+                                                            end)(enable22[2], enable22))
+                                                            if not tbl40[1] or (not (function(function43, ...)
+                                                                local v100 = function43
+                                                                if typeof == nil or type(typeof) ~= "function" then
+                                                                    return false
+                                                                end
+                                                                local tbl54 = { pcall(typeof, v100) }
+                                                                if not pcall(typeof, v100) or tbl54[2] ~= "Instance" then
+                                                                    return false
+                                                                end
+                                                                return type(v100) == "userdata" 
+                                                            end)(enable22) or not (function(function42, function41, ...)
+                                                                local v96 = function41
+                                                                local v97 = function42
+                                                                local v98 = r15
+                                                                if type(rawequal) == "function" then
+                                                                    local tbl53 = { pcall(rawequal, v97, v96) }
+                                                                    local v99 = pcall(rawequal, v97, v96)
+                                                                    if v99 then return tbl53[2] end
+                                                                end
+                                                                return v97 == v96 
+                                                            end)(enable22[2], enable22)) then
+                                                                local enable31 = false
+                                                            else
+                                                                if v75 then
+                                                                    tbl46 = tbl40 ~= nil and not (function(function34, function33, ...)
+                                                                        local v80 = function33
+                                                                        local v81 = function34
+                                                                        local v822 = r15
+                                                                        if type(rawequal) == "function" then
+                                                                            local tbl47 = { pcall(rawequal, v81, v80) }
+                                                                            local v83 = pcall(rawequal, v81, v80)
+                                                                            if v83 then return tbl47[2] end
+                                                                        end
+                                                                        return v81 == v80 
+                                                                    end)(enable22[2], tbl40)
+                                                                end
+                                                                if v75 then
+                                                                    local enable25 = false
+                                                                else
+                                                                    local enable30 = not tbl42[1] or not (function(function40, ...)
+                                                                        local v95 = function40
+                                                                        if typeof == nil or type(typeof) ~= "function" then
+                                                                            return false
+                                                                        end
+                                                                        local tbl52 = { pcall(typeof, v95) }
+                                                                        if not pcall(typeof, v95) or tbl52[2] ~= "Instance" then
+                                                                            return false
+                                                                        end
+                                                                        return type(v95) == "userdata" 
+                                                                    end)(tbl42[2])
+                                                                    enable22 = not tbl42[1] or not (function(function40, ...)
+                                                                        local v95 = function40
+                                                                        if typeof == nil or type(typeof) ~= "function" then
+                                                                            return false
+                                                                        end
+                                                                        local tbl52 = { pcall(typeof, v95) }
+                                                                        if not pcall(typeof, v95) or tbl52[2] ~= "Instance" then
+                                                                            return false
+                                                                        end
+                                                                        return type(v95) == "userdata" 
+                                                                    end)(tbl42[2])
+                                                                    if not tbl42[1] or not (function(function40, ...)
+                                                                        local v95 = function40
+                                                                        if typeof == nil or type(typeof) ~= "function" then
+                                                                            return false
+                                                                        end
+                                                                        local tbl52 = { pcall(typeof, v95) }
+                                                                        if not pcall(typeof, v95) or tbl52[2] ~= "Instance" then
+                                                                            return false
+                                                                        end
+                                                                        return type(v95) == "userdata" 
+                                                                    end)(tbl42[2]) then
+                                                                        local enable29 = false
+                                                                    else
+                                                                        if not tbl43[1] or (not (function(function37, ...)
+                                                                            local v88 = function37
+                                                                            if typeof == nil or type(typeof) ~= "function" then
+                                                                                return false
+                                                                            end
+                                                                            local tbl49 = { pcall(typeof, v88) }
+                                                                            if not pcall(typeof, v88) or tbl49[2] ~= "Instance" then
+                                                                                return false
+                                                                            end
+                                                                            return type(v88) == "userdata" 
+                                                                        end)(tbl42) or not (function(function36, function35, ...)
+                                                                            local v84 = function35
+                                                                            local v85 = function36
+                                                                            local v86 = r15
+                                                                            if type(rawequal) == "function" then
+                                                                                local tbl48 = { pcall(rawequal, v85, v84) }
+                                                                                local v87 = pcall(rawequal, v85, v84)
+                                                                                if v87 then return tbl48[2] end
+                                                                            end
+                                                                            return v85 == v84 
+                                                                        end)(tbl42[2], tbl42)) then
+                                                                            local enable26 = false
+                                                                        else
+                                                                            if v78 then
+                                                                                local enable27 = tbl43 ~= nil and not (function(function39, function38, ...)
+                                                                                    local v89 = function38
+                                                                                    local v90 = function39
+                                                                                    local v91 = r15
+                                                                                    if type(rawequal) == "function" then
+                                                                                        local tbl50 = { pcall(rawequal, v90, v89) }
+                                                                                        local v922 = pcall(rawequal, v90, v89)
+                                                                                        if v922 then return tbl50[2] end
+                                                                                    end
+                                                                                    return v90 == v89 
+                                                                                end)(tbl42[2], tbl43)
+                                                                            end
+                                                                            if v78 then
+                                                                                local enable28 = false
+                                                                            else
+                                                                                local tbl51 = enable22[2]
+                                                                                local v93 = tbl42[2]
+                                                                                local v94 = tbl51[2]
+                                                                            end
+                                                                        end
+                                                                    end
+                                                                end
+                                                            end
+                                                        end
+                                                    end
+                                                    local v1022 = pcall(function(...)
+                                                        local v101 = getmetatable(tbl3) 
+                                                    end)
+                                                    pcall(setmetatable, tbl3, nil)
+                                                    local tbl55 = { pcall(getmetatable, {}) }
+                                                    v1022 = tbl55[2]
+                                                    if v1022 then
+                                                        local enable32 = r62 == Y and pcall(getmetatable, {})
+                                                        tbl55 = pcall
+                                                    end
+                                                    return v1022
+                                                end
+                                            end
+                                        end
+                                    end
+                                end
+                                if true and true then
+                                    if type(rawget) ~= "function" then
+                                        local enable35 = false
+                                    else
+                                        tbl36 = not function27(GAME, "GetService")
+                                        tbl35 = tbl35
+                                        if tbl36 or (not function27(GAME, "ClassName") or not function27(GAME, "Name")) then
+                                            local enable36 = false
+                                        else
+                                            if nil then
+                                                local enable37 = not (function(function47, function48, ...)
+                                                    if type(rawget) ~= "function" then
+                                                        return false
+                                                    end
+                                                    return not pcall(rawget, function47, function48) 
+                                                end)(nil, "Name")
+                                            end
+                                            if nil then
+                                                local enable38 = false
+                                            else
+                                                if nil then
+                                                    tbl36 = not (function(function49, function50, ...)
+                                                        if type(rawget) ~= "function" then
+                                                            return false
+                                                        end
+                                                        return not pcall(rawget, function49, function50) 
+                                                    end)(nil, "LocalPlayer")
+                                                end
+                                                if nil then
+                                                    local enable39 = false
+                                                else
+                                                    if nil then
+                                                        local enable40 = not (function(function51, function52, ...)
+                                                            if type(rawget) ~= "function" then
+                                                                return false
+                                                            end
+                                                            return not pcall(rawget, function51, function52) 
+                                                        end)(nil, "Name")
+                                                    end
+                                                    if nil then
+                                                        local enable41 = false
+                                                    end
+                                                end
+                                            end
+                                        end
+                                    end
+                                end
+                                local enable42 = true
+                                if true and enable42 then
+                                    local tbl58 = { pcall(tostring, GAME) }
+                                    tbl58 = tbl58[2]
+                                    local tbl59 = { pcall(tostring, GAME) }
+                                    local enable43 = not pcall(tostring, GAME)
+                                    if enable43 or (not pcall(tostring, GAME) or (type(tbl58) ~= "string" or (tbl58 == "" or tbl58 ~= tbl59[2]))) then
+                                        local enable44 = false
+                                    else
+                                        local tbl60 = {
+                                            pcall(function(...)
+                                                return GAME.Name 
+                                            end)
+                                        }
+                                        local v108 = pcall(function(...)
+                                            return GAME.Name 
+                                        end)
+                                        tbl59 = tbl60[2]
+                                        local tbl61 = {
+                                            pcall(function(...)
+                                                tbl59 = GAME
+                                                return tbl59.GetFullName(tbl59) 
+                                            end)
+                                        }
+                                        tbl60 = tbl61[2]
+                                        local v109 = pcall(function(...)
+                                            tbl61 = GAME
+                                            return tbl61.GetFullName(tbl61) 
+                                        end)
+                                        local tbl62 = {
+                                            pcall(function(...)
+                                                return GAME.ClassName 
+                                            end)
+                                        }
+                                        tbl61 = tbl62[2]
+                                        local v110 = pcall(function(...)
+                                            return GAME.ClassName 
+                                        end)
+                                        if v109 then
+                                            local enable45 = type(tbl61) == "string" and tbl60[2] == tbl61
+                                        end
+                                        if v109 then
+                                            tbl60 = true
+                                        end
+                                        if v109 then
+                                            tbl62 = type(tbl60) == "string" and tbl60[2] == tbl60
+                                        end
+                                        if v109 then
+                                            tbl60 = true
+                                        end
+                                        if v110 then
+                                            local enable46 = type(tbl61) == "string" and tbl60[2] == tbl61
+                                        end
+                                        if v110 then
+                                            tbl60 = true
+                                        end
+                                        local v111 = tbl60
+                                        if tbl60 == "game" or tbl60 == "DataModel" then
+                                            tbl60 = true
+                                        end
+                                        if not false then
+                                            local enable47 = false
+                                        else
+                                            if nil then
+                                                local tbl63 = { pcall(tostring, nil) }
+                                                local v1122 = tbl63[2]
+                                                local tbl64 = { pcall(tostring, nil) }
+                                                tbl63 = tbl64[2]
+                                                if not tbl63[1] or (not pcall(tostring, nil) or (Sv[2] ~= Sv[1] or Sv[2])) then
+                                                    local enable48 = false
+                                                end
+                                            end
+                                            if true then
+                                                
+                                            end
+                                            if true then
+                                                local tbl65 = { pcall(tostring, nil) }
+                                                local v113 = tbl65[2]
+                                                local tbl66 = { pcall(tostring, nil) }
+                                                tbl65 = tbl66[2]
+                                                local v114 = pcall(tostring, nil)
+                                                local v115 = tbl65[1]
+                                                tbl66 = not tbl65[1]
+                                                if tbl66 then end
+                                            end
+                                        end
+                                    end
+                                end
+                            end
+                        end
+                    end
+                end
+            end
+        end
+    end
+end
+return (function(...)
+    while true do
+        local v14 = l2
+        local v22 = v14
+        function1() 
+    end 
+end)()
