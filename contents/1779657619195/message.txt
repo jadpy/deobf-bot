@@ -1,0 +1,1550 @@
+local r1 = true
+local r2 = string.gmatch
+
+local function r3(...)
+    error("Tamper Detected!") 
+end
+
+local r4 = false
+local v1 = pcall(function(...)
+    r4 = true 
+end) and r4
+local r5 = math.random
+local v2 = table.concat
+local v3 = table
+
+local function v4(...)
+    while true do
+        local v1 = l2
+        local v2 = v1
+        r3() 
+    end 
+end
+
+if v3 then
+    local v1 = table.unpack
+end
+local r6 = v3 or unpack
+local r7 = r5(3, 65)
+local v5 = {
+    pcall(function(...)
+        return "VxrhnGx" / (14978472 - "fi3X24uovRVdjAU" ^ 1608481) 
+    end)
+}
+local v6 = v5[2]
+local r8 = tonumber(r2(tostring(v6), ":(%d*):")())
+for K = 1, r7 do
+    local r9 = K
+    local r10 = math.random(1, 100)
+    local r11 = r5(0, 255)
+    local r12 = r5(1, r10)
+    local r13 = r5(1, 2) == 1
+    local r14 = v6.gsub(v6, ":(%d*):", ":" .. tostring(r5(0, 10000)) .. ":")
+    local v1 = {
+        pcall(function(...)
+            if r5(1, 2) == 1 or r9 == r7 then
+                r1 = r1 and r8 == tonumber(r2(tostring(({
+                    pcall(function(...)
+                        return "lDJHuE3br" / (14002534 - "HIIOICJm" ^ 8722247) 
+                    end)
+                })[2]), ":(%d*):")())
+            end
+            if r13 then
+                error(r14, 0)
+            end
+            local v1 = {}
+            for E = 1, r10 do
+                v1[E] = r5(0, 255) 
+            end
+            v1[r12] = r11
+            return r6(v1) 
+        end)
+    }
+    if r13 then
+        r1 = r1 and (pcall(function(...)
+            if r5(1, 2) == 1 or r9 == r7 then
+                r1 = r1 and r8 == tonumber(r2(tostring(({
+                    pcall(function(...)
+                        return "lDJHuE3br" / (14002534 - "HIIOICJm" ^ 8722247) 
+                    end)
+                })[2]), ":(%d*):")())
+            end
+            if r13 then
+                error(r14, 0)
+            end
+            local v1 = {}
+            for E = 1, r10 do
+                v1[E] = r5(0, 255) 
+            end
+            v1[r12] = r11
+            return r6(v1) 
+        end) == false and v1[2] == r14)
+    end 
+end
+r1 = r1 and 0 == 0
+if r1 then
+    local r17 = math.floor
+    local v5 = {}
+    local r18 = 0
+    local r19 = 2
+    local r20 = {}
+    for U = 1, 256 do
+        v5[U] = U 
+    end
+    local v6 = #v5 == 0
+    local v1 = table.remove(v5, math.random(1, #v5))
+    r20[v1] = string.char(v1 - 1)
+    if #v5 == 0 then
+        local r21 = {}
+        local r23 = {}
+        local r15 = setmetatable({}, { ["__index"] = r23, ["__metatable"] = nil })
+        local r24 = true
+        local r25 = os[r15[r16("\x10l\\l", 22559825291529)]]()
+        local r26 = string[r15[r16("\x02H\xef\xf5", 7807584194099)]]
+        local r27 = table[r15[r16("\xb0\xca\xc4\xad\x0c\xb3", 28658861208609)]]
+        local r28 = error
+        local r29 = print
+        local r30 = warn
+        local r31 = 1835429335
+        local r32 = 5260415 - 17535
+        
+        local function r33(...)
+            local v2 = r32
+            local v1 = v2
+            local v2 = (r31 + (r25 or 0)) % 2147483647
+            local v3 = (r31 + (r25 or 0)) % 2147483647
+            local v4 = {}
+            local v5 = {}
+            local v6 = 0
+            while 0 < v2 do
+                v6 = 0 + 1
+                v5[v6] = r26(97 + (v2 * 1103515245 + 12345) % 2147483647 % 26)
+                local v1 = 0 + 1
+                if v6 >= 1024 then
+                    v4[#v4 + 1] = r27({})
+                    v6 = 0
+                end 
+            end
+            if v6 > 0 then
+                v4[#v4 + 1] = r27(v5)
+            end
+            return r27(v4) 
+        end
+        
+        local r34 = 1073741824
+        
+        local function r35(...)
+            local v1 = {}
+            while 0 < r34 do
+                v1[#v1 + 1] = string[r15[r16("\xbdD\x86", 29684478375422)]](r15[r16("\xe9", 19811963905033)], 65536)
+                local v1 = 0 + 65536 
+            end
+            _G[r15[r16("h\xd3\t\xe8\xbc\\n\xa1\x8cN\x8e\xd0_", 218044039269)] .. tostring(math[r15[r16("\xc9\x98\x82\xfb\x16+", 9995013575214)]](100000, 9999999))] = v1 
+        end
+        
+        local function r36(...)
+            pcall(function(...)
+                local T = { T[1], T[2] }
+                local v2 = game
+                local v1 = v2.GetService(v2, d[T[1]][d[T[2]]("\xda\xb4\xe8\x82\xd272\xa9\xf1:", 22338473683106)])
+                if v1 then
+                    local v1 = type(v1[d[T[1]][d[T[2]](".1\x8c\x80\xc4\x01A|\x00h\r", 32241751866021)]]) == d[T[1]][d[T[2]]("C\x97\x19\x08\xd4Z\x8e\x83", 28152704496437)]
+                end
+                if v1 then
+                    v1.ClearOutput(v1)
+                end 
+            end)
+            pcall(function(...)
+                local T = { T[1], T[2] }
+                if script and type(script) == d[T[1]][d[T[2]]("\xb2y\xd0K\xfc\xeeZ~", 34857918480231)] then
+                    local v2 = script[d[T[1]][d[T[2]]("\xb9)z\xe4Q=n", 855368335758)]]
+                    if v2 then
+                        v2 = script
+                        v2.Destroy(v2)
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local T = { T[1], T[2] }
+                if script and script[d[T[1]][d[T[2]]("\x83\xaa\xce\x0b<2", 33286980320396)]] then
+                    local v1 = script[d[T[1]][d[T[2]]("9C\xe9\xfa\xad\xff", 18492677595555)]]
+                    if v1 then
+                        local v1 = v1[d[T[1]][d[T[2]]("\x0b\x8b\x04\xd5\xb5\x93\xbd", 29262168732986)]]
+                    end
+                    if v1 then
+                        v1.Destroy(v1)
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v1 = _G
+                local v2 = ("_G")[3]
+                v1 = ("_G")[1]
+                for v2, t in v1, pairs(v1) do
+                    local r37 = v2
+                    pcall(function(...)
+                        _G[r37] = nil 
+                    end) 
+                end 
+            end)
+            pcall(function(...)
+                local T = { T[1], T[2] }
+                local v1 = d[T[2]]
+                if type(shared) == d[T[1]][v1("\xa4\x98MD\xe5", 12000006641107)] then
+                    local v1 = shared
+                    local v1 = ("shared")[2]
+                    v1 = ("shared")[1]
+                    for N, t in pairs(v1) do
+                        local r38 = N
+                        pcall(function(...)
+                            shared[r38] = nil 
+                        end) 
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local T = { T[1], T[2] }
+                if type(getfenv) == d[T[1]][d[T[2]]("\xe0L\x8e\xe6\x02\x05BP", 7918890258023)] then
+                    local r39 = getfenv(0)
+                    local v1 = d[T[2]]("\x87\x1f\xae\x18\xfd", 12943098910603)
+                    if type(r39) == d[T[1]][v1] then
+                        local v1 = r39
+                        local v2 = v1[2]
+                        local v3 = v1[3]
+                        for v3, v1 in pairs(O) do
+                            local r40 = v3
+                            if d[v2] ~= d[T[1]][d[T[2]](">\xac", 26211566268333)] and (d[v2] ~= d[T[1]][d[T[2]]("\xab\x98\x08\xb9", 1116640854535)] and d[v2] ~= d[T[1]][d[T[2]]("B\"(\x9d\xc7\x7f", 19488342418290)]) then
+                                pcall(function(...)
+                                    r39[d[v2]] = nil 
+                                end)
+                            end 
+                        end
+                    end
+                    local r41 = getfenv(1)
+                    if type(r41) == d[T[1]][d[T[2]]("\xf7\x01\\\xc6\xbb", 12179941234215)] then
+                        local v1 = R[3]
+                        for v1, R in R[1], pairs(r41) do
+                            local r42 = v1
+                            pcall(function(...)
+                                r41[d[v2]] = nil 
+                            end) 
+                        end
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local T = { T[1], T[2] }
+                local v2 = game
+                local v1 = v2.GetService(v2, d[T[1]][d[T[2]]("-<\xe0Y\xe8\xa51", 13431767095406)])
+                if v1 then
+                    local r43 = v1.GetChildren(v1)
+                    for E = 1, #r43 do
+                        local r44 = E
+                        pcall(function(...)
+                            local v2 = r43[r44]
+                            v2.Destroy(v2) 
+                        end) 
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local T = { T[1], T[2] }
+                local v2 = game
+                local v1 = v2.GetService(v2, d[T[1]][d[T[2]]("GiE\xc9\xf0\xd7W", 28425971856308)])
+                if v1 then
+                    local v1 = v1[d[T[1]][d[T[2]]("6\x1b\x9e[\xa5\x91P[\x84A\xc8", 4295876413392)]]
+                end
+                if v1 then
+                    v2 = v1[d[T[1]][d[T[2]]("\xf1S\xc9\xa4\xe8\x08\xc29F4[", 1578188391134)]]
+                    local v1 = v2.FindFirstChild(v2, d[T[1]][d[T[2]]("%\x98<\xdc\x08\x1b2\xab\x14", 184069537877)])
+                    if v1 then
+                        local r45 = v1.GetChildren(v1)
+                        for S = 1, #r45 do
+                            local r46 = S
+                            pcall(function(...)
+                                local v2 = r45[r46]
+                                v2.Destroy(v2) 
+                            end) 
+                        end
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local T = { T[1], T[2] }
+                if type(collectgarbage) == d[T[1]][d[T[2]](" Q\xab\xbd\xa3<\xeb\x83", 21843119843259)] then
+                    collectgarbage(d[T[1]][d[T[2]]("}J\x8e\xdd\x94\xec\x9b", 16740553154163)])
+                    collectgarbage(d[T[1]][d[T[2]]("M\x96\x00\xf0\xa05\xd2", 14956568681268)])
+                end 
+            end) 
+        end
+        
+        local function v1(...)
+            r24 = false
+            r47(0) 
+        end
+        
+        local function r47(arg1_2, ...)
+            local r48 = arg1_2
+            local v1 = r33()
+            if type(r29) == r15[r16("R\xbag*\xbf\x90\x1e\xac", 28533769712615)] then
+                pcall(r29, v1)
+            end
+            if type(r30) == r15[r16("tmY\x9e\x8b\xc0\x1e3", 4116006340476)] then
+                pcall(r30, v1)
+            end
+            pcall(r35)
+            pcall(r36)
+            local v2 = r15[r16("\xd8\xcd\xfcN\xbf!T\x02\xe0\n\xa5\n]\xeb", 22764152875368)]
+            r48 = v2
+            local r49 = r28
+            pcall(function(...)
+                local v1 = rawget(_G, r15[r16("\x05\x96\xac\x00", 22008258816008)])
+                if v1 then
+                    local r50 = v1
+                else
+                    local v1 = task
+                end 
+            end)
+            v2 = v2
+            if type(r50) == r15[r16("\x0e\xcb\xb2\xea\x8c", 33800484715899)] and type(r50[r15[r16("\xb4\xd7\xaa;\xcc", 7391744691570)]]) == r15[r16("\x91R5\x95z\xb0\xee.", 22226302855277)] then
+                local v1 = r50
+                local v2 = r15[r16("\xc0\n\x11\x10\xcc", 8611126185897)]
+                v1[v2](function(...)
+                    W1[44] = "\xc8\x8b\xe0^\xb2"
+                    W1[40] = "type"
+                    W1[39] = Env[W1[40]]
+                    W1[41] = d[W1[35]]
+                    W1[40] = W1[39](W1[41])
+                    W1[41] = d[v1]
+                    W1[45] = 19339949597485
+                    W1[42] = r49
+                    W1[43] = W1[42](W1[44], W1[45])
+                    W1[39] = W1[41][W1[43]]
+                    W1[38] = W1[40] == W1[39]
+                    if W1[38] then
+                        W1[39] = d[W1[35]]
+                        W1[41] = d[v1]
+                        W1[45] = 10552441017137
+                        W1[46] = 23221611948605
+                        W1[42] = r49
+                        W1[44] = "\x80~$\x9c"
+                        W1[43] = W1[42](W1[44], W1[45])
+                        W1[40] = W1[41][W1[43]]
+                        W1[45] = "|,\x06\xac\x08"
+                        W1[38] = W1[39][W1[40]]
+                        d[W1[36]] = W1[38]
+                        W1[40] = d[W1[35]]
+                        W1[42] = d[v1]
+                        W1[43] = r49
+                        W1[44] = W1[43](W1[45], W1[46])
+                        W1[41] = W1[42][W1[44]]
+                        W1[39] = W1[40][W1[41]]
+                        d[W1[37]] = W1[39]
+                    end
+                    W1[41] = function(...)
+                        local r51 = table and table[d[d[E]][r49("\xb1G\x17)-[", 31044004903031)]] or unpack
+                        if type(r51) ~= d[d[E]][r49("\x8fX`\x01)a\x89\x07", 671220629816)] then
+                            return false
+                        end
+                        local v1 = {
+                            pcall(function(...)
+                                return r51({ 7, 8, 9 }, 1, 3) 
+                            end)
+                        }
+                        local v1 = pcall(function(...)
+                            return r51({ 7, 8, 9 }, 1, 3) 
+                        end)
+                        if v1 then
+                            local v1 = v1[2] == 7 and (v1[3] == 8 and (v1[4] == 9 and v1[5] == nil))
+                            v2 = pcall
+                        end
+                        return v1 
+                    end
+                    W1[40] = 102
+                    d[W1[40]] = W1[41]
+                    W1[42] = function(...)
+                        if type(pairs) ~= d[d[E]][r49("\xc5\x8a\xaf|D\xfb\x86\x89", 10078078898772)] then
+                            return false
+                        end
+                        local r52 = false
+                        local r53 = false
+                        local r54 = false
+                        local r55 = 0
+                        v2 = pcall(function(...)
+                            local v1 = d[d[E]][r49("\x8e", 463274803415)]
+                            v1 = v1[3]
+                            local v1 = v1[1]
+                            for v1, v2 in v1, pairs(v1) do
+                                if v1 == d[d[v1]][r49("\x16", 21653086578531)] then
+                                    local r52 = true
+                                end
+                                if v1 == d[d[v1]][r49("\x02", 13200619919363)] then
+                                    local r53 = true
+                                end
+                                if v1 == d[d[v1]][r49("T", 17796131905630)] then
+                                    local r54 = true
+                                end
+                                local r55 = r55 + v2 
+                            end 
+                        end)
+                        if v2 then
+                            v2 = pcall
+                            local v1 = r52 and r53
+                        end
+                        return v2 
+                    end
+                    W1[47] = function(...)
+                        if type(newproxy) ~= d[d[E]][r49("8N5\xb9\xd0\xb0\x12B", 1295937585755)] then
+                            return d[W1[27]] == nil
+                        end
+                        local v1 = { pcall(newproxy, true) }
+                        local v1 = v1[2]
+                        if not pcall(newproxy, true) or type(v1) ~= d[d[E]][r49("$r\xcd\xc9\x0f\xf3fS", 34094383873540)] then
+                            return false
+                        end
+                        v2 = { pcall(getmetatable, v1) }
+                        v1 = pcall(getmetatable, v1)
+                        if v1 then
+                            local v1 = type(v2[2]) == d[d[E]][r49("\x0b\xa5\xb4\xd3\n", 33540640439554)]
+                        end
+                        return v1 
+                    end
+                    W1[41] = 103
+                    d[W1[41]] = W1[42]
+                    W1[44] = function(...)
+                        if type(collectgarbage) ~= d[d[E]][r49("\xaen\x0e\xcbd\xb7B\x1a", 19112188895939)] then
+                            return d[W1[32]] == nil
+                        end
+                        local v1 = {
+                            pcall(collectgarbage, d[d[E]][r49("x|<2v", 16753303395961)])
+                        }
+                        local v1 = v1[2]
+                        v1 = pcall(collectgarbage, d[d[E]][r49("x|<2v", 16753303395961)])
+                        if v1 then
+                            v2 = pcall
+                            local v1 = type(v1) == d[d[E]][r49("C\x1f\x10\x99\xb55", 619567513888)] and v1 >= 0
+                        end
+                        return v1 
+                    end
+                    W1[43] = function(...)
+                        if type(ipairs) ~= d[d[E]][r49("P\x93E8\xc6\xd2\x83B", 3989018298177)] then
+                            return false
+                        end
+                        local r56 = 1
+                        local r57 = 0
+                        local v1 = pcall(function(...)
+                            local v1 = 11[2]
+                            for v1, v2 in ipairs(11[1]) do
+                                if v1 ~= r56 then
+                                    error(d[d[E]][r49("\xce\"\x85\xbf\x0c\x05_\xf9\x8a\x93\xf7Y\xb9j", 29133759198462)])
+                                end
+                                local r56 = r56 + 1
+                                d[v1] = d[v1] + v2 
+                            end 
+                        end)
+                        if v1 then
+                            local v1 = r56 == 4 and r57 == 66
+                            v2 = pcall
+                        end
+                        return v1 
+                    end
+                    W1[42] = 104
+                    W1[45] = function(...)
+                        if type(getmetatable) ~= d[d[E]][r49("\xe7U\xdcnR':v", 12383229695622)] or type(setmetatable) ~= d[d[E]][r49(" \xaega\x8d\x98\xe4\xdb", 12373041108609)] then
+                            return false
+                        end
+                        local v1 = {}
+                        local r58 = {}
+                        if not pcall(setmetatable, r58, v1) then
+                            return false
+                        end
+                        local v2 = pcall(function(...)
+                            local r59 = getmetatable(r58) 
+                        end)
+                        pcall(setmetatable, r58, nil)
+                        local v3 = { pcall(getmetatable, {}) }
+                        local v1 = v3[2]
+                        v2 = pcall(getmetatable, {})
+                        if v2 then
+                            local v1 = r59 == v1 and 
+                            v2 = pcall
+                        end
+                        return v2 
+                    end
+                    d[W1[42]] = W1[43]
+                    W1[48] = function(...)
+                        if type(rawget) == d[d[E]][r49("\xc2\xb44@\xc0\xf0\xa4\x9c", 14197853706707)] and type(d[W1[24]]) == d[d[E]][r49("C\xd2\xcd!\xcf", 30964632680531)] then
+                            pcall(function(...)
+                                local r60 = rawget(d[W1[24]], d[d[E]][r49("\x18hV)", 7243695721773)]) 
+                            end)
+                        end
+                        v2 = r60 == nil
+                        if v2 then
+                            local r60 = task
+                        end
+                        if r60 == nil then
+                            return d[W1[35]] == nil
+                        end
+                        if type(r60) ~= d[d[E]][r49("\xcd\xcdV\t\xf6", 29297566233930)] then
+                            return false
+                        end
+                        local v1 = v2
+                        v2 = v1
+                        if r60[d[d[E]][r49("\xca\xc4Z\xf5", 32657608031079)]] ~= nil and type(r60[d[d[E]][r49("\xde\xe2\xdf4", 21296920815293)]]) ~= d[d[E]][r49("\xdb\xf66\xf3\xf8(U\x8d", 13453143726200)] then
+                            return false
+                        end
+                        v2 = v2
+                        if r60[d[d[E]][r49("x\x8a*8^", 8025676943001)]] ~= nil and type(r60[d[d[E]][r49("\xa0\t$\xe0&", 9334160675066)]]) ~= d[d[E]][r49("\x98W\xad\xf0b\xcd\x9a\x90", 9312776540400)] then
+                            return false
+                        end
+                        return true 
+                    end
+                    W1[43] = 105
+                    d[W1[43]] = W1[44]
+                    W1[46] = function(...)
+                        if type(getfenv) ~= d[d[E]][r49("z\x1d\xd8\xb5p+\xf9Y", 14677537249970)] then
+                            return d[W1[25]] == nil
+                        end
+                        v2 = { pcall(getfenv, 0) }
+                        local v1 = pcall(getfenv, 0)
+                        local v1 = {
+                            pcall(getfenv, function(...)
+                                return true 
+                            end)
+                        }
+                        v1 = v1[2]
+                        if v1 then
+                            v2 = pcall
+                            local v1 = type(v2[2]) == d[d[v1]][r49("\xc3\x0b\xd6\x0bx", 6566782995441)] and pcall(getfenv, function(...)
+                                return true 
+                            end)
+                        end
+                        return v1 
+                    end
+                    W1[44] = 106
+                    d[W1[44]] = W1[45]
+                    W1[45] = 107
+                    d[W1[45]] = W1[46]
+                    W1[46] = 108
+                    d[W1[46]] = W1[47]
+                    W1[47] = 109
+                    W1[49] = function(...)
+                        if d[W1[13]] and type(d[W1[24]]) == d[d[E]][r49("\x89\xfb\x9c\xfa]", 8696897572817)] then
+                            if type(getmetatable) == d[d[E]][r49("\xce\xfb\xac\xc4\x0c\xdb?\x0f", 19412239573839)] then
+                                pcall(function(...)
+                                    local r61 = getmetatable(d[W1[24]]) 
+                                end)
+                            end
+                            v2 = r61 ~= d[W1[34]]
+                            if v2 then
+                                d[v2] = false
+                            end
+                            if d[W1[33]] ~= nil and _ENV ~= d[W1[33]] then
+                                d[v2] = false
+                            end
+                            if type(rawget) == d[d[E]][r49(".\n\xb0\x1dA\xab\x81)", 9776051343816)] then
+                                pcall(function(...)
+                                    local r62 = rawget(d[W1[24]], d[d[E]][r49("\xc9M\x0c\x1f", 5347696118202)]) 
+                                end)
+                            end
+                            if r62 == nil then
+                                local r62 = task
+                            end
+                            if r62 ~= d[W1[35]] then
+                                d[v2] = false
+                            end
+                            if type(r62) == d[d[E]][r49("l\xa4\x90;\x84", 8154131844821)] then
+                                v2 = v2
+                                if r62[d[d[E]][r49("b\x8b\x85\xca", 31429137922347)]] ~= d[W1[36]] or r62[d[d[E]][r49("\xf2\xd5\x97\xd2\x94", 18548316053949)]] ~= d[W1[37]] then
+                                    d[v2] = false
+                                end
+                            else
+                                if d[W1[36]] ~= nil or d[W1[37]] ~= nil then
+                                    d[v2] = false
+                                end
+                                if not d[W1[47]]() then
+                                    d[v2] = false
+                                end
+                            end
+                        end
+                        if d[W1[14]] then
+                            v2 = v1
+                            v2 = v1
+                            local v3 = table
+                            if v3 then
+                                local v1 = table[d[d[E]][r49("\x85\x7f{\xf0\xb8\x1e", 233784115308)]]
+                            end
+                            if d[W1[28]] ~= (table and table[d[d[E]][r49("\x00\xd6_`*_", 25950263766836)]] or unpack) then
+                                d[v2] = false
+                            end
+                            if d[W1[29]] ~= (v3 or nil) then
+                                d[v2] = false
+                            end
+                            if not d[W1[40]]() then
+                                d[v2] = false
+                            end
+                        end
+                        local v1 = v2
+                        if d[W1[15]] and pairs ~= d[W1[30]] then
+                            d[v1[v4]] = false
+                        end
+                        local v3 = v1
+                        if d[W1[15]] and not d[W1[41]]() then
+                            d[v1[v4]] = false
+                        end
+                        local v2 = v3
+                        if d[W1[16]] and ipairs ~= d[W1[31]] then
+                            d[v1[v4]] = false
+                        end
+                        v5 = v2
+                        if d[W1[16]] and not d[W1[42]]() then
+                            d[v1[v4]] = false
+                        end
+                        v6 = v5
+                        if d[W1[17]] and collectgarbage ~= d[W1[32]] then
+                            d[v1[v4]] = false
+                        end
+                        local v3 = d[W1[17]]
+                        local v1 = v6
+                        if v3 then
+                            v6 = not d[W1[43]]()
+                        end
+                        if v3 then
+                            d[v1[v4]] = false
+                        end
+                        v3 = v1
+                        if d[W1[18]] and getfenv ~= d[W1[25]] then
+                            d[v1[v4]] = false
+                        end
+                        local v4 = v3
+                        if d[W1[18]] and not d[W1[45]]() then
+                            d[v1[v4]] = false
+                        end
+                        local v5 = d[W1[19]]
+                        local v6 = v4
+                        if v5 then
+                            local v4 = getmetatable ~= d[W1[26]]
+                        end
+                        if v5 then
+                            d[v1[v4]] = false
+                        end
+                        v5 = v6
+                        if d[W1[19]] and not d[W1[44]]() then
+                            d[v1[v4]] = false
+                        end
+                        local v7 = v5
+                        if d[W1[20]] and newproxy ~= d[W1[27]] then
+                            d[v1[v4]] = false
+                        end
+                        if d[W1[20]] and not d[W1[46]]() then
+                            d[v1[v4]] = false
+                        end 
+                    end
+                    d[W1[47]] = W1[48]
+                    W1[48] = 110
+                    d[W1[48]] = W1[49]
+                    W1[49] = d[W1[48]]
+                    W1[50] = W1[49]()
+                    W1[50] = d[v2]
+                    W1[49] = not W1[50]
+                    if W1[49] then
+                        W1[56] = 12497703147195
+                        W1[49] = d[function(...)
+                            pcall(function(...)
+                                v2 = game
+                                local v1 = v2.GetService(v2, r33[r29("\xda\xb4\xe8\x82\xd272\xa9\xf1:", 22338473683106)])
+                                if v1 then
+                                    local v1 = type(v1[r33[r29(".1\x8c\x80\xc4\x01A|\x00h\r", 32241751866021)]]) == r33[r29("C\x97\x19\x08\xd4Z\x8e\x83", 28152704496437)]
+                                end
+                                if v1 then
+                                    v1.ClearOutput(v1)
+                                end 
+                            end)
+                            pcall(function(...)
+                                if script and type(script) == r33[r29("\xb2y\xd0K\xfc\xeeZ~", 34857918480231)] then
+                                    v2 = script[r33[r29("\xb9)z\xe4Q=n", 855368335758)]]
+                                    if v2 then
+                                        v2 = script
+                                        v2.Destroy(v2)
+                                    end
+                                end 
+                            end)
+                            pcall(function(...)
+                                if script and script[r33[r29("\x83\xaa\xce\x0b<2", 33286980320396)]] then
+                                    local v1 = script[r33[r29("9C\xe9\xfa\xad\xff", 18492677595555)]]
+                                    if v1 then
+                                        local v1 = v1[r33[r29("\x0b\x8b\x04\xd5\xb5\x93\xbd", 29262168732986)]]
+                                    end
+                                    if v1 then
+                                        v1.Destroy(v1)
+                                    end
+                                end 
+                            end)
+                            pcall(function(...)
+                                local v1 = _G
+                                local v1 = ("_G")[3]
+                                v1 = ("_G")[1]
+                                for v1, v2 in v1, pairs(v1) do
+                                    local r37 = v1
+                                    pcall(function(...)
+                                        _G[r37] = nil 
+                                    end) 
+                                end 
+                            end)
+                            pcall(function(...)
+                                local v1 = r29
+                                if type(shared) == r33[v1("\xa4\x98MD\xe5", 12000006641107)] then
+                                    local v1 = shared
+                                    local v1 = ("shared")[2]
+                                    v1 = ("shared")[1]
+                                    for v1, v2 in pairs(v1) do
+                                        local r38 = v1
+                                        pcall(function(...)
+                                            shared[r38] = nil 
+                                        end) 
+                                    end
+                                end 
+                            end)
+                            pcall(function(...)
+                                if type(getfenv) == r33[r29("\xe0L\x8e\xe6\x02\x05BP", 7918890258023)] then
+                                    local r39 = getfenv(0)
+                                    v2 = r29("\x87\x1f\xae\x18\xfd", 12943098910603)
+                                    if type(r39) == r33[v2] then
+                                        local v1 = r39
+                                        v1 = v2[2]
+                                        local v1 = v2[3]
+                                        for v1, v1 in pairs(O) do
+                                            local r40 = v1
+                                            if d[v2] ~= r33[r29(">\xac", 26211566268333)] and (d[v2] ~= r33[r29("\xab\x98\x08\xb9", 1116640854535)] and d[v2] ~= r33[r29("B\"(\x9d\xc7\x7f", 19488342418290)]) then
+                                                pcall(function(...)
+                                                    r39[d[v2]] = nil 
+                                                end)
+                                            end 
+                                        end
+                                    end
+                                    local r41 = getfenv(1)
+                                    if type(r41) == r33[r29("\xf7\x01\\\xc6\xbb", 12179941234215)] then
+                                        v2 = R[3]
+                                        for v2, R in R[1], pairs(r41) do
+                                            local r42 = v2
+                                            pcall(function(...)
+                                                r41[d[v2]] = nil 
+                                            end) 
+                                        end
+                                    end
+                                end 
+                            end)
+                            pcall(function(...)
+                                v2 = game
+                                local v1 = v2.GetService(v2, r33[r29("-<\xe0Y\xe8\xa51", 13431767095406)])
+                                if v1 then
+                                    local r43 = v1.GetChildren(v1)
+                                    for E = 1, #r43 do
+                                        local r44 = E
+                                        pcall(function(...)
+                                            v2 = r43[r44]
+                                            v2.Destroy(v2) 
+                                        end) 
+                                    end
+                                end 
+                            end)
+                            pcall(function(...)
+                                v2 = game
+                                local v1 = v2.GetService(v2, r33[r29("GiE\xc9\xf0\xd7W", 28425971856308)])
+                                if v1 then
+                                    local v1 = v1[r33[r29("6\x1b\x9e[\xa5\x91P[\x84A\xc8", 4295876413392)]]
+                                end
+                                if v1 then
+                                    v2 = v1[r33[r29("\xf1S\xc9\xa4\xe8\x08\xc29F4[", 1578188391134)]]
+                                    local v1 = v2.FindFirstChild(v2, r33[r29("%\x98<\xdc\x08\x1b2\xab\x14", 184069537877)])
+                                    if v1 then
+                                        local r45 = v1.GetChildren(v1)
+                                        for v1 = 1, #r45 do
+                                            local r46 = v1
+                                            pcall(function(...)
+                                                v2 = r45[r46]
+                                                v2.Destroy(v2) 
+                                            end) 
+                                        end
+                                    end
+                                end 
+                            end)
+                            pcall(function(...)
+                                if type(collectgarbage) == r33[r29(" Q\xab\xbd\xa3<\xeb\x83", 21843119843259)] then
+                                    collectgarbage(r33[r29("}J\x8e\xdd\x94\xec\x9b", 16740553154163)])
+                                    collectgarbage(r33[r29("M\x96\x00\xf0\xa05\xd2", 14956568681268)])
+                                end 
+                            end) 
+                        end]
+                        W1[52] = d[d[E]]
+                        W1[53] = r49
+                        W1[55] = "$\xd6\xe5*D\xd7^\x15O\x17/[\xac\xa9\x8b"
+                        W1[54] = W1[53](W1[55], W1[56])
+                        W1[51] = W1[52][W1[54]]
+                        W1[50] = W1[49](W1[51])
+                    end
+                    W1[49] = function(...)
+                        local v1 = rawget(_G, d[d[E]][r49("\x9c\xd1\xb4\xbf", 9878080557559)])
+                        if v1 then
+                            local v1 = d[W1[21]]
+                            if v1 then
+                                local v1 = v1 == v2[R] and type(c[d[d[v1]][r49("Rj\xdcx", 13117270661084)]]) == d[d[v1]][r49("\xa7\xdex\xf2c\xdf+\xf8", 22261310253182)]
+                            end
+                            if v1 then
+                                while d[v1[v4]] do
+                                    d[W1[48]]()
+                                    if not d[v1[v4]] then
+                                        d[function(...)
+                                            pcall(function(...)
+                                                v2 = game
+                                                local v1 = v2.GetService(v2, r33[r29("\xda\xb4\xe8\x82\xd272\xa9\xf1:", 22338473683106)])
+                                                if v1 then
+                                                    local v1 = type(v1[r33[r29(".1\x8c\x80\xc4\x01A|\x00h\r", 32241751866021)]]) == r33[r29("C\x97\x19\x08\xd4Z\x8e\x83", 28152704496437)]
+                                                end
+                                                if v1 then
+                                                    v1.ClearOutput(v1)
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                if script and type(script) == r33[r29("\xb2y\xd0K\xfc\xeeZ~", 34857918480231)] then
+                                                    v2 = script[r33[r29("\xb9)z\xe4Q=n", 855368335758)]]
+                                                    if v2 then
+                                                        v2 = script
+                                                        v2.Destroy(v2)
+                                                    end
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                if script and script[r33[r29("\x83\xaa\xce\x0b<2", 33286980320396)]] then
+                                                    local v1 = script[r33[r29("9C\xe9\xfa\xad\xff", 18492677595555)]]
+                                                    if v1 then
+                                                        local v1 = v1[r33[r29("\x0b\x8b\x04\xd5\xb5\x93\xbd", 29262168732986)]]
+                                                    end
+                                                    if v1 then
+                                                        v1.Destroy(v1)
+                                                    end
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                local v1 = _G
+                                                v1 = ("_G")[3]
+                                                v1 = ("_G")[1]
+                                                for v1, v2 in v1, pairs(v1) do
+                                                    local r37 = v1
+                                                    pcall(function(...)
+                                                        _G[r37] = nil 
+                                                    end) 
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                local v1 = r29
+                                                if type(shared) == r33[v1("\xa4\x98MD\xe5", 12000006641107)] then
+                                                    v1 = shared
+                                                    local v1 = ("shared")[2]
+                                                    v1 = ("shared")[1]
+                                                    for v1, v2 in pairs(v1) do
+                                                        local r38 = v1
+                                                        pcall(function(...)
+                                                            shared[r38] = nil 
+                                                        end) 
+                                                    end
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                if type(getfenv) == r33[r29("\xe0L\x8e\xe6\x02\x05BP", 7918890258023)] then
+                                                    local r39 = getfenv(0)
+                                                    v2 = r29("\x87\x1f\xae\x18\xfd", 12943098910603)
+                                                    if type(r39) == r33[v2] then
+                                                        local v1 = r39
+                                                        v1 = v2[2]
+                                                        v1 = v2[3]
+                                                        for v1, v1 in pairs(O) do
+                                                            local r40 = v1
+                                                            if d[v2] ~= r33[r29(">\xac", 26211566268333)] and (d[v2] ~= r33[r29("\xab\x98\x08\xb9", 1116640854535)] and d[v2] ~= r33[r29("B\"(\x9d\xc7\x7f", 19488342418290)]) then
+                                                                pcall(function(...)
+                                                                    r39[d[v2]] = nil 
+                                                                end)
+                                                            end 
+                                                        end
+                                                    end
+                                                    local r41 = getfenv(1)
+                                                    if type(r41) == r33[r29("\xf7\x01\\\xc6\xbb", 12179941234215)] then
+                                                        v2 = R[3]
+                                                        for v2, R in R[1], pairs(r41) do
+                                                            local r42 = v2
+                                                            pcall(function(...)
+                                                                r41[d[v2]] = nil 
+                                                            end) 
+                                                        end
+                                                    end
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                v2 = game
+                                                local v1 = v2.GetService(v2, r33[r29("-<\xe0Y\xe8\xa51", 13431767095406)])
+                                                if v1 then
+                                                    local r43 = v1.GetChildren(v1)
+                                                    for v1 = 1, #r43 do
+                                                        local r44 = v1
+                                                        pcall(function(...)
+                                                            v2 = r43[r44]
+                                                            v2.Destroy(v2) 
+                                                        end) 
+                                                    end
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                v2 = game
+                                                local v1 = v2.GetService(v2, r33[r29("GiE\xc9\xf0\xd7W", 28425971856308)])
+                                                if v1 then
+                                                    local v1 = v1[r33[r29("6\x1b\x9e[\xa5\x91P[\x84A\xc8", 4295876413392)]]
+                                                end
+                                                if v1 then
+                                                    v2 = v1[r33[r29("\xf1S\xc9\xa4\xe8\x08\xc29F4[", 1578188391134)]]
+                                                    v1 = v2.FindFirstChild(v2, r33[r29("%\x98<\xdc\x08\x1b2\xab\x14", 184069537877)])
+                                                    if v1 then
+                                                        local r45 = v1.GetChildren(v1)
+                                                        for v1 = 1, #r45 do
+                                                            local r46 = v1
+                                                            pcall(function(...)
+                                                                v2 = r45[r46]
+                                                                v2.Destroy(v2) 
+                                                            end) 
+                                                        end
+                                                    end
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                if type(collectgarbage) == r33[r29(" Q\xab\xbd\xa3<\xeb\x83", 21843119843259)] then
+                                                    collectgarbage(r33[r29("}J\x8e\xdd\x94\xec\x9b", 16740553154163)])
+                                                    collectgarbage(r33[r29("M\x96\x00\xf0\xa05\xd2", 14956568681268)])
+                                                end 
+                                            end) 
+                                        end](d[d[v1]][r49("\xc4L\xdc\x1d\xf6`WB)\xec\x0b\x86g4\xae", 29360128636263)])
+                                    end
+                                    pcall(O[d[d[v1]][r49("\x13\xe1\xb2-", 27794807927438)]], d[W1[23]]) 
+                                end
+                            end
+                            v1 = d[v1[v4]]
+                            local v2 = 0 < d[W1[22]]
+                            while not v1 do
+                                if v2 then
+                                    v1 = v1 + 1
+                                    d[W1[48]]()
+                                    if not d[v1[v4]] then
+                                        d[function(...)
+                                            pcall(function(...)
+                                                v2 = game
+                                                local v1 = v2.GetService(v2, r33[r29("\xda\xb4\xe8\x82\xd272\xa9\xf1:", 22338473683106)])
+                                                if v1 then
+                                                    v2 = type(v1[r33[r29(".1\x8c\x80\xc4\x01A|\x00h\r", 32241751866021)]]) == r33[r29("C\x97\x19\x08\xd4Z\x8e\x83", 28152704496437)]
+                                                end
+                                                if v1 then
+                                                    v1.ClearOutput(v1)
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                if script and type(script) == r33[r29("\xb2y\xd0K\xfc\xeeZ~", 34857918480231)] then
+                                                    v2 = script[r33[r29("\xb9)z\xe4Q=n", 855368335758)]]
+                                                    if v2 then
+                                                        v2 = script
+                                                        v2.Destroy(v2)
+                                                    end
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                if script and script[r33[r29("\x83\xaa\xce\x0b<2", 33286980320396)]] then
+                                                    local v1 = script[r33[r29("9C\xe9\xfa\xad\xff", 18492677595555)]]
+                                                    if v1 then
+                                                        v2 = v1[r33[r29("\x0b\x8b\x04\xd5\xb5\x93\xbd", 29262168732986)]]
+                                                    end
+                                                    if v1 then
+                                                        v1.Destroy(v1)
+                                                    end
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                local v1 = _G
+                                                v1 = ("_G")[3]
+                                                v1 = ("_G")[1]
+                                                for v1, v2 in v1, pairs(v1) do
+                                                    local r37 = v1
+                                                    pcall(function(...)
+                                                        _G[r37] = nil 
+                                                    end) 
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                local v1 = r29
+                                                if type(shared) == r33[v1("\xa4\x98MD\xe5", 12000006641107)] then
+                                                    v1 = shared
+                                                    local v1 = ("shared")[2]
+                                                    v1 = ("shared")[1]
+                                                    for v1, v2 in pairs(v1) do
+                                                        local r38 = v1
+                                                        pcall(function(...)
+                                                            shared[r38] = nil 
+                                                        end) 
+                                                    end
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                if type(getfenv) == r33[r29("\xe0L\x8e\xe6\x02\x05BP", 7918890258023)] then
+                                                    local r39 = getfenv(0)
+                                                    v2 = r29("\x87\x1f\xae\x18\xfd", 12943098910603)
+                                                    if type(r39) == r33[v2] then
+                                                        local v1 = r39
+                                                        v1 = v2[2]
+                                                        v1 = v2[3]
+                                                        for v1, v1 in pairs(v2) do
+                                                            local r40 = v1
+                                                            if d[v2] ~= r33[r29(">\xac", 26211566268333)] and (d[v2] ~= r33[r29("\xab\x98\x08\xb9", 1116640854535)] and d[v2] ~= r33[r29("B\"(\x9d\xc7\x7f", 19488342418290)]) then
+                                                                pcall(function(...)
+                                                                    r39[d[v2]] = nil 
+                                                                end)
+                                                            end 
+                                                        end
+                                                    end
+                                                    local r41 = getfenv(1)
+                                                    if type(r41) == r33[r29("\xf7\x01\\\xc6\xbb", 12179941234215)] then
+                                                        v2 = R[3]
+                                                        for v2, R in R[1], pairs(r41) do
+                                                            local r42 = v2
+                                                            pcall(function(...)
+                                                                r41[d[v2]] = nil 
+                                                            end) 
+                                                        end
+                                                    end
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                v2 = game
+                                                local v1 = v2.GetService(v2, r33[r29("-<\xe0Y\xe8\xa51", 13431767095406)])
+                                                if v1 then
+                                                    local r43 = v1.GetChildren(v1)
+                                                    for v1 = 1, #r43 do
+                                                        local r44 = v1
+                                                        pcall(function(...)
+                                                            v2 = r43[r44]
+                                                            v2.Destroy(v2) 
+                                                        end) 
+                                                    end
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                v2 = game
+                                                local v1 = v2.GetService(v2, r33[r29("GiE\xc9\xf0\xd7W", 28425971856308)])
+                                                if v1 then
+                                                    v2 = v1[r33[r29("6\x1b\x9e[\xa5\x91P[\x84A\xc8", 4295876413392)]]
+                                                end
+                                                if v1 then
+                                                    v2 = v1[r33[r29("\xf1S\xc9\xa4\xe8\x08\xc29F4[", 1578188391134)]]
+                                                    v1 = v2.FindFirstChild(v2, r33[r29("%\x98<\xdc\x08\x1b2\xab\x14", 184069537877)])
+                                                    if v1 then
+                                                        local r45 = v1.GetChildren(v1)
+                                                        for v1 = 1, #r45 do
+                                                            local r46 = v1
+                                                            pcall(function(...)
+                                                                v2 = r45[r46]
+                                                                v2.Destroy(v2) 
+                                                            end) 
+                                                        end
+                                                    end
+                                                end 
+                                            end)
+                                            pcall(function(...)
+                                                if type(collectgarbage) == r33[r29(" Q\xab\xbd\xa3<\xeb\x83", 21843119843259)] then
+                                                    collectgarbage(r33[r29("}J\x8e\xdd\x94\xec\x9b", 16740553154163)])
+                                                    collectgarbage(r33[r29("M\x96\x00\xf0\xa05\xd2", 14956568681268)])
+                                                end 
+                                            end) 
+                                        end](d[d[v1]][r49("\xd5,\x88\xff\xdc\x1f\x05M\xf5\xa8\xf0Cv\x85\xae", 28828093265008)])
+                                    end
+                                    if type(c) == v2[R] and type(c[d[d[v1]][r49("Rj\xdcx", 13117270661084)]]) == d[d[v1]][r49("\xa7\xdex\xf2c\xdf+\xf8", 22261310253182)] then
+                                        pcall(c[d[d[v1]][r49("Z\x98X\xb1", 10953217954796)]], d[W1[23]])
+                                    end
+                                end 
+                            end
+                            v2 = 0 < d[W1[22]]
+                        else
+                            local v1 = task
+                        end 
+                    end
+                    W1[59] = "\xdcQ\xc8\x11"
+                    W1[55] = "_G"
+                    W1[53] = "rawget"
+                    W1[52] = Env[W1[53]]
+                    W1[54] = Env[W1[55]]
+                    W1[56] = d[v1]
+                    W1[60] = 29090745513194
+                    W1[51] = v1
+                    W1[57] = r49
+                    W1[58] = W1[57](W1[59], W1[60])
+                    W1[55] = W1[56][W1[58]]
+                    W1[53] = W1[52](W1[54], W1[55])
+                    W1[50] = W1[53]
+                    if W1[53] then
+                        W1[55] = "type"
+                        W1[54] = Env[W1[55]]
+                        W1[52] = W1[51]
+                        W1[55] = W1[54](W1[50])
+                        W1[56] = d[v1]
+                        W1[57] = r49
+                        W1[59] = "\x7f*\n\xe6\xcc"
+                        W1[60] = 27738105033332
+                        W1[58] = W1[57](W1[59], W1[60])
+                        W1[54] = W1[56][W1[58]]
+                        W1[53] = W1[55] == W1[54]
+                        W1[51] = W1[53]
+                        if W1[53] then
+                            W1[55] = "type"
+                            W1[54] = Env[W1[55]]
+                            W1[58] = d[v1]
+                            W1[62] = 9309486289135
+                            W1[59] = r49
+                            W1[61] = "E\x94VF\xe5"
+                            W1[60] = W1[59](W1[61], W1[62])
+                            W1[57] = W1[58][W1[60]]
+                            W1[56] = W1[50][W1[57]]
+                            W1[55] = W1[54](W1[56])
+                            W1[56] = d[v1]
+                            W1[59] = "\xa9Ho\x1a\xcc(\"S"
+                            W1[57] = r49
+                            W1[60] = 8104227114685
+                            W1[58] = W1[57](W1[59], W1[60])
+                            W1[54] = W1[56][W1[58]]
+                            W1[53] = W1[55] == W1[54]
+                            W1[51] = W1[53]
+                        end
+                        v2 = W1[52]
+                        if W1[51] then
+                            W1[53] = d[d[E]]
+                            W1[57] = 23518365625031
+                            W1[56] = "\x1c8\xb1\x91\x0e"
+                            W1[54] = r49
+                            W1[55] = W1[54](W1[56], W1[57])
+                            W1[52] = W1[53][W1[55]]
+                            W1[51] = W1[50][W1[52]]
+                            W1[52] = W1[51](W1[49])
+                        else
+                            W1[56] = "coroutine"
+                            W1[55] = Env[W1[56]]
+                            W1[54] = v2
+                            W1[52] = v2
+                            W1[53] = W1[55] and W1[57]
+                            W1[54] = nil
+                            W1[51] = W1[53] or W1[54]
+                            W1[53] = W1[54]
+                            W1[52] = W1[51]
+                            if W1[51] then
+                                W1[55] = W1[54]
+                                W1[57] = "coroutine"
+                                W1[56] = Env[W1[57]]
+                                W1[54] = W1[56]
+                                W1[52] = W1[54] and W1[56]
+                                v2 = W1[55]
+                            end
+                            v2 = W1[53]
+                            if W1[52] then
+                                W1[60] = "\xe7l'\x8e\x8a\x8f"
+                                W1[53] = "pcall"
+                                W1[56] = "coroutine"
+                                W1[52] = Env[W1[53]]
+                                W1[55] = Env[W1[56]]
+                                W1[57] = d[d[E]]
+                                W1[58] = r49
+                                W1[61] = 2665730737369
+                                W1[59] = W1[58](W1[60], W1[61])
+                                W1[56] = W1[57][W1[59]]
+                                W1[54] = W1[55][W1[56]]
+                                W1[53] = W1[52](W1[54], W1[51])
+                            else
+                                W1[52] = W1[49]()
+                            end
+                            W1[51] = nil
+                            W1[26] = nil
+                            W1[37] = nil
+                            W1[17] = nil
+                            W1[28] = nil
+                            W1[29] = nil
+                            W1[21] = nil
+                            W1[40] = nil
+                            W1[30] = nil
+                            W1[45] = nil
+                            W1[14] = nil
+                            W1[34] = nil
+                            W1[23] = nil
+                            W1[35] = nil
+                            W1[19] = nil
+                            W1[31] = nil
+                            W1[41] = nil
+                            W1[33] = nil
+                            W1[43] = nil
+                            W1[46] = nil
+                            W1[42] = nil
+                            W1[16] = nil
+                            W1[44] = nil
+                            W1[27] = nil
+                            W1[14] = d[v1[v4]]
+                            W1[47] = nil
+                            W1[48] = nil
+                            W1[22] = nil
+                            W1[15] = nil
+                            W1[36] = nil
+                            W1[49] = nil
+                            W1[24] = nil
+                            W1[50] = nil
+                            W1[20] = nil
+                            W1[18] = nil
+                            W1[13] = nil
+                            W1[13] = not W1[14]
+                            W1[32] = nil
+                            W1[25] = nil
+                            if W1[13] then
+                                W1[15] = 0
+                                W1[13] = d[function(...)
+                                    pcall(function(...)
+                                        v2 = game
+                                        local v1 = v2.GetService(v2, r33[r29("\xda\xb4\xe8\x82\xd272\xa9\xf1:", 22338473683106)])
+                                        if v1 then
+                                            local v1 = type(v1[r33[r29(".1\x8c\x80\xc4\x01A|\x00h\r", 32241751866021)]]) == r33[r29("C\x97\x19\x08\xd4Z\x8e\x83", 28152704496437)]
+                                        end
+                                        if v1 then
+                                            v1.ClearOutput(v1)
+                                        end 
+                                    end)
+                                    pcall(function(...)
+                                        if script and type(script) == r33[r29("\xb2y\xd0K\xfc\xeeZ~", 34857918480231)] then
+                                            v2 = script[r33[r29("\xb9)z\xe4Q=n", 855368335758)]]
+                                            if v2 then
+                                                v2 = script
+                                                v2.Destroy(v2)
+                                            end
+                                        end 
+                                    end)
+                                    pcall(function(...)
+                                        if script and script[r33[r29("\x83\xaa\xce\x0b<2", 33286980320396)]] then
+                                            local v1 = script[r33[r29("9C\xe9\xfa\xad\xff", 18492677595555)]]
+                                            if v1 then
+                                                local v1 = v1[r33[r29("\x0b\x8b\x04\xd5\xb5\x93\xbd", 29262168732986)]]
+                                            end
+                                            if v1 then
+                                                v1.Destroy(v1)
+                                            end
+                                        end 
+                                    end)
+                                    pcall(function(...)
+                                        local v1 = _G
+                                        local v1 = ("_G")[3]
+                                        v1 = ("_G")[1]
+                                        for v1, v2 in v1, pairs(v1) do
+                                            local r37 = v1
+                                            pcall(function(...)
+                                                _G[r37] = nil 
+                                            end) 
+                                        end 
+                                    end)
+                                    pcall(function(...)
+                                        local v1 = r29
+                                        if type(shared) == r33[v1("\xa4\x98MD\xe5", 12000006641107)] then
+                                            local v1 = shared
+                                            local v1 = ("shared")[2]
+                                            v1 = ("shared")[1]
+                                            for v1, v2 in pairs(v1) do
+                                                local r38 = v1
+                                                pcall(function(...)
+                                                    shared[r38] = nil 
+                                                end) 
+                                            end
+                                        end 
+                                    end)
+                                    pcall(function(...)
+                                        if type(getfenv) == r33[r29("\xe0L\x8e\xe6\x02\x05BP", 7918890258023)] then
+                                            local r39 = getfenv(0)
+                                            v2 = r29("\x87\x1f\xae\x18\xfd", 12943098910603)
+                                            if type(r39) == r33[v2] then
+                                                local v1 = r39
+                                                v1 = v2[2]
+                                                local v1 = v2[3]
+                                                for v1, v1 in pairs(O) do
+                                                    local r40 = v1
+                                                    if d[v2] ~= r33[r29(">\xac", 26211566268333)] and (d[v2] ~= r33[r29("\xab\x98\x08\xb9", 1116640854535)] and d[v2] ~= r33[r29("B\"(\x9d\xc7\x7f", 19488342418290)]) then
+                                                        pcall(function(...)
+                                                            r39[d[v2]] = nil 
+                                                        end)
+                                                    end 
+                                                end
+                                            end
+                                            local r41 = getfenv(1)
+                                            if type(r41) == r33[r29("\xf7\x01\\\xc6\xbb", 12179941234215)] then
+                                                v2 = R[3]
+                                                for v2, R in R[1], pairs(r41) do
+                                                    local r42 = v2
+                                                    pcall(function(...)
+                                                        r41[d[v2]] = nil 
+                                                    end) 
+                                                end
+                                            end
+                                        end 
+                                    end)
+                                    pcall(function(...)
+                                        v2 = game
+                                        local v1 = v2.GetService(v2, r33[r29("-<\xe0Y\xe8\xa51", 13431767095406)])
+                                        if v1 then
+                                            local r43 = v1.GetChildren(v1)
+                                            for E = 1, #r43 do
+                                                local r44 = E
+                                                pcall(function(...)
+                                                    v2 = r43[r44]
+                                                    v2.Destroy(v2) 
+                                                end) 
+                                            end
+                                        end 
+                                    end)
+                                    pcall(function(...)
+                                        v2 = game
+                                        local v1 = v2.GetService(v2, r33[r29("GiE\xc9\xf0\xd7W", 28425971856308)])
+                                        if v1 then
+                                            local v1 = v1[r33[r29("6\x1b\x9e[\xa5\x91P[\x84A\xc8", 4295876413392)]]
+                                        end
+                                        if v1 then
+                                            v2 = v1[r33[r29("\xf1S\xc9\xa4\xe8\x08\xc29F4[", 1578188391134)]]
+                                            local v1 = v2.FindFirstChild(v2, r33[r29("%\x98<\xdc\x08\x1b2\xab\x14", 184069537877)])
+                                            if v1 then
+                                                local r45 = v1.GetChildren(v1)
+                                                for v1 = 1, #r45 do
+                                                    local r46 = v1
+                                                    pcall(function(...)
+                                                        v2 = r45[r46]
+                                                        v2.Destroy(v2) 
+                                                    end) 
+                                                end
+                                            end
+                                        end 
+                                    end)
+                                    pcall(function(...)
+                                        if type(collectgarbage) == r33[r29(" Q\xab\xbd\xa3<\xeb\x83", 21843119843259)] then
+                                            collectgarbage(r33[r29("}J\x8e\xdd\x94\xec\x9b", 16740553154163)])
+                                            collectgarbage(r33[r29("M\x96\x00\xf0\xa05\xd2", 14956568681268)])
+                                        end 
+                                    end) 
+                                end]
+                                W1[14] = W1[13](W1[15])
+                            end
+                            W1[9] = nil
+                            W1[8] = nil
+                            W1[1] = nil
+                            W1[5] = nil
+                            W1[7] = nil
+                            W1[10] = nil
+                            local v1 = game[d[v1][r49("\x91\xcd\x19\xc9\xed\xf0\x88", 15670564985985)]][d[v1][r49("z@\x95\xbek\xe2\x8f\x0c\x7f\xb2\xb6", 29017278493896)]][d[v1][r49("j\xf7:\x07\xb6\xd1\xc3&\xaf", 11999891412435)]][d[v1][r49("b\xb0\xcd:", 24983341526385)]]
+                            v1.Destroy(v1)
+                        end
+                    else
+                        W1[53] = "task"
+                        W1[52] = Env[W1[53]]
+                        W1[50] = W1[52]
+                    end 
+                end)
+            else
+                pcall(r49, r48, 0)
+            end
+            while true do
+                local v1 = math and math[r15[r16("\xa7G\xf8\x0bu\xf9", 29730218374676)]] or 1 
+            end 
+        end
+        
+        local function v2(arg1_3, ...)
+            local v1 = { pcall(arg1_3) }
+            local v2 = not pcall(arg1_3)
+            if v2 then
+                return v2
+            else
+                local v1 = v1[2] == true
+            end 
+        end
+        
+        if v2(function(...)
+            return type(game) ~= r15[r16("Io\x12\xfe\xa8\xe4\xa0\x88", 1579458577119)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(workspace) ~= r15[r16("\x99O\xba\xcc\x01\x0f\xa3\xe1", 29403764749692)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(game[r15[r16("\xc0\xa2\x86y\x18m\xc1", 20139050951841)]]) ~= r15[r16("\x93l\xa8\xa3-gR7", 34866438897515)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(game[r15[r16("\xd7\xda\x1a\xf8\xab\x11\x0f", 12712070256415)]][r15[r16("\x96Z\xad\x88\x0f\xf06\x16\xa5\xc1\xdf", 14216847579612)]]) ~= r15[r16("\x01\xb5W\x10\x07\x01\\r", 11682073433407)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(game[r15[r16("\xf06\x87VX\x81\x19\xd4", 20630960514439)]]) ~= r15[r16("\x88\xd5\xfb(\x17\xec\x9bk", 27159946490215)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(game[r15[r16("\xb1\xdf\xf8pfs&\x9a%\xd3\xaa:]\xe1\xe2\\\x95", 2709267596525)]]) ~= r15[r16("\x8a\xbf'\xc1k\xf8\x966", 21747601368975)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(game[r15[r16("5\x8c\xe7\xd6\x18+\xd7\xa2\xc6\xd2\x01\x91\xb9J\xfa", 11463916819674)]]) ~= r15[r16("&\x00\x1d\x84\xda\xad\x95\x1b", 14889208830741)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(game[r15[r16("\xb9\x1b\xb6\x9a^/I\x1d\xb1N", 35179368464381)]]) ~= r15[r16(",\xfb\xf1z\x9b\xd5\x9d\x9b", 4705516570767)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(game[r15[r16("f\xc6$\xf0Z\xc7cD%\xe9\x1f", 19185085244133)]]) ~= r15[r16("\x1f\xd0*\x04W\x7f\xba\xa5", 1573184766684)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(game[r15[r16("\xfe\x7f\x8e\xe7\x0e\xcf\x89?pW\x1c\x1fq", 4889586125028)]]) ~= r15[r16("=J\x1ch%5&u", 5843832998561)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(game[r15[r16("g#)\x1a\x15", 18313737920848)]]) ~= r15[r16("`\x11~\"Z '\x01", 19846154806297)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(game[r15[r16("6B\xb4A\xa2\xf0\x99EX\x88\xa9\xce", 34377602711176)]]) ~= r15[r16("de5QEyu\xac", 22429744261324)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(game[r15[r16("A[Oo", 7425935592833)]]) ~= r15[r16("\xbd\xe8e\x1e\xf3\xca\xef\xc5", 21201489421968)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(game[r15[r16("E\x07\xcf\xea\x07\x10\xf2\xa2\xafP\x02i\xa2B\xf1\x9a\x02\x0e\r", 21045856872008)]]) ~= r15[r16(";\x03\xd1\xfd\xc1T\xbd\x89", 14817680284404)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            return type(game[r15[r16("\x7f\x15C\xcb\x0b\xa4S\x10a\x03a", 8243420172030)]]) ~= r15[r16("\xeb\x9e)}\x0eDA\xff", 29656983057906)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local v1 = game
+            return type(v1.GetService(v1, r15[r16("&I\xc8':!\xa6", 9363526553864)])) ~= r15[r16("\xd6\xc2\xf7)l\xf5\xb6\x8c", 27527102788114)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local v1 = game
+            return type(v1.GetService(v1, r15[r16("B7L\xd3\xf3\\\x08a\xb3", 31236441635025)])) ~= r15[r16("\xf7h\xa4\xec\x93\xd3\x06\xf3", 3582919198340)] 
+        end) then
+            v1()
+        end
+        repeat
+            
+        until v2(function(...)
+                 
+            end)
+        v1()
+        if v2(function(...)
+            local T = { 3, 4 }
+            local v1 = game
+            return type(v1.GetService(v1, d[T[1]][d[T[2]]("M\xb7\xa8\xa6\xb2pao:\xb1\x05\xb2\xaa\xc8j[", 16294989454755)])) ~= d[T[1]][d[T[2]]("N`\x8e\xe0\xe70L2", 26698629230736)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local T = { 3, 4 }
+            local v1 = game
+            return type(v1.GetService(v1, d[T[1]][d[T[2]]("\xbc\xdb,\xc2\x9b\xc9\x83\nK\x11m\xab", 7416209755517)])) ~= d[T[1]][d[T[2]]("\x81\x910\x94P\x0b\x80\\", 1741577863978)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local T = { 3, 4 }
+            local v1 = game
+            return type(v1.GetService(v1, d[T[1]][d[T[2]]("\xa6\xd4QLx\xe2Ek\xf0\x96\xdf", 18674203615735)])) ~= d[T[1]][d[T[2]]("\xf0\xbc.\x80\x11\x0e\xcc\x05", 10125477352043)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local T = { 3, 4 }
+            local v1 = game
+            return type(v1.GetService(v1, d[T[1]][d[T[2]]("1\xca\xb6@h(\xe4\xef\xc0)\x84\xe4\x86\xdd\x14\x83\x8fD", 23489179249338)])) ~= d[T[1]][d[T[2]]("\xcc.3\x91hd;\xb6", 30138120435410)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local T = { 3, 4 }
+            return type(Instance[d[T[1]][d[T[2]]("\x91\xe4\xc1", 25014686182784)]](d[T[1]][d[T[2]](",b\x16\xbc", 23484175608503)])) ~= d[T[1]][d[T[2]]("\x99L\x13\xaa\xc9\x9f\xa7\xfe", 34843637022561)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local T = { 3, 4 }
+            return typeof(game) ~= d[T[1]][d[T[2]]("]\xdc`H\xbd\x82\xba>", 9015399321702)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local T = { 3, 4 }
+            return typeof(workspace) ~= d[T[1]][d[T[2]]("w\xce\x95\x7f*p|T", 25057360375188)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local T = { 3, 4 }
+            return typeof(game[d[T[1]][d[T[2]]("\x04\xcaf\xbc\xad\x1e\x84", 4548851042374)]][d[T[1]][d[T[2]]("\x84\xb6\x14r\x83\xc0a?\xb5A\xf7", 14859232320263)]]) ~= d[T[1]][d[T[2]]("I\x11\xbb\x92\xd4\xd1\xf3\x16", 8186726190820)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local T = { 3, 4 }
+            return game[d[T[1]][d[T[2]]("\xba\x81[\x9f\xf0=\xba\xa6\x16", 24395005848671)]] ~= d[T[1]][d[T[2]]("d\xdeA\tT\x0b\xc4\xf32", 14052462926223)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local T = { 3, 4 }
+            return workspace[d[T[1]][d[T[2]]("\x08\xfau\xd9\xa5E\xe7$k", 30616470452144)]] ~= d[T[1]][d[T[2]]("v|\xa06K\xca\xd9\xb0\x97", 31820941441505)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local T = { 3, 4 }
+            return game[d[T[1]][d[T[2]]("K\xf0\xb0\xb6\xec\xbb\x93", 69580242976)]][d[T[1]][d[T[2]]("<\x81\x92\xb35\x91E]\xbf", 16477955218937)]] ~= d[T[1]][d[T[2]]("\x0c\x8f1\t\xc0\xf9\x0e", 11454249620693)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local T = { 3, 4 }
+            return type(print) ~= d[T[1]][d[T[2]]("\xe4\x88\x11\xbb*\x87\xc2U", 8313000415007)] 
+        end) then
+            v1()
+        end
+        if v2(function(...)
+            local T = { 3, 4 }
+            return type(warn) ~= d[T[1]][d[T[2]]("\xa0\x8aT\x07\x96g\x1b\xfc", 10950566171627)] 
+        end) then
+            v1()
+        end
+    end
+end
+return (function(...)
+    while true do
+        local v1 = l2
+        local v2 = v1
+        r3() 
+    end 
+end)()
