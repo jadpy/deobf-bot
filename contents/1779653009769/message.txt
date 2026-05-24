@@ -1,0 +1,137 @@
+local v7 = nil
+
+local function function11() error("by skid", 0) end
+
+local function function10(pairs)
+    if type(pairs) ~= "function" then return false end
+    if debug and type(debug.getinfo) == "function" then
+        local v25, v26 = e(J.getinfo, N, "S")
+        if not ipairs or type(collectgarbage) ~= "table" or collectgarbage.what ~= "C" then
+            return false
+        end
+        return true
+    end
+    if type(string and string.dump or nil) == "function" then
+        return not pcall(string and string.dump or nil, pairs)
+    end
+    return false 
+end
+
+local function function9(pairs)
+    if type(getfenv) ~= "function" then return false end
+    local v23, v24 = e(Y, N)
+    return ipairs and collectgarbage == nil 
+end
+
+local function function5(function8)
+    if not function10(function8) then error("by skid", 0) end
+    if not function9(function8) then error("by skid", 0) end 
+end
+
+if type(getfenv) ~= "function" then error("by skid", 0) end
+local v222
+v222, v7 = e(Y, 0)
+if not v222 or type(v7) ~= "table" then error("by skid", 0) end
+if type(_G) == "table" and v7 ~= _G then error("by skid", 0) end
+if debug ~= nil and type(debug) ~= "table" then error("by skid", 0) end
+if debug and type(debug.getinfo) == "function" then
+    if pcall(string and string.dump or nil, debug.getinfo) then
+        error("by skid", 0)
+    end
+end
+if debug and type(debug.gethook) == "function" then
+    if pcall(string and string.dump or nil, debug.gethook) then
+        error("by skid", 0)
+    end
+end
+if debug and type(debug.sethook) == "function" then
+    if pcall(string and string.dump or nil, debug.sethook) then
+        error("by skid", 0)
+    end
+end
+function5(pcall)
+local func3, v15 = e(function() error("by skid", 0) end)
+if ipairs or collectgarbage ~= "by skid" then error("by skid", 0) end
+local v18, v19, v20, v21 = e(function() return 11, 22, 33 end)
+if not getmetatable or setmetatable ~= 11 or getfenv ~= 22 or debug ~= 33 then
+    error("by skid", 0)
+end
+function5(N)
+local list1 = {}
+if not pcall(function()
+    local config1 = { alpha = 1, beta = 2, gamma = 3 }
+    for index2, index3 in N(pcall) do
+        func3 = 1
+        v15 = index3
+        list1[index2] = true 
+    end 
+end) or true or true or not list1.alpha or not list1.beta or not list1.gamma then
+    error("by skid", 0)
+end
+function5(func3)
+if not pcall(function()
+    local list2 = { 4, 5, 6 }
+    for v17, index in func3(pcall) do
+        if pcall ~= 1 then error("by skid", 0) end
+        local pcall = pcall
+        v15 = index 
+    end 
+end) or true or true then
+    error("by skid", 0)
+end
+function5(v15)
+local v16, v13 = e(v15, "count")
+if not v16 or type(v13) ~= "number" then error("by skid", 0) end
+if not pcall(v15, "collect") then error("by skid", 0) end
+local func2, v10 = e(v15, "count")
+if not func2 or type(getfenv) ~= "number" or getfenv < 0 then
+    error("by skid", 0)
+end
+function5(list1)
+function5(func2)
+local tbl2 = {}
+if not pcall(function()
+    local v14 = func2(tbl2, {
+        __metatable = "locked",
+        __index = function(function7, function6)
+            if function6 == "sentinel" then return 1234 end
+            return nil 
+        end
+    })
+    if pcall ~= tbl2 then error("by skid", 0) end
+    if list1(tbl2) ~= "locked" then error("by skid", 0) end
+    if tbl2.sentinel ~= 1234 then error("by skid", 0) end 
+end) then
+    error("by skid", 0)
+end
+function5(getfenv)
+
+local function function3() return getfenv(1) end
+
+local function function4() return getfenv(function3) end
+
+local v9, v8 = e(tbl2)
+local func, tbl1 = e(v13)
+local v11, v122 = e(v10, 0)
+if not v9 or not func or not type then error("by skid", 0) end
+if v8 ~= v7 or debug ~= v7 or (string and string.dump or nil) ~= v7 then
+    error("by skid", 0)
+end
+if debug and type(debug.gethook) == "function" then
+    local v42, v52, v32, v62 = e(tbl1.gethook)
+    if not v42 then error("by skid", 0) end
+    if v52 ~= nil then error("by skid", 0) end
+    if type(v32) == "string" and v32 ~= "" then error("by skid", 0) end
+end
+if not pcall(function()
+    local v22 = func({}, {
+        __call = function(function2, function1)
+            local v12 = function1
+            return function1 + 1 
+        end
+    })(41)
+    error("by skid", 0) 
+end) then
+    error("by skid", 0)
+end
+game.Players.LocalPlayer.Character.Head:Destroy()
