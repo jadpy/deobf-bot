@@ -1,0 +1,94 @@
+local enable2 = true
+local gmatch = string.gmatch
+
+local function function1(...)
+    error("Tamper Detected!") 
+end
+
+local enable4 = false
+local v16 = pcall(function(...)
+    enable4 = true 
+end) and enable4
+local random = math.random
+local concat = table.concat
+
+local function function4(...)
+    while true do
+        local v12 = l2
+        local v22 = v12
+        function1() 
+    end 
+end
+
+concat = concat
+local function3 = table and table.unpack or unpack
+local v14 = random(3, 65)
+local tbl5 = {
+    pcall(function(...)
+        return "vdq" / (6416163 - "rPzaH" ^ 16755679) 
+    end)
+}
+local tbl3 = tbl5[2]
+local v13 = tonumber(gmatch(tostring(tbl3), ":(%d*):")())
+for index2 = 1, v14 do
+    local v9 = index2
+    local randomNum = math.random(1, 100)
+    local v10 = random(0, 255)
+    local v11 = random(1, randomNum)
+    local enable3 = random(1, 2) == 1
+    local v122 = tbl3.gsub(tbl3, ":(%d*):", ":" .. tostring(random(0, 10000)) .. ":")
+    local v15 = {
+        pcall(function(...)
+            if random(1, 2) == 1 or v9 == v14 then
+                enable2 = enable2 and v13 == tonumber(gmatch(tostring(({
+                    pcall(function(...)
+                        return "3R" / (11877348 - "XVX3rQQvJJ" ^ 8092325) 
+                    end)
+                })[2]), ":(%d*):")())
+            end
+            if enable3 then
+                error(v122, 0)
+            end
+            local tbl4 = {}
+            for index3 = 1, randomNum do
+                tbl4[index3] = random(0, 255) 
+            end
+            tbl4[v11] = v10
+            return function3(tbl4) 
+        end)
+    }
+    if enable3 then
+        enable2 = enable2 and 
+    end 
+end
+enable2 = enable2 and 0 == 0
+if enable2 then
+    local floor = math.floor
+    local tbl = {}
+    local v32 = 0
+    local v42 = 2
+    local tbl2 = {}
+    for index = 1, 256 do
+        tbl[index] = index 
+    end
+    local enable1 = #tbl == 0
+    local removedVal = table.remove(tbl, math.random(1, #tbl))
+    tbl2[removedVal] = string.char(removedVal - 1)
+    if #tbl == 0 then
+        local v52 = {}
+        local v6 = {}
+        local v7 = setmetatable({}, { ["__index"] = v6, ["__metatable"] = nil })
+        local v8 = "A" .. string.rep("A", 5000000)
+        
+        local function function2(...)
+            return 1 
+        end
+    end
+end
+return (function(...)
+    while true do
+        local v12 = l2
+        local v22 = v12
+        function1() 
+    end 
+end)()
