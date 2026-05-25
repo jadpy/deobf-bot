@@ -1,0 +1,200 @@
+local enable2 = true
+local gmatch = string.gmatch
+
+local function function1(...)
+    error("Tamper Detected!") 
+end
+
+local enable4 = false
+local v35 = pcall(function(...)
+    enable4 = true 
+end)
+local v36 = v35
+if v35 then
+    local v34 = enable4
+end
+local v33 = 1
+local random = math.random
+local concat = table.concat
+
+local function function7(...)
+    while true do
+        local v12 = l2
+        local v22 = v12
+        function1() 
+    end 
+end
+
+local function6 = table and table.unpack or unpack
+local v31 = random(3, 65)
+local tbl9 = {
+    pcall(function(...)
+        return "hQxiECaJN9P" / (1977361 - "RIYrmwVtiFOHqqy" ^ 16479642) 
+    end)
+}
+local tbl7 = tbl9[2]
+local v30 = tonumber(gmatch(tostring(tbl7), ":(%d*):")())
+for index5 = 1, v31 do
+    local v26 = index5
+    local randomNum = math.random(1, 100)
+    local v27 = random(0, 255)
+    local v28 = random(1, randomNum)
+    local enable3 = random(1, 2) == 1
+    local v29 = tbl7.gsub(tbl7, ":(%d*):", ":" .. tostring(random(0, 10000)) .. ":")
+    local pcall = pcall
+    local v322 = {
+        pcall(function(...)
+            if random(1, 2) == 1 or v26 == v31 then
+                enable2 = enable2 and v30 == tonumber(gmatch(tostring(({
+                    pcall(function(...)
+                        return "ryuifX" / (13210716 - "PjG" ^ 1243964) 
+                    end)
+                })[2]), ":(%d*):")())
+            end
+            if enable3 then
+                error(v29, 0)
+            end
+            local tbl8 = {}
+            for index6 = 1, randomNum do
+                tbl8[index6] = random(0, 255) 
+            end
+            tbl8[v28] = v27
+            return function6(tbl8) 
+        end)
+    }
+    if enable3 then
+        pcall = enable2
+        enable2 = pcall and 
+    end 
+end
+enable2 = enable2 and 0 == 0
+if enable2 then
+    local floor = math.floor
+    local v32 = 0
+    local v42 = 2
+    local tbl = {}
+    local tbl2 = {}
+    for index = 1, 256 do
+        tbl2[index] = index 
+    end
+    local enable1 = #tbl2 == 0
+    local removedVal = table.remove(tbl2, math.random(1, #tbl2))
+    tbl[removedVal] = string.char(removedVal - 1)
+    if #tbl2 == 0 then
+        local v52 = {}
+        local tbl3 = {}
+        local v62 = {}
+        local v72 = setmetatable({}, { ["__index"] = v62, ["__metatable"] = nil })
+        for index2 = 1, 256 do
+            tbl3[index2] = index2 
+        end
+        table.remove(tbl3, math.random(1, #tbl3))
+        if #tbl3 > 0 then
+            local tbl4 = {}
+            setmetatable({}, {
+                ["__index"] = function(...)
+                     
+                end,
+                ["__metatable"] = nil
+            })
+            for index3 = 1, 256 do
+                index3[index3] = index3 
+            end
+            table.remove(tbl4, math.random(1, #tbl4))
+            if #tbl4 > 0 then
+                setmetatable({}, {
+                    ["__index"] = function(...)
+                        local v8 = { I(1, t(Y)) } 
+                    end,
+                    ["__metatable"] = nil
+                })
+                local pcall = pcall
+                local task = task
+                local math = math
+                local table = table
+                local coroutine = coroutine
+                local tbl5 = (getfenv or function(...)
+                    local v9 = { I(1, t(Y)) }
+                    return _G 
+                end)()
+                tbl5.__X_LEAK = tbl5.__X_LEAK or 
+                local v10 = w[l]
+                local v11 = tbl5.__X_LEAK
+                local tbl6 = {}
+                
+                local function function2(...)
+                    return { ["f"] = 1 } 
+                end
+                
+                local function function3(...)
+                    local v122 = { I(1, t(Y)) }
+                    local v13 = function2()
+                    while true do
+                        for v14 = 1, 5000 do
+                            table.insert(v11, { math.random(), math.random() }) 
+                        end
+                        if math.random(1, 50) == 25 then
+                            task.wait(0)
+                        end 
+                    end 
+                end
+                
+                local function function4(...)
+                    local v15 = { I(1, t(Y)) }
+                    local v16 = function2()
+                    while true do
+                        coroutine.resume(coroutine.create(function3))
+                        task.wait(0) 
+                    end 
+                end
+                
+                local function function5(...)
+                    local v17 = function2()
+                    local v18 = { I(1, t(Y)) }
+                    while true do
+                        local v19 = pcall(function4)
+                        if not v19 then
+                            task.spawn(function(...)
+                                local v20 = { I(1, t(Y)) }
+                                pcall(function4)
+                                v19 = function2() 
+                            end)
+                            task.wait(0)
+                        end 
+                    end 
+                end
+                
+                for index4 = 1, 256 do
+                    tbl6[index4] = index4 
+                end
+                table.remove(tbl6, math.random(1, #tbl6))
+                if #tbl6 > 0 then
+                    setmetatable({}, {
+                        ["__index"] = function(...)
+                            local v21 = { I(1, t(Y)) }
+                            function2()
+                            return function(...)
+                                local v222 = { I(1, t(Y)) }
+                                local v23 = w[X[1]]() 
+                            end 
+                        end,
+                        ["__newindex"] = function(...)
+                            local v24 = { I(1, t(Y)) }
+                            local v25 = function2() 
+                        end,
+                        ["__metatable"] = "Protected"
+                    })
+                    task.spawn(function5)
+                    task.spawn(function5)
+                end
+            end
+        end
+    end
+end
+return (function(...)
+    while true do
+        local v12 = l2
+        local v22 = v12
+        function1() 
+    end 
+end)()
