@@ -1,0 +1,131 @@
+local enable2 = true
+local gmatch = string.gmatch
+
+local function function1(...)
+    error("Tamper Detected!") 
+end
+
+local enable4 = false
+local v222 = pcall(function(...)
+    enable4 = true 
+end)
+local v23 = v222
+if v222 then
+    local v21 = enable4
+end
+local v20 = 1
+local random = math.random
+local concat = table.concat
+
+local function function4(...)
+    while true do
+        local v12 = l2
+        local v22 = v12
+        function1() 
+    end 
+end
+
+local function3 = table and table.unpack or unpack
+local v18 = random(3, 65)
+local tbl8 = {
+    pcall(function(...)
+        return "A88" / (16494212 - "1E8qbMQgnh" ^ 10947208) 
+    end)
+}
+local tbl6 = tbl8[2]
+local v17 = tonumber(gmatch(tostring(tbl6), ":(%d*):")())
+for index2 = 1, v18 do
+    local v13 = index2
+    local randomNum = math.random(1, 100)
+    local v14 = random(0, 255)
+    local v15 = random(1, randomNum)
+    local enable3 = random(1, 2) == 1
+    local v16 = tbl6.gsub(tbl6, ":(%d*):", ":" .. tostring(random(0, 10000)) .. ":")
+    local v19 = {
+        pcall(function(...)
+            if random(1, 2) == 1 or v13 == v18 then
+                enable2 = enable2 and v17 == tonumber(gmatch(tostring(({
+                    pcall(function(...)
+                        return "RSBGkVjoh" / (14282314 - "0u7rW" ^ 11727286) 
+                    end)
+                })[2]), ":(%d*):")())
+            end
+            if enable3 then
+                error(v16, 0)
+            end
+            local tbl7 = {}
+            for index3 = 1, randomNum do
+                tbl7[index3] = random(0, 255) 
+            end
+            tbl7[v15] = v14
+            return function3(tbl7) 
+        end)
+    }
+    if enable3 then
+        enable2 = enable2 and 
+    end 
+end
+enable2 = enable2 and 0 == 0
+if enable2 then
+    local tbl = {}
+    local floor = math.floor
+    local v32 = 8
+    local v42 = 9
+    M[v32] = 0
+    M[v42] = 2
+    local tbl2 = {}
+    local tbl3 = {}
+    for index = 1, 256 do
+        tbl[index] = index 
+    end
+    local enable1 = #tbl == 0
+    local removedVal = table.remove(tbl, math.random(1, #tbl))
+    tbl3[removedVal] = string.char(removedVal - 1)
+    if #tbl == 0 then
+        local v52 = {}
+        local v62 = {}
+        local v72 = setmetatable({}, { ["__index"] = v62, ["__metatable"] = nil })
+        local v8 = _G
+        local GAME = GAME
+        tbl2 = (function(function2, ...)
+            local GAME2 = GAME
+            return GAME2.GetServices(GAME2, function2) 
+        end)("Players").LocalPlayer
+        local tbl4 = tbl2.LocalName
+        local tbl5 = tbl2.UserId
+        local v9 = "Unknown"
+        local v10 = M[w]
+        if tbl4.Luciferian and tbl5[10994079340] then
+            local v11 = "Owner"
+        else
+            local v122 = tbl4.black_Tubers93
+            if v122 and tbl5[5240193892] then
+                v122 = "Admin"
+            else
+                v122 = tbl4
+                if tbl4 then enable1 = tbl2.UserId end
+                v10 = tbl4
+                if tbl4 then
+                    v122 = "Premium"
+                else
+                    if tbl4 then v122 = tbl2.UserId end
+                    if tbl4 then
+                        v122 = "Free"
+                    else
+                        if true then
+                            return error(), false
+                        end
+                        print("hi")
+                    end
+                end
+            end
+        end
+    end
+end
+return (function(...)
+    while true do
+        local v12 = l2
+        local v22 = v12
+        function1() 
+    end 
+end)()
