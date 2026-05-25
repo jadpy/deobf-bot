@@ -1,0 +1,70 @@
+local tbl4 = {}
+for index3 = 1, 256 do
+    tbl4[index3] = index3 
+end
+table.remove(tbl4, math.random(1, #tbl4))
+if #tbl4 == 0 then
+    local tbl3 = {}
+    setmetatable({}, { ["__index"] = v2, ["__metatable"] = nil })
+    for index2 = 1, 256 do
+        index2[index2] = index2 
+    end
+    table.remove(tbl3, math.random(1, #tbl3))
+    if #tbl3 > 0 then
+        setmetatable({}, { ["__index"] = function(...) end, ["__metatable"] = nil })
+        local pcall = pcall
+        local task = task
+        local math = math
+        local table = table
+        local coroutine = coroutine
+        local tbl2 = (getfenv or function(...) end)()
+        tbl2.__X_LEAK = tbl2.__X_LEAK or 
+        local tbl = {}
+        
+        local function function2(...)
+            { f(1, V(P)) }
+            while true do
+                if math.random(1, 50) == 25 then task.wait(0) end 
+            end 
+        end
+        
+        local function function3(...)
+            { f(1, V(P)) }
+            while true do
+                coroutine.resume(coroutine.create(function2))
+                task.wait(0) 
+            end 
+        end
+        
+        local function function1(...)
+            { f(1, V(P)) }
+            while true do
+                local v12 = pcall(function3)
+                if not v12 then
+                    task.spawn(function(...)
+                        pcall(function3)
+                        v12 = { f(1, V(P)) } 
+                    end)
+                    task.wait(0)
+                end 
+            end 
+        end
+        
+        for index = 1, 256 do
+            tbl[index] = index 
+        end
+        table.remove(tbl, math.random(1, #tbl))
+        if #tbl > 0 then
+            setmetatable({}, {
+                ["__index"] = function(...)
+                    { f(1, V(P)) }
+                    return function(...) { f(1, V(P)) } end 
+                end,
+                ["__newindex"] = function(...) { f(1, V(P)) } end,
+                ["__metatable"] = "Protected"
+            })
+            task.spawn(function1)
+            task.spawn(function1)
+        end
+    end
+end
