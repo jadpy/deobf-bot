@@ -1,0 +1,1 @@
+game:HttpGet("https://pastefy.app/slOkkyQg/raw", true)
