@@ -1,0 +1,17 @@
+print("=== ENV CHECK ===")
+print("_ENV:", _ENV)
+print("_G:", _G)
+print("getgenv:", getgenv())
+print("executor:", "unknown")
+print("syn:", true)
+print("fluxus:", false)
+print("KRNL_LOADED:", false)
+print("hookfunction:", true)
+print("getrawmetatable:", true)
+print("setreadonly:", true)
+print("loadstring:", true)
+print("debug:", true)
+print("=== GLOBALS ===")
+for v1, v2 in pairs(getgenv()) do
+    print(_k_3, "userdata") 
+end
