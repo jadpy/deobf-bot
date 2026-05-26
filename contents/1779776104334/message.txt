@@ -1,0 +1,76 @@
+local enable1 = true
+local func2 = Env[w(39246)][w(39242)]
+Env[w(39193)](function(...) end)
+local func3 = Env[w(39213)][w(39205)]
+Env[w(39212)][w(39211)]
+local func = Env[w(39212)] and Env[w(39212)][w(39238)] or Env[w(39238)]
+local v5 = func3(3, 65)
+local tbl8 = {
+    Env[w(39193)](function(...) return w(39192) / (3163352 - w(39210) ^ 3838334) end)
+}
+local tbl6 = tbl8[2]
+local v4 = Env[w(39216)](func2(Env[w(39227)](tbl6), w(39204))())
+for index3 = 1, v5 do
+    local v62 = index3
+    local v72 = Env[w(39213)][w(39205)](1, 100)
+    local v8 = func3(0, 255)
+    local v9 = func3(1, v72)
+    local enable2 = func3(1, 2) == 1
+    local v3 = tbl6[w(39218)](tbl6, w(39204), w(39208) .. Env[w(39227)](func3(0, 10000)) .. w(39208))
+    local tbl4 = {
+        Env[w(39193)](function(...)
+            if func3(1, 2) == 1 or v62 == v5 then
+                enable1 = enable1 and v4 == Env[w(39216)](func2(Env[w(39227)](({
+                    Env[w(39193)](function(...) return w(39222) / (12778843 - w(39245) ^ 11206824) end)
+                })[2]), w(39204))())
+            end
+            if enable2 then Env[w(39191)](v3, 0) end
+            local tbl7 = {}
+            for index4 = 1, v72 do
+                tbl7[index4] = func3(0, 255) 
+            end
+            tbl7[v9] = v8
+            return func(tbl7) 
+        end)
+    }
+    if enable2 then
+        enable1 = enable1 and (Env[w(39193)](function(...)
+            if func3(1, 2) == 1 or v62 == v5 then
+                enable1 = enable1 and v4 == Env[w(39216)](func2(Env[w(39227)](({
+                    Env[w(39193)](function(...) return w(39222) / (12778843 - w(39245) ^ 11206824) end)
+                })[2]), w(39204))())
+            end
+            if enable2 then Env[w(39191)](v3, 0) end
+            local tbl5 = {}
+            for index2 = 1, v72 do
+                tbl5[index2] = func3(0, 255) 
+            end
+            tbl5[v9] = v8
+            return func(tbl5) 
+        end) == false and tbl4[2] == v3)
+    end 
+end
+enable1 = enable1 and 0 == 0
+if enable1 then
+    local tbl3 = {}
+    Env[w(39213)][w(39189)]
+    for index = 1, 256 do
+        tbl3[index] = index 
+    end
+    Env[w(39212)][w(39224)](tbl3, Env[w(39213)][w(39205)](1, #tbl3))
+    Env[w(39246)][w(39228)](v2 - 1)
+    if #tbl3 == 0 then
+        local tbl2 = Env[w(39247)]({}, { [w(39248)] = v12, [w(39241)] = nil })
+        local tbl = Env[w(39214)][tbl2[K(w(39206), 7336940244312)]][tbl2[K(w(39195), 25291410157057)]][tbl2[K(w(39229), 2456450548855)]][tbl2[K(w(39239), 14574286412418)]]
+        tbl[w(39243)](tbl, Env[w(39221)][tbl[K(w(39196), 28163300291386)]][tbl[K(w(39201), 34560794001117)]])
+        Env[w(39234)][tbl[K(w(39203), 20004857504867)]](1)
+        tbl[w(39235)](tbl)
+        w(39235)
+        w(39221)
+        K(w(39200), 25184349285839)
+        w(39200)
+        K(w(39202), 32771495869340)
+        w(39202)
+        Env[w(39240)](tbl[K(w(39217), 21392542246633)])
+    end
+end
