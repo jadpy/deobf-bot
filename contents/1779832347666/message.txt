@@ -1,0 +1,19 @@
+game:GetService("CoreGui")["FindFirstChild"](game:GetService("CoreGui"), "KillGui")["Destroy"](game:GetService("CoreGui")["FindFirstChild"](game:GetService("CoreGui"), "KillGui"))
+local _ScreenGui_8 = Instance.new("ScreenGui")
+_ScreenGui_8.Name = "KillGui"
+_ScreenGui_8.ResetOnSpawn = false
+syn.protect_gui(_ScreenGui_8)
+_ScreenGui_8.Parent = game:GetService("CoreGui")
+local _TextButton_13 = Instance.new("TextButton")
+_TextButton_13.Size = UDim2.new(0, 220, 0, 65)
+_TextButton_13.Position = UDim2.new(0.5, -110, 0.5, -32)
+_TextButton_13.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+_TextButton_13.TextColor3 = Color3.fromRGB(255, 255, 255)
+_TextButton_13.TextScaled = true
+_TextButton_13.Font = Enum.Font.SourceSansBold
+_TextButton_13.Text = "KILL PLAYER"
+_TextButton_13.Parent = _ScreenGui_8
+local _UICorner_20 = Instance.new("UICorner")
+_UICorner_20.CornerRadius = UDim.new(0, 12)
+_UICorner_20.Parent = _TextButton_13
+_TextButton_13.MouseButton1Click:Connect(function(...) end)
