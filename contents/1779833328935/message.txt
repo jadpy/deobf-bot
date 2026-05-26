@@ -1,0 +1,49 @@
+local tbl5 = {}
+for index = 1, 256 do
+    tbl5[index] = index 
+end
+table.remove(tbl5, random(1, #tbl5))
+if #tbl5 == 0 then
+    setmetatable({}, { ["__index"] = v12, ["__metatable"] = nil })
+    local GAME = GAME
+    local tbl2 = GAME.GetService(GAME, "Players").LocalPlayer
+    pcall(function(...)
+        local GAME = GAME
+        local coreGuiService = GAME.GetService(GAME, "CoreGui")
+        GAME = coreGuiService.FindFirstChild(coreGuiService, "KillGui")
+        GAME.Destroy(GAME) 
+    end)
+    local screenGui = Instance.new("ScreenGui")
+    screenGui.Name = "KillGui"
+    screenGui.ResetOnSpawn = false
+    local tbl3 = syn
+    screenGui = "new"
+    local tbl4 = q[p]
+    if tbl3 then screenGui = syn.protect_gui end
+    if screenGui then
+        syn.protect_gui(screenGui)
+        tbl4 = GAME
+        screenGui.Parent = tbl4.GetService(tbl4, "CoreGui")
+    else
+        tbl4 = GAME
+        screenGui.Parent = tbl4.GetService(tbl4, "CoreGui")
+    end
+    tbl4 = Instance.new("TextButton")
+    tbl4.Size = UDim2.new(0, 220, 0, 65)
+    tbl4.Position = UDim2.new(0.5, -110, 0.5, -32)
+    tbl4.BackgroundColor3 = Color3.fromRGB(25, 25, 25)
+    tbl4.TextColor3 = Color3.fromRGB(255, 255, 255)
+    tbl4.TextScaled = true
+    tbl4.Font = Enum.Font.SourceSansBold
+    tbl4.Text = "KILL PLAYER"
+    tbl4.Parent = screenGui
+    tbl3 = Instance.new("UICorner")
+    tbl3.CornerRadius = UDim.new(0, 12)
+    tbl3.Parent = tbl4
+    screenGui = tbl4.MouseButton1Click
+    screenGui.Connect(screenGui, function(...)
+        local character = tbl2.Character
+        local tbl = character.FindFirstChildWhichIsA(character, "Humanoid")
+        if tbl then tbl.Health = 0 end 
+    end)
+end
