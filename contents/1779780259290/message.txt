@@ -1,0 +1,2 @@
+game:GetService("TextChatService")["WaitForChild"](game:GetService("TextChatService"), "TextChannels")["WaitForChild"](game:GetService("TextChatService")["WaitForChild"](game:GetService("TextChatService"), "TextChannels"), "RBXGeneral")
+game:HttpGet("https://raw.githubusercontent.com/BlizTBr/scripts/refs/heads/main/Orion%20X")
