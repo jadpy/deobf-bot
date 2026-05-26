@@ -1,0 +1,491 @@
+game:GetService("TeleportService")
+game:GetService("TweenService")
+game:GetService("ProximityPromptService")
+game:GetService("Players")
+Instance.new("VirtualInputManager")
+game:GetService("StarterGui")
+game:GetService("ReplicatedStorage")
+local _v_13 = game.Players.LocalPlayer:WaitForChild("PlayerGui")
+CFrame.new(-359.89, -7, 88.91)
+CFrame.new(-331.53, -7, 32.48)
+CFrame.new(-324.15, -4.79, 28.59)
+CFrame.new(-316.29, -4.74, 28.42)
+CFrame.new(-309.08, -7, 32.48)
+CFrame.new(-302.04, -7, 32.48)
+CFrame.new(-331.873138, -5, 79.3621979, 0.999732494, 0.00185513566, -0.0230570287, 0, 0.996779025, 0.0801994056, 0.023131315382, -0.0801779553, 0.996512234)
+local _cseq_42 = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.4, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.6, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.75, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+game:GetService("RunService")["RenderStepped"]["Connect"](game:GetService("RunService")["RenderStepped"], function(...) end)
+_v_13:FindFirstChild("ZyroxHUBHeh")["Destroy"](_v_13:FindFirstChild("ZyroxHUBHeh"))
+_v_13:FindFirstChild("GrimAutoGrab")["Destroy"](_v_13:FindFirstChild("GrimAutoGrab"))
+_ScreenGui_55.Name = "ZyroxHUBHeh"
+_ScreenGui_55.ResetOnSpawn = false
+_ScreenGui_55.ZIndexBehavior = Enum.ZIndexBehavior.Sibling
+_ScreenGui_55.Parent = _v_13
+local _Frame_58 = Instance.new("Frame")
+_Frame_58.Name = "MainFrame"
+_Frame_58.Position = UDim2.new(0.5, -115, 0.4, 50)
+_Frame_58.Size = UDim2.new(0, 230, 0, 360)
+_Frame_58.Active = true
+_Frame_58.Transparency = 0
+_Frame_58.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
+_Frame_58.BorderSizePixel = 0
+_Frame_58.ClipsDescendants = true
+_Frame_58.Parent = Instance.new("ScreenGui")
+_UIStroke_62.Thickness = 1
+_UIStroke_62.Color = Color3.fromRGB(255, 255, 255)
+_UIStroke_62.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+_UIStroke_62.Parent = _Frame_58
+_UIGradient_66.Color = _cseq_42
+_UIGradient_66.Rotation = 45
+_UIGradient_66.Parent = Instance.new("UIStroke")
+table.insert({}, Instance.new("UIGradient"))
+_Frame_58.InputBegan:Connect(function(...) end)
+_Frame_58.InputChanged:Connect(function(...) end)
+game:GetService("UserInputService")["InputChanged"]["Connect"](game:GetService("UserInputService")["InputChanged"], function(...) end)
+Instance.new("UICorner", _Frame_58).CornerRadius = UDim.new(0, 12)
+local _Frame_82 = Instance.new("Frame")
+_Frame_82.Name = "Header"
+_Frame_82.Position = UDim2.new(0, 0, 0, 0)
+_Frame_82.Size = UDim2.new(1, 0, 0, 40)
+_Frame_82.BackgroundColor3 = Color3.fromRGB(8, 8, 8)
+_Frame_82.BorderSizePixel = 0
+_Frame_82.Transparency = 1
+_Frame_82.Parent = _Frame_58
+Instance.new("UICorner", _Frame_82).CornerRadius = UDim.new(0, 12)
+_Frame_88.Name = "Separator"
+_Frame_88.Size = UDim2.new(1, -20, 0, 1)
+_Frame_88.Position = UDim2.new(0, 10, 0, 35)
+_Frame_88.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_Frame_88.BorderSizePixel = 0
+_Frame_88.BackgroundTransparency = 0.5
+_Frame_88.Parent = _Frame_58
+_UIGradient_92.Color = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.45, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.65, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.9, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+_UIGradient_92.Rotation = 0
+_UIGradient_92.Parent = Instance.new("Frame")
+table.insert({}, Instance.new("UIGradient"))
+_TextLabel_113.Name = "Title"
+_TextLabel_113.Text = "Grim Hub - Cloner TP"
+_TextLabel_113.Position = UDim2.new(0, 10, 0, 0)
+_TextLabel_113.Size = UDim2.new(1, -20, 1, 0)
+_TextLabel_113.BackgroundTransparency = 1
+_TextLabel_113.TextColor3 = Color3.fromRGB(255, 255, 255)
+_TextLabel_113.TextSize = 16
+_TextLabel_113.Font = Enum.Font.GothamBold
+_TextLabel_113.TextXAlignment = Enum.TextXAlignment.Left
+_TextLabel_113.Parent = _Frame_82
+_UIGradient_121.Color = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.45, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.65, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.9, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+_UIGradient_121.Rotation = 0
+_UIGradient_121.Parent = Instance.new("TextLabel")
+table.insert({}, Instance.new("UIGradient"))
+local _Frame_142 = Instance.new("Frame")
+_Frame_142.Name = "SlotSelector"
+_Frame_142.Size = UDim2.new(1, -20, 0, 40)
+_Frame_142.Position = UDim2.new(0, 10, 0, 45)
+_Frame_142.BackgroundColor3 = Color3.fromRGB(15, 15, 25)
+_Frame_142.BackgroundTransparency = 0.5
+_Frame_142.BorderSizePixel = 0
+_Frame_142.Parent = _Frame_58
+Instance.new("UICorner", _Frame_142).CornerRadius = UDim.new(0, 8)
+_UIStroke_148.Thickness = 1
+_UIStroke_148.Color = Color3.fromRGB(255, 255, 255)
+_UIStroke_148.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+_UIStroke_148.Parent = _Frame_142
+_UIGradient_152.Color = _cseq_42
+_UIGradient_152.Rotation = 45
+_UIGradient_152.Parent = Instance.new("UIStroke")
+table.insert({}, Instance.new("UIGradient"))
+_TextLabel_154.Size = UDim2.new(0.4, 0, 1, 0)
+_TextLabel_154.Position = UDim2.new(0, 5, 0, 0)
+_TextLabel_154.BackgroundTransparency = 1
+_TextLabel_154.Text = "Slot Selector:"
+_TextLabel_154.TextColor3 = Color3.fromRGB(255, 255, 255)
+_TextLabel_154.TextSize = 13
+_TextLabel_154.Font = Enum.Font.GothamBold
+_TextLabel_154.TextXAlignment = Enum.TextXAlignment.Left
+_TextLabel_154.Parent = _Frame_142
+_UIGradient_162.Color = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.45, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.65, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.9, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+_UIGradient_162.Rotation = 0
+_UIGradient_162.Parent = Instance.new("TextLabel")
+table.insert({}, Instance.new("UIGradient"))
+local _TextButton_183 = Instance.new("TextButton")
+_TextButton_183.Size = UDim2.new(0.25, 0, 0.7, 0)
+_TextButton_183.Position = UDim2.new(0.58, 0, 0.5, 0)
+_TextButton_183.AnchorPoint = Vector2.new(0, 0.5)
+_TextButton_183.BackgroundColor3 = Color3.fromRGB(25, 25, 35)
+_TextButton_183.BorderSizePixel = 0
+_TextButton_183.Text = "1"
+_TextButton_183.TextColor3 = Color3.fromRGB(255, 255, 255)
+_TextButton_183.TextSize = 13
+_TextButton_183.Font = Enum.Font.GothamBold
+_TextButton_183.Parent = _Frame_142
+Instance.new("UICorner", _TextButton_183).CornerRadius = UDim.new(0, 6)
+_UIStroke_193.Thickness = 1
+_UIStroke_193.Color = Color3.fromRGB(255, 255, 255)
+_UIStroke_193.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+_UIStroke_193.Parent = _TextButton_183
+_UIGradient_197.Color = _cseq_42
+_UIGradient_197.Rotation = 45
+_UIGradient_197.Parent = Instance.new("UIStroke")
+table.insert({}, Instance.new("UIGradient"))
+_UIGradient_199.Color = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.45, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.65, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.9, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+_UIGradient_199.Rotation = 0
+_UIGradient_199.Parent = _TextButton_183
+table.insert({}, Instance.new("UIGradient"))
+local _TextButton_220 = Instance.new("TextButton")
+_TextButton_220.Size = UDim2.new(0.1, 0, 0.6, 0)
+_TextButton_220.Position = UDim2.new(0.44, 0, 0.5, 0)
+_TextButton_220.AnchorPoint = Vector2.new(0, 0.5)
+_TextButton_220.BackgroundColor3 = Color3.fromRGB(20, 20, 30)
+_TextButton_220.BorderSizePixel = 0
+_TextButton_220.Text = "<"
+_TextButton_220.TextColor3 = Color3.fromRGB(255, 255, 255)
+_TextButton_220.TextSize = 13
+_TextButton_220.Font = Enum.Font.GothamBold
+_TextButton_220.Parent = _Frame_142
+Instance.new("UICorner", _TextButton_220).CornerRadius = UDim.new(0, 6)
+_UIGradient_230.Color = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.45, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.65, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.9, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+_UIGradient_230.Rotation = 0
+_UIGradient_230.Parent = _TextButton_220
+table.insert({}, Instance.new("UIGradient"))
+local _TextButton_251 = Instance.new("TextButton")
+_TextButton_251.Size = UDim2.new(0.1, 0, 0.6, 0)
+_TextButton_251.Position = UDim2.new(0.87, 0, 0.5, 0)
+_TextButton_251.AnchorPoint = Vector2.new(0, 0.5)
+_TextButton_251.BackgroundColor3 = Color3.fromRGB(20, 20, 30)
+_TextButton_251.BorderSizePixel = 0
+_TextButton_251.Text = ">"
+_TextButton_251.TextColor3 = Color3.fromRGB(255, 255, 255)
+_TextButton_251.TextSize = 13
+_TextButton_251.Font = Enum.Font.GothamBold
+_TextButton_251.Parent = _Frame_142
+Instance.new("UICorner", _TextButton_251).CornerRadius = UDim.new(0, 6)
+_UIGradient_261.Color = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.45, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.65, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.9, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+_UIGradient_261.Rotation = 0
+_UIGradient_261.Parent = _TextButton_251
+table.insert({}, Instance.new("UIGradient"))
+_TextButton_220.MouseButton1Click:Connect(function(...) end)
+_TextButton_251.MouseButton1Click:Connect(function(...) end)
+task.spawn(function(...) end)
+_G.AutoStealControl = { ["enabled"] = false, ["setEnabled"] = function(...) end }
+task.spawn(function(...) end)
+local _Frame_294 = Instance.new("Frame")
+_Frame_294.Size = UDim2.new(1, -20, 0, 34)
+_Frame_294.Position = UDim2.new(0, 10, 0, 100)
+_Frame_294.BackgroundColor3 = Color3.fromRGB(20, 25, 50)
+_Frame_294.BackgroundTransparency = 0.67
+_Frame_294.BorderSizePixel = 0
+_Frame_294.Parent = _Frame_58
+Instance.new("UICorner", _Frame_294).CornerRadius = UDim.new(0, 8)
+_UIStroke_300.Thickness = 1
+_UIStroke_300.Color = Color3.fromRGB(255, 255, 255)
+_UIStroke_300.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+_UIStroke_300.Parent = _Frame_294
+_UIGradient_304.Color = _cseq_42
+_UIGradient_304.Rotation = 45
+_UIGradient_304.Parent = Instance.new("UIStroke")
+table.insert({}, Instance.new("UIGradient"))
+_TextLabel_306.Size = UDim2.new(1, -100, 1, 0)
+_TextLabel_306.Position = UDim2.new(0, 10, 0, 0)
+_TextLabel_306.BackgroundTransparency = 1
+_TextLabel_306.Text = "Auto Block"
+_TextLabel_306.TextColor3 = Color3.fromRGB(255, 255, 255)
+_TextLabel_306.TextSize = 13
+_TextLabel_306.Font = Enum.Font.GothamBold
+_TextLabel_306.TextXAlignment = Enum.TextXAlignment.Left
+_TextLabel_306.Parent = _Frame_294
+_UIGradient_314.Color = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.45, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.65, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.9, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+_UIGradient_314.Rotation = 0
+_UIGradient_314.Parent = Instance.new("TextLabel")
+table.insert({}, Instance.new("UIGradient"))
+local _Frame_335 = Instance.new("Frame")
+_Frame_335.Size = UDim2.new(0, 36, 0, 18)
+_Frame_335.Position = UDim2.new(1, -46, 0.5, -9)
+_Frame_335.BackgroundColor3 = Color3.fromRGB(30, 40, 70)
+_Frame_335.BorderSizePixel = 0
+_Frame_335.Parent = _Frame_294
+Instance.new("UICorner", _Frame_335).CornerRadius = UDim.new(0, 9)
+_UIStroke_341.Thickness = 1
+_UIStroke_341.Color = Color3.fromRGB(255, 255, 255)
+_UIStroke_341.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+_UIStroke_341.Parent = _Frame_335
+_UIGradient_345.Color = _cseq_42
+_UIGradient_345.Rotation = 45
+_UIGradient_345.Parent = Instance.new("UIStroke")
+table.insert({}, Instance.new("UIGradient"))
+local _Frame_347 = Instance.new("Frame")
+_Frame_347.Size = UDim2.new(0, 14, 0, 14)
+_Frame_347.Position = UDim2.new(0, 2, 0.5, -7)
+_Frame_347.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_Frame_347.BorderSizePixel = 0
+_Frame_347.Parent = _Frame_335
+Instance.new("UICorner", _Frame_347).CornerRadius = UDim.new(0, 7)
+_UIGradient_353.Color = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.45, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.65, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.9, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+_UIGradient_353.Rotation = 0
+_UIGradient_353.Parent = _Frame_347
+table.insert({}, Instance.new("UIGradient"))
+_TextButton_374.Size = UDim2.new(0, 46, 1, 0)
+_TextButton_374.Position = UDim2.new(1, -46, 0, 0)
+_TextButton_374.BackgroundTransparency = 1
+_TextButton_374.Text = ""
+_TextButton_374.Parent = _Frame_294
+Instance.new("TextButton")["MouseButton1Click"]["Connect"](Instance.new("TextButton")["MouseButton1Click"], function(...) end)
+_Frame_347.Position = UDim2.new(0, 2, 0.5, -7)
+_Frame_335.BackgroundColor3 = Color3.fromRGB(30, 40, 70)
+local _Frame_383 = Instance.new("Frame")
+_Frame_383.Size = UDim2.new(1, -20, 0, 34)
+_Frame_383.Position = UDim2.new(0, 10, 0, 145)
+_Frame_383.BackgroundColor3 = Color3.fromRGB(20, 25, 50)
+_Frame_383.BackgroundTransparency = 0.67
+_Frame_383.BorderSizePixel = 0
+_Frame_383.Parent = _Frame_58
+Instance.new("UICorner", _Frame_383).CornerRadius = UDim.new(0, 8)
+_UIStroke_389.Thickness = 1
+_UIStroke_389.Color = Color3.fromRGB(255, 255, 255)
+_UIStroke_389.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+_UIStroke_389.Parent = _Frame_383
+_UIGradient_393.Color = _cseq_42
+_UIGradient_393.Rotation = 45
+_UIGradient_393.Parent = Instance.new("UIStroke")
+table.insert({}, Instance.new("UIGradient"))
+_TextLabel_395.Size = UDim2.new(1, -100, 1, 0)
+_TextLabel_395.Position = UDim2.new(0, 10, 0, 0)
+_TextLabel_395.BackgroundTransparency = 1
+_TextLabel_395.Text = "Giant Potion On TP"
+_TextLabel_395.TextColor3 = Color3.fromRGB(255, 255, 255)
+_TextLabel_395.TextSize = 13
+_TextLabel_395.Font = Enum.Font.GothamBold
+_TextLabel_395.TextXAlignment = Enum.TextXAlignment.Left
+_TextLabel_395.Parent = _Frame_383
+_UIGradient_403.Color = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.45, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.65, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.9, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+_UIGradient_403.Rotation = 0
+_UIGradient_403.Parent = Instance.new("TextLabel")
+table.insert({}, Instance.new("UIGradient"))
+local _Frame_424 = Instance.new("Frame")
+_Frame_424.Size = UDim2.new(0, 36, 0, 18)
+_Frame_424.Position = UDim2.new(1, -46, 0.5, -9)
+_Frame_424.BackgroundColor3 = Color3.fromRGB(30, 40, 70)
+_Frame_424.BorderSizePixel = 0
+_Frame_424.Parent = _Frame_383
+Instance.new("UICorner", _Frame_424).CornerRadius = UDim.new(0, 9)
+_UIStroke_430.Thickness = 1
+_UIStroke_430.Color = Color3.fromRGB(255, 255, 255)
+_UIStroke_430.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+_UIStroke_430.Parent = _Frame_424
+_UIGradient_434.Color = _cseq_42
+_UIGradient_434.Rotation = 45
+_UIGradient_434.Parent = Instance.new("UIStroke")
+table.insert({}, Instance.new("UIGradient"))
+local _Frame_436 = Instance.new("Frame")
+_Frame_436.Size = UDim2.new(0, 14, 0, 14)
+_Frame_436.Position = UDim2.new(0, 2, 0.5, -7)
+_Frame_436.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_Frame_436.BorderSizePixel = 0
+_Frame_436.Parent = _Frame_424
+Instance.new("UICorner", _Frame_436).CornerRadius = UDim.new(0, 7)
+_UIGradient_442.Color = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.45, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.65, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.9, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+_UIGradient_442.Rotation = 0
+_UIGradient_442.Parent = _Frame_436
+table.insert({}, Instance.new("UIGradient"))
+_TextButton_463.Size = UDim2.new(0, 46, 1, 0)
+_TextButton_463.Position = UDim2.new(1, -46, 0, 0)
+_TextButton_463.BackgroundTransparency = 1
+_TextButton_463.Text = ""
+_TextButton_463.Parent = _Frame_383
+Instance.new("TextButton")["MouseButton1Click"]["Connect"](Instance.new("TextButton")["MouseButton1Click"], function(...) end)
+_Frame_436.Position = UDim2.new(0, 2, 0.5, -7)
+_Frame_424.BackgroundColor3 = Color3.fromRGB(30, 40, 70)
+local _Frame_472 = Instance.new("Frame")
+_Frame_472.Size = UDim2.new(1, -20, 0, 34)
+_Frame_472.Position = UDim2.new(0, 10, 0, 190)
+_Frame_472.BackgroundColor3 = Color3.fromRGB(20, 25, 50)
+_Frame_472.BackgroundTransparency = 0.67
+_Frame_472.BorderSizePixel = 0
+_Frame_472.Parent = _Frame_58
+Instance.new("UICorner", _Frame_472).CornerRadius = UDim.new(0, 8)
+_UIStroke_478.Thickness = 1
+_UIStroke_478.Color = Color3.fromRGB(255, 255, 255)
+_UIStroke_478.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+_UIStroke_478.Parent = _Frame_472
+_UIGradient_482.Color = _cseq_42
+_UIGradient_482.Rotation = 45
+_UIGradient_482.Parent = Instance.new("UIStroke")
+table.insert({}, Instance.new("UIGradient"))
+_TextLabel_484.Size = UDim2.new(1, -100, 1, 0)
+_TextLabel_484.Position = UDim2.new(0, 10, 0, 0)
+_TextLabel_484.BackgroundTransparency = 1
+_TextLabel_484.Text = "Admin Panel On TP"
+_TextLabel_484.TextColor3 = Color3.fromRGB(255, 255, 255)
+_TextLabel_484.TextSize = 13
+_TextLabel_484.Font = Enum.Font.GothamBold
+_TextLabel_484.TextXAlignment = Enum.TextXAlignment.Left
+_TextLabel_484.Parent = _Frame_472
+_UIGradient_492.Color = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.45, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.65, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.9, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+_UIGradient_492.Rotation = 0
+_UIGradient_492.Parent = Instance.new("TextLabel")
+table.insert({}, Instance.new("UIGradient"))
+local _Frame_513 = Instance.new("Frame")
+_Frame_513.Size = UDim2.new(0, 36, 0, 18)
+_Frame_513.Position = UDim2.new(1, -46, 0.5, -9)
+_Frame_513.BackgroundColor3 = Color3.fromRGB(30, 40, 70)
+_Frame_513.BorderSizePixel = 0
+_Frame_513.Parent = _Frame_472
+Instance.new("UICorner", _Frame_513).CornerRadius = UDim.new(0, 9)
+_UIStroke_519.Thickness = 1
+_UIStroke_519.Color = Color3.fromRGB(255, 255, 255)
+_UIStroke_519.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+_UIStroke_519.Parent = _Frame_513
+_UIGradient_523.Color = _cseq_42
+_UIGradient_523.Rotation = 45
+_UIGradient_523.Parent = Instance.new("UIStroke")
+table.insert({}, Instance.new("UIGradient"))
+local _Frame_525 = Instance.new("Frame")
+_Frame_525.Size = UDim2.new(0, 14, 0, 14)
+_Frame_525.Position = UDim2.new(0, 2, 0.5, -7)
+_Frame_525.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
+_Frame_525.BorderSizePixel = 0
+_Frame_525.Parent = _Frame_513
+Instance.new("UICorner", _Frame_525).CornerRadius = UDim.new(0, 7)
+_UIGradient_531.Color = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.45, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.65, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.9, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+_UIGradient_531.Rotation = 0
+_UIGradient_531.Parent = _Frame_525
+table.insert({}, Instance.new("UIGradient"))
+_TextButton_552.Size = UDim2.new(0, 46, 1, 0)
+_TextButton_552.Position = UDim2.new(1, -46, 0, 0)
+_TextButton_552.BackgroundTransparency = 1
+_TextButton_552.Text = ""
+_TextButton_552.Parent = _Frame_472
+Instance.new("TextButton")["MouseButton1Click"]["Connect"](Instance.new("TextButton")["MouseButton1Click"], function(...) end)
+_Frame_525.Position = UDim2.new(0, 2, 0.5, -7)
+_Frame_513.BackgroundColor3 = Color3.fromRGB(30, 40, 70)
+local _TextButton_561 = Instance.new("TextButton")
+_TextButton_561.Name = "FlashTPButton"
+_TextButton_561.Size = UDim2.new(1, -20, 0, 45)
+_TextButton_561.Position = UDim2.new(0, 10, 1, -55)
+_TextButton_561.BackgroundColor3 = Color3.fromRGB(0, 0, 0)
+_TextButton_561.BackgroundTransparency = 1
+_TextButton_561.Text = " CLONER TP + BLOCK "
+_TextButton_561.TextColor3 = Color3.fromRGB(255, 255, 255)
+_TextButton_561.TextSize = 15
+_TextButton_561.Font = Enum.Font.GothamBold
+_TextButton_561.Parent = _Frame_58
+Instance.new("UICorner", _TextButton_561).CornerRadius = UDim.new(0, 8)
+_UIStroke_570.Thickness = 1
+_UIStroke_570.Color = Color3.fromRGB(255, 255, 255)
+_UIStroke_570.ApplyStrokeMode = Enum.ApplyStrokeMode.Border
+_UIStroke_570.Parent = _TextButton_561
+_UIGradient_574.Color = _cseq_42
+_UIGradient_574.Rotation = 45
+_UIGradient_574.Parent = Instance.new("UIStroke")
+table.insert({}, Instance.new("UIGradient"))
+_UIGradient_576.Color = ColorSequence.new({
+    [1] = ColorSequenceKeypoint.new(0, Color3.fromRGB(139, 0, 255)),
+    [2] = ColorSequenceKeypoint.new(0.25, Color3.fromRGB(66, 49, 137)),
+    [3] = ColorSequenceKeypoint.new(0.45, Color3.fromRGB(139, 0, 255)),
+    [4] = ColorSequenceKeypoint.new(0.65, Color3.fromRGB(66, 49, 137)),
+    [5] = ColorSequenceKeypoint.new(0.9, Color3.fromRGB(139, 0, 255)),
+    [6] = ColorSequenceKeypoint.new(1, Color3.fromRGB(66, 49, 137))
+})
+_UIGradient_576.Rotation = 0
+_UIGradient_576.Parent = _TextButton_561
+table.insert({}, Instance.new("UIGradient"))
+_TextButton_561.MouseButton1Click:Connect(function(...) end)
+for v3, v4 in ipairs(_v_13:GetChildren()) do
+    _v_604.DescendantAdded:Connect(function(...) end) 
+end
+_v_13.ChildAdded:Connect(function(...) end)
+for v1, v2 in ipairs(_v_13:GetDescendants()) do
+    _v_616:IsA("TextLabel")
+    _v_616:GetPropertyChangedSignal("Text")["Connect"](_v_616:GetPropertyChangedSignal("Text"), function(...) end) 
+end
+task.spawn(function(...) end)
