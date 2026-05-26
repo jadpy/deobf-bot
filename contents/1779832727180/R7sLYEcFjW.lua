@@ -1,0 +1,1 @@
+game:HttpGet("https://api.pastes.dev/WhLu2kNtHH")
