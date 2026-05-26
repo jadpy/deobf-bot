@@ -1,0 +1,1 @@
+warn("[ZSA_Fn] Script is already running.")
