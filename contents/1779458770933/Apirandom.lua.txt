@@ -1,3 +1,0 @@
--- Extracted URL: http://fi3.bot-hosting.net:22357/api/roblox/server
-
-game:GetService("HttpService"):JSONEncode({ jobId = game.JobId })

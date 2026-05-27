@@ -1,4 +1,0 @@
-if #tbl == 0 then
-    setmetatable({}, { ["__index"] = v12, ["__metatable"] = nil })
-    GAME.GetService(GAME, "TweenService")
-end

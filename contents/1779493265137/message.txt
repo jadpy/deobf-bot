@@ -1,9 +1,0 @@
-local v22 = pcall(function(...)
-    local toggle2 = true
-    r4 = toggle2 
-end)
-local toggle1 = v22 and false
-table.concat = table.concat
-local unpack = table and table.unpack or unpack
-local v12 = ({ pcall(function(...) return table.concat end) })[2]
-tonumber(string.gmatch(tostring(v12), ":(%d*):")())

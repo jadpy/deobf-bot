@@ -1,6 +1,0 @@
-fenv._kuilHasQSSY_ = "This file was protected with MoonSec V3"
-wait()
-fenv.MoonSec_StringsHiddenAttr = true
-game:GetService("CoreGui")["FindFirstChild"](game:GetService("CoreGui"), "ToraScript")
-game:GetService("CoreGui")["ToraScript"]["Destroy"](game:GetService("CoreGui")["ToraScript"])
-game:HttpGet("https://raw.githubusercontent.com/liebertsx/Tora-Library/main/src/librarynew", true)

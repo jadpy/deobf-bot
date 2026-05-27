@@ -1,5 +1,0 @@
-local tableUnpack = table and table.unpack
-table.concat = table.concat
-local unpack = tableUnpack or unpack
-local v1 = ({ pcall(function(...) return table.concat end) })[2]
-tonumber(string.gmatch(tostring(v1), ":(%d*):")())

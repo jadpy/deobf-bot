@@ -1,3 +1,0 @@
-fenv.credit = "Obfucator NTT - https://nttobf.com"
-game:GetService("Players")
-local cb1 = function(...)

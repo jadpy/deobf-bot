@@ -1,5 +1,0 @@
-bit32.countlz(1473543195)
-bit32.countrz(295298645)
-
--- Execution Error:
--- attempt to index nil with 'create'

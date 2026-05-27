@@ -1,4 +1,0 @@
-
-
--- Execution Error:
--- bad argument #2 to 'L' (data string too short)

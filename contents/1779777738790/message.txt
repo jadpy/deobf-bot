@@ -1,3 +1,0 @@
-game.Players.LocalPlayer.Character.Humanoid:ChangeState(Enum.HumanoidStateType.Climbing)
-task.wait(1)
-game.Players.LocalPlayer.Character.Humanoid:GetState()

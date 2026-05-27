@@ -1,6 +1,0 @@
-game:GetService("Workspace")
-game:GetService("Debris")
-game:GetService("ReplicatedStorage")["WaitForChild"](game:GetService("ReplicatedStorage"), "GrabEvents")["WaitForChild"](game:GetService("ReplicatedStorage")["WaitForChild"](game:GetService("ReplicatedStorage"), "GrabEvents"), "SetNetworkOwner")
-for v1, v2 in ipairs(workspace.Map.GetDescendants(workspace.Map)) do
-    v14:IsA("Part") 
-end
