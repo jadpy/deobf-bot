@@ -1,0 +1,10 @@
+fenv.FlatIdent_6A15B = 1
+fenv.Type = 3
+fenv.Cons = "game"
+game:GetService("RunService")
+local Circle5 = Drawing.new("Circle")
+Circle5.Thickness = 2
+Circle5.Color = Color3.fromRGB(254.9999999999999, 254.9999999999999, 254.9999999999999)
+Circle5.Filled = false
+Circle5.Visible = true
+game:HttpGet("https://sirius.menu/rayfield")
