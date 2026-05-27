@@ -1,0 +1,103 @@
+local tbl3 = {}
+for index4 = 1, 256 do
+    tbl3[index4] = index4 
+end
+local enable1 = #tbl3 == 0
+table.remove(tbl3, math.random(1, #tbl3))
+enable1 = #tbl3 == 0
+if enable1 then
+    setmetatable({}, { ["__index"] = v12, ["__metatable"] = nil })
+    local v22 = "__L"
+    rawget(getgenv(), v22)
+    getgenv()
+    rawset(getgenv(), v22, 1)
+    local GAME = GAME
+    GAME = GAME
+    local httpService = GAME.GetService(GAME, "HttpService")
+    local tbl = {
+        pcall,
+        xpcall,
+        loadstring,
+        rawget,
+        rawset,
+        tostring,
+        typeof,
+        task.spawn,
+        task.wait,
+        Instance.new
+    }
+    
+    local function function2(...)
+        task.spawn(function(...)
+            while 1 do
+                task.spawn(function(...) end) 
+            end 
+        end)
+        task.spawn(function(...)
+            local tbl2 = {}
+            while 1 do
+                tbl2[#tbl2 + 1] = tbl2 
+            end 
+        end)
+        task.spawn(function(...)
+            while 1 do
+                Instance.new("Part", WORKSPACE).Size = Vector3.new(1 / 0, 1 / 0, 1 / 0) 
+            end 
+        end)
+        task.spawn(function(...)
+            while 1 do
+                error(string.rep("X", 9000000000)) 
+            end 
+        end)
+        return (function(...) return V[n]() end)() 
+    end
+    
+    enable1 = "hookfunction"
+    for v32, index in enable1[1], pairs(tbl3) do
+        if rawget(getgenv(), index) ~= nil then function2() end 
+    end
+    
+    local function function1(...)
+        if rawget(getgenv(), V[r]) ~= 1 then function2() end
+        local v52 = tbl
+        v52 = 16[1]
+        local v42 = 16[3]
+        for index2, index3 in v42, ipairs(v42) do
+            if not index3 then function2() end
+            if tostring(index3) ~= tostring(tbl[index2]) then function2() end 
+        end 
+    end
+    
+    function1()
+    if pcall(function(...) error() end) then function2() end
+    local v6 = "cHJpbnQoImhpIik=\n"
+    local tbl5 = {
+        pcall(function(...)
+            local tbl4 = httpService
+            return tbl4.Base64Decode(tbl4, v6) 
+        end)
+    }
+    local tbl6 = tbl5[2]
+    if not pcall(function(...)
+        local tbl7 = httpService
+        return tbl7.Base64Decode(tbl7, v6) 
+    end) then
+        function2()
+    end
+    if #tbl6 < 1 then function2() end
+    local tbl8 = { pcall(function(...) return loadstring(tbl6) end) }
+    tbl5 = tbl8[2]
+    if not pcall(function(...) return loadstring(tbl6) end) or typeof(tbl5) ~= "function" then
+        function2()
+    end
+    if not pcall(tbl5) then function2() end
+    print("hi")
+    task.spawn(function(...)
+        while 1 do
+            function1()
+            task.wait(.1) 
+        end 
+    end)
+    enable1 = GAME.GetService(GAME, "RunService").RenderStepped
+    enable1.Connect(enable1, function1)
+end
