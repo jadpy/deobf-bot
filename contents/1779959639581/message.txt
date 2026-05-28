@@ -1,0 +1,32 @@
+RunService.Parent = game
+UserInputService.Parent = game
+TweenService.Parent = game
+HttpService.Parent = game
+MarketplaceService.Parent = game
+Instance.new("Part")
+ContentProvider.Parent = game
+Debris.Parent = game
+InsertService.Parent = game
+LogService.Parent = game
+PhysicsService.Parent = game
+Stats.Parent = game
+TeleportService.Parent = game
+TextService.Parent = game
+VirtualUser.Parent = game
+GuiService.Parent = game
+VirtualInputManager.Parent = game
+ContextActionService.Parent = game
+PathfindingService.Parent = game
+PlayerGui.Parent = LocalPlayer
+CoreGui.Parent = game
+ServerStorage.Parent = game
+ServerScriptService.Parent = game
+Humanoid.Parent = LocalPlayer
+Humanoid.Parent = LocalPlayer
+Humanoid.Parent = LocalPlayer
+HumanoidRootPart.Parent = LocalPlayer
+HumanoidRootPart.Parent = LocalPlayer
+HumanoidRootPart.Parent = LocalPlayer
+PlayerGui.Parent = LocalPlayer
+PlayerGui.Parent = LocalPlayer
+print("OK wow you env good")
