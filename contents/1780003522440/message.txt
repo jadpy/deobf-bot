@@ -1,0 +1,7 @@
+print("------------------------------------------------------------------------")
+print("  1. RUNTIME ENVIRONMENT")
+print("------------------------------------------------------------------------")
+print("[PASS] Runtime                      Platform                   Roblox DataModel")
+print("[PASS] Runtime                      _VERSION                   nil")
+print("[N/A ] Runtime                      version()                  not available")
+IsServer.Parent = RunService
