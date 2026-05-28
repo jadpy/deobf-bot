@@ -1,0 +1,127 @@
+RunService.Parent = game
+UserInputService.Parent = game
+TweenService.Parent = game
+HttpService.Parent = game
+MarketplaceService.Parent = game
+ContentProvider.Parent = game
+Debris.Parent = game
+InsertService.Parent = game
+LogService.Parent = game
+PhysicsService.Parent = game
+Stats.Parent = game
+TeleportService.Parent = game
+TextService.Parent = game
+VirtualUser.Parent = game
+GuiService.Parent = game
+VirtualInputManager.Parent = game
+ContextActionService.Parent = game
+PathfindingService.Parent = game
+CoreGui.Parent = game
+ServerStorage.Parent = game
+ServerScriptService.Parent = game
+CollectionService.Parent = game
+ProximityPromptService.Parent = game
+AssetService.Parent = game
+GroupService.Parent = game
+BadgeService.Parent = game
+KeyframeSequenceProvider.Parent = game
+ScriptContext.Parent = game
+JointsService.Parent = game
+Geometry.Parent = game
+RenderSettings.Parent = game
+ScriptProfilerService.Parent = game
+AnimationFromVideoCreatorService.Parent = game
+Instance.new("Part")
+PlayerGui.Parent = LocalPlayer
+print("errored")
+print("errored")
+FindPartOnRay.Parent = workspace
+print("errored")
+FindPartOnRayWithIgnoreList.Parent = workspace
+print("errored")
+FindPartOnRayWithWhitelist.Parent = workspace
+print("errored")
+BulkMoveTo.Parent = workspace
+print("errored")
+GetPartBoundsInBox.Parent = workspace
+print("errored")
+GetPartBoundsInRadius.Parent = workspace
+print("errored")
+GetPartsInPart.Parent = workspace
+print("errored")
+ArePartsTouchingOthers.Parent = workspace
+print("errored")
+GetAttribute.Parent = LocalPlayer
+print("errored")
+SetAttribute.Parent = LocalPlayer
+print("errored")
+GetAttributes.Parent = LocalPlayer
+print("errored")
+HasTag.Parent = LocalPlayer
+print("errored")
+AddTag.Parent = LocalPlayer
+print("errored")
+RemoveTag.Parent = LocalPlayer
+print("errored")
+GetTags.Parent = LocalPlayer
+print("errored")
+FindFirstAncestor.Parent = LocalPlayer
+print("errored")
+FindFirstAncestorOfClass.Parent = LocalPlayer
+print("errored")
+FindFirstAncestorWhichIsA.Parent = LocalPlayer
+print("errored")
+IsDescendantOf.Parent = LocalPlayer
+print("errored")
+IsAncestorOf.Parent = LocalPlayer
+print("errored")
+GetAttribute.Parent = LocalPlayer
+print("errored")
+SetAttribute.Parent = LocalPlayer
+print("errored")
+HasTag.Parent = LocalPlayer
+print("errored")
+GetTags.Parent = LocalPlayer
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+PlayerGui.Parent = LocalPlayer
+PlayerGui.Parent = LocalPlayer
+Humanoid.Parent = LocalPlayer
+Humanoid.Parent = LocalPlayer
+Humanoid.Parent = LocalPlayer
+HumanoidRootPart.Parent = LocalPlayer
+HumanoidRootPart.Parent = LocalPlayer
+HumanoidRootPart.Parent = LocalPlayer
+Humanoid.Parent = LocalPlayer
+Part.Parent = LocalPlayer
+BasePart.Parent = LocalPlayer
