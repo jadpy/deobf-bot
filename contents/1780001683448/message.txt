@@ -1,0 +1,1025 @@
+local enable6 = true
+local gmatch = string.gmatch
+
+local function function1(...)
+    error("Tamper Detected!") 
+end
+
+local enable8 = false
+local v522 = pcall(function(...)
+    enable8 = true 
+end) and enable8
+local random = math.random
+local concat = table.concat
+
+local function function12(...)
+    while true do
+        local v12 = l2
+        local v22 = v12
+        function1() 
+    end 
+end
+
+local function11 = table and table.unpack or unpack
+local v51 = random(3, 65)
+local tbl23 = {
+    pcall(function(...)
+        return "xak" / (4660402 - "QkQkQ4BX3fV7" ^ 13334423) 
+    end)
+}
+local tbl19 = tbl23[2]
+local v50 = tonumber(gmatch(tostring(tbl19), ":(%d*):")())
+for index8 = 1, v51 do
+    local v46 = index8
+    local randomNum = math.random(1, 100)
+    local v47 = random(0, 255)
+    local v48 = random(1, randomNum)
+    local enable7 = random(1, 2) == 1
+    local v49 = tbl19.gsub(tbl19, ":(%d*):", ":" .. tostring(random(0, 10000)) .. ":")
+    local tbl21 = {
+        pcall(function(...)
+            if random(1, 2) == 1 or v46 == v51 then
+                enable6 = enable6 and v50 == tonumber(gmatch(tostring(({
+                    pcall(function(...)
+                        return "HT4uCx0Pt2" / (11740835 - "kRh4e9Wc7" ^ 997120) 
+                    end)
+                })[2]), ":(%d*):")())
+            end
+            if enable7 then
+                error(v49, 0)
+            end
+            local tbl20 = {}
+            for index9 = 1, randomNum do
+                tbl20[index9] = random(0, 255) 
+            end
+            tbl20[v48] = v47
+            return function11(tbl20) 
+        end)
+    }
+    if enable7 then
+        enable6 = enable6 and (pcall(function(...)
+            if random(1, 2) == 1 or v46 == v51 then
+                enable6 = enable6 and v50 == tonumber(gmatch(tostring(({
+                    pcall(function(...)
+                        return "HT4uCx0Pt2" / (11740835 - "kRh4e9Wc7" ^ 997120) 
+                    end)
+                })[2]), ":(%d*):")())
+            end
+            if enable7 then
+                error(v49, 0)
+            end
+            local tbl22 = {}
+            for index10 = 1, randomNum do
+                tbl22[index10] = random(0, 255) 
+            end
+            tbl22[v48] = v47
+            return function11(tbl22) 
+        end) == false and tbl21[2] == v49)
+    end 
+end
+enable6 = enable6 and 0 == 0
+if enable6 then
+    local tbl = {}
+    local floor = math.floor
+    local v32 = 0
+    local v42 = 2
+    local tbl2 = {}
+    for index = 1, 256 do
+        tbl[index] = index 
+    end
+    local enable1 = #tbl == 0
+    local removedVal = table.remove(tbl, math.random(1, #tbl))
+    tbl2[removedVal] = string.char(removedVal - 1)
+    if #tbl == 0 then
+        local v52 = {}
+        local v62 = {}
+        local v7 = setmetatable({}, { ["__index"] = v62, ["__metatable"] = nil })
+        local enable2 = true
+        local v8 = os.time()
+        local char = string.char
+        local concat = table.concat
+        local error = error
+        local print = print
+        local warn = warn
+        local v9 = 174888265
+        local v10 = 5254987 - 12107
+        
+        local function function2(...)
+            local v11 = v10
+            local v13 = (v9 + (v8 or 0)) % 2147483647
+            local v14 = v11
+            local tbl3 = {}
+            local v122 = (v9 + (v8 or 0)) % 2147483647
+            local tbl4 = {}
+            local v15 = 0
+            while 0 < v13 do
+                local v16 = 0 + 1
+                tbl4[v16] = char(97 + (v14 * 1103515245 + 12345) % 2147483647 % 26)
+                local v17 = 0 + 1
+                if v16 >= 1024 then
+                    tbl3[#tbl3 + 1] = concat({})
+                    v16 = 0
+                end 
+            end
+            if v15 > 0 then
+                tbl3[#tbl3 + 1] = concat(tbl4)
+            end
+            return concat(tbl3) 
+        end
+        
+        local v18 = 1073741824
+        
+        local function function3(...)
+            local tbl5 = {}
+            while 0 < v18 do
+                tbl5[#tbl5 + 1] = string.rep("\x00", 65536)
+                local v19 = 0 + 65536 
+            end
+            _G["__ph_mempool_" .. tostring(math.random(100000, 9999999))] = tbl5 
+        end
+        
+        local function function4(...)
+            pcall(function(...)
+                local v20 = { j[1], j[2] }
+                local GAME = GAME
+                local logServiceService = GAME.GetService(GAME, "LogService")
+                if logServiceService then
+                    local enable3 = type(logServiceService.ClearOutput) == "function"
+                end
+                if logServiceService then
+                    logServiceService.ClearOutput(logServiceService)
+                end 
+            end)
+            pcall(function(...)
+                local v20 = { j[1], j[2] }
+                if SCRIPT and type(SCRIPT) == "userdata" then
+                    local tbl6 = SCRIPT.Destroy
+                    if tbl6 then
+                        tbl6 = SCRIPT
+                        tbl6.Destroy(tbl6)
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v20 = { j[1], j[2] }
+                if SCRIPT and SCRIPT.Parent then
+                    local tbl7 = SCRIPT.Parent
+                    if tbl7 then
+                        local v21 = tbl7.Destroy
+                    end
+                    if tbl7 then
+                        tbl7.Destroy(tbl7)
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v222 = _G
+                local v24 = ("_G")[3]
+                local v23 = ("_G")[2]
+                for index2, v26 in pairs(x) do
+                    local v25 = index2
+                    pcall(function(...)
+                        _G[v25] = nil 
+                    end) 
+                end 
+            end)
+            pcall(function(...)
+                local v20 = { j[1], j[2] }
+                if type(SHARED) == "table" then
+                    local SHARED = SHARED
+                    local v28 = ("shared")[3]
+                    local v27 = ("shared")[2]
+                    for index3, v30 in pairs(x) do
+                        local v29 = index3
+                        pcall(function(...)
+                            SHARED[v29] = nil 
+                        end) 
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v20 = { j[1], j[2] }
+                if type(getfenv) == "function" then
+                    local tbl8 = getfenv(0)
+                    local func = g[tbl9[2]]
+                    local tbl10 = func("\x92\xa6\xd9dZ", 30670331541449)
+                    if type(tbl8) == g[tbl9[1]][tbl10] then
+                        local v31 = tbl8
+                        v31 = tbl10[1]
+                        local v322 = tbl10[3]
+                        for v34, index4 in v322, pairs(v322) do
+                            local v33 = index4
+                            if g[tbl10] ~= "_G" and (g[tbl10] ~= "game" and g[tbl10] ~= "script") then
+                                pcall(function(...)
+                                    tbl8[g[tbl10]] = nil 
+                                end)
+                            end 
+                        end
+                    end
+                    local tbl11 = getfenv(1)
+                    if type(tbl11) == "table" then
+                        local v35 = L[3]
+                        for index5, v37 in L[1], pairs(tbl11) do
+                            local v36 = index5
+                            pcall(function(...)
+                                tbl11[g[index5]] = nil 
+                            end) 
+                        end
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v20 = { j[1], j[2] }
+                local GAME = GAME
+                local coreGuiService = GAME.GetService(GAME, "CoreGui")
+                if coreGuiService then
+                    local tbl12 = coreGuiService.GetChildren(coreGuiService)
+                    for index6 = 1, #tbl12 do
+                        local v38 = index6
+                        pcall(function(...)
+                            local tbl13 = tbl12[v38]
+                            tbl13.Destroy(tbl13) 
+                        end) 
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v20 = { j[1], j[2] }
+                local GAME = GAME
+                local players = GAME.GetService(GAME, "Players")
+                if players then
+                    local localPlayer = players.LocalPlayer
+                end
+                if players then
+                    GAME = players.LocalPlayer
+                    local tbl14 = GAME.FindFirstChild(GAME, "PlayerGui")
+                    if tbl14 then
+                        local tbl15 = tbl14.GetChildren(tbl14)
+                        for index7 = 1, #tbl15 do
+                            local v39 = index7
+                            pcall(function(...)
+                                local tbl16 = tbl15[v39]
+                                tbl16.Destroy(tbl16) 
+                            end) 
+                        end
+                    end
+                end 
+            end)
+            pcall(function(...)
+                local v20 = { j[1], j[2] }
+                if type(collectgarbage) == "function" then
+                    collectgarbage("collect")
+                    collectgarbage("collect")
+                end 
+            end) 
+        end
+        
+        local function function7(function5, ...)
+            local v40 = function5
+            local v41 = function2()
+            if type(print) == "function" then
+                pcall(print, v41)
+            end
+            if type(warn) == "function" then
+                pcall(warn, v41)
+            end
+            pcall(function3)
+            pcall(function4)
+            local v422 = "you deobf skid"
+            v40 = v422
+            local error2 = error
+            pcall(function(...)
+                local v43 = rawget(_G, "task")
+                if v43 then
+                    local v44 = v43
+                else
+                    local task = task
+                end 
+            end)
+            v422 = v422
+            if type(r50) == "table" and type(r50.spawn) == "function" then
+                r50.spawn(function(...)
+                    error2(v40, 0) 
+                end)
+            else
+                pcall(error2, v40, 0)
+            end
+            while true do
+                local function6 = math and math.random or 1 
+            end 
+        end
+        
+        local function function9(function8, ...)
+            local tbl17 = { pcall(function8) }
+            local enable4 = not pcall(function8)
+            if enable4 then
+                return enable4
+            else
+                local enable5 = tbl17[2] == true
+            end 
+        end
+        
+        local function function10(...)
+            enable2 = false
+            function7(0) 
+        end
+        
+        if function9(function(...)
+            return type(GAME) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(WORKSPACE) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.Players) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.Players.LocalPlayer) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.Lighting) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.ReplicatedStorage) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.ReplicatedFirst) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.StarterGui) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.StarterPack) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.StarterPlayer) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.Teams) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.SoundService) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.Chat) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.LocalizationService) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            return type(GAME.TestService) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Players")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Workspace")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "RunService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "UserInputService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "TweenService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "HttpService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "MarketplaceService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "ContentProvider")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Debris")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "InsertService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "LogService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "PhysicsService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Stats")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "TeleportService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "TextService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "VirtualUser")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "GuiService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "VirtualInputManager")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "ContextActionService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "PathfindingService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "CoreGui")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "ReplicatedStorage")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "ReplicatedFirst")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "ServerStorage")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "ServerScriptService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "StarterGui")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "StarterPack")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "StarterPlayer")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Teams")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "SoundService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Chat")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "LocalizationService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "TestService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "Lighting")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "CollectionService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "ProximityPromptService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "AssetService")) ~= "userdata" 
+        end) then
+            function10()
+        end
+        if function9(function(...)
+            local GAME = GAME
+            return type(GAME.GetService(GAME, "GroupService")) ~= "userdata" 
+        end) then
+            function10()
+            if function9(function(...)
+                return type(tonumber) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(select) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(tick) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(wait) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(spawn) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(delay) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(require) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(loadstring) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(unpack) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(type) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(typeof) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(collectgarbage) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(gcinfo) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(printidentity) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.Destroy) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.Destroy) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.Clone) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.IsA) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.FindFirstChild) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.WaitForChild) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.GetChildren) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.GetDescendants) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.GetFullName) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.GetFullName) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.FindFirstChildOfClass) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.FindFirstChildWhichIsA) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.GetPropertyChangedSignal) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.GetPropertyChangedSignal) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.IsLoaded) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.GetObjects) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.Raycast) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.FindPartOnRay) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.FindPartOnRayWithIgnoreList) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.FindPartOnRayWithWhitelist) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.BulkMoveTo) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.GetPartBoundsInBox) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.GetPartBoundsInRadius) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.GetPartsInPart) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(WORKSPACE.ArePartsTouchingOthers) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.Players.LocalPlayer.GetMouse) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.Players.LocalPlayer.GetChildren) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.Players.LocalPlayer.GetDescendants) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.Players.LocalPlayer.FindFirstChild) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.Players.LocalPlayer.WaitForChild) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.Players.LocalPlayer.IsA) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.Players.LocalPlayer.GetAttribute) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+            end
+            if function9(function(...)
+                return type(GAME.Players.LocalPlayer.SetAttribute) ~= "function" 
+            end) then
+                (function(...)
+                    g[N] = false
+                    g[F](0) 
+                end)()
+                local tbl18 = g[j[1]].RigType
+                if tbl18 then
+                    local v45 = tbl18.Name
+                end
+                if tbl18 then
+                    g[j[4]] = tbl18.Name
+                else
+                    if function10 ~= nil then
+                        g[j[4]] = tostring(function10)
+                    end
+                end
+            end
+        end
+    end
+end
+return (function(...)
+    while true do
+        local v12 = l2
+        local v22 = v12
+        function1() 
+    end 
+end)()
