@@ -1,0 +1,63 @@
+GetTagged.Parent = CollectionService
+print("errored")
+GetInstanceAddedSignal.Parent = CollectionService
+print("errored")
+GetInstanceRemovedSignal.Parent = CollectionService
+print("errored")
+GetTextSize.Parent = TextService
+print("errored")
+FilterStringAsync.Parent = TextService
+print("errored")
+GetFamilyInfoAsync.Parent = TextService
+print("errored")
+GetGuiInset.Parent = GuiService
+print("errored")
+GetScreenResolution.Parent = GuiService
+print("errored")
+IsMenuOpen.Parent = GuiService
+print("errored")
+GetProductInfo.Parent = MarketplaceService
+print("errored")
+PromptProductPurchase.Parent = MarketplaceService
+print("errored")
+PromptGamePassPurchase.Parent = MarketplaceService
+print("errored")
+UserOwnsGamePassAsync.Parent = MarketplaceService
+print("errored")
+PlayerOwnsAsset.Parent = MarketplaceService
+print("errored")
+CreatePath.Parent = PathfindingService
+print("errored")
+FindPathAsync.Parent = PathfindingService
+print("errored")
+Teleport.Parent = TeleportService
+print("errored")
+TeleportToPlaceInstance.Parent = TeleportService
+print("errored")
+GetLocalPlayerTeleportData.Parent = TeleportService
+print("errored")
+GetTeleportSetting.Parent = TeleportService
+print("errored")
+AddItem.Parent = Debris
+print("errored")
+BindAction.Parent = ContextActionService
+print("errored")
+UnbindAction.Parent = ContextActionService
+print("errored")
+BindActionAtPriority.Parent = ContextActionService
+print("errored")
+GetBoundActionInfo.Parent = ContextActionService
+print("errored")
+GetAllBoundActionInfo.Parent = ContextActionService
+print("errored")
+GetLogHistory.Parent = LogService
+print("errored")
+GetTotalMemoryUsageMb.Parent = Stats
+print("errored")
+GetRegisteredCollisionGroups.Parent = PhysicsService
+print("errored")
+CollisionGroupsAreCollidable.Parent = PhysicsService
+print("errored")
+PromptTriggered.Parent = ProximityPromptService
+PromptButtonHoldBegan.Parent = ProximityPromptService
+PromptButtonHoldEnded.Parent = ProximityPromptService
