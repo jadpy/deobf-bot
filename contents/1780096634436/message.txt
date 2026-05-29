@@ -1,0 +1,44 @@
+print("start2")
+print("[ok]", "game", game)
+print("[ok]", "workspace", workspace)
+local cb1 = function(...) end
+local cb5 = function(...) end
+local cb6 = function(...) end
+local cb7 = function(...) end
+local cb8 = function(...) end
+local cb10 = function(...) end
+local cb11 = function(...) end
+local cb12 = function(...) end
+local cb14 = function(...) end
+local cb15 = function(...) end
+local cb16 = function(...) end
+local cb17 = function(...) end
+local cb18 = function(...) end
+local cb19 = function(...) task.defer(cb19arg1, cb19arg2, cb19arg3) end
+local cb20 = function(...) end
+local cb21 = function(...) end
+local cb22 = function(...) task.wait(cb22arg1) end
+local cb24 = function(...) end
+local cb25 = function(...) task.delay(cb25arg1, cb25arg2, cb25arg3) end
+local cb26 = function(...) task.spawn(cb26arg1, cb26arg2, cb26arg3) end
+local cb27 = function(...) end
+local cb28 = function(...) warn(cb28arg1, cb28arg2, cb28arg3) end
+local cb29 = function(...) end
+local cb30 = function(...) end
+local cb32 = function(...) end
+local cb33 = function(...) end
+local cb34 = function(...) end
+local cb35 = function(...) end
+local cb36 = function(...) end
+local cb37 = function(...) end
+local cb38 = function(...) end
+local cb39 = function(...) end
+local cb40 = function(...) rawlen(cb40arg1) end
+local cb42 = function(...) end
+local cb43 = function(...) end
+local cb44 = function(...) end
+local cb45 = function(...) end
+local cb49 = function(...) end
+local cb51 = function(...) end
+local cb55 = function(...) end
+local cb56 = function(...) end
