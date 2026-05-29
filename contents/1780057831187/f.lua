@@ -1,0 +1,1 @@
+game:HttpGet("https://raw.githubusercontent.com/twitch-stremaer/apex-beta-things/refs/heads/main/new%20ui%20%20lib.lua")
