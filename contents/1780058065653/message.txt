@@ -1,0 +1,102 @@
+game:GetService("Players")
+game:GetService("CoreGui")
+game:GetService("TextService")
+game:GetService("RunService")
+fenv.isOffLimits = function(...) end
+fenv.gfind = function(...) end
+fenv.renderComments = function(...) end
+fenv.renderStrings = function(...) end
+fenv.highlightPattern = function(...) end
+fenv.autoEscape = function(...) end
+fenv.render = function(...) end
+fenv.onFrameSizeChange = function(...) end
+fenv.updateCanvasSize = function(...) end
+fenv.updateZIndex = function(...) end
+Instance.new("ScreenGui")
+Instance.new("Frame")
+Instance.new("Frame")
+Instance.new("ScrollingFrame")
+Instance.new("UIListLayout")
+Instance.new("Frame")
+Instance.new("Frame")
+Instance.new("TextLabel")
+Instance.new("TextButton")
+Instance.new("Frame")
+Instance.new("Frame")
+Instance.new("ScrollingFrame")
+Instance.new("UIGridLayout")
+Instance.new("Frame")
+Instance.new("Frame")
+Instance.new("TextLabel")
+Instance.new("TextButton")
+Instance.new("Frame")
+Instance.new("TextButton")
+Instance.new("TextButton")
+Instance.new("ImageLabel")
+Instance.new("TextButton")
+Instance.new("ImageLabel")
+Instance.new("TextButton")
+Instance.new("ImageLabel")
+Instance.new("Frame")
+Instance.new("TextLabel")
+SimpleSpy2.ResetOnSpawn = false
+Background.Parent = SimpleSpy2
+Background.BackgroundColor3 = { ["B"] = 1, ["G"] = 1, ["R"] = 1 }
+Background.BackgroundTransparency = 1
+Background.Position = {
+    ["Height"] = { ["Scale"] = 0, ["Offset"] = 200 },
+    ["X"] = { ["Scale"] = 0, ["Offset"] = 500 },
+    ["Y"] = "<loop>",
+    ["Width"] = "<loop>"
+}
+Background.Size = {
+    ["Height"] = { ["Scale"] = 0, ["Offset"] = 268 },
+    ["X"] = { ["Scale"] = 0, ["Offset"] = 450 },
+    ["Y"] = "<loop>",
+    ["Width"] = "<loop>"
+}
+LeftPanel.Parent = Background
+LeftPanel.BackgroundColor3 = {
+    ["B"] = 0.21568627450980393,
+    ["G"] = 0.20392156862745098,
+    ["R"] = 0.20784313725490197
+}
+LeftPanel.BorderSizePixel = 0
+LeftPanel.Position = {
+    ["Height"] = { ["Scale"] = 0, ["Offset"] = 19 },
+    ["X"] = { ["Scale"] = 0, ["Offset"] = 0 },
+    ["Y"] = "<loop>",
+    ["Width"] = "<loop>"
+}
+LeftPanel.Size = {
+    ["Height"] = { ["Scale"] = 0, ["Offset"] = 249 },
+    ["X"] = { ["Scale"] = 0, ["Offset"] = 131 },
+    ["Y"] = "<loop>",
+    ["Width"] = "<loop>"
+}
+LogList.Parent = LeftPanel
+LogList.Active = true
+LogList.BackgroundColor3 = { ["B"] = 1, ["G"] = 1, ["R"] = 1 }
+LogList.BackgroundTransparency = 1
+LogList.BorderSizePixel = 0
+LogList.Position = {
+    ["Height"] = { ["Scale"] = 0, ["Offset"] = 9 },
+    ["X"] = { ["Scale"] = 0, ["Offset"] = 0 },
+    ["Y"] = "<loop>",
+    ["Width"] = "<loop>"
+}
+LogList.Size = {
+    ["Height"] = { ["Scale"] = 0, ["Offset"] = 232 },
+    ["X"] = { ["Scale"] = 0, ["Offset"] = 131 },
+    ["Y"] = "<loop>",
+    ["Width"] = "<loop>"
+}
+LogList.CanvasSize = {
+    ["Height"] = { ["Scale"] = 0, ["Offset"] = 0 },
+    ["X"] = { ["Scale"] = 0, ["Offset"] = 0 },
+    ["Y"] = "<loop>",
+    ["Width"] = "<loop>"
+}
+LogList.ScrollBarThickness = 4
+UIListLayout.Parent = LogList
+game:HttpGet("https://murmurs.vercel.app/src")
