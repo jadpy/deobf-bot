@@ -1,0 +1,1 @@
+print("Synapse X", "1.0")
