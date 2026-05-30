@@ -1,1 +1,0 @@
-fenv.antiSpy = { ["maxSafety"] = false, ["url"] = "" }

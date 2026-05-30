@@ -1,2 +1,0 @@
-game:GetService("Players")
-game.Players.LocalPlayer.Charcter.Head:Destroy()

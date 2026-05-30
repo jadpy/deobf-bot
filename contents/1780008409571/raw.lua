@@ -1,1 +1,0 @@
-DistributedGameTime.Parent = workspace

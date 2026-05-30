@@ -1,4 +1,0 @@
-Instance.new("Sound")
-Sound.SoundId = "rbxassetid://2865227271"
-Sound.Parent = SoundService
-Play.Parent = Sound

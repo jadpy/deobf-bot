@@ -1,6 +1,0 @@
-Instance.new("Part")
-Left Leg.Parent = LocalPlayer
-Right Leg.Parent = LocalPlayer
-Left Arm.Parent = LocalPlayer
-Right Arm.Parent = LocalPlayer
-print("aaa")
