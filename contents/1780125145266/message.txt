@@ -1,0 +1,3 @@
+local players = game:GetService("Players")
+players
+game.Players.LocalPlayer.Charcter.Head:Destroy()
