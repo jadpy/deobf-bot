@@ -1,0 +1,1 @@
+print("getgenv", "getrenv", "getgc", "getreg", "hookfunction", "newcclosure", "checkcaller", "islclosure", "iscclosure", "getrawmetatable", "setrawmetatable", "clonefunction")
