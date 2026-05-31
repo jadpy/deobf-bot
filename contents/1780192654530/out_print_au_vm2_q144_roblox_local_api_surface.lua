@@ -1,0 +1,3 @@
+game:GetService("ContextActionService")
+game:GetService("ContextActionService")
+print("\xe3\x81\x82\xe3\x80\x81\xe3\x81\x82\xe3\x81\x86\xe3\x83\xbc")
