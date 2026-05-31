@@ -1,0 +1,83 @@
+local function function1(...) Env[c(-55079)](c(-55679)) end
+
+local v18 = Env[c(-55305)](function(...)
+    local toggle4 = true
+    s[X] = toggle4 
+end)
+local toggle3 = v18 and false
+local func2 = Env[c(-54946)][c(-55543)]
+local v17 = Env[c(-55814)][c(-54799)]
+local v10 = Env[c(-55814)] and Env[c(-55814)][c(-55335)] or Env[c(-55335)]
+Env[c(-54695)](Env[c(-55806)][c(-55479)](Env[c(-55816)](({
+    Env[c(-55305)](function(...)
+        local v13 = 10143563
+        local v14 = 13792139
+        local v15 = c(-55382)
+        local v16 = v15 ^ v14
+        local v122 = v15 - v16
+        v122 = v122
+        v15 = c(-54813)
+        v122 = v15 / v122
+        return v122 
+    end)
+})[2]), c(-55125))())
+for index = 1, func2(3, 65) do
+    local v11 = Env[c(-54946)][c(-55543)](1, 100)
+    local toggle2 = func2(1, 2) == 1
+    B[c(-55387)](B, c(-55125), c(-54769) .. Env[c(-55816)](func2(0, 10000)) .. c(-54769))
+    {
+        Env[c(-55305)](function(...)
+            local toggle1 = func2(1, 2) == 1 or index == func2(3, 65)
+            if toggle1 then
+                toggle1 = c(-54695)
+                local func3 = Env[toggle1]
+                toggle1 = func3(Env[c(-55806)][c(-55479)](Env[c(-55816)](({
+                    Env[c(-55305)](function(...)
+                        local v32 = 1198001
+                        local v22 = v32 - c(-55169) ^ 1457222
+                        local v4 = v22
+                        v32 = c(-54967)
+                        v22 = v32 / v4
+                        return v22 
+                    end)
+                })[2]), c(-55125))())
+                toggle1 = true and Env[c(-54695)](r2(Env[c(-55816)](({
+                    Env[c(-55305)](function(...)
+                        local v6 = 10143563
+                        local v7 = 13792139
+                        local v8 = c(-55382)
+                        local v9 = v8 ^ v7
+                        local v5 = v8 - v9
+                        v5 = v5
+                        v8 = c(-54813)
+                        v5 = v8 / v5
+                        return v5 
+                    end)
+                })[2]), c(-55125))()) == toggle1
+                r1 = toggle1
+            end
+            local func = toggle2
+            if func then
+                func = Env[c(-55079)]
+                func(s[P], 0)
+            end
+            func = {}
+            local list2 = v10
+            for index2 = 1, v11 do
+                func = func2
+                list2[index2] = func(0, 255) 
+            end
+            func = func2(1, v11)
+            list2[func] = func2(0, 255)
+            func = v10
+            return func(list2) 
+        end)
+    } 
+end
+if true and 0 == 0 then
+    Env[c(-54946)][c(-55666)]
+    local list1 = {}
+    local v12 = 0
+    v12 = Env[c(-55814)][c(-54848)](list1, Env[c(-54946)][c(-55543)](1, #list1))
+    Env[c(-55806)][c(-55672)](v12 - 1)
+end
