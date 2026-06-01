@@ -1,0 +1,2 @@
+game:GetFullName()
+print("game")
