@@ -1,0 +1,242 @@
+local function function14(...)
+    while true do
+        function13() 
+    end 
+end
+
+local tbl21 = {}
+for index6 = 1, 256 do
+    tbl21[index6] = index6 
+end
+local enable3 = #tbl21 == 0
+table.remove(tbl21, math.random(1, #tbl21))
+if #tbl21 == 0 then
+    local v12 = {}
+    local tbl2 = setmetatable({}, { ["__index"] = v12, ["__metatable"] = nil })
+    local GAME = GAME
+    local tbl3 = GAME.GetService(GAME, "Players").LocalPlayer.Idled
+    tbl3.connect(tbl3, function(...)
+        local GAME3 = GAME
+        local virtualUserService = GAME3.GetService(GAME3, "VirtualUser")
+        virtualUserService.CaptureController(virtualUserService)
+        GAME3 = GAME
+        virtualUserService = GAME3.GetService(GAME3, "VirtualUser")
+        virtualUserService.ClickButton2(virtualUserService, Vector2.new())
+        GAME3 = GAME
+        virtualUserService = GAME3.GetService(GAME3, "VirtualInputManager")
+        virtualUserService.SendMouseButtonEvent(virtualUserService, 0, 0, 0, true, GAME, 0)
+        task.wait()
+        GAME3 = GAME
+        virtualUserService = GAME3.GetService(GAME3, "VirtualInputManager")
+        virtualUserService.SendMouseButtonEvent(virtualUserService, 0, 0, 0, false, GAME, 0) 
+    end)
+    getfenv().grav = WORKSPACE.Gravity
+    GAME = GAME
+    tbl3 = loadstring(GAME.HttpGet(GAME, "https://raw.githubusercontent.com/Marco8642/science/main/ui%20libs2"))()
+    local tbl4 = tbl3.CreateWindow(tbl3, { ["text"] = "Vehicle Legends" })
+    tbl4.AddBox(tbl4, "Enter Vehicle Speed", function(function3, function4, ...)
+        if function4 then getfenv().speed = tonumber(function3.Text) end 
+    end)
+    tbl4.AddToggle(tbl4, "Auto Drive", function(function5, ...)
+        local v32 = "drive"
+        getfenv()[v32] = function5 and true or false
+        spawn(function(...)
+            local tbl11 = GAME.Players.LocalPlayer
+            tbl11.RequestStreamAroundAsync(tbl11, Vector3.new(656.842041, 6.3375659, 2981.96436)) 
+        end)
+        wait(1)
+        local GAME4 = GAME
+        local tbl9 = GAME4.GetService(GAME4, "Workspace").Vehicles[GAME.Players.LocalPlayer.Name .. "'s Car"]
+        tbl9.PivotTo(tbl9, CFrame.new(Vector3.new(656.842041, 6.3375659, 2981.96436), Vector3.new(592.12439, 6.33634377, 1080.79797)))
+        tbl9.PrimaryPart = tbl9.Weight
+        wait(1)
+        local tbl10 = getfenv()
+        while tbl10.drive do
+            task.wait()
+            tbl9 = "drive"
+            local tbl8 = getfenv().speed or 300
+            local v22 = Vector3.new(592.12439, 6.33634377, 1080.79797)
+            if getfenv().drive then
+                tbl8 = GAME.Players.LocalPlayer
+                tbl8 = tbl8.DistanceFromCharacter(tbl8, v22) < 50 or getfenv().drive == false
+                v32 = "drive"
+                task.wait()
+                v22 = "drive"
+                tbl8 = getfenv().speed or 300
+                tbl8.PrimaryPart.AssemblyLinearVelocity = Vector3.new(tbl8.PrimaryPart.AssemblyLinearVelocity.X, -10, tbl8.PrimaryPart.AssemblyLinearVelocity.Z)
+                tbl8.PrimaryPart.AssemblyLinearVelocity = tbl8.PrimaryPart.CFrame.LookVector * tbl8
+                tbl8.PrimaryPart.AssemblyLinearVelocity = Vector3.new(tbl8.PrimaryPart.AssemblyLinearVelocity.X, -10, tbl8.PrimaryPart.AssemblyLinearVelocity.Z)
+                tbl8.PivotTo(tbl8, CFrame.new(tbl8.PrimaryPart.Position, v22))
+                tbl8.PrimaryPart.AssemblyLinearVelocity = Vector3.new(tbl8.PrimaryPart.AssemblyLinearVelocity.X, -10, tbl8.PrimaryPart.AssemblyLinearVelocity.Z)
+                GAME = v32
+                local tbl7 = GAME.Players.LocalPlayer
+                if tbl7.DistanceFromCharacter(tbl7, v22) < 50 or getfenv().drive == false then
+                    GAME = Vector3.new(656.842041, 6.3375659, 2981.96436)
+                    if getfenv().drive then
+                        local tbl5 = GAME.Players.LocalPlayer
+                        v22 = tbl5.DistanceFromCharacter(tbl5, GAME) < 50 or getfenv().drive == false
+                        task.wait()
+                        tbl5 = v32
+                        tbl5 = getfenv().speed or 300
+                        tbl5.PrimaryPart.AssemblyLinearVelocity = Vector3.new(tbl5.PrimaryPart.AssemblyLinearVelocity.X, -10, tbl5.PrimaryPart.AssemblyLinearVelocity.Z)
+                        tbl5.PrimaryPart.AssemblyLinearVelocity = tbl5.PrimaryPart.CFrame.LookVector * tbl5
+                        tbl5.PrimaryPart.AssemblyLinearVelocity = Vector3.new(tbl5.PrimaryPart.AssemblyLinearVelocity.X, -10, tbl5.PrimaryPart.AssemblyLinearVelocity.Z)
+                        tbl5.PivotTo(tbl5, CFrame.new(tbl5.PrimaryPart.Position, GAME))
+                        tbl5.PrimaryPart.AssemblyLinearVelocity = Vector3.new(tbl5.PrimaryPart.AssemblyLinearVelocity.X, -10, tbl5.PrimaryPart.AssemblyLinearVelocity.Z)
+                        local tbl6 = GAME.Players.LocalPlayer
+                        tbl6.DistanceFromCharacter(tbl6, GAME)
+                        getfenv()
+                    end
+                end
+            end 
+        end 
+    end)
+    tbl4.AddToggle(tbl4, "Auto Race", function(function6, ...)
+        local v72 = "test"
+        getfenv()[v72] = function6 and true or false
+        _G.rat = nil
+        getfenv().racename = nil
+        local huge = math.huge
+        GAME = WORKSPACE.Races
+        local tbl22 = { GAME.GetDescendants(GAME) }
+        local v8 = GAME[2]
+        local tbl20 = GAME[3]
+        for index3, index2 in pairs(i(tbl22)) do
+            v72 = "test"
+            if index2.ClassName == "Part" and index2.Name == "Queue" then
+                local v9 = (GAME.Players.LocalPlayer.Character.HumanoidRootPart.Position - index2.Position).magnitude
+                index3 = v9 < math.huge
+                if index3 then
+                    index3 = (GAME[tbl2[r15("\x85\xa2#\xa3Lq\x8e", y)]][tbl2[r15("\xd5\xfd}\xf12_\x93\xc8\x94o\\", V)]][tbl2[r15("\xcb\x91T\x89\xdbx\x1e\xb6(", f)]][tbl2[r15("\x0c4\xb9\xe2\xd7\x83\xe0\xbb\xc9\xcf|\x1fL\x1dG\x1b", g)]].Position - index2[tbl2[r15(index2, e)]])[T]
+                    index2 = v9
+                    getfenv().racename = index2.Parent.Parent.Name
+                    _G.rat = index2
+                end
+            end 
+        end
+        WORKSPACE.Gravity = getfenv().grav
+        tbl22 = _G.rat.CFrame
+        tbl20 = GAME.Players.LocalPlayer.Character
+        tbl22 = GAME
+        tbl20 = tbl22.GetService(tbl22, "Workspace").Vehicles[GAME.Players.LocalPlayer.Name .. "'s Car"]
+        tbl20.PrimaryPart = tbl20.Weight
+        while getfenv().test do
+            task.wait()
+            enable3 = GAME
+            tbl21 = r15
+            v72 = "test"
+            if enable3.GetService(enable3, "Players").LocalPlayer.PlayerGui.Races.Timer.Visible == true and (15474418097189.GetService(15474418097189, "Players").LocalPlayer.PlayerGui.Races.WaitingForPlayers.Visible == false and (tbl20.GetAttribute(tbl20, "InRace") == true and 28031067828988.GetService(28031067828988, "Players").LocalPlayer.PlayerGui.Races.main.content.Timer.timer.Text ~= "00:00:00")) then
+                print("ye boi")
+                task.wait()
+                local GAME7 = GAME
+                GAME7 = GAME7.GetService(GAME7, "Workspace").RaceProps.Checkpoints
+                local GAME6 = GAME
+                local v42 = "\xf5\x04@K[^\xde\xe2"
+                GAME7 = GAME6.GetService(GAME6, "ReplicatedStorage").Event.GetRaceLaps
+                for v62 = 1, GAME7.InvokeServer(GAME7)[getfenv()[tbl2[r15(v42, 128404848699)]]] + 100 do
+                    v42 = #GAME7.GetChildren(GAME7)
+                    for index = 1, v42 do
+                        local GAME8 = GAME
+                        local tbl19 = GAME8.GetService(GAME8, "Workspace").RaceProps
+                        local tbl14 = r15
+                        if tbl19.FindFirstChild(tbl19, "Checkpoints") and tbl19.FindFirstChild(tbl19, index) then
+                            GAME8 = GAME
+                            local tbl13 = GAME8.GetService(GAME8, "Workspace").RaceProps.Checkpoints[index]
+                            if tbl13 == nil then
+                                local GAME9 = GAME
+                                tbl13 = GAME9.GetService(GAME9, "Workspace").RaceProps.Checkpoints[tostring(index)]
+                            end
+                            GAME8 = B
+                            local v52 = getfenv().speed or 300
+                            tbl14 = GAME
+                            local tbl15 = tbl14.GetService(tbl14, "Workspace").Vehicles[GAME.Players.LocalPlayer.Name .. "'s Car"]
+                            local GAME10 = GAME
+                            tbl14 = GAME10.GetService(GAME10, "TweenService")
+                            local cframeValue = Instance.new("CFrameValue")
+                            local tbl16 = tbl15
+                            cframeValue.Value = tbl16.GetPrimaryPartCFrame(tbl16)
+                            local tbl17 = cframeValue.Changed
+                            tbl17.Connect(tbl17, function(...)
+                                local tbl18 = tbl15
+                                tbl18.PivotTo(tbl18, cframeValue.Value)
+                                tbl15.PrimaryPart.Velocity = tbl13.CFrame.LookVector * v52
+                                tbl15.PrimaryPart.Velocity = Vector3.new(tbl15.PrimaryPart.Velocity.X, 0, tbl15.PrimaryPart.Velocity.Z) 
+                            end)
+                            getfenv().tween = tbl17.Create(tbl17, cframeValue, TweenInfo.new((GAME.Players.LocalPlayer.Character.HumanoidRootPart.Position - tbl13.Position).magnitude / v52, Enum.EasingStyle.Linear, Enum.EasingDirection.InOut, 0, false, 0), { ["Value"] = tbl13.CFrame })
+                            tbl17 = getfenv().tween
+                            tbl17.Play(tbl17)
+                            local tbl12 = tbl15
+                            tbl17 = tbl12.GetAttribute(tbl12, "InRace") ~= true or (getfenv().tween.PlaybackState == Enum.PlaybackState.Cancelled or (getfenv().tween.PlaybackState == Enum.PlaybackState.Completed or getfenv().tween.PlaybackState == Enum.PlaybackState.Paused))
+                            tbl12 = tbl12
+                            task.wait()
+                            tbl12 = tbl15
+                            tbl12 = tbl12
+                            if tbl12.GetAttribute(tbl12, "InRace") ~= true or (getfenv().tween.PlaybackState == Enum.PlaybackState.Cancelled or (getfenv().tween.PlaybackState == Enum.PlaybackState.Completed or getfenv().tween.PlaybackState == Enum.PlaybackState.Paused)) then
+                                local enable2 = true
+                                local enable1 = getfenv().tween ~= nil and getfenv().tween.PlaybackState ~= Enum.PlaybackState.Completed
+                                if enable1 then
+                                    enable1 = getfenv().tween
+                                    enable1.Cancel(enable1)
+                                end
+                            end
+                        end 
+                    end 
+                end
+                local GAME5 = GAME
+                GAME6 = GAME5.GetService(GAME5, "Workspace").Vehicles[GAME.Players.LocalPlayer.Name .. "'s Car"]
+            else
+                enable3 = GAME
+                tbl21 = r15
+                if enable3.GetService(enable3, "Players").LocalPlayer.PlayerGui.Races.Timer.Visible == false and (tbl20.GetAttribute(tbl20, "InRace") ~= true and (not tbl21.FindFirstChild(tbl21, "Checkpoints") and tbl21.DistanceFromCharacter(tbl21, Vector3.new(tbl22.X, GAME.Players.LocalPlayer.Character.HumanoidRootPart.CFrame.Y, tbl22.Z)) > 15)) then
+                    WORKSPACE.Gravity = getfenv().grav
+                    local GAME11 = GAME
+                    GAME = GAME11.GetService(GAME11, "Workspace").Vehicles[GAME.Players.LocalPlayer.Name .. "'s Car"]
+                    GAME.PrimaryPart.Velocity = Vector3.new(0, 0, 0)
+                    GAME.PivotTo(GAME, _G.rat.CFrame)
+                    wait(1)
+                end
+            end 
+        end 
+    end)
+    tbl4.AddButton(tbl4, "Smash Snowmen", function(function7, ...)
+        local v11 = function7
+        local character = GAME.Players.LocalPlayer.Character
+        GAME = WORKSPACE.BreakableSnowmens
+        local v122 = GAME[3]
+        GAME = GAME[1]
+        for v10, index4 in GAME, pairs(GAME.GetChildren(GAME)) do
+            character.PivotTo(character, index4.GetPivot(index4))
+            task.wait(.4)
+            local GAME12 = GAME
+            local tbl23 = GAME12.GetService(GAME12, "ReplicatedStorage").Event.ChallengesTracker.SmashedSnowman
+            tbl23.FireServer(tbl23, index4)
+            task.wait() 
+        end 
+    end)
+    GAME = tbl3.CreateWindow(tbl3, { ["text"] = "Race Custom Laps" })
+    GAME.AddLabel(GAME, "                  Select Race", function(function8, function9, ...)
+        local v14 = function9
+        local v13 = function8 
+    end)
+    GAME.AddDropdown(GAME, (function(...)
+        GAME = GAME
+        local tbl24 = GAME.GetService(GAME, "ReplicatedStorage").Storage.RaceStorage
+        local v15 = tbl24[2]
+        local tbl25 = tbl24[3]
+        for v16, index5 in pairs(tbl25.GetChildren(tbl25)) do
+            if index5.IsA(index5, "Folder") then table.insert({}, index5.Name) end 
+        end
+        return {} 
+    end)(), function(function10, ...) getfenv().selectedrace = function10 end)
+    GAME.AddLabel(GAME, "            Race Laps Changer", function(function12, function11, ...)
+        local v18 = function12
+        local v17 = function11 
+    end)
+    GAME.AddBox(GAME, "Enter Race Laps Amount", function(function1, function2, ...)
+        if function2 then
+            local GAME2 = GAME
+            local tbl = GAME2.GetService(GAME2, "ReplicatedStorage").Event.PrivateServer
+            tbl.InvokeServer(tbl, "ChangeLaps", getfenv().selectedrace, tonumber(function1.Text))
+        end 
+    end)
+end
