@@ -1,0 +1,1 @@
+print("Seliware", "1.0")
