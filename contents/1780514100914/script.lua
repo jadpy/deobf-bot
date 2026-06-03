@@ -1,0 +1,1 @@
+print(function(Instance_cb1arg1, Instance_cb1arg2, Instance_cb1arg3) getgenv() end)
