@@ -1,0 +1,2 @@
+getgenv()
+print("OK")
