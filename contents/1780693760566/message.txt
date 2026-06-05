@@ -1,0 +1,55 @@
+game:HttpGet("https://sirius.menu/rayfield")
+local tbl1 = Rayfield:CreateWindow({
+    ["ConfigurationSaving"] = {
+        ["Enabled"] = true,
+        ["FileName"] = "Config",
+        ["FolderName"] = "MyUI"
+    },
+    ["KeySystem"] = false,
+    ["LoadingSubtitle"] = "Rayfield Example",
+    ["LoadingTitle"] = "Loading...",
+    ["Name"] = "Example UI"
+}):CreateTab("Main", 4483362458)
+tbl1:CreateButton({
+    ["Name"] = "\xe3\x83\x9c\xe3\x82\xbf\xe3\x83\xb3",
+    ["Callback"] = function(state)
+        print("\xe3\x82\xaf\xe3\x83\xaa\xe3\x83\x83\xe3\x82\xaf\xe3\x81\x95\xe3\x82\x8c\xe3\x81\xbe\xe3\x81\x97\xe3\x81\x9f")
+        print("\xe3\x82\xaf\xe3\x83\xaa\xe3\x83\x83\xe3\x82\xaf\xe3\x81\x95\xe3\x82\x8c\xe3\x81\xbe\xe3\x81\x97\xe3\x81\x9f") 
+    end
+})
+tbl1:CreateToggle({
+    ["CurrentValue"] = false,
+    ["Flag"] = "Toggle1",
+    ["Name"] = "\xe3\x83\x88\xe3\x82\xb0\xe3\x83\xab",
+    ["Callback"] = function(state)
+        print("Toggle:", true)
+        print("Toggle:", false) 
+    end
+})
+tbl1:CreateSlider({
+    ["CurrentValue"] = 50,
+    ["Flag"] = "Slider1",
+    ["Increment"] = 1,
+    ["Name"] = "\xe3\x82\xb9\xe3\x83\xa9\xe3\x82\xa4\xe3\x83\x80\xe3\x83\xbc",
+    ["Range"] = { [1] = 0, [2] = 100 },
+    ["Callback"] = function(state)
+        print("Slider:", true)
+        print("Slider:", false) 
+    end
+})
+tbl1:CreateInput({
+    ["Name"] = "\xe3\x83\x86\xe3\x82\xad\xe3\x82\xb9\xe3\x83\x88\xe5\x85\xa5\xe5\x8a\x9b",
+    ["PlaceholderText"] = "\xe5\x85\xa5\xe5\x8a\x9b\xe3\x81\x97\xe3\x81\xa6\xe3\x81\x8f\xe3\x81\xa0\xe3\x81\x95\xe3\x81\x84",
+    ["RemoveTextAfterFocusLost"] = false,
+    ["Callback"] = function(state)
+        print("Input:", true)
+        print("Input:", false) 
+    end
+})
+tbl1:CreateDropdown({
+    ["CurrentOption"] = { [1] = "A" },
+    ["MultipleOptions"] = false,
+    ["Name"] = "\xe3\x83\x89\xe3\x83\xad\xe3\x83\x83\xe3\x83\x97\xe3\x83\x80\xe3\x82\xa6\xe3\x83\xb3",
+    ["Options"] = { [1] = "A", [2] = "B", [3] = "C" },
+    ["Callback"] = function(state) end
+})
