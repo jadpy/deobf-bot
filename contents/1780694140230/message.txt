@@ -1,0 +1,6 @@
+__GETFENV_TEST__ = true
+__GETFENV_RAW__ = 123
+local cb2 = function(Instance_cb2arg1, Instance_cb2arg2, Instance_cb2arg3)
+end
+coroutine.resume(coroutine.create(cb2), )
+print("getfenv integrity: PASS")
