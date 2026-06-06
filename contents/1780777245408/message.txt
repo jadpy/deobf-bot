@@ -1,0 +1,5 @@
+__loop_count = 1
+-- Warning: call to math.pow("7yEkQ5rAZMyt0", 475440) failed: invalid argument #1 to 'pow' (number expected, got string)
+"iU0dX8lP8P0g39e" / 13365552 - nil -- failed call.gsub("iU0dX8lP8P0g39e" / 13365552 - nil -- failed call, ":(%d*):", ":5335:")
+-- Warning: call to math.pow("iadOtjoByg3tj2", 3396496) failed: invalid argument #1 to 'pow' (number expected, got string)
+error("attempt to perform arithmetic (add) on number and nil")
