@@ -1,0 +1,9 @@
+local tbl = {}
+for index = 1, 256 do
+    tbl[index] = index 
+end
+table.remove(tbl, math.random(1, #tbl))
+if #tbl == 0 then
+    setmetatable({}, { ["__index"] = v1, ["__metatable"] = nil })
+    return tostring() .. tonumber()
+end
