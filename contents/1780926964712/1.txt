@@ -1,0 +1,1 @@
+error("attempt to compare number <= table")
