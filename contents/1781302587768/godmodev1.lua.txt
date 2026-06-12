@@ -1,0 +1,177 @@
+game:GetService("Players")
+game:GetService("TweenService")
+game.Players.LocalPlayer.WaitForChild(game.Players.LocalPlayer, "PlayerGui")
+instScreenGui5.ResetOnSpawn = false
+Instance.new("ScreenGui").ZIndexBehavior = {
+    ["_enumType"] = Instance,
+    ["_name"] = "Sibling",
+    ["_value"] = 0
+}
+local instFrame7 = Instance.new("Frame")
+instFrame7.Size = UDim2.new(0, 260, 0, 170)
+instFrame7.Position = UDim2.new(0.5, -130, 0.35, 0)
+instFrame7.BackgroundColor3 = Color3.fromRGB(22, 22, 22)
+instFrame7.Active = true
+instFrame7.Draggable = true
+instFrame7.ZIndex = 1
+Instance.new("UICorner").CornerRadius = UDim.new(0, 18)
+local instUIStroke9 = Instance.new("UIStroke")
+instUIStroke9.Color = Color3.fromRGB(90, 90, 90)
+instUIStroke9.Thickness = 1
+instUIStroke9.Transparency = 0.25
+local instFrame10 = Instance.new("Frame")
+instFrame10.Size = UDim2.new(1, 0, 0, 42)
+instFrame10.BackgroundColor3 = Color3.fromRGB(32, 32, 32)
+instFrame10.ZIndex = 2
+Instance.new("UICorner").CornerRadius = UDim.new(0, 18)
+instTextLabel12.Size = UDim2.new(1, 0, 1, 0)
+instTextLabel12.BackgroundTransparency = 1
+instTextLabel12.Text = "Night Slayer Hub"
+Instance.new("TextLabel").Font = {
+    ["_enumType"] = Instance,
+    ["_name"] = "GothamBold",
+    ["_value"] = 0
+}
+instTextLabel12.TextSize = 20
+instTextLabel12.TextColor3 = Color3.fromRGB(255, 255, 255)
+instTextLabel12.ZIndex = 3
+local instTextButton13 = Instance.new("TextButton")
+instTextButton13.Size = UDim2.new(0, 200, 0, 46)
+instTextButton13.Position = UDim2.new(0.5, -100, 0, 70)
+instTextButton13.BackgroundColor3 = Color3.fromRGB(220, 60, 60)
+instTextButton13.Text = "GOD MODE : OFF"
+instTextButton13.Font = {
+    ["_enumType"] = Instance,
+    ["_name"] = "GothamBold",
+    ["_value"] = 0
+}
+instTextButton13.TextSize = 18
+instTextButton13.TextColor3 = Color3.fromRGB(255, 255, 255)
+instTextButton13.AutoButtonColor = false
+instTextButton13.ZIndex = 3
+Instance.new("UICorner").CornerRadius = UDim.new(0, 14)
+instTextLabel15.Size = UDim2.new(1, 0, 0, 22)
+instTextLabel15.Position = UDim2.new(0, 0, 0, 125)
+instTextLabel15.BackgroundTransparency = 1
+instTextLabel15.Text = "Status : OFF"
+Instance.new("TextLabel").Font = {
+    ["_enumType"] = Instance,
+    ["_name"] = "Gotham",
+    ["_value"] = 0
+}
+instTextLabel15.TextSize = 14
+instTextLabel15.TextColor3 = Color3.fromRGB(255, 80, 80)
+instTextLabel15.ZIndex = 3
+instTextLabel16.Size = UDim2.new(1, 0, 0, 18)
+instTextLabel16.Position = UDim2.new(0, 0, 1, -18)
+instTextLabel16.BackgroundTransparency = 1
+instTextLabel16.Text = "Made by @danno_ue"
+Instance.new("TextLabel").Font = {
+    ["_enumType"] = Instance,
+    ["_name"] = "Gotham",
+    ["_value"] = 0
+}
+instTextLabel16.TextSize = 11
+instTextLabel16.TextColor3 = Color3.fromRGB(160, 160, 160)
+instTextLabel16.ZIndex = 3
+instTextButton13.MouseButton1Click:Connect(function(Instance_cb18arg1, Instance_cb18arg2, Instance_cb18arg3)
+    game:GetService("TweenService"):Create(instTextButton13, {
+        ["DelayTime"] = 0,
+        ["EasingDirection"] = {
+            ["_enumType"] = Instance,
+            ["_name"] = "Out",
+            ["_value"] = 0
+        },
+        ["EasingStyle"] = {
+            ["_enumType"] = Instance,
+            ["_name"] = "Quad",
+            ["_value"] = 0
+        },
+        ["RepeatCount"] = 0,
+        ["Reverses"] = false,
+        ["Time"] = 0.25
+    }, { ["BackgroundColor3"] = Color3.fromRGB(60, 220, 120) }):Play()
+    instTextButton13.Text = "GOD MODE : ON"
+    instTextLabel15.Text = "Status : ON"
+    instTextLabel15.TextColor3 = Color3.fromRGB(60, 220, 120)
+    game.Players.LocalPlayer.Character.WaitForChild(game.Players.LocalPlayer.Character, "Humanoid")
+    local conn29 = Humanoid.HealthChanged:Connect(function(Instance_cb27arg1, Instance_cb27arg2, Instance_cb27arg3)
+        Humanoid.Health = Humanoid.MaxHealth 
+    end)
+    local conn33 = Humanoid.Died:Connect(function(Instance_cb31arg1, Instance_cb31arg2, Instance_cb31arg3)
+        Humanoid.Health = Humanoid.MaxHealth 
+    end)
+    Humanoid.Health = Humanoid.MaxHealth
+    game.Players.LocalPlayer.Character.GetDescendants(game.Players.LocalPlayer.Character)
+    game.Players.LocalPlayer.CharacterAdded:Connect(function(Instance_cb37arg1, Instance_cb37arg2, Instance_cb37arg3)
+        local tbl1 = Instance_cb37arg1:WaitForChild("Humanoid")
+        local cb46 = function(Instance_cb46arg1, Instance_cb46arg2, Instance_cb46arg3)
+            conn29:Destroy() 
+        end
+        local cb47 = function(Instance_cb47arg1, Instance_cb47arg2, Instance_cb47arg3)
+            conn29:Disconnect() 
+        end
+        local cb48 = function(Instance_cb48arg1, Instance_cb48arg2, Instance_cb48arg3)
+            conn33:Destroy() 
+        end
+        local cb49 = function(Instance_cb49arg1, Instance_cb49arg2, Instance_cb49arg3)
+            conn33:Disconnect() 
+        end
+        table.insert({
+            [1] = {
+                ["Connected"] = true,
+                ["Destroy"] = cb46,
+                ["Disconnect"] = cb47
+            },
+            [2] = {
+                ["Connected"] = true,
+                ["Destroy"] = cb48,
+                ["Disconnect"] = cb49
+            }
+        }, tbl1.HealthChanged.Connect(tbl1.HealthChanged, function(state)
+            tbl1.Health = tbl1.MaxHealth
+            tbl1.Health = tbl1.MaxHealth 
+        end))
+        table.insert({
+            [1] = {
+                ["Connected"] = true,
+                ["Destroy"] = cb46,
+                ["Disconnect"] = cb47
+            },
+            [2] = {
+                ["Connected"] = true,
+                ["Destroy"] = cb48,
+                ["Disconnect"] = cb49
+            }
+        }, tbl1.Died.Connect(tbl1.Died, function(state)
+            tbl1.Health = tbl1.MaxHealth
+            tbl1.Health = tbl1.MaxHealth 
+        end))
+        tbl1.Health = tbl1.MaxHealth
+        for v1, v2 in pairs(Instance_cb37arg1:GetDescendants()) do
+            v64:IsA("BasePart")
+            v64.CanTouch = false
+            v64.CanQuery = false 
+        end 
+    end)
+    workspace:GetDescendants() 
+end)
+game:GetService("TweenService"):Create(instTextButton13, {
+    ["DelayTime"] = 0,
+    ["EasingDirection"] = {
+        ["_enumType"] = Instance,
+        ["_name"] = "Out",
+        ["_value"] = 0
+    },
+    ["EasingStyle"] = {
+        ["_enumType"] = Instance,
+        ["_name"] = "Quad",
+        ["_value"] = 0
+    },
+    ["RepeatCount"] = 0,
+    ["Reverses"] = false,
+    ["Time"] = 0.25
+}, { ["BackgroundColor3"] = Color3.fromRGB(60, 220, 120) }):Play()
+instTextButton13.Text = "GOD MODE : ON"
+instTextLabel15.Text = "Status : ON"
+instTextLabel15.TextColor3 = Color3.fromRGB(60, 220, 120)
