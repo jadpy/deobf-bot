@@ -1,0 +1,23 @@
+local tbl = {}
+local v42 = 12
+Y[v42] = math.floor
+for index = 1, 256 do
+    tbl[index] = index 
+end
+table.remove(tbl, random(1, #tbl))
+if #tbl == 0 then
+    local function function2(function1, ...) return getgenv()[function1] end
+    
+    local v22 = setmetatable({}, { ["__index"] = v12, ["__metatable"] = nil })
+    local v3 = function2("game")
+    if v3 then
+        v3 = Game and function2("game")
+        function2 = Y[R]
+    end
+    if v3 then print("hi") end
+    function2 = Y[R]
+    if not v3 or (not Game or (_ or fenv)) then
+        return error("[Detect]: Deobf Hunter"), false, nil
+    end
+    return error("[Detect]: Deobf Hunter"), false, nil
+end
