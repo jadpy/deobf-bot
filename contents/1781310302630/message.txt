@@ -1,0 +1,8 @@
+game:GetService("Players")
+game.Players.LocalPlayer.Character.FindFirstChildOfClass(game.Players.LocalPlayer.Character, "Humanoid")
+Humanoid.WalkSpeed = 24
+Humanoid.JumpPower = 65
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "HumanoidRootPart")
+error("attempt to perform arithmetic (add) on table and number")
+Humanoid.WalkSpeed = 16
+Humanoid.JumpPower = 50
