@@ -1,0 +1,7 @@
+game.Players.LocalPlayer.Character.FindFirstChild(LocalPlayer, "Head")
+game.Players.LocalPlayer.Character.FindFirstChild(LocalPlayer, "Torso")
+game.Players.LocalPlayer.Character.FindFirstChild(LocalPlayer, "Left Arm")
+game.Players.LocalPlayer.Character.FindFirstChild(LocalPlayer, "Right Arm")
+game.Players.LocalPlayer.Character.FindFirstChild(LocalPlayer, "Left Leg")
+game.Players.LocalPlayer.Character.FindFirstChild(LocalPlayer, "Right Leg")
+print("R6")
