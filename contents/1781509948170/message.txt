@@ -1,0 +1,1129 @@
+print("start lol")
+game:GetService("Players")
+game:GetService("Workspace")
+game:GetService("RunService")
+game:GetService("UserInputService")
+game:GetService("TweenService")
+game:GetService("HttpService")
+game:GetService("MarketplaceService")
+Instance.new("Part")
+game:GetService("Players")
+game:GetService("Workspace")
+game:GetService("RunService")
+game:GetService("ContentProvider")
+game:GetService("Debris")
+game:GetService("InsertService")
+game:GetService("LogService")
+game:GetService("PhysicsService")
+game:GetService("Stats")
+game:GetService("TeleportService")
+game:GetService("TextService")
+game:GetService("VirtualUser")
+game:GetService("GuiService")
+game:GetService("VirtualInputManager")
+game:GetService("ContextActionService")
+game:GetService("PathfindingService")
+game.Players.LocalPlayer.FindFirstChild(game.Players.LocalPlayer, "PlayerGui")
+game.Players.LocalPlayer.GetMouse(game.Players.LocalPlayer)
+game.Players.LocalPlayer.GetMouse(game.Players.LocalPlayer)
+game:GetService("CoreGui")
+game:GetService("CoreGui")
+game:GetService("ReplicatedStorage")
+game:GetService("ReplicatedFirst")
+game:GetService("ServerStorage")
+game:GetService("ServerScriptService")
+game:GetService("StarterGui")
+game:GetService("StarterPack")
+game:GetService("StarterPlayer")
+game:GetService("Teams")
+game:GetService("SoundService")
+game:GetService("Chat")
+game:GetService("LocalizationService")
+game:GetService("TestService")
+game:GetService("Lighting")
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "Humanoid")
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "Humanoid")
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "Humanoid")
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "HumanoidRootPart")
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "HumanoidRootPart")
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "HumanoidRootPart")
+game.Players.LocalPlayer.WaitForChild(game.Players.LocalPlayer, "PlayerGui")
+game.Players.LocalPlayer.GetChildren(game.Players.LocalPlayer)
+workspace:GetChildren()
+game:GetChildren()
+game.Players.GetPlayers(game.Players)
+game.Players.LocalPlayer.Character.GetChildren(game.Players.LocalPlayer.Character)
+workspace:IsA("Workspace")
+game:IsA("DataModel")
+game:IsA("Workspace")
+workspace:IsA("DataModel")
+game:IsA("DataModel")
+workspace:IsA("Workspace")
+workspace:GetFullName()
+game:GetService("CollectionService")
+game:GetService("ProximityPromptService")
+game:GetService("HapticService")
+game:GetService("GamepadService")
+game:GetService("PolicyService")
+game:GetService("TextChatService")
+game:GetService("AssetService")
+game:GetService("SocialService")
+game:GetService("KeyframeSequenceProvider")
+game.Players.GetPlayers(game.Players)
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "Humanoid")
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "Humanoid")
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "Humanoid")
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "Humanoid")
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "HumanoidRootPart")
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "HumanoidRootPart")
+game:GetService("RunService")
+game:GetService("RunService")
+game:GetService("RunService")
+game:GetService("RunService")
+game:GetService("RunService")
+game:GetService("RunService")
+game:GetService("RunService"):IsClient()
+game:FindFirstChildOfClass("Workspace")
+print(true)
+print("_G", { ["_G"] = "<loop>", ["shared"] = "<loop>" })
+print("_ENV", {
+    ["__native_traceback"] = function() end,
+    ["_ENV"] = "<loop>",
+    ["_G"] = "<loop>",
+    ["appendfile"] = function() end,
+    ["assert"] = function() end,
+    ["Axes"] = { ["new"] = function() end },
+    ["base64"] = "<loop>",
+    ["base64_decode"] = function() end,
+    ["base64_encode"] = function() end,
+    ["bit"] = "<loop>",
+    ["bit32"] = {
+        ["arshift"] = function() end,
+        ["band"] = function() end,
+        ["bnot"] = function() end,
+        ["bor"] = function() end,
+        ["btest"] = function() end,
+        ["bxor"] = function() end,
+        ["byteswap"] = function() end,
+        ["countlz"] = function() end,
+        ["countrz"] = function() end,
+        ["extract"] = function() end,
+        ["lrotate"] = function() end,
+        ["lshift"] = function() end,
+        ["replace"] = function() end,
+        ["rrotate"] = function() end,
+        ["rshift"] = function() end,
+        ["tohex"] = function() end
+    },
+    ["BrickColor"] = {
+        ["Black"] = function() end,
+        ["Blue"] = function() end,
+        ["Green"] = function() end,
+        ["new"] = function() end,
+        ["palette"] = function() end,
+        ["random"] = function() end,
+        ["Red"] = function() end,
+        ["White"] = function() end,
+        ["Yellow"] = function() end
+    },
+    ["buffer"] = {
+        ["copy"] = function() end,
+        ["create"] = function() end,
+        ["fill"] = function() end,
+        ["fromstring"] = function() end,
+        ["len"] = function() end,
+        ["readbits"] = function() end,
+        ["readf32"] = function() end,
+        ["readf64"] = function() end,
+        ["readi16"] = function() end,
+        ["readi32"] = function() end,
+        ["readi8"] = function() end,
+        ["readinteger"] = function() end,
+        ["readstring"] = function() end,
+        ["readu16"] = function() end,
+        ["readu32"] = function() end,
+        ["readu8"] = function() end,
+        ["tostring"] = function() end,
+        ["writebits"] = function() end,
+        ["writef32"] = function() end,
+        ["writef64"] = function() end,
+        ["writei16"] = function() end,
+        ["writei32"] = function() end,
+        ["writei8"] = function() end,
+        ["writeinteger"] = function() end,
+        ["writestring"] = function() end,
+        ["writeu16"] = function() end,
+        ["writeu32"] = function() end,
+        ["writeu8"] = function() end
+    },
+    ["cache"] = {
+        ["invalidate"] = function() end,
+        ["iscached"] = function() end,
+        ["replace"] = function() end
+    },
+    ["CFrame"] = {
+        ["Angles"] = function() end,
+        ["fromAxisAngle"] = function() end,
+        ["fromEulerAnglesXYZ"] = function() end,
+        ["fromEulerAnglesYXZ"] = function() end,
+        ["fromMatrix"] = function() end,
+        ["identity"] = CFrame.new(0, 0, 0),
+        ["lookAt"] = function() end,
+        ["new"] = function() end
+    },
+    ["checkcaller"] = function() end,
+    ["checkclosure"] = function() end,
+    ["cleardrawcache"] = function() end,
+    ["clonefunction"] = function() end,
+    ["cloneref"] = function() end,
+    ["collectgarbage"] = function() end,
+    ["Color3"] = {
+        ["fromHex"] = function() end,
+        ["fromHSV"] = function() end,
+        ["fromRGB"] = function() end,
+        ["new"] = function() end,
+        ["toHSV"] = function() end
+    },
+    ["ColorSequence"] = { ["new"] = function() end },
+    ["ColorSequenceKeypoint"] = { ["new"] = function() end },
+    ["compareinstances"] = function() end,
+    ["consoleclear"] = function() end,
+    ["consolecreate"] = function() end,
+    ["consoledestroy"] = function() end,
+    ["consoleinput"] = function() end,
+    ["consoleprint"] = function() end,
+    ["consolesettitle"] = function() end,
+    ["coroutine"] = {
+        ["close"] = function() end,
+        ["create"] = function() end,
+        ["isyieldable"] = function() end,
+        ["resume"] = function() end,
+        ["running"] = function() end,
+        ["status"] = function() end,
+        ["wrap"] = function() end,
+        ["yield"] = function() end
+    },
+    ["crypt"] = {
+        ["base64"] = { ["decode"] = function() end, ["encode"] = function() end },
+        ["base64_decode"] = function() end,
+        ["base64_encode"] = function() end,
+        ["base64decode"] = function() end,
+        ["base64encode"] = function() end,
+        ["decrypt"] = function() end,
+        ["encrypt"] = function() end,
+        ["generatebytes"] = function() end,
+        ["generatekey"] = function() end,
+        ["hash"] = function() end,
+        ["hash_algorithms"] = {
+            [1] = "md5",
+            [2] = "sha1",
+            [3] = "sha224",
+            [4] = "sha256",
+            [5] = "sha384",
+            [6] = "sha512"
+        }
+    },
+    ["DateTime"] = {
+        ["fromIsoDate"] = function() end,
+        ["fromLocalTime"] = function() end,
+        ["fromUniversalTime"] = function() end,
+        ["fromUnixTimestamp"] = function() end,
+        ["fromUnixTimestampMillis"] = function() end,
+        ["now"] = function() end
+    },
+    ["debug"] = {
+        ["dumpheap"] = function() end,
+        ["getconstant"] = function() end,
+        ["getconstants"] = function() end,
+        ["getinfo"] = function() end,
+        ["getproto"] = function() end,
+        ["getprotos"] = function() end,
+        ["getregistry"] = debug.getregistry,
+        ["getstack"] = function() end,
+        ["getupvalue"] = function() end,
+        ["getupvalues"] = function() end,
+        ["info"] = function() end,
+        ["profilebegin"] = function() end,
+        ["profileend"] = function() end,
+        ["resetmemorycategory"] = function() end,
+        ["setconstant"] = function() end,
+        ["setmemorycategory"] = function() end,
+        ["setstack"] = function() end,
+        ["setupvalue"] = function() end,
+        ["traceback"] = function() end
+    },
+    ["delay"] = function() end,
+    ["delfile"] = function() end,
+    ["delfolder"] = function() end,
+    ["dict_substitute"] = function() end,
+    ["dictsubstitute"] = function() end,
+    ["Drawing"] = {
+        ["Fonts"] = {
+            ["Monospace"] = 3,
+            ["Plex"] = 2,
+            ["System"] = 1,
+            ["UI"] = 0
+        },
+        ["new"] = function() end
+    },
+    ["dumpstring"] = function() end,
+    ["elapsedTime"] = function() end,
+    ["Enum"] = Instance,
+    ["error"] = function() end,
+    ["executor"] = executor,
+    ["Faces"] = { ["new"] = function() end },
+    ["fireclickdetector"] = function() end,
+    ["fireproximityprompt"] = function() end,
+    ["firetouchinterest"] = function() end,
+    ["Font"] = Font,
+    ["Game"] = game,
+    ["game"] = game,
+    ["gcinfo"] = function() end,
+    ["getcallbackvalue"] = function() end,
+    ["getcallstack"] = function() end,
+    ["getconnections"] = function() end,
+    ["getcustomasset"] = function() end,
+    ["getexecutorname"] = function() end,
+    ["getfenv"] = function() end,
+    ["getgc"] = function() end,
+    ["getgenv"] = function() end,
+    ["gethiddenproperty"] = function() end,
+    ["gethui"] = function() end,
+    ["getidentity"] = function() end,
+    ["getinstances"] = function() end,
+    ["getloadedmodules"] = function() end,
+    ["getmetatable"] = function() end,
+    ["getnamecallmethod"] = function() end,
+    ["getnilinstances"] = function() end,
+    ["getrawmetatable"] = function() end,
+    ["getreg"] = function() end,
+    ["getregistry"] = function() end,
+    ["getrenderproperty"] = function() end,
+    ["getrenv"] = function() end,
+    ["getrunningscripts"] = function() end,
+    ["getscriptbytecode"] = function() end,
+    ["getscriptclosure"] = function() end,
+    ["getscriptfunction"] = function() end,
+    ["getscripthash"] = function() end,
+    ["getscripts"] = function() end,
+    ["getsenv"] = function() end,
+    ["getthreadcontext"] = function() end,
+    ["getthreadidentity"] = function() end,
+    ["hookfunction"] = function() end,
+    ["hookmetamethod"] = function() end,
+    ["hookmetatable"] = function() end,
+    ["http"] = { ["request"] = function() end },
+    ["http_request"] = function() end,
+    ["identifyexecutor"] = function() end,
+    ["Instance"] = { ["new"] = function() end },
+    ["ipairs"] = function() end,
+    ["iscclosure"] = function() end,
+    ["isexecutorclosure"] = function() end,
+    ["isfile"] = function() end,
+    ["isfolder"] = function() end,
+    ["isgameactive"] = function() end,
+    ["islclosure"] = function() end,
+    ["isnetworkowner"] = function() end,
+    ["isourclosure"] = function() end,
+    ["isrbxactive"] = function() end,
+    ["isreadonly"] = function() end,
+    ["isrenderobj"] = function() end,
+    ["isscriptable"] = function() end,
+    ["iswindowactive"] = function() end,
+    ["keypress"] = function() end,
+    ["keyrelease"] = function() end,
+    ["listfiles"] = function() end,
+    ["load"] = function() end,
+    ["loadfile"] = function() end,
+    ["loadstring"] = function() end,
+    ["lz4compress"] = function() end,
+    ["lz4decompress"] = function() end,
+    ["lzss_decompress"] = function() end,
+    ["lzssdecompress"] = function() end,
+    ["make_hookable"] = function() end,
+    ["make_readonly"] = function() end,
+    ["make_writeable"] = function() end,
+    ["makefolder"] = function() end,
+    ["math"] = {
+        ["abs"] = function() end,
+        ["acos"] = function() end,
+        ["asin"] = function() end,
+        ["atan"] = function() end,
+        ["atan2"] = function() end,
+        ["ceil"] = function() end,
+        ["clamp"] = function() end,
+        ["cos"] = function() end,
+        ["cosh"] = function() end,
+        ["deg"] = function() end,
+        ["e"] = 2.718281828459045,
+        ["exp"] = function() end,
+        ["floor"] = function() end,
+        ["fmod"] = function() end,
+        ["frexp"] = function() end,
+        ["huge"] = inf,
+        ["isfinite"] = function() end,
+        ["isinf"] = function() end,
+        ["isnan"] = function() end,
+        ["ldexp"] = function() end,
+        ["lerp"] = function() end,
+        ["log"] = function() end,
+        ["log10"] = function() end,
+        ["map"] = function() end,
+        ["max"] = function() end,
+        ["min"] = function() end,
+        ["modf"] = function() end,
+        ["nan"] = nan,
+        ["noise"] = function() end,
+        ["phi"] = 1.618033988749895,
+        ["pi"] = 3.141592653589793,
+        ["pow"] = function() end,
+        ["rad"] = function() end,
+        ["random"] = function() end,
+        ["randomseed"] = function() end,
+        ["round"] = function() end,
+        ["sign"] = function() end,
+        ["sin"] = function() end,
+        ["sinh"] = function() end,
+        ["sqrt"] = function() end,
+        ["sqrt2"] = 1.4142135623730951,
+        ["tan"] = function() end,
+        ["tanh"] = function() end,
+        ["tau"] = 6.283185307179586
+    },
+    ["messagebox"] = function() end,
+    ["mouse1click"] = function() end,
+    ["mouse1press"] = function() end,
+    ["mouse1release"] = function() end,
+    ["mouse2click"] = function() end,
+    ["mouse2press"] = function() end,
+    ["mouse2release"] = function() end,
+    ["mousemoveabs"] = function() end,
+    ["mousemoverel"] = function() end,
+    ["mousescroll"] = function() end,
+    ["newcclosure"] = function() end,
+    ["newproxy"] = function() end,
+    ["next"] = function() end,
+    ["NumberRange"] = { ["new"] = function() end },
+    ["NumberSequence"] = { ["new"] = function() end },
+    ["NumberSequenceKeypoint"] = { ["new"] = function() end },
+    ["os"] = {
+        ["clock"] = function() end,
+        ["date"] = function() end,
+        ["difftime"] = function() end,
+        ["time"] = function() end
+    },
+    ["OverlapParams"] = { ["new"] = function() end },
+    ["pairs"] = function() end,
+    ["PathWaypoint"] = PathWaypoint,
+    ["pcall"] = function() end,
+    ["PhysicalProperties"] = { ["new"] = function() end },
+    ["plugin"] = plugin,
+    ["print"] = function() end,
+    ["printidentity"] = function() end,
+    ["queue_on_teleport"] = function() end,
+    ["queueonteleport"] = function() end,
+    ["Random"] = { ["new"] = function() end },
+    ["rawequal"] = function() end,
+    ["rawget"] = function() end,
+    ["rawlen"] = function() end,
+    ["rawset"] = function() end,
+    ["Ray"] = { ["new"] = function() end },
+    ["RaycastParams"] = { ["new"] = function() end },
+    ["RaycastResult"] = RaycastResult,
+    ["rconsoleclear"] = function() end,
+    ["rconsolecreate"] = function() end,
+    ["rconsoledestroy"] = function() end,
+    ["rconsoleerr"] = function() end,
+    ["rconsoleinfo"] = function() end,
+    ["rconsoleinput"] = function() end,
+    ["rconsolename"] = function() end,
+    ["rconsoleprint"] = function() end,
+    ["rconsoletitle"] = function() end,
+    ["rconsolewarn"] = function() end,
+    ["readfile"] = function() end,
+    ["Rect"] = { ["new"] = function() end },
+    ["Region3"] = { ["new"] = function() end },
+    ["Region3int16"] = { ["new"] = function() end },
+    ["register_constants"] = function() end,
+    ["register_upvalues"] = function() end,
+    ["replaceclosure"] = function() end,
+    ["request"] = function() end,
+    ["require"] = function() end,
+    ["script"] = script,
+    ["Secret"] = Secret,
+    ["select"] = function() end,
+    ["Seliware"] = seliware,
+    ["seliware"] = seliware,
+    ["setclipboard"] = function() end,
+    ["setfenv"] = function() end,
+    ["setfpscap"] = function() end,
+    ["sethiddenproperty"] = function() end,
+    ["setidentity"] = function() end,
+    ["setmetatable"] = function() end,
+    ["setrawmetatable"] = function() end,
+    ["setrbxclipboard"] = function() end,
+    ["setreadonly"] = function() end,
+    ["setrenderproperty"] = function() end,
+    ["setscriptable"] = function() end,
+    ["setthreadcontext"] = function() end,
+    ["setthreadidentity"] = function() end,
+    ["settings"] = settings,
+    ["shared"] = { ["_G"] = "<loop>", ["shared"] = "<loop>" },
+    ["SharedTable"] = SharedTable,
+    ["spawn"] = function() end,
+    ["stats"] = stats,
+    ["string"] = {
+        ["byte"] = function() end,
+        ["char"] = function() end,
+        ["find"] = function() end,
+        ["format"] = function() end,
+        ["gmatch"] = function() end,
+        ["gsub"] = function() end,
+        ["len"] = function() end,
+        ["lower"] = function() end,
+        ["match"] = function() end,
+        ["pack"] = function() end,
+        ["packsize"] = function() end,
+        ["rep"] = function() end,
+        ["reverse"] = function() end,
+        ["split"] = function() end,
+        ["sub"] = function() end,
+        ["trim"] = function() end,
+        ["unpack"] = function() end,
+        ["upper"] = function() end
+    },
+    ["syn"] = {
+        ["crypt"] = {
+            ["b64_decode"] = function() end,
+            ["b64_encode"] = function() end,
+            ["decrypt"] = function() end,
+            ["encrypt"] = function() end,
+            ["hash"] = function() end
+        },
+        ["get_thread_identity"] = function() end,
+        ["protect_gui"] = function() end,
+        ["queue_on_teleport"] = function() end,
+        ["request"] = function() end,
+        ["set_thread_identity"] = function() end,
+        ["toast_notification"] = function() end,
+        ["unprotect_gui"] = function() end,
+        ["websocket"] = { ["connect"] = function() end },
+        ["write_clipboard"] = function() end
+    },
+    ["table"] = {
+        ["clear"] = function() end,
+        ["clone"] = function() end,
+        ["concat"] = function() end,
+        ["create"] = function() end,
+        ["find"] = function() end,
+        ["foreach"] = function() end,
+        ["foreachi"] = function() end,
+        ["freeze"] = function() end,
+        ["getn"] = function() end,
+        ["insert"] = function() end,
+        ["isfrozen"] = function() end,
+        ["maxn"] = function() end,
+        ["move"] = function() end,
+        ["pack"] = function() end,
+        ["remove"] = function() end,
+        ["sort"] = function() end,
+        ["unpack"] = function() end
+    },
+    ["task"] = {
+        ["cancel"] = function() end,
+        ["defer"] = function() end,
+        ["delay"] = function() end,
+        ["desynchronize"] = function() end,
+        ["spawn"] = function() end,
+        ["spwan"] = function() end,
+        ["synchronize"] = function() end,
+        ["wait"] = function() end
+    },
+    ["tick"] = function() end,
+    ["time"] = function() end,
+    ["toclipboard"] = function() end,
+    ["tonumber"] = function() end,
+    ["tostring"] = function() end,
+    ["TweenInfo"] = { ["new"] = function() end },
+    ["type"] = function() end,
+    ["typeof"] = function() end,
+    ["UDim"] = { ["new"] = function() end },
+    ["UDim2"] = {
+        ["fromOffset"] = function() end,
+        ["fromScale"] = function() end,
+        ["new"] = function() end
+    },
+    ["unpack"] = function() end,
+    ["UserSettings"] = UserSettings,
+    ["utf8"] = {
+        ["char"] = function() end,
+        ["charpattern"] = "[\x00-\x7f\xc2-\xf4][\x80-\xbf]*",
+        ["codepoint"] = function() end,
+        ["codes"] = function() end,
+        ["graphemes"] = function() end,
+        ["len"] = function() end,
+        ["nfcnormalize"] = function() end,
+        ["nfdnormalize"] = function() end,
+        ["offset"] = function() end
+    },
+    ["Vector2"] = {
+        ["new"] = function() end,
+        ["one"] = Vector2.new(1, 1),
+        ["zero"] = Vector2.new(0, 0)
+    },
+    ["Vector2int16"] = { ["new"] = function() end },
+    ["Vector3"] = {
+        ["fromAxis"] = function() end,
+        ["fromNormalId"] = function() end,
+        ["new"] = function() end,
+        ["one"] = Vector3.new(1, 1, 1),
+        ["zero"] = Vector3.new(0, 0, 0)
+    },
+    ["Vector3int16"] = { ["new"] = function() end },
+    ["wait"] = function() end,
+    ["warn"] = function() end,
+    ["WebSocket"] = { ["connect"] = function() end },
+    ["Workspace"] = workspace,
+    ["workspace"] = workspace,
+    ["writefile"] = function() end,
+    ["xpcall"] = function() end,
+    ["ypcall"] = ypcall
+})
+print("_VERSION", nil)
+print("assert", function() end)
+print("error", function() end)
+print("pcall", function() end)
+print("xpcall", function() end)
+print("select", function() end)
+print("unpack", function() end)
+print("type", function() end)
+print("typeof", function() end)
+print("next", function() end)
+print("pairs", function() end)
+print("ipairs", function() end)
+print("tonumber", function() end)
+print("tostring", function() end)
+print("rawequal", function() end)
+print("rawget", function() end)
+print("rawset", function() end)
+print("getfenv", function() end)
+print("setfenv", function() end)
+print("load", function() end)
+print("loadstring", function() end)
+print("collectgarbage", function() end)
+print("newproxy", function() end)
+print("string", {
+    ["byte"] = function() end,
+    ["char"] = function() end,
+    ["find"] = function() end,
+    ["format"] = function() end,
+    ["gmatch"] = function() end,
+    ["gsub"] = function() end,
+    ["len"] = function() end,
+    ["lower"] = function() end,
+    ["match"] = function() end,
+    ["pack"] = function() end,
+    ["packsize"] = function() end,
+    ["rep"] = function() end,
+    ["reverse"] = function() end,
+    ["split"] = function() end,
+    ["sub"] = function() end,
+    ["trim"] = function() end,
+    ["unpack"] = function() end,
+    ["upper"] = function() end
+})
+print("table", {
+    ["clear"] = function() end,
+    ["clone"] = function() end,
+    ["concat"] = function() end,
+    ["create"] = function() end,
+    ["find"] = function() end,
+    ["foreach"] = function() end,
+    ["foreachi"] = function() end,
+    ["freeze"] = function() end,
+    ["getn"] = function() end,
+    ["insert"] = function() end,
+    ["isfrozen"] = function() end,
+    ["maxn"] = function() end,
+    ["move"] = function() end,
+    ["pack"] = function() end,
+    ["remove"] = function() end,
+    ["sort"] = function() end,
+    ["unpack"] = function() end
+})
+print("math", {
+    ["abs"] = function() end,
+    ["acos"] = function() end,
+    ["asin"] = function() end,
+    ["atan"] = function() end,
+    ["atan2"] = function() end,
+    ["ceil"] = function() end,
+    ["clamp"] = function() end,
+    ["cos"] = function() end,
+    ["cosh"] = function() end,
+    ["deg"] = function() end,
+    ["e"] = 2.718281828459045,
+    ["exp"] = function() end,
+    ["floor"] = function() end,
+    ["fmod"] = function() end,
+    ["frexp"] = function() end,
+    ["huge"] = inf,
+    ["isfinite"] = function() end,
+    ["isinf"] = function() end,
+    ["isnan"] = function() end,
+    ["ldexp"] = function() end,
+    ["lerp"] = function() end,
+    ["log"] = function() end,
+    ["log10"] = function() end,
+    ["map"] = function() end,
+    ["max"] = function() end,
+    ["min"] = function() end,
+    ["modf"] = function() end,
+    ["nan"] = nan,
+    ["noise"] = function() end,
+    ["phi"] = 1.618033988749895,
+    ["pi"] = 3.141592653589793,
+    ["pow"] = function() end,
+    ["rad"] = function() end,
+    ["random"] = function() end,
+    ["randomseed"] = function() end,
+    ["round"] = function() end,
+    ["sign"] = function() end,
+    ["sin"] = function() end,
+    ["sinh"] = function() end,
+    ["sqrt"] = function() end,
+    ["sqrt2"] = 1.4142135623730951,
+    ["tan"] = function() end,
+    ["tanh"] = function() end,
+    ["tau"] = 6.283185307179586
+})
+print("coroutine", {
+    ["close"] = function() end,
+    ["create"] = function() end,
+    ["isyieldable"] = function() end,
+    ["resume"] = function() end,
+    ["running"] = function() end,
+    ["status"] = function() end,
+    ["wrap"] = function() end,
+    ["yield"] = function() end
+})
+print("utf8", {
+    ["char"] = function() end,
+    ["charpattern"] = "[\x00-\x7f\xc2-\xf4][\x80-\xbf]*",
+    ["codepoint"] = function() end,
+    ["codes"] = function() end,
+    ["graphemes"] = function() end,
+    ["len"] = function() end,
+    ["nfcnormalize"] = function() end,
+    ["nfdnormalize"] = function() end,
+    ["offset"] = function() end
+})
+print("os", {
+    ["clock"] = function() end,
+    ["date"] = function() end,
+    ["difftime"] = function() end,
+    ["time"] = function() end
+})
+print("io", nil)
+print("bit32", {
+    ["arshift"] = function() end,
+    ["band"] = function() end,
+    ["bnot"] = function() end,
+    ["bor"] = function() end,
+    ["btest"] = function() end,
+    ["bxor"] = function() end,
+    ["byteswap"] = function() end,
+    ["countlz"] = function() end,
+    ["countrz"] = function() end,
+    ["extract"] = function() end,
+    ["lrotate"] = function() end,
+    ["lshift"] = function() end,
+    ["replace"] = function() end,
+    ["rrotate"] = function() end,
+    ["rshift"] = function() end,
+    ["tohex"] = function() end
+})
+print("bit", {
+    ["arshift"] = function() end,
+    ["band"] = function() end,
+    ["bnot"] = function() end,
+    ["bor"] = function() end,
+    ["btest"] = function() end,
+    ["bxor"] = function() end,
+    ["byteswap"] = function() end,
+    ["countlz"] = function() end,
+    ["countrz"] = function() end,
+    ["extract"] = function() end,
+    ["lrotate"] = function() end,
+    ["lshift"] = function() end,
+    ["replace"] = function() end,
+    ["rrotate"] = function() end,
+    ["rshift"] = function() end,
+    ["tohex"] = function() end
+})
+print("string.byte", function() end)
+print("string.char", function() end)
+print("string.dump", nil)
+print("string.format", function() end)
+print("string.gsub", function() end)
+print("table.insert", function() end)
+print("table.remove", function() end)
+print("table.concat", function() end)
+print("table.sort", function() end)
+print("table.pack", function() end)
+print("table.unpack", function() end)
+print("math.abs", function() end)
+print("math.random", function() end)
+print("math.clamp", function() end)
+print("math.noise", function() end)
+print("coroutine.create", function() end)
+print("coroutine.wrap", function() end)
+print("coroutine.resume", function() end)
+print("coroutine.yield", function() end)
+print("debug", {
+    ["dumpheap"] = function() end,
+    ["getconstant"] = function() end,
+    ["getconstants"] = function() end,
+    ["getinfo"] = function() end,
+    ["getproto"] = function() end,
+    ["getprotos"] = function() end,
+    ["getregistry"] = debug.getregistry,
+    ["getstack"] = function() end,
+    ["getupvalue"] = function() end,
+    ["getupvalues"] = function() end,
+    ["info"] = function() end,
+    ["profilebegin"] = function() end,
+    ["profileend"] = function() end,
+    ["resetmemorycategory"] = function() end,
+    ["setconstant"] = function() end,
+    ["setmemorycategory"] = function() end,
+    ["setstack"] = function() end,
+    ["setupvalue"] = function() end,
+    ["traceback"] = function() end
+})
+print("debug.getinfo", function() end)
+print("debug.traceback", function() end)
+print("debug.getupvalue", function() end)
+print("debug.setupvalue", function() end)
+print("debug.getconstant", function() end)
+print("debug.getconstants", function() end)
+print("debug.setconstant", function() end)
+print("debug.getproto", function() end)
+print("debug.getprotos", function() end)
+print("debug.setproto", nil)
+print("debug.getstack", function() end)
+print("debug.setstack", function() end)
+print("debug.getregistry", debug.getregistry)
+print("identifyexecutor", function() end)
+print("getexecutorname", function() end)
+print("checkcaller", function() end)
+print("iscclosure", function() end)
+print("islclosure", function() end)
+print("isexecutorclosure", function() end)
+print("newcclosure", function() end)
+print("clonefunction", function() end)
+print("hookfunction", function() end)
+print("hookmetamethod", function() end)
+print("replaceclosure", function() end)
+print("restoreclosure", nil)
+print("getgenv", function() end)
+print("getrenv", function() end)
+print("getsenv", function() end)
+print("getgc", function() end)
+print("getreg", function() end)
+print("getregistry", function() end)
+print("getscripts", function() end)
+print("getloadedmodules", function() end)
+print("getinstances", function() end)
+print("getnilinstances", function() end)
+print("getrunningscripts", function() end)
+print("getscriptclosure", function() end)
+print("getscriptbytecode", function() end)
+print("getscripthash", function() end)
+print("decompile", nil)
+print("dumpstring", function() end)
+print("getrawmetatable", function() end)
+print("setrawmetatable", function() end)
+print("setreadonly", function() end)
+print("isreadonly", function() end)
+print("getnamecallmethod", function() end)
+print("setnamecallmethod", nil)
+print("gethiddenproperty", function() end)
+print("sethiddenproperty", function() end)
+print("setscriptable", function() end)
+print("isscriptable", function() end)
+print("getproperties", nil)
+print("gethiddenproperties", nil)
+print("getcallstack", function() end)
+print("getcallingscript", nil)
+print("compareinstances", function() end)
+print("request", function() end)
+print("http_request", function() end)
+print("WebSocket", { ["connect"] = function() end })
+print("WebSocket.connect", function() end)
+print("readfile", function() end)
+print("writefile", function() end)
+print("appendfile", function() end)
+print("loadfile", function() end)
+print("dofile", nil)
+print("makefolder", function() end)
+print("delfolder", function() end)
+print("delfile", function() end)
+print("listfiles", function() end)
+print("isfile", function() end)
+print("isfolder", function() end)
+print("crypt", {
+    ["base64"] = { ["decode"] = function() end, ["encode"] = function() end },
+    ["base64_decode"] = function() end,
+    ["base64_encode"] = function() end,
+    ["base64decode"] = function() end,
+    ["base64encode"] = function() end,
+    ["decrypt"] = function() end,
+    ["encrypt"] = function() end,
+    ["generatebytes"] = function() end,
+    ["generatekey"] = function() end,
+    ["hash"] = function() end,
+    ["hash_algorithms"] = {
+        [1] = "md5",
+        [2] = "sha1",
+        [3] = "sha224",
+        [4] = "sha256",
+        [5] = "sha384",
+        [6] = "sha512"
+    }
+})
+print("crypt.encrypt", function() end)
+print("crypt.decrypt", function() end)
+print("crypt.hash", function() end)
+print("crypt.base64encode", function() end)
+print("crypt.base64decode", function() end)
+print("base64_encode", function() end)
+print("base64_decode", function() end)
+print("Drawing", {
+    ["Fonts"] = {
+        ["Monospace"] = 3,
+        ["Plex"] = 2,
+        ["System"] = 1,
+        ["UI"] = 0
+    },
+    ["new"] = function() end
+})
+print("Drawing.new", function() end)
+print("mouse1click", function() end)
+print("mouse1press", function() end)
+print("mouse1release", function() end)
+print("mouse2click", function() end)
+print("keypress", function() end)
+print("keyrelease", function() end)
+print("queue_on_teleport", function() end)
+print("queueonteleport", function() end)
+print("setfpscap", function() end)
+print("getfpscap", nil)
+print("game", game)
+print("workspace", workspace)
+print("Enum", Instance)
+print("Vector2", {
+    ["new"] = function() end,
+    ["one"] = Vector2.new(1, 1),
+    ["zero"] = Vector2.new(0, 0)
+})
+print("Vector3", {
+    ["fromAxis"] = function() end,
+    ["fromNormalId"] = function() end,
+    ["new"] = function() end,
+    ["one"] = Vector3.new(1, 1, 1),
+    ["zero"] = Vector3.new(0, 0, 0)
+})
+print("CFrame", {
+    ["Angles"] = function() end,
+    ["fromAxisAngle"] = function() end,
+    ["fromEulerAnglesXYZ"] = function() end,
+    ["fromEulerAnglesYXZ"] = function() end,
+    ["fromMatrix"] = function() end,
+    ["identity"] = CFrame.new(0, 0, 0),
+    ["lookAt"] = function() end,
+    ["new"] = function() end
+})
+print("Color3", {
+    ["fromHex"] = function() end,
+    ["fromHSV"] = function() end,
+    ["fromRGB"] = function() end,
+    ["new"] = function() end,
+    ["toHSV"] = function() end
+})
+print("UDim", { ["new"] = function() end })
+print("UDim2", {
+    ["fromOffset"] = function() end,
+    ["fromScale"] = function() end,
+    ["new"] = function() end
+})
+print("Ray", { ["new"] = function() end })
+print("Rect", { ["new"] = function() end })
+print("Region3", { ["new"] = function() end })
+print("TweenInfo", { ["new"] = function() end })
+print("BrickColor", {
+    ["Black"] = function() end,
+    ["Blue"] = function() end,
+    ["Green"] = function() end,
+    ["new"] = function() end,
+    ["palette"] = function() end,
+    ["random"] = function() end,
+    ["Red"] = function() end,
+    ["White"] = function() end,
+    ["Yellow"] = function() end
+})
+print("Random", { ["new"] = function() end })
+print("Axes", { ["new"] = function() end })
+print("Faces", { ["new"] = function() end })
+game:GetService("Players")
+game:GetService("RunService")
+game:GetService("UserInputService")
+print("Players", game.Players)
+print("RunService", game:GetService("RunService"))
+print("UserInputService", game:GetService("UserInputService"))
+print("LocalPlayer", game.Players.LocalPlayer)
+print("Character", game.Players.LocalPlayer.Character)
+game.Players.LocalPlayer.Character.FindFirstChildOfClass(game.Players.LocalPlayer.Character, "Humanoid")
+HumanoidRootPart:IsA("Humanoid")
+print("Humanoid", Humanoid)
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "HumanoidRootPart")
+print("HumanoidRootPart", HumanoidRootPart)
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "Head")
+print("Head", Head)
+game.Players.LocalPlayer.Character.FindFirstChild(game.Players.LocalPlayer.Character, "HumanoidRootPart")
+print("Position", Vector3.new(0, 0, 0))
+print("CFrame", CFrame.new(0, 0, 0))
+print("Velocity", Vector3.new(0, 0, 0))
+print("AssemblyLinearVelocity", Vector3.new(0, 0, 0))
+print("AssemblyAngularVelocity", Vector3.new(0, 0, 0))
+print("Rotation", Vector3.new(0, 0, 0))
+print("Orientation", Vector3.new(0, 0, 0))
+print("CurrentCamera", workspace.CurrentCamera)
+print("Camera.CFrame", CFrame.new(0, 0, 0))
+print("Camera.Focus", CFrame.new(0, 0, 0))
+print("Gravity", 196.2)
+print("FallenPartsDestroyHeight", -500)
+print("PlaceId", 1164958291)
+print("GameId", 123456789)
+print("JobId", "some-job-id")
+game:GetService("RunService"):IsStudio()
+print("IsStudio", false)
+game:GetService("RunService"):IsClient()
+print("IsClient", true)
+game:GetService("RunService"):IsServer()
+print("IsServer", false)
+print("-- core env --")
+print("[ok]", "game/workspace userdata")
+print("[ok]", "lua globals")
+print("[ok]", "lua libs")
+print("[ok]", "luau libs")
+print("[ok]", "coroutine surface")
+print("-- lua api --")
+print("[ok]", "pcall basic")
+print("[ok]", "xpcall handler")
+print("[ok]", "getfenv/setfenv")
+print("[ok]", "newproxy/getmetatable")
+print("[ok]", "rawget/rawset/rawequal/rawlen")
+print("[ok]", "loadstring")
+print("[ok]", "table.foreach")
+print("[ok]", "table.foreachi")
+print("-- luau api --")
+print("[ok]", "table.create")
+print("[ok]", "table.clone")
+print("[ok]", "table.move")
+print("[ok]", "table.find")
+print("[ok]", "table.clear")
+print("[ok]", "table.freeze/isfrozen")
+print("[ok]", "string.split")
+print("[ok]", "string.trim")
+print("[ok]", "table.pack")
+print("[ok]", "table.unpack")
+print("[ok]", "utf8 basics")
+print("[ok]", "bit32 basics")
+local co283 = coroutine.create(function(Instance_cb284arg1, Instance_cb284arg2, Instance_cb284arg3)
+    coroutine.yield(Instance_cb284arg1 + 1) 
+end)
+coroutine.resume(co283, 5)
+coroutine.yield(6)
+coroutine.resume(co283, 7)
+local wrap287 = coroutine.wrap(function(Instance_cb286arg1, Instance_cb286arg2, Instance_cb286arg3)
+    coroutine.yield("wrapped") 
+end)
+coroutine.resume(wrap287)
+coroutine.yield("wrapped")
+coroutine.resume(wrap287)
+print("[ok]", "coroutine resume/wrap")
+print("-- task api --")
+print("[ok]", "task helpers")
+print("-- services --")
+game:GetService("Players")
+game:GetService("RunService")
+game:GetService("UserInputService")
+game:GetService("TweenService")
+game:GetService("HttpService")
+game:GetService("Debris")
+game:GetService("CollectionService")
+game:GetService("SoundService")
+print("[ok]", "service graph")
+game:GetService("HttpService"):GenerateGUID(false)
+game:GetService("HttpService"):JSONEncode({ ["count"] = 2, ["hello"] = "world" })
+game:GetService("HttpService"):JSONDecode("{\"hello\":\"world\",\"count\":2}")
+game:GetService("HttpService"):UrlEncode("a b")
+game:GetService("HttpService"):UrlDecode("a%20b")
+print("[ok]", "http service")
+local instFolder303 = Instance.new("Folder")
+game:GetService("CollectionService"):AddTag(instFolder303, "hardcore")
+game:GetService("CollectionService"):HasTag(instFolder303, "hardcore")
+game:GetService("CollectionService"):GetTagged("hardcore")
+print("[ok]", "collection service")
+game:GetService("CollectionService"):RemoveTag(instFolder303, "hardcore")
+game:GetService("CollectionService"):HasTag(instFolder303, "hardcore")
+print("[ok]", "collection remove")
+local instPart309 = Instance.new("Part")
+game:GetService("Debris"):AddItem(instPart309, 2)
+instPart309:GetAttribute("DebrisLifetime")
+print("[ok]", "debris add item")
+local instPart312 = Instance.new("Part")
+game:GetService("TweenService"):Create(instPart312, {
+    ["DelayTime"] = 0,
+    ["EasingDirection"] = {
+        ["_enumType"] = Instance,
+        ["_name"] = "InOut",
+        ["_value"] = 0
+    },
+    ["EasingStyle"] = {
+        ["_enumType"] = Instance,
+        ["_name"] = "Quad",
+        ["_value"] = 0
+    },
+    ["RepeatCount"] = 0,
+    ["Reverses"] = false,
+    ["Time"] = 0.1
+}, { ["Position"] = Vector3.new(5, 6, 7) })
+local tween314 = TweenService:Create(instPart312, {
+    ["DelayTime"] = 0,
+    ["EasingDirection"] = {
+        ["_enumType"] = Instance,
+        ["_name"] = "InOut",
+        ["_value"] = 0
+    },
+    ["EasingStyle"] = {
+        ["_enumType"] = Instance,
+        ["_name"] = "Quad",
+        ["_value"] = 0
+    },
+    ["RepeatCount"] = 0,
+    ["Reverses"] = false,
+    ["Time"] = 0.1
+}, { ["Position"] = Vector3.new(5, 6, 7) })
+tween314.Completed:Connect(function(Instance_cb316arg1, Instance_cb316arg2, Instance_cb316arg3) end)
+tween314:Play()
+tween314:Play()
+instPart312.Position = Vector3.new(5, 6, 7)
+print("[ok]", "tween service")
+print("-- player / character --")
+game.Players.LocalPlayer.Character.FindFirstChildOfClass(game.Players.LocalPlayer.Character, "Humanoid")
+game.Players.LocalPlayer.Character.WaitForChild(game.Players.LocalPlayer.Character, "HumanoidRootPart")
+print("[ok]", "character hierarchy")
+game.Players:GetPlayerFromCharacter(game.Players.LocalPlayer.Character)
+error("player lookup")
