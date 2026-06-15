@@ -1,0 +1,2236 @@
+print("start lol")
+game:GetService("Players")
+game:GetService("Workspace")
+game:GetService("RunService")
+game:GetService("UserInputService")
+game:GetService("TweenService")
+game:GetService("HttpService")
+game:GetService("MarketplaceService")
+Instance.new("Part")
+game:GetService("Players")
+game:GetService("Workspace")
+game:GetService("RunService")
+game:GetService("ContentProvider")
+game:GetService("Debris")
+game:GetService("InsertService")
+game:GetService("LogService")
+game:GetService("PhysicsService")
+game:GetService("Stats")
+game:GetService("TeleportService")
+game:GetService("TextService")
+game:GetService("VirtualUser")
+game:GetService("GuiService")
+game:GetService("VirtualInputManager")
+game:GetService("ContextActionService")
+game:GetService("PathfindingService")
+game.Players.LocalPlayer:FindFirstChild("PlayerGui")
+game.Players.LocalPlayer:GetMouse()
+game.Players.LocalPlayer:GetMouse()
+game:GetService("CoreGui")
+game:GetService("CoreGui")
+game:GetService("ReplicatedStorage")
+game:GetService("ReplicatedFirst")
+game:GetService("ServerStorage")
+game:GetService("ServerScriptService")
+game:GetService("StarterGui")
+game:GetService("StarterPack")
+game:GetService("StarterPlayer")
+game:GetService("Teams")
+game:GetService("SoundService")
+game:GetService("Chat")
+game:GetService("LocalizationService")
+game:GetService("TestService")
+game:GetService("Lighting")
+game.Players.LocalPlayer.Character:FindFirstChild("Humanoid")
+game.Players.LocalPlayer.Character:FindFirstChild("Humanoid")
+game.Players.LocalPlayer.Character:FindFirstChild("Humanoid")
+game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+game.Players.LocalPlayer.Character:FindFirstChild("HumanoidRootPart")
+local workspace141 = game.workspace
+game.Players.LocalPlayer:WaitForChild("PlayerGui")
+game.Players.LocalPlayer:GetChildren()
+workspace141:GetChildren()
+game:GetChildren()
+game.Players:GetPlayers()
+game.Players.LocalPlayer.Character:GetChildren()
+workspace141:IsA("Workspace")
+game:IsA("DataModel")
+game:IsA("Workspace")
+workspace141:IsA("DataModel")
+game:IsA("DataModel")
+workspace141:IsA("Workspace")
+workspace141:GetFullName()
+game:GetService("CollectionService")
+game:GetService("ProximityPromptService")
+game:GetService("HapticService")
+game:GetService("GamepadService")
+game:GetService("PolicyService")
+game:GetService("TextChatService")
+game:GetService("AssetService")
+game:GetService("SocialService")
+game:GetService("KeyframeSequenceProvider")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+game.Players:GetPlayers()
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+print("errored")
+game:GetService("RunService")
+game:GetService("RunService")
+game:GetService("RunService"):IsClient()
+game:FindFirstChildOfClass("Workspace")
+print(false)
+print("_G", {})
+local cb248 = function(Instance_cb248arg1, Instance_cb248arg2, Instance_cb248arg3)
+end
+local cb249 = function(Instance_cb249arg1, Instance_cb249arg2, Instance_cb249arg3)
+makefolder(Instance_cb249arg1)
+end
+local cb250 = function(Instance_cb250arg1, Instance_cb250arg2, Instance_cb250arg3)
+os.difftime(Instance_cb250arg1, Instance_cb250arg2, Instance_cb250arg3)
+end
+local cb252 = function(Instance_cb252arg1, Instance_cb252arg2, Instance_cb252arg3)
+os.time(Instance_cb252arg1, Instance_cb252arg2, Instance_cb252arg3)
+end
+local cb254 = function(Instance_cb254arg1, Instance_cb254arg2, Instance_cb254arg3)
+os.date(Instance_cb254arg1, Instance_cb254arg2, Instance_cb254arg3)
+end
+local cb256 = function(Instance_cb256arg1, Instance_cb256arg2, Instance_cb256arg3)
+end
+local cb257 = function(Instance_cb257arg1, Instance_cb257arg2, Instance_cb257arg3)
+local clone258 = clonefunction(Instance_cb257arg1)
+end
+local cb259 = function(Instance_cb259arg1, Instance_cb259arg2, Instance_cb259arg3)
+setrawmetatable(Instance_cb259arg1, Instance_cb259arg2)
+end
+local cb260 = function(Instance_cb260arg1, Instance_cb260arg2, Instance_cb260arg3)
+end
+local cb261 = function(Instance_cb261arg1, Instance_cb261arg2, Instance_cb261arg3)
+bit32.band(Instance_cb261arg1, Instance_cb261arg2, Instance_cb261arg3)
+end
+local cb263 = function(Instance_cb263arg1, Instance_cb263arg2, Instance_cb263arg3)
+bit32.extract(Instance_cb263arg1, Instance_cb263arg2, Instance_cb263arg3)
+end
+local cb265 = function(Instance_cb265arg1, Instance_cb265arg2, Instance_cb265arg3)
+bit32.bxor(Instance_cb265arg1, Instance_cb265arg2, Instance_cb265arg3)
+end
+local cb267 = function(Instance_cb267arg1, Instance_cb267arg2, Instance_cb267arg3)
+bit32.bor(Instance_cb267arg1, Instance_cb267arg2, Instance_cb267arg3)
+end
+local cb269 = function(Instance_cb269arg1, Instance_cb269arg2, Instance_cb269arg3)
+bit32.bnot(Instance_cb269arg1, Instance_cb269arg2, Instance_cb269arg3)
+end
+local cb271 = function(Instance_cb271arg1, Instance_cb271arg2, Instance_cb271arg3)
+bit32.btest(Instance_cb271arg1, Instance_cb271arg2, Instance_cb271arg3)
+end
+local cb273 = function(Instance_cb273arg1, Instance_cb273arg2, Instance_cb273arg3)
+bit32.lrotate(Instance_cb273arg1, Instance_cb273arg2, Instance_cb273arg3)
+end
+local cb275 = function(Instance_cb275arg1, Instance_cb275arg2, Instance_cb275arg3)
+bit32.countrz(Instance_cb275arg1, Instance_cb275arg2, Instance_cb275arg3)
+end
+local cb277 = function(Instance_cb277arg1, Instance_cb277arg2, Instance_cb277arg3)
+bit32.lshift(Instance_cb277arg1, Instance_cb277arg2, Instance_cb277arg3)
+end
+local cb279 = function(Instance_cb279arg1, Instance_cb279arg2, Instance_cb279arg3)
+bit32.rshift(Instance_cb279arg1, Instance_cb279arg2, Instance_cb279arg3)
+end
+local cb281 = function(Instance_cb281arg1, Instance_cb281arg2, Instance_cb281arg3)
+bit32.rrotate(Instance_cb281arg1, Instance_cb281arg2, Instance_cb281arg3)
+end
+local cb283 = function(Instance_cb283arg1, Instance_cb283arg2, Instance_cb283arg3)
+bit32.replace(Instance_cb283arg1, Instance_cb283arg2, Instance_cb283arg3)
+end
+local cb285 = function(Instance_cb285arg1, Instance_cb285arg2, Instance_cb285arg3)
+bit32.arshift(Instance_cb285arg1, Instance_cb285arg2, Instance_cb285arg3)
+end
+local cb287 = function(Instance_cb287arg1, Instance_cb287arg2, Instance_cb287arg3)
+bit32.byteswap(Instance_cb287arg1, Instance_cb287arg2, Instance_cb287arg3)
+end
+local cb289 = function(Instance_cb289arg1, Instance_cb289arg2, Instance_cb289arg3)
+bit32.countlz(Instance_cb289arg1, Instance_cb289arg2, Instance_cb289arg3)
+end
+local cb291 = function(Instance_cb291arg1, Instance_cb291arg2, Instance_cb291arg3)
+end
+local cb292 = function(Instance_cb292arg1, Instance_cb292arg2, Instance_cb292arg3)
+end
+local cb293 = function(Instance_cb293arg1, Instance_cb293arg2, Instance_cb293arg3)
+end
+local cb294 = function(Instance_cb294arg1, Instance_cb294arg2, Instance_cb294arg3)
+end
+local cb295 = function(Instance_cb295arg1, Instance_cb295arg2, Instance_cb295arg3)
+end
+local cb296 = function(Instance_cb296arg1, Instance_cb296arg2, Instance_cb296arg3)
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:4675: invalid argument #1 to 'traceback' (string expected, got table)
+end
+local cb298 = function(Instance_cb298arg1, Instance_cb298arg2, Instance_cb298arg3)
+end
+local cb299 = function(Instance_cb299arg1, Instance_cb299arg2, Instance_cb299arg3)
+end
+local cb300 = function(Instance_cb300arg1, Instance_cb300arg2, Instance_cb300arg3)
+end
+local cb301 = function(Instance_cb301arg1, Instance_cb301arg2, Instance_cb301arg3)
+end
+local cb302 = function(Instance_cb302arg1, Instance_cb302arg2, Instance_cb302arg3)
+end
+local cb303 = function(Instance_cb303arg1, Instance_cb303arg2, Instance_cb303arg3)
+end
+local cb304 = function(Instance_cb304arg1, Instance_cb304arg2, Instance_cb304arg3)
+end
+local cb305 = function(Instance_cb305arg1, Instance_cb305arg2, Instance_cb305arg3)
+    -- Error executing callback: invalid argument #1 to 'info' (function or level expected)
+end
+local cb306 = function(Instance_cb306arg1, Instance_cb306arg2, Instance_cb306arg3)
+end
+local cb307 = function(Instance_cb307arg1, Instance_cb307arg2, Instance_cb307arg3)
+end
+local cb308 = function(Instance_cb308arg1, Instance_cb308arg2, Instance_cb308arg3)
+end
+local cb309 = function(Instance_cb309arg1, Instance_cb309arg2, Instance_cb309arg3)
+end
+local cb310 = function(Instance_cb310arg1, Instance_cb310arg2, Instance_cb310arg3)
+mt311[Instance_cb310arg2] = Instance_cb310arg3
+end
+local cb313 = function(Instance_cb313arg1, Instance_cb313arg2, Instance_cb313arg3)
+consolecreate(Instance_cb313arg1, Instance_cb313arg2, Instance_cb313arg3)
+end
+local cb315 = function(Instance_cb315arg1, Instance_cb315arg2, Instance_cb315arg3)
+end
+local cb316 = function(Instance_cb316arg1, Instance_cb316arg2, Instance_cb316arg3)
+local execname317, execver318 = getexecutorname()
+end
+local cb319 = function(Instance_cb319arg1, Instance_cb319arg2, Instance_cb319arg3)
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:714: invalid argument #2 to 'tonumber' (number expected, got table)
+end
+local cb320 = function(Instance_cb320arg1, Instance_cb320arg2, Instance_cb320arg3)
+getrawmetatable(Instance_cb320arg1)
+end
+local cb322 = function(Instance_cb322arg1, Instance_cb322arg2, Instance_cb322arg3)
+lzss_decompress(Instance_cb322arg1)
+end
+local cb324 = function(Instance_cb324arg1, Instance_cb324arg2, Instance_cb324arg3)
+end
+local cb325 = function(Instance_cb325arg1, Instance_cb325arg2, Instance_cb325arg3)
+-- Skipped loadstring execution for URL/Proxy: Instance_cb325arg1
+end
+local cb326 = function(Instance_cb326arg1, Instance_cb326arg2, Instance_cb326arg3)
+end
+local cb327 = function(Instance_cb327arg1, Instance_cb327arg2, Instance_cb327arg3)
+crypt.base64decode(Instance_cb327arg1)
+end
+local cb329 = function(Instance_cb329arg1, Instance_cb329arg2, Instance_cb329arg3)
+end
+local cb330 = function(Instance_cb330arg1, Instance_cb330arg2, Instance_cb330arg3)
+end
+local cb331 = function(Instance_cb331arg1, Instance_cb331arg2, Instance_cb331arg3)
+crypt.base64decode(Instance_cb331arg1)
+end
+local cb333 = function(Instance_cb333arg1, Instance_cb333arg2, Instance_cb333arg3)
+end
+local cb334 = function(Instance_cb334arg1, Instance_cb334arg2, Instance_cb334arg3)
+crypt.base64encode(Instance_cb334arg1)
+end
+local cb336 = function(Instance_cb336arg1, Instance_cb336arg2, Instance_cb336arg3)
+crypt.base64encode(Instance_cb336arg1)
+end
+local cb338 = function(Instance_cb338arg1, Instance_cb338arg2, Instance_cb338arg3)
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:3631: invalid 'for' limit (number expected, got table)
+end
+local cb339 = function(Instance_cb339arg1, Instance_cb339arg2, Instance_cb339arg3)
+end
+local cb340 = function(text)
+end
+local cb341 = function(Instance_cb341arg1, Instance_cb341arg2, Instance_cb341arg3)
+getrenv()
+end
+local cb343 = function(Instance_cb343arg1, Instance_cb343arg2, Instance_cb343arg3)
+toclipboard(Instance_cb343arg1)
+end
+local cb344 = function(Instance_cb344arg1, Instance_cb344arg2, Instance_cb344arg3)
+newcclosure(Instance_cb344arg1)
+end
+local cb346 = function(Instance_cb346arg1, Instance_cb346arg2, Instance_cb346arg3)
+request(Instance_cb346arg1)
+end
+local cb348 = function(Instance_cb348arg1, Instance_cb348arg2, Instance_cb348arg3)
+end
+local cb349 = function(Instance_cb349arg1, Instance_cb349arg2, Instance_cb349arg3)
+coroutine.resume(Instance_cb349arg1, Instance_cb349arg2, Instance_cb349arg3)
+end
+local cb351 = function(Instance_cb351arg1, Instance_cb351arg2, Instance_cb351arg3)
+coroutine.yield(Instance_cb351arg1, Instance_cb351arg2, Instance_cb351arg3)
+end
+local cb352 = function(Instance_cb352arg1, Instance_cb352arg2, Instance_cb352arg3)
+coroutine.close(Instance_cb352arg1)
+end
+local cb353 = function(Instance_cb353arg1, Instance_cb353arg2, Instance_cb353arg3)
+end
+local cb354 = function(Instance_cb354arg1, Instance_cb354arg2, Instance_cb354arg3)
+coroutine.wrap(Instance_cb354arg1)
+end
+local cb356 = function(Instance_cb356arg1, Instance_cb356arg2, Instance_cb356arg3)
+coroutine.create(Instance_cb356arg1)
+end
+local cb358 = function(Instance_cb358arg1, Instance_cb358arg2, Instance_cb358arg3)
+end
+local cb359 = function(Instance_cb359arg1, Instance_cb359arg2, Instance_cb359arg3)
+end
+local cb360 = function(Instance_cb360arg1, Instance_cb360arg2, Instance_cb360arg3)
+end
+local cb361 = function(Instance_cb361arg1, Instance_cb361arg2, Instance_cb361arg3)
+-- Skipped loadstring execution for URL/Proxy: Instance_cb361arg1
+end
+local cb362 = function(Instance_cb362arg1, Instance_cb362arg2, Instance_cb362arg3)
+end
+local cb363 = function(Instance_cb363arg1, Instance_cb363arg2, Instance_cb363arg3)
+end
+local cb364 = function(Instance_cb364arg1, Instance_cb364arg2, Instance_cb364arg3)
+end
+local cb365 = function(Instance_cb365arg1, Instance_cb365arg2, Instance_cb365arg3)
+http.request(Instance_cb365arg1)
+end
+local cb367 = function(Instance_cb367arg1, Instance_cb367arg2, Instance_cb367arg3)
+setclipboard(Instance_cb367arg1)
+end
+local cb368 = function(Instance_cb368arg1, Instance_cb368arg2, Instance_cb368arg3)
+task.spawn(Instance_cb368arg1, Instance_cb368arg2, Instance_cb368arg3)
+end
+local cb369 = function(Instance_cb369arg1, Instance_cb369arg2, Instance_cb369arg3)
+local old370 = hookfunction(Instance_cb369arg1, Instance_cb369arg2)
+end
+local cb371 = function(Instance_cb371arg1, Instance_cb371arg2, Instance_cb371arg3)
+isfile(Instance_cb371arg1)
+end
+local cb373 = function(Instance_cb373arg1, Instance_cb373arg2, Instance_cb373arg3)
+mouse2release()
+end
+local cb374 = function(Instance_cb374arg1, Instance_cb374arg2, Instance_cb374arg3)
+print(Instance_cb374arg1, Instance_cb374arg2, Instance_cb374arg3)
+end
+local cb375 = function(Instance_cb375arg1, Instance_cb375arg2, Instance_cb375arg3)
+end
+local cb376 = function(Instance_cb376arg1, Instance_cb376arg2, Instance_cb376arg3)
+rconsoleinfo(Instance_cb376arg1)
+end
+local cb377 = function(Instance_cb377arg1, Instance_cb377arg2, Instance_cb377arg3)
+end
+local cb378 = function(Instance_cb378arg1, Instance_cb378arg2, Instance_cb378arg3)
+table.getn(Instance_cb378arg1, Instance_cb378arg2, Instance_cb378arg3)
+end
+local cb380 = function(Instance_cb380arg1, Instance_cb380arg2, Instance_cb380arg3)
+table.foreachi(Instance_cb380arg1, Instance_cb380arg2, Instance_cb380arg3)
+end
+local cb382 = function(Instance_cb382arg1, Instance_cb382arg2, Instance_cb382arg3)
+table.foreach(Instance_cb382arg1, Instance_cb382arg2, Instance_cb382arg3)
+end
+local cb384 = function(Instance_cb384arg1, Instance_cb384arg2, Instance_cb384arg3)
+table.sort(Instance_cb384arg1, Instance_cb384arg2, Instance_cb384arg3)
+end
+local cb386 = function(Instance_cb386arg1, Instance_cb386arg2, Instance_cb386arg3)
+table.unpack(Instance_cb386arg1, Instance_cb386arg2, Instance_cb386arg3)
+end
+local cb388 = function(Instance_cb388arg1, Instance_cb388arg2, Instance_cb388arg3)
+end
+local cb389 = function(Instance_cb389arg1, Instance_cb389arg2, Instance_cb389arg3)
+table.clear(Instance_cb389arg1, Instance_cb389arg2, Instance_cb389arg3)
+end
+local cb391 = function(Instance_cb391arg1, Instance_cb391arg2, Instance_cb391arg3)
+table.pack(Instance_cb391arg1, Instance_cb391arg2, Instance_cb391arg3)
+end
+local cb393 = function(Instance_cb393arg1, Instance_cb393arg2, Instance_cb393arg3)
+table.move(Instance_cb393arg1, Instance_cb393arg2, Instance_cb393arg3)
+end
+local cb395 = function(Instance_cb395arg1, Instance_cb395arg2, Instance_cb395arg3)
+table.insert(Instance_cb395arg1, Instance_cb395arg2, Instance_cb395arg3)
+end
+local cb397 = function(Instance_cb397arg1, Instance_cb397arg2, Instance_cb397arg3)
+table.create(Instance_cb397arg1, Instance_cb397arg2, Instance_cb397arg3)
+end
+local cb399 = function(Instance_cb399arg1, Instance_cb399arg2, Instance_cb399arg3)
+table.maxn(Instance_cb399arg1, Instance_cb399arg2, Instance_cb399arg3)
+end
+local cb401 = function(Instance_cb401arg1, Instance_cb401arg2, Instance_cb401arg3)
+end
+local cb402 = function(Instance_cb402arg1, Instance_cb402arg2, Instance_cb402arg3)
+table.concat(Instance_cb402arg1, Instance_cb402arg2, Instance_cb402arg3)
+end
+local cb404 = function(Instance_cb404arg1, Instance_cb404arg2, Instance_cb404arg3)
+table.remove(Instance_cb404arg1, Instance_cb404arg2, Instance_cb404arg3)
+end
+local cb406 = function(Instance_cb406arg1, Instance_cb406arg2, Instance_cb406arg3)
+table.find(Instance_cb406arg1, Instance_cb406arg2, Instance_cb406arg3)
+end
+local cb408 = function(Instance_cb408arg1, Instance_cb408arg2, Instance_cb408arg3)
+table.clone(Instance_cb408arg1, Instance_cb408arg2, Instance_cb408arg3)
+end
+local cb410 = function(Instance_cb410arg1, Instance_cb410arg2, Instance_cb410arg3)
+end
+local cb411 = function(Instance_cb411arg1, Instance_cb411arg2, Instance_cb411arg3)
+rconsolename(Instance_cb411arg1, Instance_cb411arg2, Instance_cb411arg3)
+end
+local cb413 = function(Instance_cb413arg1, Instance_cb413arg2, Instance_cb413arg3)
+isrenderobj(Instance_cb413arg1)
+end
+local cb415 = function(Instance_cb415arg1, Instance_cb415arg2, Instance_cb415arg3)
+end
+local cb416 = function(Instance_cb416arg1, Instance_cb416arg2, Instance_cb416arg3)
+end
+local cb417 = function(Instance_cb417arg1, Instance_cb417arg2, Instance_cb417arg3)
+end
+local cb418 = function(Instance_cb418arg1, Instance_cb418arg2, Instance_cb418arg3)
+end
+local cb419 = function(Instance_cb419arg1, Instance_cb419arg2, Instance_cb419arg3)
+rconsoledestroy()
+end
+local cb420 = function(Instance_cb420arg1, Instance_cb420arg2, Instance_cb420arg3)
+end
+local cb421 = function(Instance_cb421arg1, Instance_cb421arg2, Instance_cb421arg3)
+end
+local cb422 = function(Instance_cb422arg1, Instance_cb422arg2, Instance_cb422arg3)
+consolesettitle(Instance_cb422arg1, Instance_cb422arg2, Instance_cb422arg3)
+end
+local cb424 = function(Instance_cb424arg1, Instance_cb424arg2, Instance_cb424arg3)
+end
+local cb425 = function(Instance_cb425arg1, Instance_cb425arg2, Instance_cb425arg3)
+for i, v in ipairs(Instance_cb425arg1) do
+end
+local cb426 = function(Instance_cb426arg1, Instance_cb426arg2, Instance_cb426arg3)
+string.split(Instance_cb426arg1, Instance_cb426arg2, Instance_cb426arg3)
+end
+local cb428 = function(Instance_cb428arg1, Instance_cb428arg2, Instance_cb428arg3)
+string.match(Instance_cb428arg1, Instance_cb428arg2, Instance_cb428arg3)
+end
+local cb430 = function(Instance_cb430arg1, Instance_cb430arg2, Instance_cb430arg3)
+string.gmatch(Instance_cb430arg1, Instance_cb430arg2, Instance_cb430arg3)
+end
+local cb432 = function(Instance_cb432arg1, Instance_cb432arg2, Instance_cb432arg3)
+string.upper(Instance_cb432arg1, Instance_cb432arg2, Instance_cb432arg3)
+end
+local cb434 = function(Instance_cb434arg1, Instance_cb434arg2, Instance_cb434arg3)
+string.gsub(Instance_cb434arg1, Instance_cb434arg2, Instance_cb434arg3)
+end
+local cb436 = function(Instance_cb436arg1, Instance_cb436arg2, Instance_cb436arg3)
+string.format(Instance_cb436arg1, Instance_cb436arg2, Instance_cb436arg3)
+end
+local cb438 = function(Instance_cb438arg1, Instance_cb438arg2, Instance_cb438arg3)
+string.lower(Instance_cb438arg1, Instance_cb438arg2, Instance_cb438arg3)
+end
+local cb440 = function(Instance_cb440arg1, Instance_cb440arg2, Instance_cb440arg3)
+string.sub(Instance_cb440arg1, Instance_cb440arg2, Instance_cb440arg3)
+end
+local cb442 = function(Instance_cb442arg1, Instance_cb442arg2, Instance_cb442arg3)
+string.pack(Instance_cb442arg1, Instance_cb442arg2, Instance_cb442arg3)
+end
+local cb444 = function(Instance_cb444arg1, Instance_cb444arg2, Instance_cb444arg3)
+string.find(Instance_cb444arg1, Instance_cb444arg2, Instance_cb444arg3)
+end
+local cb446 = function(Instance_cb446arg1, Instance_cb446arg2, Instance_cb446arg3)
+string.char(Instance_cb446arg1, Instance_cb446arg2, Instance_cb446arg3)
+end
+local cb448 = function(Instance_cb448arg1, Instance_cb448arg2, Instance_cb448arg3)
+string.packsize(Instance_cb448arg1, Instance_cb448arg2, Instance_cb448arg3)
+end
+local cb450 = function(Instance_cb450arg1, Instance_cb450arg2, Instance_cb450arg3)
+string.reverse(Instance_cb450arg1, Instance_cb450arg2, Instance_cb450arg3)
+end
+local cb452 = function(Instance_cb452arg1, Instance_cb452arg2, Instance_cb452arg3)
+string.byte(Instance_cb452arg1, Instance_cb452arg2, Instance_cb452arg3)
+end
+local cb454 = function(Instance_cb454arg1, Instance_cb454arg2, Instance_cb454arg3)
+string.len(Instance_cb454arg1, Instance_cb454arg2, Instance_cb454arg3)
+end
+local cb456 = function(Instance_cb456arg1, Instance_cb456arg2, Instance_cb456arg3)
+string.rep(Instance_cb456arg1, Instance_cb456arg2, Instance_cb456arg3)
+end
+local cb458 = function(Instance_cb458arg1, Instance_cb458arg2, Instance_cb458arg3)
+string.unpack(Instance_cb458arg1, Instance_cb458arg2, Instance_cb458arg3)
+end
+local cb460 = function(Instance_cb460arg1, Instance_cb460arg2, Instance_cb460arg3)
+mouse1click()
+end
+local cb461 = function(Instance_cb461arg1, Instance_cb461arg2, Instance_cb461arg3)
+end
+local cb462 = function(Instance_cb462arg1, Instance_cb462arg2, Instance_cb462arg3)
+end
+local cb463 = function(Instance_cb463arg1, Instance_cb463arg2, Instance_cb463arg3)
+end
+local cb464 = function(Instance_cb464arg1, Instance_cb464arg2, Instance_cb464arg3)
+fireclickdetector(Instance_cb464arg1)
+end
+local cb465 = function(Instance_cb465arg1, Instance_cb465arg2, Instance_cb465arg3)
+end
+local cb467 = function(Instance_cb467arg1, Instance_cb467arg2, Instance_cb467arg3)
+end
+local cb469 = function(Instance_cb469arg1, Instance_cb469arg2, Instance_cb469arg3)
+setrbxclipboard(Instance_cb469arg1)
+end
+local cb470 = function(Instance_cb470arg1, Instance_cb470arg2, Instance_cb470arg3)
+make_readonly(Instance_cb470arg1)
+end
+local cb471 = function(Instance_cb471arg1, Instance_cb471arg2, Instance_cb471arg3)
+end
+local cb472 = function(Instance_cb472arg1, Instance_cb472arg2, Instance_cb472arg3)
+end
+local cb473 = function(Instance_cb473arg1, Instance_cb473arg2, Instance_cb473arg3)
+    -- Error executing callback: invalid argument #1 to 'traceback' (string expected, got table)
+end
+local cb474 = function(Instance_cb474arg1, Instance_cb474arg2, Instance_cb474arg3)
+end
+local cb475 = function(Instance_cb475arg1, Instance_cb475arg2, Instance_cb475arg3)
+end
+local cb476 = function(Instance_cb476arg1, Instance_cb476arg2, Instance_cb476arg3)
+end
+local cb477 = function(Instance_cb477arg1, Instance_cb477arg2, Instance_cb477arg3)
+keypress(Instance_cb477arg1)
+end
+local cb478 = function(Instance_cb478arg1, Instance_cb478arg2, Instance_cb478arg3)
+math.log(Instance_cb478arg1, Instance_cb478arg2, Instance_cb478arg3)
+end
+local cb480 = function(Instance_cb480arg1, Instance_cb480arg2, Instance_cb480arg3)
+math.ldexp(Instance_cb480arg1, Instance_cb480arg2, Instance_cb480arg3)
+end
+local cb482 = function(Instance_cb482arg1, Instance_cb482arg2, Instance_cb482arg3)
+math.deg(Instance_cb482arg1, Instance_cb482arg2, Instance_cb482arg3)
+end
+local cb484 = function(Instance_cb484arg1, Instance_cb484arg2, Instance_cb484arg3)
+math.cosh(Instance_cb484arg1, Instance_cb484arg2, Instance_cb484arg3)
+end
+local cb486 = function(Instance_cb486arg1, Instance_cb486arg2, Instance_cb486arg3)
+math.round(Instance_cb486arg1)
+end
+local cb488 = function(Instance_cb488arg1, Instance_cb488arg2, Instance_cb488arg3)
+math.random(Instance_cb488arg1, Instance_cb488arg2, Instance_cb488arg3)
+end
+local cb490 = function(Instance_cb490arg1, Instance_cb490arg2, Instance_cb490arg3)
+math.frexp(Instance_cb490arg1, Instance_cb490arg2, Instance_cb490arg3)
+end
+local cb492 = function(Instance_cb492arg1, Instance_cb492arg2, Instance_cb492arg3)
+math.floor(Instance_cb492arg1, Instance_cb492arg2, Instance_cb492arg3)
+end
+local cb494 = function(Instance_cb494arg1, Instance_cb494arg2, Instance_cb494arg3)
+math.sqrt(Instance_cb494arg1, Instance_cb494arg2, Instance_cb494arg3)
+end
+local cb496 = function(Instance_cb496arg1, Instance_cb496arg2, Instance_cb496arg3)
+math.modf(Instance_cb496arg1, Instance_cb496arg2, Instance_cb496arg3)
+end
+local cb498 = function(Instance_cb498arg1, Instance_cb498arg2, Instance_cb498arg3)
+math.pow(Instance_cb498arg1, Instance_cb498arg2, Instance_cb498arg3)
+end
+local cb500 = function(Instance_cb500arg1, Instance_cb500arg2, Instance_cb500arg3)
+math.isnan(Instance_cb500arg1, Instance_cb500arg2, Instance_cb500arg3)
+end
+local cb502 = function(Instance_cb502arg1, Instance_cb502arg2, Instance_cb502arg3)
+math.exp(Instance_cb502arg1, Instance_cb502arg2, Instance_cb502arg3)
+end
+local cb504 = function(Instance_cb504arg1, Instance_cb504arg2, Instance_cb504arg3)
+math.max(Instance_cb504arg1, Instance_cb504arg2, Instance_cb504arg3)
+end
+local cb506 = function(Instance_cb506arg1, Instance_cb506arg2, Instance_cb506arg3)
+math.tanh(Instance_cb506arg1, Instance_cb506arg2, Instance_cb506arg3)
+end
+local cb508 = function(Instance_cb508arg1, Instance_cb508arg2, Instance_cb508arg3)
+math.log10(Instance_cb508arg1, Instance_cb508arg2, Instance_cb508arg3)
+end
+local cb510 = function(Instance_cb510arg1, Instance_cb510arg2, Instance_cb510arg3)
+math.atan2(Instance_cb510arg1, Instance_cb510arg2, Instance_cb510arg3)
+end
+local cb512 = function(Instance_cb512arg1, Instance_cb512arg2, Instance_cb512arg3)
+math.tan(Instance_cb512arg1, Instance_cb512arg2, Instance_cb512arg3)
+end
+local cb514 = function(Instance_cb514arg1, Instance_cb514arg2, Instance_cb514arg3)
+math.cos(Instance_cb514arg1, Instance_cb514arg2, Instance_cb514arg3)
+end
+local cb516 = function(Instance_cb516arg1, Instance_cb516arg2, Instance_cb516arg3)
+math.rad(Instance_cb516arg1, Instance_cb516arg2, Instance_cb516arg3)
+end
+local cb518 = function(Instance_cb518arg1, Instance_cb518arg2, Instance_cb518arg3)
+math.atan(Instance_cb518arg1, Instance_cb518arg2, Instance_cb518arg3)
+end
+local cb520 = function(Instance_cb520arg1, Instance_cb520arg2, Instance_cb520arg3)
+math.randomseed(Instance_cb520arg1, Instance_cb520arg2, Instance_cb520arg3)
+end
+local cb522 = function(Instance_cb522arg1, Instance_cb522arg2, Instance_cb522arg3)
+math.min(Instance_cb522arg1, Instance_cb522arg2, Instance_cb522arg3)
+end
+local cb524 = function(Instance_cb524arg1, Instance_cb524arg2, Instance_cb524arg3)
+math.ceil(Instance_cb524arg1, Instance_cb524arg2, Instance_cb524arg3)
+end
+local cb526 = function(Instance_cb526arg1, Instance_cb526arg2, Instance_cb526arg3)
+math.clamp(Instance_cb526arg1, Instance_cb526arg2, Instance_cb526arg3)
+end
+local cb528 = function(Instance_cb528arg1, Instance_cb528arg2, Instance_cb528arg3)
+math.noise(Instance_cb528arg1, Instance_cb528arg2, Instance_cb528arg3)
+end
+local cb530 = function(Instance_cb530arg1, Instance_cb530arg2, Instance_cb530arg3)
+math.abs(Instance_cb530arg1, Instance_cb530arg2, Instance_cb530arg3)
+end
+local cb532 = function(Instance_cb532arg1, Instance_cb532arg2, Instance_cb532arg3)
+math.sinh(Instance_cb532arg1, Instance_cb532arg2, Instance_cb532arg3)
+end
+local cb534 = function(Instance_cb534arg1, Instance_cb534arg2, Instance_cb534arg3)
+math.asin(Instance_cb534arg1, Instance_cb534arg2, Instance_cb534arg3)
+end
+local cb536 = function(Instance_cb536arg1, Instance_cb536arg2, Instance_cb536arg3)
+math.isfinite(Instance_cb536arg1, Instance_cb536arg2, Instance_cb536arg3)
+end
+local cb538 = function(Instance_cb538arg1, Instance_cb538arg2, Instance_cb538arg3)
+math.acos(Instance_cb538arg1, Instance_cb538arg2, Instance_cb538arg3)
+end
+local cb540 = function(Instance_cb540arg1, Instance_cb540arg2, Instance_cb540arg3)
+math.fmod(Instance_cb540arg1, Instance_cb540arg2, Instance_cb540arg3)
+end
+local cb542 = function(Instance_cb542arg1, Instance_cb542arg2, Instance_cb542arg3)
+math.map(Instance_cb542arg1, Instance_cb542arg2, Instance_cb542arg3)
+end
+local cb544 = function(Instance_cb544arg1, Instance_cb544arg2, Instance_cb544arg3)
+math.sign(Instance_cb544arg1, Instance_cb544arg2, Instance_cb544arg3)
+end
+local cb546 = function(Instance_cb546arg1, Instance_cb546arg2, Instance_cb546arg3)
+math.isinf(Instance_cb546arg1, Instance_cb546arg2, Instance_cb546arg3)
+end
+local cb548 = function(Instance_cb548arg1, Instance_cb548arg2, Instance_cb548arg3)
+math.sin(Instance_cb548arg1, Instance_cb548arg2, Instance_cb548arg3)
+end
+local cb550 = function(Instance_cb550arg1, Instance_cb550arg2, Instance_cb550arg3)
+math.lerp(Instance_cb550arg1, Instance_cb550arg2, Instance_cb550arg3)
+end
+local cb552 = function(Instance_cb552arg1, Instance_cb552arg2, Instance_cb552arg3)
+consoleclear(Instance_cb552arg1, Instance_cb552arg2, Instance_cb552arg3)
+end
+local cb554 = function(Instance_cb554arg1, Instance_cb554arg2, Instance_cb554arg3)
+pcall(Instance_cb554arg1, Instance_cb554arg2, Instance_cb554arg3)
+end
+local cb556 = function(Instance_cb556arg1, Instance_cb556arg2, Instance_cb556arg3)
+mousemoveabs(Instance_cb556arg1, Instance_cb556arg2)
+end
+local cb557 = function(Instance_cb557arg1, Instance_cb557arg2, Instance_cb557arg3)
+mousemoverel(Instance_cb557arg1, Instance_cb557arg2)
+end
+local cb558 = function(Instance_cb558arg1, Instance_cb558arg2, Instance_cb558arg3)
+end
+local cb559 = function(Instance_cb559arg1, Instance_cb559arg2, Instance_cb559arg3)
+mousescroll(Instance_cb559arg1)
+end
+local cb560 = function(Instance_cb560arg1, Instance_cb560arg2, Instance_cb560arg3)
+mouse2press()
+end
+local cb561 = function(Instance_cb561arg1, Instance_cb561arg2, Instance_cb561arg3)
+WebSocket.connect(Instance_cb561arg1)
+end
+local cb563 = function(Instance_cb563arg1, Instance_cb563arg2, Instance_cb563arg3)
+mouse1release()
+end
+local cb564 = function(Instance_cb564arg1, Instance_cb564arg2, Instance_cb564arg3)
+make_writeable(Instance_cb564arg1)
+end
+local cb565 = function(Instance_cb565arg1, Instance_cb565arg2, Instance_cb565arg3)
+isreadonly(Instance_cb565arg1)
+end
+local cb567 = function(Instance_cb567arg1, Instance_cb567arg2, Instance_cb567arg3)
+mouse1press()
+end
+local cb568 = function(Instance_cb568arg1, Instance_cb568arg2, Instance_cb568arg3)
+mouse2click()
+end
+local cb569 = function(Instance_cb569arg1, Instance_cb569arg2, Instance_cb569arg3)
+cleardrawcache()
+end
+local cb570 = function(Instance_cb570arg1, Instance_cb570arg2, Instance_cb570arg3)
+end
+local cb571 = function(Instance_cb571arg1, Instance_cb571arg2, Instance_cb571arg3)
+end
+local cb572 = function(Instance_cb572arg1, Instance_cb572arg2, Instance_cb572arg3)
+end
+local cb573 = function(Instance_cb573arg1, Instance_cb573arg2, Instance_cb573arg3)
+loadfile(Instance_cb573arg1)
+end
+local cb575 = function(Instance_cb575arg1, Instance_cb575arg2, Instance_cb575arg3)
+end
+local cb576 = function(Instance_cb576arg1, Instance_cb576arg2, Instance_cb576arg3)
+end
+local cb577 = function(Instance_cb577arg1, Instance_cb577arg2, Instance_cb577arg3)
+warn(Instance_cb577arg1, Instance_cb577arg2, Instance_cb577arg3)
+end
+local cb578 = function(text)
+end
+local cb579 = function(Instance_cb579arg1, Instance_cb579arg2, Instance_cb579arg3)
+end
+local cb583 = function(Instance_cb583arg1, Instance_cb583arg2, Instance_cb583arg3)
+end
+local cb584 = function(text)
+end
+local cb585 = function(Instance_cb585arg1, Instance_cb585arg2, Instance_cb585arg3)
+end
+local cb586 = function(Instance_cb586arg1, Instance_cb586arg2, Instance_cb586arg3)
+end
+local cb587 = function(Instance_cb587arg1, Instance_cb587arg2, Instance_cb587arg3)
+end
+local cb589 = function(Instance_cb589arg1, Instance_cb589arg2, Instance_cb589arg3)
+end
+local cb590 = function(Instance_cb590arg1, Instance_cb590arg2, Instance_cb590arg3)
+end
+local cb591 = function(Instance_cb591arg1, Instance_cb591arg2, Instance_cb591arg3)
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:4043: invalid argument #1 to 'floor' (number expected, got table)
+end
+local cb593 = function(Instance_cb593arg1, Instance_cb593arg2, Instance_cb593arg3)
+end
+local cb594 = function(Instance_cb594arg1, Instance_cb594arg2, Instance_cb594arg3)
+end
+local cb595 = function(Instance_cb595arg1, Instance_cb595arg2, Instance_cb595arg3)
+end
+local cb596 = function(Instance_cb596arg1, Instance_cb596arg2, Instance_cb596arg3)
+end
+local cb599 = function(Instance_cb599arg1, Instance_cb599arg2, Instance_cb599arg3)
+end
+local cb600 = function(Instance_cb600arg1, Instance_cb600arg2, Instance_cb600arg3)
+task.defer(Instance_cb600arg1, Instance_cb600arg2, Instance_cb600arg3)
+end
+local cb601 = function(Instance_cb601arg1, Instance_cb601arg2, Instance_cb601arg3)
+end
+local cb602 = function(Instance_cb602arg1, Instance_cb602arg2, Instance_cb602arg3)
+end
+local cb603 = function(Instance_cb603arg1, Instance_cb603arg2, Instance_cb603arg3)
+task.wait(Instance_cb603arg1)
+end
+local cb605 = function(Instance_cb605arg1, Instance_cb605arg2, Instance_cb605arg3)
+end
+local cb606 = function(Instance_cb606arg1, Instance_cb606arg2, Instance_cb606arg3)
+task.delay(Instance_cb606arg1, Instance_cb606arg2, Instance_cb606arg3)
+end
+local cb607 = function(Instance_cb607arg1, Instance_cb607arg2, Instance_cb607arg3)
+task.spawn(Instance_cb607arg1, Instance_cb607arg2, Instance_cb607arg3)
+end
+local cb608 = function(Instance_cb608arg1, Instance_cb608arg2, Instance_cb608arg3)
+    -- Error executing callback: invalid argument #1 to 'getfenv' (number, function or thread expected)
+end
+local cb609 = function(Instance_cb609arg1, Instance_cb609arg2, Instance_cb609arg3)
+end
+local cb610 = function(Instance_cb610arg1, Instance_cb610arg2, Instance_cb610arg3)
+firetouchinterest(Instance_cb610arg1, Instance_cb610arg2, Instance_cb610arg3)
+end
+local cb611 = function(Instance_cb611arg1, Instance_cb611arg2, Instance_cb611arg3)
+isfolder(Instance_cb611arg1)
+end
+local cb613 = function(Instance_cb613arg1, Instance_cb613arg2, Instance_cb613arg3)
+setreadonly(Instance_cb613arg1, Instance_cb613arg2)
+end
+local cb614 = function(Instance_cb614arg1, Instance_cb614arg2, Instance_cb614arg3)
+end
+local cb615 = function(Instance_cb615arg1, Instance_cb615arg2, Instance_cb615arg3)
+end
+local cb616 = function(Instance_cb616arg1, Instance_cb616arg2, Instance_cb616arg3)
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:1546: table expected, got userdata
+end
+local cb617 = function(Instance_cb617arg1, Instance_cb617arg2, Instance_cb617arg3)
+task.wait(Instance_cb617arg1)
+end
+local cb619 = function(Instance_cb619arg1, Instance_cb619arg2, Instance_cb619arg3)
+http_request(Instance_cb619arg1)
+end
+local cb621 = function(Instance_cb621arg1, Instance_cb621arg2, Instance_cb621arg3)
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:3525: Drawing object expected
+end
+local cb622 = function(Instance_cb622arg1, Instance_cb622arg2, Instance_cb622arg3)
+end
+local cb623 = function(Instance_cb623arg1, Instance_cb623arg2, Instance_cb623arg3)
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:1913: invalid argument #1 to 'min' (number expected, got table)
+end
+local cb627 = function(Instance_cb627arg1, Instance_cb627arg2, Instance_cb627arg3)
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:1891: invalid argument #1 to 'clamp' (number expected, got table)
+end
+local cb629 = function(Instance_cb629arg1, Instance_cb629arg2, Instance_cb629arg3)
+end
+local cb633 = function(Instance_cb633arg1, Instance_cb633arg2, Instance_cb633arg3)
+end
+local cb634 = function(Instance_cb634arg1, Instance_cb634arg2, Instance_cb634arg3)
+end
+local cb635 = function(Instance_cb635arg1, Instance_cb635arg2, Instance_cb635arg3)
+dict_substitute(Instance_cb635arg1, Instance_cb635arg2)
+end
+local cb637 = function(Instance_cb637arg1, Instance_cb637arg2, Instance_cb637arg3)
+rconsoleprint(Instance_cb637arg1)
+end
+local cb638 = function(Instance_cb638arg1, Instance_cb638arg2, Instance_cb638arg3)
+end
+local cb639 = function(Instance_cb639arg1, Instance_cb639arg2, Instance_cb639arg3)
+end
+local cb640 = function(Instance_cb640arg1, Instance_cb640arg2, Instance_cb640arg3)
+end
+local cb641 = function(Instance_cb641arg1, Instance_cb641arg2, Instance_cb641arg3)
+end
+local cb642 = function(Instance_cb642arg1, Instance_cb642arg2, Instance_cb642arg3)
+end
+local cb643 = function(Instance_cb643arg1, Instance_cb643arg2, Instance_cb643arg3)
+end
+local cb644 = function(Instance_cb644arg1, Instance_cb644arg2, Instance_cb644arg3)
+Instance_cb644arg1:gsub("^compressed_", "")
+end
+local cb647 = function(Instance_cb647arg1, Instance_cb647arg2, Instance_cb647arg3)
+for k, v in pairs(Instance_cb647arg1) do
+end
+local cb648 = function(Instance_cb648arg1, Instance_cb648arg2, Instance_cb648arg3)
+isnetworkowner(Instance_cb648arg1)
+end
+local cb650 = function(Instance_cb650arg1, Instance_cb650arg2, Instance_cb650arg3)
+end
+local cb652 = function(Instance_cb652arg1, Instance_cb652arg2, Instance_cb652arg3)
+Drawing.new(Instance_cb652arg1)
+end
+local cb654 = function(Instance_cb654arg1, Instance_cb654arg2, Instance_cb654arg3)
+delfile(Instance_cb654arg1)
+end
+local cb655 = function(Instance_cb655arg1, Instance_cb655arg2, Instance_cb655arg3)
+local execname656, execver657 = identifyexecutor()
+end
+local cb658 = function(Instance_cb658arg1, Instance_cb658arg2, Instance_cb658arg3)
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:3514: Drawing object expected
+end
+local cb659 = function(Instance_cb659arg1, Instance_cb659arg2, Instance_cb659arg3)
+readfile(Instance_cb659arg1)
+end
+local cb661 = function(Instance_cb661arg1, Instance_cb661arg2, Instance_cb661arg3)
+game:GetService("CoreGui")
+end
+local cb663 = function(Instance_cb663arg1, Instance_cb663arg2, Instance_cb663arg3)
+buffer.readf64(Instance_cb663arg1, Instance_cb663arg2, Instance_cb663arg3)
+end
+local cb665 = function(Instance_cb665arg1, Instance_cb665arg2, Instance_cb665arg3)
+buffer.readu32(Instance_cb665arg1, Instance_cb665arg2, Instance_cb665arg3)
+end
+local cb667 = function(Instance_cb667arg1, Instance_cb667arg2, Instance_cb667arg3)
+buffer.writeu32(Instance_cb667arg1, Instance_cb667arg2, Instance_cb667arg3)
+end
+local cb669 = function(Instance_cb669arg1, Instance_cb669arg2, Instance_cb669arg3)
+buffer.readi8(Instance_cb669arg1, Instance_cb669arg2, Instance_cb669arg3)
+end
+local cb671 = function(Instance_cb671arg1, Instance_cb671arg2, Instance_cb671arg3)
+buffer.readu16(Instance_cb671arg1, Instance_cb671arg2, Instance_cb671arg3)
+end
+local cb673 = function(Instance_cb673arg1, Instance_cb673arg2, Instance_cb673arg3)
+buffer.copy(Instance_cb673arg1, Instance_cb673arg2, Instance_cb673arg3)
+end
+local cb675 = function(Instance_cb675arg1, Instance_cb675arg2, Instance_cb675arg3)
+buffer.readu8(Instance_cb675arg1, Instance_cb675arg2, Instance_cb675arg3)
+end
+local cb677 = function(Instance_cb677arg1, Instance_cb677arg2, Instance_cb677arg3)
+buffer.readf32(Instance_cb677arg1, Instance_cb677arg2, Instance_cb677arg3)
+end
+local cb679 = function(Instance_cb679arg1, Instance_cb679arg2, Instance_cb679arg3)
+buffer.tostring(Instance_cb679arg1, Instance_cb679arg2, Instance_cb679arg3)
+end
+local cb681 = function(Instance_cb681arg1, Instance_cb681arg2, Instance_cb681arg3)
+buffer.writei32(Instance_cb681arg1, Instance_cb681arg2, Instance_cb681arg3)
+end
+local cb683 = function(Instance_cb683arg1, Instance_cb683arg2, Instance_cb683arg3)
+buffer.writei16(Instance_cb683arg1, Instance_cb683arg2, Instance_cb683arg3)
+end
+local cb685 = function(Instance_cb685arg1, Instance_cb685arg2, Instance_cb685arg3)
+buffer.writeu16(Instance_cb685arg1, Instance_cb685arg2, Instance_cb685arg3)
+end
+local cb687 = function(Instance_cb687arg1, Instance_cb687arg2, Instance_cb687arg3)
+buffer.fromstring(Instance_cb687arg1, Instance_cb687arg2, Instance_cb687arg3)
+end
+local cb689 = function(Instance_cb689arg1, Instance_cb689arg2, Instance_cb689arg3)
+buffer.writebits(Instance_cb689arg1, Instance_cb689arg2, Instance_cb689arg3)
+end
+local cb691 = function(Instance_cb691arg1, Instance_cb691arg2, Instance_cb691arg3)
+buffer.readi32(Instance_cb691arg1, Instance_cb691arg2, Instance_cb691arg3)
+end
+local cb693 = function(Instance_cb693arg1, Instance_cb693arg2, Instance_cb693arg3)
+buffer.create(Instance_cb693arg1, Instance_cb693arg2, Instance_cb693arg3)
+end
+local cb695 = function(Instance_cb695arg1, Instance_cb695arg2, Instance_cb695arg3)
+buffer.writeinteger(Instance_cb695arg1, Instance_cb695arg2, Instance_cb695arg3)
+end
+local cb697 = function(Instance_cb697arg1, Instance_cb697arg2, Instance_cb697arg3)
+buffer.writeu8(Instance_cb697arg1, Instance_cb697arg2, Instance_cb697arg3)
+end
+local cb699 = function(Instance_cb699arg1, Instance_cb699arg2, Instance_cb699arg3)
+buffer.writef32(Instance_cb699arg1, Instance_cb699arg2, Instance_cb699arg3)
+end
+local cb701 = function(Instance_cb701arg1, Instance_cb701arg2, Instance_cb701arg3)
+buffer.writestring(Instance_cb701arg1, Instance_cb701arg2, Instance_cb701arg3)
+end
+local cb703 = function(Instance_cb703arg1, Instance_cb703arg2, Instance_cb703arg3)
+buffer.writei8(Instance_cb703arg1, Instance_cb703arg2, Instance_cb703arg3)
+end
+local cb705 = function(Instance_cb705arg1, Instance_cb705arg2, Instance_cb705arg3)
+buffer.readbits(Instance_cb705arg1, Instance_cb705arg2, Instance_cb705arg3)
+end
+local cb707 = function(Instance_cb707arg1, Instance_cb707arg2, Instance_cb707arg3)
+buffer.readi16(Instance_cb707arg1, Instance_cb707arg2, Instance_cb707arg3)
+end
+local cb709 = function(Instance_cb709arg1, Instance_cb709arg2, Instance_cb709arg3)
+buffer.writef64(Instance_cb709arg1, Instance_cb709arg2, Instance_cb709arg3)
+end
+local cb711 = function(Instance_cb711arg1, Instance_cb711arg2, Instance_cb711arg3)
+buffer.len(Instance_cb711arg1, Instance_cb711arg2, Instance_cb711arg3)
+end
+local cb713 = function(Instance_cb713arg1, Instance_cb713arg2, Instance_cb713arg3)
+buffer.fill(Instance_cb713arg1, Instance_cb713arg2, Instance_cb713arg3)
+end
+local cb715 = function(Instance_cb715arg1, Instance_cb715arg2, Instance_cb715arg3)
+buffer.readstring(Instance_cb715arg1, Instance_cb715arg2, Instance_cb715arg3)
+end
+local cb717 = function(Instance_cb717arg1, Instance_cb717arg2, Instance_cb717arg3)
+buffer.readinteger(Instance_cb717arg1, Instance_cb717arg2, Instance_cb717arg3)
+end
+local cb719 = function(Instance_cb719arg1, Instance_cb719arg2, Instance_cb719arg3)
+end
+local cb720 = function(Instance_cb720arg1, Instance_cb720arg2, Instance_cb720arg3)
+end
+local cb721 = function(state)
+    -- Trace with state = true
+    -- Trace with state = false
+end
+local cb722 = function(Instance_cb722arg1, Instance_cb722arg2, Instance_cb722arg3)
+rconsoletitle(Instance_cb722arg1)
+end
+local cb723 = function(Instance_cb723arg1, Instance_cb723arg2, Instance_cb723arg3)
+end
+local cb724 = function(Instance_cb724arg1, Instance_cb724arg2, Instance_cb724arg3)
+end
+local cb725 = function(Instance_cb725arg1, Instance_cb725arg2, Instance_cb725arg3)
+end
+local cb726 = function(Instance_cb726arg1, Instance_cb726arg2, Instance_cb726arg3)
+consoleprint(Instance_cb726arg1, Instance_cb726arg2, Instance_cb726arg3)
+end
+local cb728 = function(Instance_cb728arg1, Instance_cb728arg2, Instance_cb728arg3)
+end
+local cb729 = function(Instance_cb729arg1, Instance_cb729arg2, Instance_cb729arg3)
+local old730 = hookfunction(Instance_cb729arg1, Instance_cb729arg2)
+end
+local cb731 = function(Instance_cb731arg1, Instance_cb731arg2, Instance_cb731arg3)
+task.delay(Instance_cb731arg1, Instance_cb731arg2, Instance_cb731arg3)
+end
+local cb732 = function(Instance_cb732arg1, Instance_cb732arg2, Instance_cb732arg3)
+getregistry()
+end
+local cb734 = function(Instance_cb734arg1, Instance_cb734arg2, Instance_cb734arg3)
+consoledestroy(Instance_cb734arg1, Instance_cb734arg2, Instance_cb734arg3)
+end
+local cb736 = function(Instance_cb736arg1, Instance_cb736arg2, Instance_cb736arg3)
+xpcall(Instance_cb736arg1, Instance_cb736arg2, Instance_cb736arg3)
+end
+local cb738 = function(Instance_cb738arg1, Instance_cb738arg2, Instance_cb738arg3)
+delfolder(Instance_cb738arg1)
+end
+local cb739 = function(Instance_cb739arg1, Instance_cb739arg2, Instance_cb739arg3)
+getgenv()
+end
+local cb741 = function(Instance_cb741arg1, Instance_cb741arg2, Instance_cb741arg3)
+keyrelease(Instance_cb741arg1)
+end
+local cb742 = function(Instance_cb742arg1, Instance_cb742arg2, Instance_cb742arg3)
+end
+local cb743 = function(text)
+consoleinput("text_input", Instance_cb743arg2, Instance_cb743arg3)
+end
+local cb745 = function(Instance_cb745arg1, Instance_cb745arg2, Instance_cb745arg3)
+-- #Instance_cb745arg1.Source
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:3458: invalid argument #1 to 'byte' (string expected, got table)
+end
+local cb747 = function(Instance_cb747arg1, Instance_cb747arg2, Instance_cb747arg3)
+unpack(Instance_cb747arg1)
+end
+local cb749 = function(Instance_cb749arg1, Instance_cb749arg2, Instance_cb749arg3)
+end
+local cb750 = function(Instance_cb750arg1, Instance_cb750arg2, Instance_cb750arg3)
+rconsoleclear()
+end
+local cb751 = function(Instance_cb751arg1, Instance_cb751arg2, Instance_cb751arg3)
+require(Instance_cb751arg1)
+end
+local cb754 = function(Instance_cb754arg1, Instance_cb754arg2, Instance_cb754arg3)
+end
+local cb755 = function(Instance_cb755arg1, Instance_cb755arg2, Instance_cb755arg3)
+setmetatable(Instance_cb755arg1, Instance_cb755arg2)
+end
+local cb757 = function(Instance_cb757arg1, Instance_cb757arg2, Instance_cb757arg3)
+for k, v in next, Instance_cb757arg1 do
+end
+local cb760 = function(Instance_cb760arg1, Instance_cb760arg2, Instance_cb760arg3)
+fireproximityprompt(Instance_cb760arg1)
+end
+local cb761 = function(Instance_cb761arg1, Instance_cb761arg2, Instance_cb761arg3)
+rconsoleerr(Instance_cb761arg1)
+end
+local cb762 = function(Instance_cb762arg1, Instance_cb762arg2, Instance_cb762arg3)
+end
+local cb764 = function(Instance_cb764arg1, Instance_cb764arg2, Instance_cb764arg3)
+end
+local cb765 = function(Instance_cb765arg1, Instance_cb765arg2, Instance_cb765arg3)
+islclosure(Instance_cb765arg1)
+end
+local cb767 = function(Instance_cb767arg1, Instance_cb767arg2, Instance_cb767arg3)
+rconsolewarn(Instance_cb767arg1)
+end
+local cb768 = function(Instance_cb768arg1, Instance_cb768arg2, Instance_cb768arg3)
+end
+local cb770 = function(Instance_cb770arg1, Instance_cb770arg2, Instance_cb770arg3)
+end
+local cb771 = function(Instance_cb771arg1, Instance_cb771arg2, Instance_cb771arg3)
+local v775 = "inst_" .. Instance_cb771arg1.gsub("inst_" .. Instance_cb771arg1, "[^%a%d]", "")
+v775:sub(1, 1)["match"](v775:sub(1, 1), "^%a")
+local v786 = "local " .. v775 .. 779 .. " = Instance.new(Instance_cb771arg1)"["gsub"]("local " .. v775 .. 779 .. " = Instance.new(Instance_cb771arg1)", "^%s+", "")["gsub"]("local " .. v775 .. 779 .. " = Instance.new(Instance_cb771arg1)"["gsub"]("local " .. v775 .. 779 .. " = Instance.new(Instance_cb771arg1)", "^%s+", ""), "%s+$", "")
+v786:find("^game%.Players%s*=")
+end
+local cb789 = function(Instance_cb789arg1, Instance_cb789arg2, Instance_cb789arg3)
+    -- Error executing callback: invalid argument #1 to 'newproxy' (nil or boolean expected, got table)
+end
+local cb790 = function(option)
+listfiles("option_selected")
+end
+local cb792 = function(Instance_cb792arg1, Instance_cb792arg2, Instance_cb792arg3)
+end
+local cb793 = function(Instance_cb793arg1, Instance_cb793arg2, Instance_cb793arg3)
+utf8.offset(Instance_cb793arg1, Instance_cb793arg2, Instance_cb793arg3)
+end
+local cb795 = function(Instance_cb795arg1, Instance_cb795arg2, Instance_cb795arg3)
+utf8.codepoint(Instance_cb795arg1, Instance_cb795arg2, Instance_cb795arg3)
+end
+local cb797 = function(Instance_cb797arg1, Instance_cb797arg2, Instance_cb797arg3)
+end
+local cb798 = function(Instance_cb798arg1, Instance_cb798arg2, Instance_cb798arg3)
+utf8.char(Instance_cb798arg1, Instance_cb798arg2, Instance_cb798arg3)
+end
+local cb800 = function(Instance_cb800arg1, Instance_cb800arg2, Instance_cb800arg3)
+utf8.codes(Instance_cb800arg1, Instance_cb800arg2, Instance_cb800arg3)
+end
+local cb802 = function(Instance_cb802arg1, Instance_cb802arg2, Instance_cb802arg3)
+utf8.len(Instance_cb802arg1, Instance_cb802arg2, Instance_cb802arg3)
+end
+local cb804 = function(Instance_cb804arg1, Instance_cb804arg2, Instance_cb804arg3)
+end
+local cb805 = function(Instance_cb805arg1, Instance_cb805arg2, Instance_cb805arg3)
+end
+local cb806 = function(Instance_cb806arg1, Instance_cb806arg2, Instance_cb806arg3)
+appendfile(Instance_cb806arg1, Instance_cb806arg2)
+end
+local cb807 = function(Instance_cb807arg1, Instance_cb807arg2, Instance_cb807arg3)
+end
+local cb808 = function(Instance_cb808arg1, Instance_cb808arg2, Instance_cb808arg3)
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:1521: table expected, got userdata
+end
+local cb809 = function(Instance_cb809arg1, Instance_cb809arg2, Instance_cb809arg3)
+end
+local cb810 = function(Instance_cb810arg1, Instance_cb810arg2, Instance_cb810arg3)
+getgc(true)
+end
+local cb812 = function(Instance_cb812arg1, Instance_cb812arg2, Instance_cb812arg3)
+writefile(Instance_cb812arg1, Instance_cb812arg2)
+end
+local cb813 = function(Instance_cb813arg1, Instance_cb813arg2, Instance_cb813arg3)
+iscclosure(Instance_cb813arg1)
+end
+local cb815 = function(Instance_cb815arg1, Instance_cb815arg2, Instance_cb815arg3)
+setfpscap(Instance_cb815arg1)
+end
+local cb816 = function(Instance_cb816arg1, Instance_cb816arg2, Instance_cb816arg3)
+end
+local cb817 = function(Instance_cb817arg1, Instance_cb817arg2, Instance_cb817arg3)
+crypt.base64encode(Instance_cb817arg1)
+end
+local cb819 = function(Instance_cb819arg1, Instance_cb819arg2, Instance_cb819arg3)
+end
+local cb820 = function(Instance_cb820arg1, Instance_cb820arg2, Instance_cb820arg3)
+crypt.base64decode(Instance_cb820arg1)
+end
+local cb822 = function(Instance_cb822arg1, Instance_cb822arg2, Instance_cb822arg3)
+end
+local cb823 = function(Instance_cb823arg1, Instance_cb823arg2, Instance_cb823arg3)
+syn.queue_on_teleport(Instance_cb823arg1)
+end
+local cb824 = function(Instance_cb824arg1, Instance_cb824arg2, Instance_cb824arg3)
+end
+local cb825 = function(Instance_cb825arg1, Instance_cb825arg2, Instance_cb825arg3)
+setclipboard(Instance_cb825arg1, Instance_cb825arg2, Instance_cb825arg3)
+end
+local cb827 = function(Instance_cb827arg1, Instance_cb827arg2, Instance_cb827arg3)
+syn.toast_notification(Instance_cb827arg1)
+end
+local cb828 = function(Instance_cb828arg1, Instance_cb828arg2, Instance_cb828arg3)
+end
+local cb829 = function(Instance_cb829arg1, Instance_cb829arg2, Instance_cb829arg3)
+syn.request(Instance_cb829arg1)
+end
+local cb831 = function(Instance_cb831arg1, Instance_cb831arg2, Instance_cb831arg3)
+syn.protect_gui(Instance_cb831arg1)
+end
+local cb832 = function(Instance_cb832arg1, Instance_cb832arg2, Instance_cb832arg3)
+syn.unprotect_gui(Instance_cb832arg1)
+end
+local cb833 = function(Instance_cb833arg1, Instance_cb833arg2, Instance_cb833arg3)
+WebSocket.connect(Instance_cb833arg1)
+end
+local cb835 = function(Instance_cb835arg1, Instance_cb835arg2, Instance_cb835arg3)
+end
+local cb836 = function(Instance_cb836arg1, Instance_cb836arg2, Instance_cb836arg3)
+end
+local cb837 = function(Instance_cb837arg1, Instance_cb837arg2, Instance_cb837arg3)
+end
+local cb838 = function(Instance_cb838arg1, Instance_cb838arg2, Instance_cb838arg3)
+end
+local cb839 = function(Instance_cb839arg1, Instance_cb839arg2, Instance_cb839arg3)
+local v840 = select(Instance_cb839arg1, ...)
+end
+local cb841 = function(text)
+rconsoleinput()
+end
+local cb842 = function(Instance_cb842arg1, Instance_cb842arg2, Instance_cb842arg3)
+rconsolecreate()
+end
+local cb843 = function(Instance_cb843arg1, Instance_cb843arg2, Instance_cb843arg3)
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:1507: table expected, got userdata
+end
+local cb844 = function(Instance_cb844arg1, Instance_cb844arg2, Instance_cb844arg3)
+end
+local cb845 = function(Instance_cb845arg1, Instance_cb845arg2, Instance_cb845arg3)
+end
+local cb846 = function(Instance_cb846arg1, Instance_cb846arg2, Instance_cb846arg3)
+end
+local cb847 = function(Instance_cb847arg1, Instance_cb847arg2, Instance_cb847arg3)
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:4118: invalid argument #1 to 'abs' (number expected, got table)
+end
+local cb849 = function(Instance_cb849arg1, Instance_cb849arg2, Instance_cb849arg3)
+end
+local cb850 = function(Instance_cb850arg1, Instance_cb850arg2, Instance_cb850arg3)
+end
+local cb851 = function(Instance_cb851arg1, Instance_cb851arg2, Instance_cb851arg3)
+end
+local cb852 = function(Instance_cb852arg1, Instance_cb852arg2, Instance_cb852arg3)
+end
+local cb853 = function(Instance_cb853arg1, Instance_cb853arg2, Instance_cb853arg3)
+end
+local cb854 = function(Instance_cb854arg1, Instance_cb854arg2, Instance_cb854arg3)
+end
+local cb855 = function(Instance_cb855arg1, Instance_cb855arg2, Instance_cb855arg3)
+end
+local cb856 = function(Instance_cb856arg1, Instance_cb856arg2, Instance_cb856arg3)
+end
+local cb857 = function(Instance_cb857arg1, Instance_cb857arg2, Instance_cb857arg3)
+end
+local cb858 = function(Instance_cb858arg1, Instance_cb858arg2, Instance_cb858arg3)
+    -- Error executing callback: invalid argument #1 to 'setfenv' (number, function or thread expected)
+end
+local cb859 = function(Instance_cb859arg1, Instance_cb859arg2, Instance_cb859arg3)
+end
+local cb860 = function(Instance_cb860arg1, Instance_cb860arg2, Instance_cb860arg3)
+getreg()
+end
+local cb862 = function(Instance_cb862arg1, Instance_cb862arg2, Instance_cb862arg3)
+    -- Error executing callback: D:/new deobf/23/deobf bot3/deobf bot/vdeobf/mods/temp_eval_1781521630779_6195.lua:4376: invalid argument #2 to 'error' (number expected, got table)
+end
+local cb864 = function(Instance_cb864arg1, Instance_cb864arg2, Instance_cb864arg3)
+hookmetatable(Instance_cb864arg1, Instance_cb864arg2)
+end
+print("_ENV", {
+  ["__native_traceback"] = cb473,
+  ["_ENV"] = "<loop>",
+  ["_G"] = {},
+  ["appendfile"] = cb806,
+  ["assert"] = cb315,
+  ["Axes"] = {
+  ["new"] = cb571
+},
+  ["base64"] = "<loop>",
+  ["base64_decode"] = cb327,
+  ["base64_encode"] = cb336,
+  ["bit"] = "<loop>",
+  ["bit32"] = {
+  ["arshift"] = cb285,
+  ["band"] = cb261,
+  ["bnot"] = cb269,
+  ["bor"] = cb267,
+  ["btest"] = cb271,
+  ["bxor"] = cb265,
+  ["byteswap"] = cb287,
+  ["countlz"] = cb289,
+  ["countrz"] = cb275,
+  ["extract"] = cb263,
+  ["lrotate"] = cb273,
+  ["lshift"] = cb277,
+  ["replace"] = cb283,
+  ["rrotate"] = cb281,
+  ["rshift"] = cb279
+},
+  ["BrickColor"] = {
+  ["Black"] = cb852,
+  ["Blue"] = cb849,
+  ["Green"] = cb853,
+  ["new"] = cb857,
+  ["palette"] = cb850,
+  ["random"] = cb856,
+  ["Red"] = cb854,
+  ["White"] = cb851,
+  ["Yellow"] = cb855
+},
+  ["buffer"] = {
+  ["copy"] = cb673,
+  ["create"] = cb693,
+  ["fill"] = cb713,
+  ["fromstring"] = cb687,
+  ["len"] = cb711,
+  ["readbits"] = cb705,
+  ["readf32"] = cb677,
+  ["readf64"] = cb663,
+  ["readi16"] = cb707,
+  ["readi32"] = cb691,
+  ["readi8"] = cb669,
+  ["readinteger"] = cb717,
+  ["readstring"] = cb715,
+  ["readu16"] = cb671,
+  ["readu32"] = cb665,
+  ["readu8"] = cb675,
+  ["tostring"] = cb679,
+  ["writebits"] = cb689,
+  ["writef32"] = cb699,
+  ["writef64"] = cb709,
+  ["writei16"] = cb683,
+  ["writei32"] = cb681,
+  ["writei8"] = cb703,
+  ["writeinteger"] = cb695,
+  ["writestring"] = cb701,
+  ["writeu16"] = cb685,
+  ["writeu32"] = cb667,
+  ["writeu8"] = cb697
+},
+  ["cache"] = {
+  ["invalidate"] = cb643,
+  ["iscached"] = cb642,
+  ["replace"] = cb641
+},
+  ["CFrame"] = {
+  ["Angles"] = cb579,
+  ["fromAxisAngle"] = cb579,
+  ["fromEulerAnglesXYZ"] = cb579,
+  ["fromEulerAnglesYXZ"] = cb579,
+  ["fromMatrix"] = cb579,
+  ["identity"] = {
+  ["LookVector"] = {
+  ["X"] = 0,
+  ["Y"] = 0,
+  ["Z"] = -1
+},
+  ["p"] = {
+  ["X"] = 0,
+  ["Y"] = 0,
+  ["Z"] = 0
+},
+  ["Position"] = {
+  ["X"] = 0,
+  ["Y"] = 0,
+  ["Z"] = 0
+},
+  ["RightVector"] = {
+  ["X"] = 1,
+  ["Y"] = 0,
+  ["Z"] = 0
+},
+  ["UpVector"] = {
+  ["X"] = 0,
+  ["Y"] = 1,
+  ["Z"] = 0
+},
+  ["X"] = 0,
+  ["Y"] = 0,
+  ["Z"] = 0
+},
+  ["lookAt"] = cb579,
+  ["new"] = cb579
+},
+  ["checkcaller"] = cb599,
+  ["checkclosure"] = cb639,
+  ["cleardrawcache"] = cb569,
+  ["clonefunction"] = cb257,
+  ["cloneref"] = cb359,
+  ["collectgarbage"] = cb462,
+  ["Color3"] = {
+  ["fromHex"] = cb622,
+  ["fromHSV"] = cb627,
+  ["fromRGB"] = cb629,
+  ["new"] = cb633,
+  ["toHSV"] = cb623
+},
+  ["ColorSequence"] = {
+  ["new"] = cb837
+},
+  ["ColorSequenceKeypoint"] = {
+  ["new"] = cb572
+},
+  ["compareinstances"] = cb650,
+  ["consoleclear"] = cb552,
+  ["consolecreate"] = cb313,
+  ["consoledestroy"] = cb734,
+  ["consoleinput"] = cb743,
+  ["consoleprint"] = cb726,
+  ["consolesettitle"] = cb422,
+  ["coroutine"] = {
+  ["close"] = cb352,
+  ["create"] = cb356,
+  ["isyieldable"] = cb358,
+  ["resume"] = cb349,
+  ["running"] = cb348,
+  ["status"] = cb353,
+  ["wrap"] = cb354,
+  ["yield"] = cb351
+},
+  ["crypt"] = {
+  ["base64"] = {
+  ["decode"] = cb327,
+  ["encode"] = cb336
+},
+  ["base64_decode"] = cb327,
+  ["base64_encode"] = cb336,
+  ["base64decode"] = cb331,
+  ["base64encode"] = cb334,
+  ["decrypt"] = cb330,
+  ["encrypt"] = cb333,
+  ["generatebytes"] = cb338,
+  ["generatekey"] = cb339,
+  ["hash"] = cb329,
+  ["hash_algorithms"] = {
+  [1] = "md5",
+  [2] = "sha1",
+  [3] = "sha224",
+  [4] = "sha256",
+  [5] = "sha384",
+  [6] = "sha512"
+}
+},
+  ["DateTime"] = {
+  ["fromIsoDate"] = cb594,
+  ["fromLocalTime"] = cb593,
+  ["fromUniversalTime"] = cb590,
+  ["fromUnixTimestamp"] = cb587,
+  ["fromUnixTimestampMillis"] = cb591,
+  ["now"] = cb589
+},
+  ["debug"] = {
+  ["dumpheap"] = cb291,
+  ["getconstant"] = cb292,
+  ["getconstants"] = cb309,
+  ["getinfo"] = cb306,
+  ["getproto"] = cb293,
+  ["getprotos"] = cb303,
+  ["getregistry"] = debug.getregistry,
+  ["getstack"] = cb298,
+  ["getupvalue"] = cb300,
+  ["getupvalues"] = cb299,
+  ["info"] = cb305,
+  ["profilebegin"] = cb295,
+  ["profileend"] = cb304,
+  ["resetmemorycategory"] = cb301,
+  ["setconstant"] = cb308,
+  ["setmemorycategory"] = cb294,
+  ["setstack"] = cb302,
+  ["setupvalue"] = cb307,
+  ["traceback"] = cb296
+},
+  ["delay"] = cb731,
+  ["delfile"] = cb654,
+  ["delfolder"] = cb738,
+  ["dict_substitute"] = cb635,
+  ["dictsubstitute"] = cb635,
+  ["Drawing"] = {
+  ["Fonts"] = {
+  ["Monospace"] = 3,
+  ["Plex"] = 2,
+  ["System"] = 1,
+  ["UI"] = 0
+},
+  ["new"] = cb652
+},
+  ["dumpstring"] = cb475,
+  ["elapsedTime"] = cb420,
+  ["Enum"] = Instance,
+  ["error"] = cb862,
+  ["executor"] = executor,
+  ["Faces"] = {
+  ["new"] = cb463
+},
+  ["fireclickdetector"] = cb464,
+  ["fireproximityprompt"] = cb760,
+  ["firetouchinterest"] = cb610,
+  ["Font"] = Font,
+  ["Game"] = game,
+  ["game"] = game,
+  ["gcinfo"] = cb583,
+  ["getcallbackvalue"] = cb721,
+  ["getcallstack"] = cb749,
+  ["getconnections"] = cb596,
+  ["getcustomasset"] = cb720,
+  ["getexecutorname"] = cb316,
+  ["getfenv"] = cb608,
+  ["getgc"] = cb810,
+  ["getgenv"] = cb739,
+  ["gethiddenproperty"] = cb465,
+  ["gethui"] = cb661,
+  ["getidentity"] = cb585,
+  ["getinstances"] = cb638,
+  ["getloadedmodules"] = cb640,
+  ["getmetatable"] = cb762,
+  ["getnamecallmethod"] = cb576,
+  ["getnilinstances"] = cb474,
+  ["getrawmetatable"] = cb320,
+  ["getreg"] = cb860,
+  ["getregistry"] = cb732,
+  ["getrenderproperty"] = cb658,
+  ["getrenv"] = cb341,
+  ["getrunningscripts"] = cb614,
+  ["getscriptbytecode"] = cb807,
+  ["getscriptclosure"] = cb586,
+  ["getscriptfunction"] = cb764,
+  ["getscripthash"] = cb745,
+  ["getscripts"] = cb471,
+  ["getsenv"] = cb609,
+  ["getthreadcontext"] = cb584,
+  ["getthreadidentity"] = cb723,
+  ["hookfunction"] = cb369,
+  ["hookmetamethod"] = cb310,
+  ["hookmetatable"] = cb864,
+  ["http"] = {
+  ["request"] = cb365
+},
+  ["http_request"] = cb619,
+  ["identifyexecutor"] = cb655,
+  ["Instance"] = {
+  ["new"] = cb771
+},
+  ["ipairs"] = cb425,
+  ["iscclosure"] = cb813,
+  ["isexecutorclosure"] = cb364,
+  ["isfile"] = cb371,
+  ["isfolder"] = cb611,
+  ["isgameactive"] = cb324,
+  ["islclosure"] = cb765,
+  ["isnetworkowner"] = cb648,
+  ["isourclosure"] = cb742,
+  ["isrbxactive"] = cb375,
+  ["isreadonly"] = cb565,
+  ["isrenderobj"] = cb413,
+  ["isscriptable"] = cb260,
+  ["iswindowactive"] = cb859,
+  ["keypress"] = cb477,
+  ["keyrelease"] = cb741,
+  ["listfiles"] = cb790,
+  ["load"] = cb325,
+  ["loadfile"] = cb573,
+  ["loadstring"] = cb361,
+  ["lz4compress"] = cb792,
+  ["lz4decompress"] = cb644,
+  ["lzss_decompress"] = cb322,
+  ["lzssdecompress"] = cb322,
+  ["make_hookable"] = cb472,
+  ["make_readonly"] = cb470,
+  ["make_writeable"] = cb564,
+  ["makefolder"] = cb249,
+  ["math"] = {
+  ["abs"] = cb530,
+  ["acos"] = cb538,
+  ["asin"] = cb534,
+  ["atan"] = cb518,
+  ["atan2"] = cb510,
+  ["ceil"] = cb524,
+  ["clamp"] = cb526,
+  ["cos"] = cb514,
+  ["cosh"] = cb484,
+  ["deg"] = cb482,
+  ["e"] = 2.718281828459045,
+  ["exp"] = cb502,
+  ["floor"] = cb492,
+  ["fmod"] = cb540,
+  ["frexp"] = cb490,
+  ["huge"] = inf,
+  ["isfinite"] = cb536,
+  ["isinf"] = cb546,
+  ["isnan"] = cb500,
+  ["ldexp"] = cb480,
+  ["lerp"] = cb550,
+  ["log"] = cb478,
+  ["log10"] = cb508,
+  ["map"] = cb542,
+  ["max"] = cb504,
+  ["min"] = cb522,
+  ["modf"] = cb496,
+  ["nan"] = nan,
+  ["noise"] = cb528,
+  ["phi"] = 1.618033988749895,
+  ["pi"] = 3.141592653589793,
+  ["pow"] = cb498,
+  ["rad"] = cb516,
+  ["random"] = cb488,
+  ["randomseed"] = cb520,
+  ["round"] = cb486,
+  ["sign"] = cb544,
+  ["sin"] = cb548,
+  ["sinh"] = cb532,
+  ["sqrt"] = cb494,
+  ["sqrt2"] = 1.4142135623730951,
+  ["tan"] = cb512,
+  ["tanh"] = cb506,
+  ["tau"] = 6.283185307179586
+},
+  ["messagebox"] = cb578,
+  ["mouse1click"] = cb460,
+  ["mouse1press"] = cb567,
+  ["mouse1release"] = cb563,
+  ["mouse2click"] = cb568,
+  ["mouse2press"] = cb560,
+  ["mouse2release"] = cb373,
+  ["mousemoveabs"] = cb556,
+  ["mousemoverel"] = cb557,
+  ["mousescroll"] = cb559,
+  ["newcclosure"] = cb344,
+  ["newproxy"] = cb789,
+  ["next"] = cb757,
+  ["NumberRange"] = {
+  ["new"] = cb835
+},
+  ["NumberSequence"] = {
+  ["new"] = cb809
+},
+  ["NumberSequenceKeypoint"] = {
+  ["new"] = cb725
+},
+  ["os"] = {
+  ["clock"] = cb256,
+  ["date"] = cb254,
+  ["difftime"] = cb250,
+  ["time"] = cb252
+},
+  ["OverlapParams"] = {
+  ["new"] = cb326
+},
+  ["pairs"] = cb647,
+  ["PathWaypoint"] = PathWaypoint,
+  ["pcall"] = cb554,
+  ["PhysicalProperties"] = {
+  ["new"] = cb719
+},
+  ["plugin"] = plugin,
+  ["print"] = cb374,
+  ["printidentity"] = cb363,
+  ["queue_on_teleport"] = cb634,
+  ["queueonteleport"] = cb575,
+  ["Random"] = {
+  ["new"] = cb418
+},
+  ["rawequal"] = cb768,
+  ["rawget"] = cb843,
+  ["rawlen"] = cb616,
+  ["rawset"] = cb808,
+  ["Ray"] = {
+  ["new"] = cb724
+},
+  ["RaycastParams"] = {
+  ["new"] = cb377
+},
+  ["RaycastResult"] = RaycastResult,
+  ["rconsoleclear"] = cb750,
+  ["rconsolecreate"] = cb842,
+  ["rconsoledestroy"] = cb419,
+  ["rconsoleerr"] = cb761,
+  ["rconsoleinfo"] = cb376,
+  ["rconsoleinput"] = cb841,
+  ["rconsolename"] = cb411,
+  ["rconsoleprint"] = cb637,
+  ["rconsoletitle"] = cb722,
+  ["rconsolewarn"] = cb767,
+  ["readfile"] = cb659,
+  ["Rect"] = {
+  ["new"] = cb847
+},
+  ["Region3"] = {
+  ["new"] = cb467
+},
+  ["Region3int16"] = {
+  ["new"] = cb770
+},
+  ["register_constants"] = cb615,
+  ["register_upvalues"] = cb838,
+  ["replaceclosure"] = cb729,
+  ["request"] = cb346,
+  ["require"] = cb751,
+  ["script"] = script,
+  ["Secret"] = Secret,
+  ["select"] = cb839,
+  ["Seliware"] = seliware,
+  ["seliware"] = seliware,
+  ["setclipboard"] = cb367,
+  ["setfenv"] = cb858,
+  ["setfpscap"] = cb815,
+  ["sethiddenproperty"] = cb570,
+  ["setidentity"] = cb424,
+  ["setmetatable"] = cb755,
+  ["setrawmetatable"] = cb259,
+  ["setrbxclipboard"] = cb469,
+  ["setreadonly"] = cb613,
+  ["setrenderproperty"] = cb621,
+  ["setscriptable"] = cb360,
+  ["setthreadcontext"] = cb340,
+  ["setthreadidentity"] = cb362,
+  ["settings"] = settings,
+  ["shared"] = {},
+  ["SharedTable"] = SharedTable,
+  ["spawn"] = cb368,
+  ["stats"] = stats,
+  ["string"] = {
+  ["byte"] = cb452,
+  ["char"] = cb446,
+  ["find"] = cb444,
+  ["format"] = cb436,
+  ["gmatch"] = cb430,
+  ["gsub"] = cb434,
+  ["len"] = cb454,
+  ["lower"] = cb438,
+  ["match"] = cb428,
+  ["pack"] = cb442,
+  ["packsize"] = cb448,
+  ["rep"] = cb456,
+  ["reverse"] = cb450,
+  ["split"] = cb426,
+  ["sub"] = cb440,
+  ["unpack"] = cb458,
+  ["upper"] = cb432
+},
+  ["syn"] = {
+  ["crypt"] = {
+  ["b64_decode"] = cb820,
+  ["b64_encode"] = cb817,
+  ["decrypt"] = cb819,
+  ["encrypt"] = cb816,
+  ["hash"] = cb822
+},
+  ["get_thread_identity"] = cb828,
+  ["protect_gui"] = cb831,
+  ["queue_on_teleport"] = cb823,
+  ["request"] = cb829,
+  ["set_thread_identity"] = cb824,
+  ["toast_notification"] = cb827,
+  ["unprotect_gui"] = cb832,
+  ["websocket"] = {
+  ["connect"] = cb833
+},
+  ["write_clipboard"] = cb825
+},
+  ["table"] = {
+  ["clear"] = cb389,
+  ["clone"] = cb408,
+  ["concat"] = cb402,
+  ["create"] = cb397,
+  ["find"] = cb406,
+  ["foreach"] = cb382,
+  ["foreachi"] = cb380,
+  ["freeze"] = cb388,
+  ["getn"] = cb378,
+  ["insert"] = cb395,
+  ["isfrozen"] = cb401,
+  ["maxn"] = cb399,
+  ["move"] = cb393,
+  ["pack"] = cb391,
+  ["remove"] = cb404,
+  ["sort"] = cb384,
+  ["unpack"] = cb386
+},
+  ["task"] = {
+  ["cancel"] = cb601,
+  ["defer"] = cb600,
+  ["delay"] = cb606,
+  ["desynchronize"] = cb602,
+  ["spawn"] = cb607,
+  ["synchronize"] = cb605,
+  ["wait"] = cb603
+},
+  ["tick"] = cb595,
+  ["time"] = cb476,
+  ["toclipboard"] = cb343,
+  ["tonumber"] = cb319,
+  ["tostring"] = cb248,
+  ["TweenInfo"] = {
+  ["new"] = cb410
+},
+  ["type"] = cb558,
+  ["typeof"] = cb836,
+  ["UDim"] = {
+  ["new"] = cb421
+},
+  ["UDim2"] = {
+  ["fromOffset"] = cb845,
+  ["fromScale"] = cb844,
+  ["new"] = cb846
+},
+  ["unpack"] = cb747,
+  ["UserSettings"] = UserSettings,
+  ["utf8"] = {
+  ["char"] = cb798,
+  ["charpattern"] = "[\000-\x7F\xC2-\xF4][\x80-\xBF]*",
+  ["codepoint"] = cb795,
+  ["codes"] = cb800,
+  ["graphemes"] = cb804,
+  ["len"] = cb802,
+  ["nfcnormalize"] = cb805,
+  ["nfdnormalize"] = cb797,
+  ["offset"] = cb793
+},
+  ["Vector2"] = {
+  ["new"] = cb728,
+  ["one"] = {
+  ["X"] = 1,
+  ["Y"] = 1
+},
+  ["zero"] = {
+  ["X"] = 0,
+  ["Y"] = 0
+}
+},
+  ["Vector2int16"] = {
+  ["new"] = cb461
+},
+  ["Vector3"] = {
+  ["fromAxis"] = cb416,
+  ["fromNormalId"] = cb415,
+  ["new"] = cb417,
+  ["one"] = {
+  ["X"] = 1,
+  ["Y"] = 1,
+  ["Z"] = 1
+},
+  ["zero"] = {
+  ["X"] = 0,
+  ["Y"] = 0,
+  ["Z"] = 0
+}
+},
+  ["Vector3int16"] = {
+  ["new"] = cb754
+},
+  ["wait"] = cb617,
+  ["warn"] = cb577,
+  ["WebSocket"] = {
+  ["connect"] = cb561
+},
+  ["Workspace"] = workspace141,
+  ["workspace"] = workspace141,
+  ["writefile"] = cb812,
+  ["xpcall"] = cb736,
+  ["ypcall"] = ypcall
+})
+print("_VERSION", nil)
+print("assert", cb315)
+print("error", cb862)
+print("pcall", cb554)
+print("xpcall", cb736)
+print("select", cb839)
+print("unpack", cb747)
+print("type", cb558)
+print("typeof", cb836)
+print("next", cb757)
+print("pairs", cb647)
+print("ipairs", cb425)
+print("tonumber", cb319)
+print("tostring", cb248)
+print("rawequal", cb768)
+print("rawget", cb843)
+print("rawset", cb808)
+print("getfenv", cb608)
+print("setfenv", cb858)
+print("load", cb325)
+print("loadstring", cb361)
+print("collectgarbage", cb462)
+print("newproxy", cb789)
+print("string", {
+  ["byte"] = cb452,
+  ["char"] = cb446,
+  ["find"] = cb444,
+  ["format"] = cb436,
+  ["gmatch"] = cb430,
+  ["gsub"] = cb434,
+  ["len"] = cb454,
+  ["lower"] = cb438,
+  ["match"] = cb428,
+  ["pack"] = cb442,
+  ["packsize"] = cb448,
+  ["rep"] = cb456,
+  ["reverse"] = cb450,
+  ["split"] = cb426,
+  ["sub"] = cb440,
+  ["unpack"] = cb458,
+  ["upper"] = cb432
+})
+print("table", {
+  ["clear"] = cb389,
+  ["clone"] = cb408,
+  ["concat"] = cb402,
+  ["create"] = cb397,
+  ["find"] = cb406,
+  ["foreach"] = cb382,
+  ["foreachi"] = cb380,
+  ["freeze"] = cb388,
+  ["getn"] = cb378,
+  ["insert"] = cb395,
+  ["isfrozen"] = cb401,
+  ["maxn"] = cb399,
+  ["move"] = cb393,
+  ["pack"] = cb391,
+  ["remove"] = cb404,
+  ["sort"] = cb384,
+  ["unpack"] = cb386
+})
+print("math", {
+  ["abs"] = cb530,
+  ["acos"] = cb538,
+  ["asin"] = cb534,
+  ["atan"] = cb518,
+  ["atan2"] = cb510,
+  ["ceil"] = cb524,
+  ["clamp"] = cb526,
+  ["cos"] = cb514,
+  ["cosh"] = cb484,
+  ["deg"] = cb482,
+  ["e"] = 2.718281828459045,
+  ["exp"] = cb502,
+  ["floor"] = cb492,
+  ["fmod"] = cb540,
+  ["frexp"] = cb490,
+  ["huge"] = inf,
+  ["isfinite"] = cb536,
+  ["isinf"] = cb546,
+  ["isnan"] = cb500,
+  ["ldexp"] = cb480,
+  ["lerp"] = cb550,
+  ["log"] = cb478,
+  ["log10"] = cb508,
+  ["map"] = cb542,
+  ["max"] = cb504,
+  ["min"] = cb522,
+  ["modf"] = cb496,
+  ["nan"] = nan,
+  ["noise"] = cb528,
+  ["phi"] = 1.618033988749895,
+  ["pi"] = 3.141592653589793,
+  ["pow"] = cb498,
+  ["rad"] = cb516,
+  ["random"] = cb488,
+  ["randomseed"] = cb520,
+  ["round"] = cb486,
+  ["sign"] = cb544,
+  ["sin"] = cb548,
+  ["sinh"] = cb532,
+  ["sqrt"] = cb494,
+  ["sqrt2"] = 1.4142135623730951,
+  ["tan"] = cb512,
+  ["tanh"] = cb506,
+  ["tau"] = 6.283185307179586
+})
+print("coroutine", {
+  ["close"] = cb352,
+  ["create"] = cb356,
+  ["isyieldable"] = cb358,
+  ["resume"] = cb349,
+  ["running"] = cb348,
+  ["status"] = cb353,
+  ["wrap"] = cb354,
+  ["yield"] = cb351
+})
+print("utf8", {
+  ["char"] = cb798,
+  ["charpattern"] = "[\000-\x7F\xC2-\xF4][\x80-\xBF]*",
+  ["codepoint"] = cb795,
+  ["codes"] = cb800,
+  ["graphemes"] = cb804,
+  ["len"] = cb802,
+  ["nfcnormalize"] = cb805,
+  ["nfdnormalize"] = cb797,
+  ["offset"] = cb793
+})
+print("os", {
+  ["clock"] = cb256,
+  ["date"] = cb254,
+  ["difftime"] = cb250,
+  ["time"] = cb252
+})
+print("io", nil)
+print("bit32", {
+  ["arshift"] = cb285,
+  ["band"] = cb261,
+  ["bnot"] = cb269,
+  ["bor"] = cb267,
+  ["btest"] = cb271,
+  ["bxor"] = cb265,
+  ["byteswap"] = cb287,
+  ["countlz"] = cb289,
+  ["countrz"] = cb275,
+  ["extract"] = cb263,
+  ["lrotate"] = cb273,
+  ["lshift"] = cb277,
+  ["replace"] = cb283,
+  ["rrotate"] = cb281,
+  ["rshift"] = cb279
+})
+print("bit", {
+  ["arshift"] = cb285,
+  ["band"] = cb261,
+  ["bnot"] = cb269,
+  ["bor"] = cb267,
+  ["btest"] = cb271,
+  ["bxor"] = cb265,
+  ["byteswap"] = cb287,
+  ["countlz"] = cb289,
+  ["countrz"] = cb275,
+  ["extract"] = cb263,
+  ["lrotate"] = cb273,
+  ["lshift"] = cb277,
+  ["replace"] = cb283,
+  ["rrotate"] = cb281,
+  ["rshift"] = cb279
+})
+print("string.byte", cb452)
+print("string.char", cb446)
+print("string.dump", nil)
+print("string.format", cb436)
+print("string.gsub", cb434)
+print("table.insert", cb395)
+print("table.remove", cb404)
+print("table.concat", cb402)
+print("table.sort", cb384)
+print("table.pack", cb391)
+print("table.unpack", cb386)
+print("math.abs", cb530)
+print("math.random", cb488)
+print("math.clamp", cb526)
+print("math.noise", cb528)
+print("coroutine.create", cb356)
+print("coroutine.wrap", cb354)
+print("coroutine.resume", cb349)
+print("coroutine.yield", cb351)
+print("debug", {
+  ["dumpheap"] = cb291,
+  ["getconstant"] = cb292,
+  ["getconstants"] = cb309,
+  ["getinfo"] = cb306,
+  ["getproto"] = cb293,
+  ["getprotos"] = cb303,
+  ["getregistry"] = debug.getregistry,
+  ["getstack"] = cb298,
+  ["getupvalue"] = cb300,
+  ["getupvalues"] = cb299,
+  ["info"] = cb305,
+  ["profilebegin"] = cb295,
+  ["profileend"] = cb304,
+  ["resetmemorycategory"] = cb301,
+  ["setconstant"] = cb308,
+  ["setmemorycategory"] = cb294,
+  ["setstack"] = cb302,
+  ["setupvalue"] = cb307,
+  ["traceback"] = cb296
+})
+print("debug.getinfo", cb306)
+print("debug.traceback", cb296)
+print("debug.getupvalue", cb300)
+print("debug.setupvalue", cb307)
+print("debug.getconstant", cb292)
+print("debug.getconstants", cb309)
+print("debug.setconstant", cb308)
+print("debug.getproto", cb293)
+print("debug.getprotos", cb303)
+print("debug.setproto", nil)
+print("debug.getstack", cb298)
+print("debug.setstack", cb302)
+print("debug.getregistry", debug.getregistry)
+print("identifyexecutor", cb655)
+print("getexecutorname", cb316)
+print("checkcaller", cb599)
+print("iscclosure", cb813)
+print("islclosure", cb765)
+print("isexecutorclosure", cb364)
+print("newcclosure", cb344)
+print("clonefunction", cb257)
+print("hookfunction", cb369)
+print("hookmetamethod", cb310)
+print("replaceclosure", cb729)
+print("restoreclosure", nil)
+print("getgenv", cb739)
+print("getrenv", cb341)
+print("getsenv", cb609)
+print("getgc", cb810)
+print("getreg", cb860)
+print("getregistry", cb732)
+print("getscripts", cb471)
+print("getloadedmodules", cb640)
+print("getinstances", cb638)
+print("getnilinstances", cb474)
+print("getrunningscripts", cb614)
+print("getscriptclosure", cb586)
+print("getscriptbytecode", cb807)
+print("getscripthash", cb745)
+print("decompile", nil)
+print("dumpstring", cb475)
+print("getrawmetatable", cb320)
+print("setrawmetatable", cb259)
+print("setreadonly", cb613)
+print("isreadonly", cb565)
+print("getnamecallmethod", cb576)
+print("setnamecallmethod", nil)
+print("gethiddenproperty", cb465)
+print("sethiddenproperty", cb570)
+print("setscriptable", cb360)
+print("isscriptable", cb260)
+print("getproperties", nil)
+print("gethiddenproperties", nil)
+print("getcallstack", cb749)
+print("getcallingscript", nil)
+print("compareinstances", cb650)
+print("request", cb346)
+print("http_request", cb619)
+print("WebSocket", {
+  ["connect"] = cb561
+})
+print("WebSocket.connect", cb561)
+print("readfile", cb659)
+print("writefile", cb812)
+print("appendfile", cb806)
+print("loadfile", cb573)
+print("dofile", nil)
+print("makefolder", cb249)
+print("delfolder", cb738)
+print("delfile", cb654)
+print("listfiles", cb790)
+print("isfile", cb371)
+print("isfolder", cb611)
+print("crypt", {
+  ["base64"] = {
+  ["decode"] = cb327,
+  ["encode"] = cb336
+},
+  ["base64_decode"] = cb327,
+  ["base64_encode"] = cb336,
+  ["base64decode"] = cb331,
+  ["base64encode"] = cb334,
+  ["decrypt"] = cb330,
+  ["encrypt"] = cb333,
+  ["generatebytes"] = cb338,
+  ["generatekey"] = cb339,
+  ["hash"] = cb329,
+  ["hash_algorithms"] = {
+  [1] = "md5",
+  [2] = "sha1",
+  [3] = "sha224",
+  [4] = "sha256",
+  [5] = "sha384",
+  [6] = "sha512"
+}
+})
+print("crypt.encrypt", cb333)
+print("crypt.decrypt", cb330)
+print("crypt.hash", cb329)
+print("crypt.base64encode", cb334)
+print("crypt.base64decode", cb331)
+print("base64_encode", cb336)
+print("base64_decode", cb327)
+print("Drawing", {
+  ["Fonts"] = {
+  ["Monospace"] = 3,
+  ["Plex"] = 2,
+  ["System"] = 1,
+  ["UI"] = 0
+},
+  ["new"] = cb652
+})
+print("Drawing.new", cb652)
+print("mouse1click", cb460)
+print("mouse1press", cb567)
+print("mouse1release", cb563)
+print("mouse2click", cb568)
+print("keypress", cb477)
+print("keyrelease", cb741)
+print("queue_on_teleport", cb634)
+print("queueonteleport", cb575)
+print("setfpscap", cb815)
+print("getfpscap", nil)
+print("game", game)
+print("workspace", workspace141)
+print("Enum", Instance)
+print("Vector2", {
+  ["new"] = cb728,
+  ["one"] = {
+  ["X"] = 1,
+  ["Y"] = 1
+},
+  ["zero"] = {
+  ["X"] = 0,
+  ["Y"] = 0
+}
+})
+print("Vector3", {
+  ["fromAxis"] = cb416,
+  ["fromNormalId"] = cb415,
+  ["new"] = cb417,
+  ["one"] = {
+  ["X"] = 1,
+  ["Y"] = 1,
+  ["Z"] = 1
+},
+  ["zero"] = {
+  ["X"] = 0,
+  ["Y"] = 0,
+  ["Z"] = 0
+}
+})
+print("CFrame", {
+  ["Angles"] = cb579,
+  ["fromAxisAngle"] = cb579,
+  ["fromEulerAnglesXYZ"] = cb579,
+  ["fromEulerAnglesYXZ"] = cb579,
+  ["fromMatrix"] = cb579,
+  ["identity"] = {
+  ["LookVector"] = {
+  ["X"] = 0,
+  ["Y"] = 0,
+  ["Z"] = -1
+},
+  ["p"] = {
+  ["X"] = 0,
+  ["Y"] = 0,
+  ["Z"] = 0
+},
+  ["Position"] = {
+  ["X"] = 0,
+  ["Y"] = 0,
+  ["Z"] = 0
+},
+  ["RightVector"] = {
+  ["X"] = 1,
+  ["Y"] = 0,
+  ["Z"] = 0
+},
+  ["UpVector"] = {
+  ["X"] = 0,
+  ["Y"] = 1,
+  ["Z"] = 0
+},
+  ["X"] = 0,
+  ["Y"] = 0,
+  ["Z"] = 0
+},
+  ["lookAt"] = cb579,
+  ["new"] = cb579
+})
+print("Color3", {
+  ["fromHex"] = cb622,
+  ["fromHSV"] = cb627,
+  ["fromRGB"] = cb629,
+  ["new"] = cb633,
+  ["toHSV"] = cb623
+})
+print("UDim", {
+  ["new"] = cb421
+})
+print("UDim2", {
+  ["fromOffset"] = cb845,
+  ["fromScale"] = cb844,
+  ["new"] = cb846
+})
+print("Ray", {
+  ["new"] = cb724
+})
+print("Rect", {
+  ["new"] = cb847
+})
+print("Region3", {
+  ["new"] = cb467
+})
+print("TweenInfo", {
+  ["new"] = cb410
+})
+print("BrickColor", {
+  ["Black"] = cb852,
+  ["Blue"] = cb849,
+  ["Green"] = cb853,
+  ["new"] = cb857,
+  ["palette"] = cb850,
+  ["random"] = cb856,
+  ["Red"] = cb854,
+  ["White"] = cb851,
+  ["Yellow"] = cb855
+})
+print("Random", {
+  ["new"] = cb418
+})
+print("Axes", {
+  ["new"] = cb571
+})
+print("Faces", {
+  ["new"] = cb463
+})
+local service866 = game:GetService("Players")
+local service868 = game:GetService("RunService")
+print("Players", service866)
+print("RunService", service868)
+print("UserInputService", game:GetService("UserInputService"))
+local localPlayer870 = service866.LocalPlayer
+print("LocalPlayer", localPlayer870)
+print("Character", localPlayer870.Character)
+local character872 = localPlayer870.Character
+print("Humanoid", character872:FindFirstChildOfClass("Humanoid"))
+print("HumanoidRootPart", character872:FindFirstChild("HumanoidRootPart"))
+print("Head", character872:FindFirstChild("Head"))
+local child876 = character872:FindFirstChild("HumanoidRootPart")
+print("Position", child876.Position)
+print("CFrame", child876.CFrame)
+print("Velocity", child876.Velocity)
+print("AssemblyLinearVelocity", child876.AssemblyLinearVelocity)
+print("AssemblyAngularVelocity", child876.AssemblyAngularVelocity)
+print("Rotation", child876.Rotation)
+print("Orientation", child876.Orientation)
+print("CurrentCamera", workspace141.CurrentCamera)
+print("Camera.CFrame", workspace141.CurrentCamera.CFrame)
+print("Camera.Focus", workspace141.CurrentCamera.Focus)
+print("Gravity", workspace141.Gravity)
+print("FallenPartsDestroyHeight", workspace141.FallenPartsDestroyHeight)
+print("PlaceId", 6961824067)
+print("GameId", 123456789)
+print("JobId", "some-job-id")
+service868:IsStudio()
+print("IsStudio", false)
+service868:IsClient()
+print("IsClient", true)
+service868:IsServer()
+print("IsServer", false)
+print("-- core env --")
+print("[ok]", "game/workspace userdata")
+print("[ok]", "lua globals")
+print("[ok]", "lua libs")
+print("[ok]", "luau libs")
+print("[ok]", "coroutine surface")
+print("-- lua api --")
+print("[ok]", "pcall basic")
+print("[ok]", "xpcall handler")
+print("[ok]", "getfenv/setfenv")
+print("[ok]", "newproxy/getmetatable")
+print("[ok]", "rawget/rawset/rawequal/rawlen")
+-- loadstring captured! Length: 13
+print("[ok]", "loadstring")
+print("[ok]", "table.foreach")
+print("[ok]", "table.foreachi")
+print("-- luau api --")
+print("[ok]", "table.create")
+print("[ok]", "table.clone")
+print("[ok]", "table.move")
+print("[ok]", "table.find")
+print("[ok]", "table.clear")
+print("[ok]", "table.freeze/isfrozen")
+print("[ok]", "string.split")
+error("attempt to call a nil value")
