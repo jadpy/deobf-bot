@@ -1,0 +1,1889 @@
+local wrap1 = coroutine.wrap(function() end)
+coroutine.resume(wrap1, function() end, {}, nil)
+coroutine.yield()
+coroutine.resume(wrap1)
+coroutine.yield(true, "RaycastResult", RaycastResult)
+local wrap2 = coroutine.wrap(function() end)
+coroutine.resume(wrap2, function() end, {
+    [1] = 82,
+    [10] = 115,
+    [11] = 117,
+    [12] = 108,
+    [13] = 116,
+    [2] = 97,
+    [3] = 121,
+    [4] = 99,
+    [5] = 97,
+    [6] = 115,
+    [7] = 116,
+    [8] = 82,
+    [9] = 101
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap2)
+coroutine.yield(true, 1, 82)
+coroutine.resume(wrap2)
+coroutine.yield(true, 2, 97)
+coroutine.resume(wrap2)
+coroutine.yield(true, 3, 121)
+coroutine.resume(wrap2)
+coroutine.yield(true, 4, 99)
+coroutine.resume(wrap2)
+coroutine.yield(true, 5, 97)
+coroutine.resume(wrap2)
+coroutine.yield(true, 6, 115)
+coroutine.resume(wrap2)
+coroutine.yield(true, 7, 116)
+coroutine.resume(wrap2)
+coroutine.yield(true, 8, 82)
+coroutine.resume(wrap2)
+coroutine.yield(true, 9, 101)
+coroutine.resume(wrap2)
+coroutine.yield(true, 10, 115)
+coroutine.resume(wrap2)
+coroutine.yield(true, 11, 117)
+coroutine.resume(wrap2)
+coroutine.yield(true, 12, 108)
+coroutine.resume(wrap2)
+coroutine.yield(true, 13, 116)
+coroutine.resume(wrap2)
+coroutine.resume(wrap1)
+coroutine.yield(true, "tostring", function() end)
+local wrap3 = coroutine.wrap(function() end)
+coroutine.resume(wrap3, function() end, {
+    [1] = 116,
+    [2] = 111,
+    [3] = 115,
+    [4] = 116,
+    [5] = 114,
+    [6] = 105,
+    [7] = 110,
+    [8] = 103
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap3)
+coroutine.yield(true, 1, 116)
+coroutine.resume(wrap3)
+coroutine.yield(true, 2, 111)
+coroutine.resume(wrap3)
+coroutine.yield(true, 3, 115)
+coroutine.resume(wrap3)
+coroutine.yield(true, 4, 116)
+coroutine.resume(wrap3)
+coroutine.yield(true, 5, 114)
+coroutine.resume(wrap3)
+coroutine.yield(true, 6, 105)
+coroutine.resume(wrap3)
+coroutine.yield(true, 7, 110)
+coroutine.resume(wrap3)
+coroutine.yield(true, 8, 103)
+coroutine.resume(wrap3)
+coroutine.resume(wrap1)
+coroutine.yield(true, "makefolder", function() end)
+local wrap4 = coroutine.wrap(function() end)
+coroutine.resume(wrap4, function() end, {
+    [1] = 109,
+    [10] = 114,
+    [2] = 97,
+    [3] = 107,
+    [4] = 101,
+    [5] = 102,
+    [6] = 111,
+    [7] = 108,
+    [8] = 100,
+    [9] = 101
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap4)
+coroutine.yield(true, 1, 109)
+coroutine.resume(wrap4)
+coroutine.yield(true, 2, 97)
+coroutine.resume(wrap4)
+coroutine.yield(true, 3, 107)
+coroutine.resume(wrap4)
+coroutine.yield(true, 4, 101)
+coroutine.resume(wrap4)
+coroutine.yield(true, 5, 102)
+coroutine.resume(wrap4)
+coroutine.yield(true, 6, 111)
+coroutine.resume(wrap4)
+coroutine.yield(true, 7, 108)
+coroutine.resume(wrap4)
+coroutine.yield(true, 8, 100)
+coroutine.resume(wrap4)
+coroutine.yield(true, 9, 101)
+coroutine.resume(wrap4)
+coroutine.yield(true, 10, 114)
+coroutine.resume(wrap4)
+coroutine.resume(wrap1)
+coroutine.yield(true, "os", {
+    ["clock"] = function() end,
+    ["date"] = function() end,
+    ["difftime"] = function() end,
+    ["time"] = function() end
+})
+local wrap5 = coroutine.wrap(function() end)
+coroutine.resume(wrap5, function() end, { [1] = 111, [2] = 115 }, nil)
+coroutine.yield()
+coroutine.resume(wrap5)
+coroutine.yield(true, 1, 111)
+coroutine.resume(wrap5)
+coroutine.yield(true, 2, 115)
+coroutine.resume(wrap5)
+coroutine.resume(wrap1)
+coroutine.yield(true, "clonefunction", function() end)
+local wrap6 = coroutine.wrap(function() end)
+coroutine.resume(wrap6, function() end, {
+    [1] = 99,
+    [10] = 116,
+    [11] = 105,
+    [12] = 111,
+    [13] = 110,
+    [2] = 108,
+    [3] = 111,
+    [4] = 110,
+    [5] = 101,
+    [6] = 102,
+    [7] = 117,
+    [8] = 110,
+    [9] = 99
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap6)
+coroutine.yield(true, 1, 99)
+coroutine.resume(wrap6)
+coroutine.yield(true, 2, 108)
+coroutine.resume(wrap6)
+coroutine.yield(true, 3, 111)
+coroutine.resume(wrap6)
+coroutine.yield(true, 4, 110)
+coroutine.resume(wrap6)
+coroutine.yield(true, 5, 101)
+coroutine.resume(wrap6)
+coroutine.yield(true, 6, 102)
+coroutine.resume(wrap6)
+coroutine.yield(true, 7, 117)
+coroutine.resume(wrap6)
+coroutine.yield(true, 8, 110)
+coroutine.resume(wrap6)
+coroutine.yield(true, 9, 99)
+coroutine.resume(wrap6)
+coroutine.yield(true, 10, 116)
+coroutine.resume(wrap6)
+coroutine.yield(true, 11, 105)
+coroutine.resume(wrap6)
+coroutine.yield(true, 12, 111)
+coroutine.resume(wrap6)
+coroutine.yield(true, 13, 110)
+coroutine.resume(wrap6)
+coroutine.resume(wrap1)
+coroutine.yield(true, "setrawmetatable", function() end)
+local wrap7 = coroutine.wrap(function() end)
+coroutine.resume(wrap7, function() end, {
+    [1] = 115,
+    [10] = 97,
+    [11] = 116,
+    [12] = 97,
+    [13] = 98,
+    [14] = 108,
+    [15] = 101,
+    [2] = 101,
+    [3] = 116,
+    [4] = 114,
+    [5] = 97,
+    [6] = 119,
+    [7] = 109,
+    [8] = 101,
+    [9] = 116
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap7)
+coroutine.yield(true, 1, 115)
+coroutine.resume(wrap7)
+coroutine.yield(true, 2, 101)
+coroutine.resume(wrap7)
+coroutine.yield(true, 3, 116)
+coroutine.resume(wrap7)
+coroutine.yield(true, 4, 114)
+coroutine.resume(wrap7)
+coroutine.yield(true, 5, 97)
+coroutine.resume(wrap7)
+coroutine.yield(true, 6, 119)
+coroutine.resume(wrap7)
+coroutine.yield(true, 7, 109)
+coroutine.resume(wrap7)
+coroutine.yield(true, 8, 101)
+coroutine.resume(wrap7)
+coroutine.yield(true, 9, 116)
+coroutine.resume(wrap7)
+coroutine.yield(true, 10, 97)
+coroutine.resume(wrap7)
+coroutine.yield(true, 11, 116)
+coroutine.resume(wrap7)
+coroutine.yield(true, 12, 97)
+coroutine.resume(wrap7)
+coroutine.yield(true, 13, 98)
+coroutine.resume(wrap7)
+coroutine.yield(true, 14, 108)
+coroutine.resume(wrap7)
+coroutine.yield(true, 15, 101)
+coroutine.resume(wrap7)
+coroutine.resume(wrap1)
+coroutine.yield(true, "isscriptable", function() end)
+local wrap8 = coroutine.wrap(function() end)
+coroutine.resume(wrap8, function() end, {
+    [1] = 105,
+    [10] = 98,
+    [11] = 108,
+    [12] = 101,
+    [2] = 115,
+    [3] = 115,
+    [4] = 99,
+    [5] = 114,
+    [6] = 105,
+    [7] = 112,
+    [8] = 116,
+    [9] = 97
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap8)
+coroutine.yield(true, 1, 105)
+coroutine.resume(wrap8)
+coroutine.yield(true, 2, 115)
+coroutine.resume(wrap8)
+coroutine.yield(true, 3, 115)
+coroutine.resume(wrap8)
+coroutine.yield(true, 4, 99)
+coroutine.resume(wrap8)
+coroutine.yield(true, 5, 114)
+coroutine.resume(wrap8)
+coroutine.yield(true, 6, 105)
+coroutine.resume(wrap8)
+coroutine.yield(true, 7, 112)
+coroutine.resume(wrap8)
+coroutine.yield(true, 8, 116)
+coroutine.resume(wrap8)
+coroutine.yield(true, 9, 97)
+coroutine.resume(wrap8)
+coroutine.yield(true, 10, 98)
+coroutine.resume(wrap8)
+coroutine.yield(true, 11, 108)
+coroutine.resume(wrap8)
+coroutine.yield(true, 12, 101)
+coroutine.resume(wrap8)
+coroutine.resume(wrap1)
+coroutine.yield(true, "bit32", {
+    ["arshift"] = function() end,
+    ["band"] = function() end,
+    ["bnot"] = function() end,
+    ["bor"] = function() end,
+    ["btest"] = function() end,
+    ["bxor"] = function() end,
+    ["byteswap"] = function() end,
+    ["countlz"] = function() end,
+    ["countrz"] = function() end,
+    ["extract"] = function() end,
+    ["lrotate"] = function() end,
+    ["lshift"] = function() end,
+    ["replace"] = function() end,
+    ["rrotate"] = function() end,
+    ["rshift"] = function() end,
+    ["tohex"] = function() end
+})
+local wrap9 = coroutine.wrap(function() end)
+coroutine.resume(wrap9, function() end, { [1] = 98, [2] = 105, [3] = 116, [4] = 51, [5] = 50 }, nil)
+coroutine.yield()
+coroutine.resume(wrap9)
+coroutine.yield(true, 1, 98)
+coroutine.resume(wrap9)
+coroutine.yield(true, 2, 105)
+coroutine.resume(wrap9)
+coroutine.yield(true, 3, 116)
+coroutine.resume(wrap9)
+coroutine.yield(true, 4, 51)
+coroutine.resume(wrap9)
+coroutine.yield(true, 5, 50)
+coroutine.resume(wrap9)
+coroutine.resume(wrap1)
+coroutine.yield(true, "debug", {
+    ["dumpheap"] = function() end,
+    ["getconstant"] = function() end,
+    ["getconstants"] = function() end,
+    ["getinfo"] = function() end,
+    ["getproto"] = function() end,
+    ["getprotos"] = function() end,
+    ["getregistry"] = debug.getregistry,
+    ["getstack"] = function() end,
+    ["getupvalue"] = function() end,
+    ["getupvalues"] = function() end,
+    ["info"] = function() end,
+    ["profilebegin"] = function() end,
+    ["profileend"] = function() end,
+    ["resetmemorycategory"] = function() end,
+    ["setconstant"] = function() end,
+    ["setmemorycategory"] = function() end,
+    ["setstack"] = function() end,
+    ["setupvalue"] = function() end,
+    ["traceback"] = function() end
+})
+local wrap10 = coroutine.wrap(function() end)
+coroutine.resume(wrap10, function() end, { [1] = 100, [2] = 101, [3] = 98, [4] = 117, [5] = 103 }, nil)
+coroutine.yield()
+coroutine.resume(wrap10)
+coroutine.yield(true, 1, 100)
+coroutine.resume(wrap10)
+coroutine.yield(true, 2, 101)
+coroutine.resume(wrap10)
+coroutine.yield(true, 3, 98)
+coroutine.resume(wrap10)
+coroutine.yield(true, 4, 117)
+coroutine.resume(wrap10)
+coroutine.yield(true, 5, 103)
+coroutine.resume(wrap10)
+coroutine.resume(wrap1)
+coroutine.yield(true, "hookmetamethod", function() end)
+local wrap11 = coroutine.wrap(function() end)
+coroutine.resume(wrap11, function() end, {
+    [1] = 104,
+    [10] = 101,
+    [11] = 116,
+    [12] = 104,
+    [13] = 111,
+    [14] = 100,
+    [2] = 111,
+    [3] = 111,
+    [4] = 107,
+    [5] = 109,
+    [6] = 101,
+    [7] = 116,
+    [8] = 97,
+    [9] = 109
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap11)
+coroutine.yield(true, 1, 104)
+coroutine.resume(wrap11)
+coroutine.yield(true, 2, 111)
+coroutine.resume(wrap11)
+coroutine.yield(true, 3, 111)
+coroutine.resume(wrap11)
+coroutine.yield(true, 4, 107)
+coroutine.resume(wrap11)
+coroutine.yield(true, 5, 109)
+coroutine.resume(wrap11)
+coroutine.yield(true, 6, 101)
+coroutine.resume(wrap11)
+coroutine.yield(true, 7, 116)
+coroutine.resume(wrap11)
+coroutine.yield(true, 8, 97)
+coroutine.resume(wrap11)
+coroutine.yield(true, 9, 109)
+coroutine.resume(wrap11)
+coroutine.yield(true, 10, 101)
+coroutine.resume(wrap11)
+coroutine.yield(true, 11, 116)
+coroutine.resume(wrap11)
+coroutine.yield(true, 12, 104)
+coroutine.resume(wrap11)
+coroutine.yield(true, 13, 111)
+coroutine.resume(wrap11)
+coroutine.yield(true, 14, 100)
+coroutine.resume(wrap11)
+coroutine.resume(wrap1)
+coroutine.yield(true, "consolecreate", function() end)
+local wrap12 = coroutine.wrap(function() end)
+coroutine.resume(wrap12, function() end, {
+    [1] = 99,
+    [10] = 101,
+    [11] = 97,
+    [12] = 116,
+    [13] = 101,
+    [2] = 111,
+    [3] = 110,
+    [4] = 115,
+    [5] = 111,
+    [6] = 108,
+    [7] = 101,
+    [8] = 99,
+    [9] = 114
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap12)
+coroutine.yield(true, 1, 99)
+coroutine.resume(wrap12)
+coroutine.yield(true, 2, 111)
+coroutine.resume(wrap12)
+coroutine.yield(true, 3, 110)
+coroutine.resume(wrap12)
+coroutine.yield(true, 4, 115)
+coroutine.resume(wrap12)
+coroutine.yield(true, 5, 111)
+coroutine.resume(wrap12)
+coroutine.yield(true, 6, 108)
+coroutine.resume(wrap12)
+coroutine.yield(true, 7, 101)
+coroutine.resume(wrap12)
+coroutine.yield(true, 8, 99)
+coroutine.resume(wrap12)
+coroutine.yield(true, 9, 114)
+coroutine.resume(wrap12)
+coroutine.yield(true, 10, 101)
+coroutine.resume(wrap12)
+coroutine.yield(true, 11, 97)
+coroutine.resume(wrap12)
+coroutine.yield(true, 12, 116)
+coroutine.resume(wrap12)
+coroutine.yield(true, 13, 101)
+coroutine.resume(wrap12)
+coroutine.resume(wrap1)
+coroutine.yield(true, "queue_on_teleport", function() end)
+local wrap13 = coroutine.wrap(function() end)
+coroutine.resume(wrap13, function() end, {
+    [1] = 113,
+    [10] = 116,
+    [11] = 101,
+    [12] = 108,
+    [13] = 101,
+    [14] = 112,
+    [15] = 111,
+    [16] = 114,
+    [17] = 116,
+    [2] = 117,
+    [3] = 101,
+    [4] = 117,
+    [5] = 101,
+    [6] = 95,
+    [7] = 111,
+    [8] = 110,
+    [9] = 95
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap13)
+coroutine.yield(true, 1, 113)
+coroutine.resume(wrap13)
+coroutine.yield(true, 2, 117)
+coroutine.resume(wrap13)
+coroutine.yield(true, 3, 101)
+coroutine.resume(wrap13)
+coroutine.yield(true, 4, 117)
+coroutine.resume(wrap13)
+coroutine.yield(true, 5, 101)
+coroutine.resume(wrap13)
+coroutine.yield(true, 6, 95)
+coroutine.resume(wrap13)
+coroutine.yield(true, 7, 111)
+coroutine.resume(wrap13)
+coroutine.yield(true, 8, 110)
+coroutine.resume(wrap13)
+coroutine.yield(true, 9, 95)
+coroutine.resume(wrap13)
+coroutine.yield(true, 10, 116)
+coroutine.resume(wrap13)
+coroutine.yield(true, 11, 101)
+coroutine.resume(wrap13)
+coroutine.yield(true, 12, 108)
+coroutine.resume(wrap13)
+coroutine.yield(true, 13, 101)
+coroutine.resume(wrap13)
+coroutine.yield(true, 14, 112)
+coroutine.resume(wrap13)
+coroutine.yield(true, 15, 111)
+coroutine.resume(wrap13)
+coroutine.yield(true, 16, 114)
+coroutine.resume(wrap13)
+coroutine.yield(true, 17, 116)
+coroutine.resume(wrap13)
+coroutine.resume(wrap1)
+coroutine.yield(true, "getexecutorname", function() end)
+local wrap14 = coroutine.wrap(function() end)
+coroutine.resume(wrap14, function() end, {
+    [1] = 103,
+    [10] = 111,
+    [11] = 114,
+    [12] = 110,
+    [13] = 97,
+    [14] = 109,
+    [15] = 101,
+    [2] = 101,
+    [3] = 116,
+    [4] = 101,
+    [5] = 120,
+    [6] = 101,
+    [7] = 99,
+    [8] = 117,
+    [9] = 116
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap14)
+coroutine.yield(true, 1, 103)
+coroutine.resume(wrap14)
+coroutine.yield(true, 2, 101)
+coroutine.resume(wrap14)
+coroutine.yield(true, 3, 116)
+coroutine.resume(wrap14)
+coroutine.yield(true, 4, 101)
+coroutine.resume(wrap14)
+coroutine.yield(true, 5, 120)
+coroutine.resume(wrap14)
+coroutine.yield(true, 6, 101)
+coroutine.resume(wrap14)
+coroutine.yield(true, 7, 99)
+coroutine.resume(wrap14)
+coroutine.yield(true, 8, 117)
+coroutine.resume(wrap14)
+coroutine.yield(true, 9, 116)
+coroutine.resume(wrap14)
+coroutine.yield(true, 10, 111)
+coroutine.resume(wrap14)
+coroutine.yield(true, 11, 114)
+coroutine.resume(wrap14)
+coroutine.yield(true, 12, 110)
+coroutine.resume(wrap14)
+coroutine.yield(true, 13, 97)
+coroutine.resume(wrap14)
+coroutine.yield(true, 14, 109)
+coroutine.resume(wrap14)
+coroutine.yield(true, 15, 101)
+coroutine.resume(wrap14)
+coroutine.resume(wrap1)
+coroutine.yield(true, "tonumber", function() end)
+local wrap15 = coroutine.wrap(function() end)
+coroutine.resume(wrap15, function() end, {
+    [1] = 116,
+    [2] = 111,
+    [3] = 110,
+    [4] = 117,
+    [5] = 109,
+    [6] = 98,
+    [7] = 101,
+    [8] = 114
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap15)
+coroutine.yield(true, 1, 116)
+coroutine.resume(wrap15)
+coroutine.yield(true, 2, 111)
+coroutine.resume(wrap15)
+coroutine.yield(true, 3, 110)
+coroutine.resume(wrap15)
+coroutine.yield(true, 4, 117)
+coroutine.resume(wrap15)
+coroutine.yield(true, 5, 109)
+coroutine.resume(wrap15)
+coroutine.yield(true, 6, 98)
+coroutine.resume(wrap15)
+coroutine.yield(true, 7, 101)
+coroutine.resume(wrap15)
+coroutine.yield(true, 8, 114)
+coroutine.resume(wrap15)
+coroutine.resume(wrap1)
+coroutine.yield(true, "getrawmetatable", function() end)
+local wrap16 = coroutine.wrap(function() end)
+coroutine.resume(wrap16, function() end, {
+    [1] = 103,
+    [10] = 97,
+    [11] = 116,
+    [12] = 97,
+    [13] = 98,
+    [14] = 108,
+    [15] = 101,
+    [2] = 101,
+    [3] = 116,
+    [4] = 114,
+    [5] = 97,
+    [6] = 119,
+    [7] = 109,
+    [8] = 101,
+    [9] = 116
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap16)
+coroutine.yield(true, 1, 103)
+coroutine.resume(wrap16)
+coroutine.yield(true, 2, 101)
+coroutine.resume(wrap16)
+coroutine.yield(true, 3, 116)
+coroutine.resume(wrap16)
+coroutine.yield(true, 4, 114)
+coroutine.resume(wrap16)
+coroutine.yield(true, 5, 97)
+coroutine.resume(wrap16)
+coroutine.yield(true, 6, 119)
+coroutine.resume(wrap16)
+coroutine.yield(true, 7, 109)
+coroutine.resume(wrap16)
+coroutine.yield(true, 8, 101)
+coroutine.resume(wrap16)
+coroutine.yield(true, 9, 116)
+coroutine.resume(wrap16)
+coroutine.yield(true, 10, 97)
+coroutine.resume(wrap16)
+coroutine.yield(true, 11, 116)
+coroutine.resume(wrap16)
+coroutine.yield(true, 12, 97)
+coroutine.resume(wrap16)
+coroutine.yield(true, 13, 98)
+coroutine.resume(wrap16)
+coroutine.yield(true, 14, 108)
+coroutine.resume(wrap16)
+coroutine.yield(true, 15, 101)
+coroutine.resume(wrap16)
+coroutine.resume(wrap1)
+coroutine.yield(true, "lzss_decompress", function() end)
+local wrap17 = coroutine.wrap(function() end)
+coroutine.resume(wrap17, function() end, {
+    [1] = 108,
+    [10] = 109,
+    [11] = 112,
+    [12] = 114,
+    [13] = 101,
+    [14] = 115,
+    [15] = 115,
+    [2] = 122,
+    [3] = 115,
+    [4] = 115,
+    [5] = 95,
+    [6] = 100,
+    [7] = 101,
+    [8] = 99,
+    [9] = 111
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap17)
+coroutine.yield(true, 1, 108)
+coroutine.resume(wrap17)
+coroutine.yield(true, 2, 122)
+coroutine.resume(wrap17)
+coroutine.yield(true, 3, 115)
+coroutine.resume(wrap17)
+coroutine.yield(true, 4, 115)
+coroutine.resume(wrap17)
+coroutine.yield(true, 5, 95)
+coroutine.resume(wrap17)
+coroutine.yield(true, 6, 100)
+coroutine.resume(wrap17)
+coroutine.yield(true, 7, 101)
+coroutine.resume(wrap17)
+coroutine.yield(true, 8, 99)
+coroutine.resume(wrap17)
+coroutine.yield(true, 9, 111)
+coroutine.resume(wrap17)
+coroutine.yield(true, 10, 109)
+coroutine.resume(wrap17)
+coroutine.yield(true, 11, 112)
+coroutine.resume(wrap17)
+coroutine.yield(true, 12, 114)
+coroutine.resume(wrap17)
+coroutine.yield(true, 13, 101)
+coroutine.resume(wrap17)
+coroutine.yield(true, 14, 115)
+coroutine.resume(wrap17)
+coroutine.yield(true, 15, 115)
+coroutine.resume(wrap17)
+coroutine.resume(wrap1)
+coroutine.yield(true, "isgameactive", function() end)
+local wrap18 = coroutine.wrap(function() end)
+coroutine.resume(wrap18, function() end, {
+    [1] = 105,
+    [10] = 105,
+    [11] = 118,
+    [12] = 101,
+    [2] = 115,
+    [3] = 103,
+    [4] = 97,
+    [5] = 109,
+    [6] = 101,
+    [7] = 97,
+    [8] = 99,
+    [9] = 116
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap18)
+coroutine.yield(true, 1, 105)
+coroutine.resume(wrap18)
+coroutine.yield(true, 2, 115)
+coroutine.resume(wrap18)
+coroutine.yield(true, 3, 103)
+coroutine.resume(wrap18)
+coroutine.yield(true, 4, 97)
+coroutine.resume(wrap18)
+coroutine.yield(true, 5, 109)
+coroutine.resume(wrap18)
+coroutine.yield(true, 6, 101)
+coroutine.resume(wrap18)
+coroutine.yield(true, 7, 97)
+coroutine.resume(wrap18)
+coroutine.yield(true, 8, 99)
+coroutine.resume(wrap18)
+coroutine.yield(true, 9, 116)
+coroutine.resume(wrap18)
+coroutine.yield(true, 10, 105)
+coroutine.resume(wrap18)
+coroutine.yield(true, 11, 118)
+coroutine.resume(wrap18)
+coroutine.yield(true, 12, 101)
+coroutine.resume(wrap18)
+coroutine.resume(wrap1)
+coroutine.yield(true, "load", function() end)
+local wrap19 = coroutine.wrap(function() end)
+coroutine.resume(wrap19, function() end, { [1] = 108, [2] = 111, [3] = 97, [4] = 100 }, nil)
+coroutine.yield()
+coroutine.resume(wrap19)
+coroutine.yield(true, 1, 108)
+coroutine.resume(wrap19)
+coroutine.yield(true, 2, 111)
+coroutine.resume(wrap19)
+coroutine.yield(true, 3, 97)
+coroutine.resume(wrap19)
+coroutine.yield(true, 4, 100)
+coroutine.resume(wrap19)
+coroutine.resume(wrap1)
+coroutine.yield(true, "http", { ["request"] = function() end })
+local wrap20 = coroutine.wrap(function() end)
+coroutine.resume(wrap20, function() end, { [1] = 104, [2] = 116, [3] = 116, [4] = 112 }, nil)
+coroutine.yield()
+coroutine.resume(wrap20)
+coroutine.yield(true, 1, 104)
+coroutine.resume(wrap20)
+coroutine.yield(true, 2, 116)
+coroutine.resume(wrap20)
+coroutine.yield(true, 3, 116)
+coroutine.resume(wrap20)
+coroutine.yield(true, 4, 112)
+coroutine.resume(wrap20)
+coroutine.resume(wrap1)
+coroutine.yield(true, "crypt", {
+    ["base64"] = { ["decode"] = function() end, ["encode"] = function() end },
+    ["base64_decode"] = function() end,
+    ["base64_encode"] = function() end,
+    ["base64decode"] = function() end,
+    ["base64encode"] = function() end,
+    ["decrypt"] = function() end,
+    ["encrypt"] = function() end,
+    ["generatebytes"] = function() end,
+    ["generatekey"] = function() end,
+    ["hash"] = function() end,
+    ["hash_algorithms"] = {
+        [1] = "md5",
+        [2] = "sha1",
+        [3] = "sha224",
+        [4] = "sha256",
+        [5] = "sha384",
+        [6] = "sha512"
+    }
+})
+local wrap21 = coroutine.wrap(function() end)
+coroutine.resume(wrap21, function() end, { [1] = 99, [2] = 114, [3] = 121, [4] = 112, [5] = 116 }, nil)
+coroutine.yield()
+coroutine.resume(wrap21)
+coroutine.yield(true, 1, 99)
+coroutine.resume(wrap21)
+coroutine.yield(true, 2, 114)
+coroutine.resume(wrap21)
+coroutine.yield(true, 3, 121)
+coroutine.resume(wrap21)
+coroutine.yield(true, 4, 112)
+coroutine.resume(wrap21)
+coroutine.yield(true, 5, 116)
+coroutine.resume(wrap21)
+coroutine.resume(wrap1)
+coroutine.yield(true, "setthreadcontext", function() end)
+local wrap22 = coroutine.wrap(function() end)
+coroutine.resume(wrap22, function() end, {
+    [1] = 115,
+    [10] = 99,
+    [11] = 111,
+    [12] = 110,
+    [13] = 116,
+    [14] = 101,
+    [15] = 120,
+    [16] = 116,
+    [2] = 101,
+    [3] = 116,
+    [4] = 116,
+    [5] = 104,
+    [6] = 114,
+    [7] = 101,
+    [8] = 97,
+    [9] = 100
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap22)
+coroutine.yield(true, 1, 115)
+coroutine.resume(wrap22)
+coroutine.yield(true, 2, 101)
+coroutine.resume(wrap22)
+coroutine.yield(true, 3, 116)
+coroutine.resume(wrap22)
+coroutine.yield(true, 4, 116)
+coroutine.resume(wrap22)
+coroutine.yield(true, 5, 104)
+coroutine.resume(wrap22)
+coroutine.yield(true, 6, 114)
+coroutine.resume(wrap22)
+coroutine.yield(true, 7, 101)
+coroutine.resume(wrap22)
+coroutine.yield(true, 8, 97)
+coroutine.resume(wrap22)
+coroutine.yield(true, 9, 100)
+coroutine.resume(wrap22)
+coroutine.yield(true, 10, 99)
+coroutine.resume(wrap22)
+coroutine.yield(true, 11, 111)
+coroutine.resume(wrap22)
+coroutine.yield(true, 12, 110)
+coroutine.resume(wrap22)
+coroutine.yield(true, 13, 116)
+coroutine.resume(wrap22)
+coroutine.yield(true, 14, 101)
+coroutine.resume(wrap22)
+coroutine.yield(true, 15, 120)
+coroutine.resume(wrap22)
+coroutine.yield(true, 16, 116)
+coroutine.resume(wrap22)
+coroutine.resume(wrap1)
+coroutine.yield(true, "mouse1press", function() end)
+local wrap23 = coroutine.wrap(function() end)
+coroutine.resume(wrap23, function() end, {
+    [1] = 109,
+    [10] = 115,
+    [11] = 115,
+    [2] = 111,
+    [3] = 117,
+    [4] = 115,
+    [5] = 101,
+    [6] = 49,
+    [7] = 112,
+    [8] = 114,
+    [9] = 101
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap23)
+coroutine.yield(true, 1, 109)
+coroutine.resume(wrap23)
+coroutine.yield(true, 2, 111)
+coroutine.resume(wrap23)
+coroutine.yield(true, 3, 117)
+coroutine.resume(wrap23)
+coroutine.yield(true, 4, 115)
+coroutine.resume(wrap23)
+coroutine.yield(true, 5, 101)
+coroutine.resume(wrap23)
+coroutine.yield(true, 6, 49)
+coroutine.resume(wrap23)
+coroutine.yield(true, 7, 112)
+coroutine.resume(wrap23)
+coroutine.yield(true, 8, 114)
+coroutine.resume(wrap23)
+coroutine.yield(true, 9, 101)
+coroutine.resume(wrap23)
+coroutine.yield(true, 10, 115)
+coroutine.resume(wrap23)
+coroutine.yield(true, 11, 115)
+coroutine.resume(wrap23)
+coroutine.resume(wrap1)
+coroutine.yield(true, "toclipboard", function() end)
+local wrap24 = coroutine.wrap(function() end)
+coroutine.resume(wrap24, function() end, {
+    [1] = 116,
+    [10] = 114,
+    [11] = 100,
+    [2] = 111,
+    [3] = 99,
+    [4] = 108,
+    [5] = 105,
+    [6] = 112,
+    [7] = 98,
+    [8] = 111,
+    [9] = 97
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap24)
+coroutine.yield(true, 1, 116)
+coroutine.resume(wrap24)
+coroutine.yield(true, 2, 111)
+coroutine.resume(wrap24)
+coroutine.yield(true, 3, 99)
+coroutine.resume(wrap24)
+coroutine.yield(true, 4, 108)
+coroutine.resume(wrap24)
+coroutine.yield(true, 5, 105)
+coroutine.resume(wrap24)
+coroutine.yield(true, 6, 112)
+coroutine.resume(wrap24)
+coroutine.yield(true, 7, 98)
+coroutine.resume(wrap24)
+coroutine.yield(true, 8, 111)
+coroutine.resume(wrap24)
+coroutine.yield(true, 9, 97)
+coroutine.resume(wrap24)
+coroutine.yield(true, 10, 114)
+coroutine.resume(wrap24)
+coroutine.yield(true, 11, 100)
+coroutine.resume(wrap24)
+coroutine.resume(wrap1)
+coroutine.yield(true, "newcclosure", function() end)
+local wrap25 = coroutine.wrap(function() end)
+coroutine.resume(wrap25, function() end, {
+    [1] = 110,
+    [10] = 114,
+    [11] = 101,
+    [2] = 101,
+    [3] = 119,
+    [4] = 99,
+    [5] = 99,
+    [6] = 108,
+    [7] = 111,
+    [8] = 115,
+    [9] = 117
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap25)
+coroutine.yield(true, 1, 110)
+coroutine.resume(wrap25)
+coroutine.yield(true, 2, 101)
+coroutine.resume(wrap25)
+coroutine.yield(true, 3, 119)
+coroutine.resume(wrap25)
+coroutine.yield(true, 4, 99)
+coroutine.resume(wrap25)
+coroutine.yield(true, 5, 99)
+coroutine.resume(wrap25)
+coroutine.yield(true, 6, 108)
+coroutine.resume(wrap25)
+coroutine.yield(true, 7, 111)
+coroutine.resume(wrap25)
+coroutine.yield(true, 8, 115)
+coroutine.resume(wrap25)
+coroutine.yield(true, 9, 117)
+coroutine.resume(wrap25)
+coroutine.yield(true, 10, 114)
+coroutine.resume(wrap25)
+coroutine.yield(true, 11, 101)
+coroutine.resume(wrap25)
+coroutine.resume(wrap1)
+coroutine.yield(true, "request", function() end)
+local wrap26 = coroutine.wrap(function() end)
+coroutine.resume(wrap26, function() end, {
+    [1] = 114,
+    [2] = 101,
+    [3] = 113,
+    [4] = 117,
+    [5] = 101,
+    [6] = 115,
+    [7] = 116
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap26)
+coroutine.yield(true, 1, 114)
+coroutine.resume(wrap26)
+coroutine.yield(true, 2, 101)
+coroutine.resume(wrap26)
+coroutine.yield(true, 3, 113)
+coroutine.resume(wrap26)
+coroutine.yield(true, 4, 117)
+coroutine.resume(wrap26)
+coroutine.yield(true, 5, 101)
+coroutine.resume(wrap26)
+coroutine.yield(true, 6, 115)
+coroutine.resume(wrap26)
+coroutine.yield(true, 7, 116)
+coroutine.resume(wrap26)
+coroutine.resume(wrap1)
+coroutine.yield(true, "coroutine", {
+    ["close"] = function() end,
+    ["create"] = function() end,
+    ["isyieldable"] = function() end,
+    ["resume"] = function() end,
+    ["running"] = function() end,
+    ["status"] = function() end,
+    ["wrap"] = function() end,
+    ["yield"] = function() end
+})
+local wrap27 = coroutine.wrap(function() end)
+coroutine.resume(wrap27, function() end, {
+    [1] = 99,
+    [2] = 111,
+    [3] = 114,
+    [4] = 111,
+    [5] = 117,
+    [6] = 116,
+    [7] = 105,
+    [8] = 110,
+    [9] = 101
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap27)
+coroutine.yield(true, 1, 99)
+coroutine.resume(wrap27)
+coroutine.yield(true, 2, 111)
+coroutine.resume(wrap27)
+coroutine.yield(true, 3, 114)
+coroutine.resume(wrap27)
+coroutine.yield(true, 4, 111)
+coroutine.resume(wrap27)
+coroutine.yield(true, 5, 117)
+coroutine.resume(wrap27)
+coroutine.yield(true, 6, 116)
+coroutine.resume(wrap27)
+coroutine.yield(true, 7, 105)
+coroutine.resume(wrap27)
+coroutine.yield(true, 8, 110)
+coroutine.resume(wrap27)
+coroutine.yield(true, 9, 101)
+coroutine.resume(wrap27)
+coroutine.resume(wrap1)
+coroutine.yield(true, "shared", { ["_G"] = "<loop>", ["shared"] = "<loop>" })
+local wrap28 = coroutine.wrap(function() end)
+coroutine.resume(wrap28, function() end, {
+    [1] = 115,
+    [2] = 104,
+    [3] = 97,
+    [4] = 114,
+    [5] = 101,
+    [6] = 100
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap28)
+coroutine.yield(true, 1, 115)
+coroutine.resume(wrap28)
+coroutine.yield(true, 2, 104)
+coroutine.resume(wrap28)
+coroutine.yield(true, 3, 97)
+coroutine.resume(wrap28)
+coroutine.yield(true, 4, 114)
+coroutine.resume(wrap28)
+coroutine.yield(true, 5, 101)
+coroutine.resume(wrap28)
+coroutine.yield(true, 6, 100)
+coroutine.resume(wrap28)
+coroutine.resume(wrap1)
+coroutine.yield(true, "cloneref", function() end)
+local wrap29 = coroutine.wrap(function() end)
+coroutine.resume(wrap29, function() end, {
+    [1] = 99,
+    [2] = 108,
+    [3] = 111,
+    [4] = 110,
+    [5] = 101,
+    [6] = 114,
+    [7] = 101,
+    [8] = 102
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap29)
+coroutine.yield(true, 1, 99)
+coroutine.resume(wrap29)
+coroutine.yield(true, 2, 108)
+coroutine.resume(wrap29)
+coroutine.yield(true, 3, 111)
+coroutine.resume(wrap29)
+coroutine.yield(true, 4, 110)
+coroutine.resume(wrap29)
+coroutine.yield(true, 5, 101)
+coroutine.resume(wrap29)
+coroutine.yield(true, 6, 114)
+coroutine.resume(wrap29)
+coroutine.yield(true, 7, 101)
+coroutine.resume(wrap29)
+coroutine.yield(true, 8, 102)
+coroutine.resume(wrap29)
+coroutine.resume(wrap1)
+coroutine.yield(true, "setscriptable", function() end)
+local wrap30 = coroutine.wrap(function() end)
+coroutine.resume(wrap30, function() end, {
+    [1] = 115,
+    [10] = 97,
+    [11] = 98,
+    [12] = 108,
+    [13] = 101,
+    [2] = 101,
+    [3] = 116,
+    [4] = 115,
+    [5] = 99,
+    [6] = 114,
+    [7] = 105,
+    [8] = 112,
+    [9] = 116
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap30)
+coroutine.yield(true, 1, 115)
+coroutine.resume(wrap30)
+coroutine.yield(true, 2, 101)
+coroutine.resume(wrap30)
+coroutine.yield(true, 3, 116)
+coroutine.resume(wrap30)
+coroutine.yield(true, 4, 115)
+coroutine.resume(wrap30)
+coroutine.yield(true, 5, 99)
+coroutine.resume(wrap30)
+coroutine.yield(true, 6, 114)
+coroutine.resume(wrap30)
+coroutine.yield(true, 7, 105)
+coroutine.resume(wrap30)
+coroutine.yield(true, 8, 112)
+coroutine.resume(wrap30)
+coroutine.yield(true, 9, 116)
+coroutine.resume(wrap30)
+coroutine.yield(true, 10, 97)
+coroutine.resume(wrap30)
+coroutine.yield(true, 11, 98)
+coroutine.resume(wrap30)
+coroutine.yield(true, 12, 108)
+coroutine.resume(wrap30)
+coroutine.yield(true, 13, 101)
+coroutine.resume(wrap30)
+coroutine.resume(wrap1)
+coroutine.yield(true, "http_request", function() end)
+local wrap31 = coroutine.wrap(function() end)
+coroutine.resume(wrap31, function() end, {
+    [1] = 104,
+    [10] = 101,
+    [11] = 115,
+    [12] = 116,
+    [2] = 116,
+    [3] = 116,
+    [4] = 112,
+    [5] = 95,
+    [6] = 114,
+    [7] = 101,
+    [8] = 113,
+    [9] = 117
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap31)
+coroutine.yield(true, 1, 104)
+coroutine.resume(wrap31)
+coroutine.yield(true, 2, 116)
+coroutine.resume(wrap31)
+coroutine.yield(true, 3, 116)
+coroutine.resume(wrap31)
+coroutine.yield(true, 4, 112)
+coroutine.resume(wrap31)
+coroutine.yield(true, 5, 95)
+coroutine.resume(wrap31)
+coroutine.yield(true, 6, 114)
+coroutine.resume(wrap31)
+coroutine.yield(true, 7, 101)
+coroutine.resume(wrap31)
+coroutine.yield(true, 8, 113)
+coroutine.resume(wrap31)
+coroutine.yield(true, 9, 117)
+coroutine.resume(wrap31)
+coroutine.yield(true, 10, 101)
+coroutine.resume(wrap31)
+coroutine.yield(true, 11, 115)
+coroutine.resume(wrap31)
+coroutine.yield(true, 12, 116)
+coroutine.resume(wrap31)
+coroutine.resume(wrap1)
+coroutine.yield(true, "Font", Font)
+local wrap32 = coroutine.wrap(function() end)
+coroutine.resume(wrap32, function() end, { [1] = 70, [2] = 111, [3] = 110, [4] = 116 }, nil)
+coroutine.yield()
+coroutine.resume(wrap32)
+coroutine.yield(true, 1, 70)
+coroutine.resume(wrap32)
+coroutine.yield(true, 2, 111)
+coroutine.resume(wrap32)
+coroutine.yield(true, 3, 110)
+coroutine.resume(wrap32)
+coroutine.yield(true, 4, 116)
+coroutine.resume(wrap32)
+coroutine.resume(wrap1)
+coroutine.yield(true, "mousescroll", function() end)
+local wrap33 = coroutine.wrap(function() end)
+coroutine.resume(wrap33, function() end, {
+    [1] = 109,
+    [10] = 108,
+    [11] = 108,
+    [2] = 111,
+    [3] = 117,
+    [4] = 115,
+    [5] = 101,
+    [6] = 115,
+    [7] = 99,
+    [8] = 114,
+    [9] = 111
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap33)
+coroutine.yield(true, 1, 109)
+coroutine.resume(wrap33)
+coroutine.yield(true, 2, 111)
+coroutine.resume(wrap33)
+coroutine.yield(true, 3, 117)
+coroutine.resume(wrap33)
+coroutine.yield(true, 4, 115)
+coroutine.resume(wrap33)
+coroutine.yield(true, 5, 101)
+coroutine.resume(wrap33)
+coroutine.yield(true, 6, 115)
+coroutine.resume(wrap33)
+coroutine.yield(true, 7, 99)
+coroutine.resume(wrap33)
+coroutine.yield(true, 8, 114)
+coroutine.resume(wrap33)
+coroutine.yield(true, 9, 111)
+coroutine.resume(wrap33)
+coroutine.yield(true, 10, 108)
+coroutine.resume(wrap33)
+coroutine.yield(true, 11, 108)
+coroutine.resume(wrap33)
+coroutine.resume(wrap1)
+coroutine.yield(true, "hookmetatable", function() end)
+local wrap34 = coroutine.wrap(function() end)
+coroutine.resume(wrap34, function() end, {
+    [1] = 104,
+    [10] = 97,
+    [11] = 98,
+    [12] = 108,
+    [13] = 101,
+    [2] = 111,
+    [3] = 111,
+    [4] = 107,
+    [5] = 109,
+    [6] = 101,
+    [7] = 116,
+    [8] = 97,
+    [9] = 116
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap34)
+coroutine.yield(true, 1, 104)
+coroutine.resume(wrap34)
+coroutine.yield(true, 2, 111)
+coroutine.resume(wrap34)
+coroutine.yield(true, 3, 111)
+coroutine.resume(wrap34)
+coroutine.yield(true, 4, 107)
+coroutine.resume(wrap34)
+coroutine.yield(true, 5, 109)
+coroutine.resume(wrap34)
+coroutine.yield(true, 6, 101)
+coroutine.resume(wrap34)
+coroutine.yield(true, 7, 116)
+coroutine.resume(wrap34)
+coroutine.yield(true, 8, 97)
+coroutine.resume(wrap34)
+coroutine.yield(true, 9, 116)
+coroutine.resume(wrap34)
+coroutine.yield(true, 10, 97)
+coroutine.resume(wrap34)
+coroutine.yield(true, 11, 98)
+coroutine.resume(wrap34)
+coroutine.yield(true, 12, 108)
+coroutine.resume(wrap34)
+coroutine.yield(true, 13, 101)
+coroutine.resume(wrap34)
+coroutine.resume(wrap1)
+coroutine.yield(true, "make_writeable", function() end)
+local wrap35 = coroutine.wrap(function() end)
+coroutine.resume(wrap35, function() end, {
+    [1] = 109,
+    [10] = 101,
+    [11] = 97,
+    [12] = 98,
+    [13] = 108,
+    [14] = 101,
+    [2] = 97,
+    [3] = 107,
+    [4] = 101,
+    [5] = 95,
+    [6] = 119,
+    [7] = 114,
+    [8] = 105,
+    [9] = 116
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap35)
+coroutine.yield(true, 1, 109)
+coroutine.resume(wrap35)
+coroutine.yield(true, 2, 97)
+coroutine.resume(wrap35)
+coroutine.yield(true, 3, 107)
+coroutine.resume(wrap35)
+coroutine.yield(true, 4, 101)
+coroutine.resume(wrap35)
+coroutine.yield(true, 5, 95)
+coroutine.resume(wrap35)
+coroutine.yield(true, 6, 119)
+coroutine.resume(wrap35)
+coroutine.yield(true, 7, 114)
+coroutine.resume(wrap35)
+coroutine.yield(true, 8, 105)
+coroutine.resume(wrap35)
+coroutine.yield(true, 9, 116)
+coroutine.resume(wrap35)
+coroutine.yield(true, 10, 101)
+coroutine.resume(wrap35)
+coroutine.yield(true, 11, 97)
+coroutine.resume(wrap35)
+coroutine.yield(true, 12, 98)
+coroutine.resume(wrap35)
+coroutine.yield(true, 13, 108)
+coroutine.resume(wrap35)
+coroutine.yield(true, 14, 101)
+coroutine.resume(wrap35)
+coroutine.resume(wrap1)
+coroutine.yield(true, "spawn", function() end)
+local wrap36 = coroutine.wrap(function() end)
+coroutine.resume(wrap36, function() end, { [1] = 115, [2] = 112, [3] = 97, [4] = 119, [5] = 110 }, nil)
+coroutine.yield()
+coroutine.resume(wrap36)
+coroutine.yield(true, 1, 115)
+coroutine.resume(wrap36)
+coroutine.yield(true, 2, 112)
+coroutine.resume(wrap36)
+coroutine.yield(true, 3, 97)
+coroutine.resume(wrap36)
+coroutine.yield(true, 4, 119)
+coroutine.resume(wrap36)
+coroutine.yield(true, 5, 110)
+coroutine.resume(wrap36)
+coroutine.resume(wrap1)
+coroutine.yield(true, "isourclosure", function() end)
+local wrap37 = coroutine.wrap(function() end)
+coroutine.resume(wrap37, function() end, {
+    [1] = 105,
+    [10] = 117,
+    [11] = 114,
+    [12] = 101,
+    [2] = 115,
+    [3] = 111,
+    [4] = 117,
+    [5] = 114,
+    [6] = 99,
+    [7] = 108,
+    [8] = 111,
+    [9] = 115
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap37)
+coroutine.yield(true, 1, 105)
+coroutine.resume(wrap37)
+coroutine.yield(true, 2, 115)
+coroutine.resume(wrap37)
+coroutine.yield(true, 3, 111)
+coroutine.resume(wrap37)
+coroutine.yield(true, 4, 117)
+coroutine.resume(wrap37)
+coroutine.yield(true, 5, 114)
+coroutine.resume(wrap37)
+coroutine.yield(true, 6, 99)
+coroutine.resume(wrap37)
+coroutine.yield(true, 7, 108)
+coroutine.resume(wrap37)
+coroutine.yield(true, 8, 111)
+coroutine.resume(wrap37)
+coroutine.yield(true, 9, 115)
+coroutine.resume(wrap37)
+coroutine.yield(true, 10, 117)
+coroutine.resume(wrap37)
+coroutine.yield(true, 11, 114)
+coroutine.resume(wrap37)
+coroutine.yield(true, 12, 101)
+coroutine.resume(wrap37)
+coroutine.resume(wrap1)
+coroutine.yield(true, "string", {
+    ["byte"] = function() end,
+    ["char"] = function() end,
+    ["find"] = function() end,
+    ["format"] = function() end,
+    ["gmatch"] = function() end,
+    ["gsub"] = function() end,
+    ["len"] = function() end,
+    ["lower"] = function() end,
+    ["match"] = function() end,
+    ["pack"] = function() end,
+    ["packsize"] = function() end,
+    ["rep"] = function() end,
+    ["reverse"] = function() end,
+    ["split"] = function() end,
+    ["sub"] = function() end,
+    ["trim"] = function() end,
+    ["unpack"] = function() end,
+    ["upper"] = function() end
+})
+local wrap38 = coroutine.wrap(function() end)
+coroutine.resume(wrap38, function() end, {
+    [1] = 115,
+    [2] = 116,
+    [3] = 114,
+    [4] = 105,
+    [5] = 110,
+    [6] = 103
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap38)
+coroutine.yield(true, 1, 115)
+coroutine.resume(wrap38)
+coroutine.yield(true, 2, 116)
+coroutine.resume(wrap38)
+coroutine.yield(true, 3, 114)
+coroutine.resume(wrap38)
+coroutine.yield(true, 4, 105)
+coroutine.resume(wrap38)
+coroutine.yield(true, 5, 110)
+coroutine.resume(wrap38)
+coroutine.yield(true, 6, 103)
+coroutine.resume(wrap38)
+coroutine.resume(wrap1)
+coroutine.yield(true, "getreg", function() end)
+local wrap39 = coroutine.wrap(function() end)
+coroutine.resume(wrap39, function() end, {
+    [1] = 103,
+    [2] = 101,
+    [3] = 116,
+    [4] = 114,
+    [5] = 101,
+    [6] = 103
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap39)
+coroutine.yield(true, 1, 103)
+coroutine.resume(wrap39)
+coroutine.yield(true, 2, 101)
+coroutine.resume(wrap39)
+coroutine.yield(true, 3, 116)
+coroutine.resume(wrap39)
+coroutine.yield(true, 4, 114)
+coroutine.resume(wrap39)
+coroutine.yield(true, 5, 101)
+coroutine.resume(wrap39)
+coroutine.yield(true, 6, 103)
+coroutine.resume(wrap39)
+coroutine.resume(wrap1)
+coroutine.yield(true, "isfile", function() end)
+local wrap40 = coroutine.wrap(function() end)
+coroutine.resume(wrap40, function() end, {
+    [1] = 105,
+    [2] = 115,
+    [3] = 102,
+    [4] = 105,
+    [5] = 108,
+    [6] = 101
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap40)
+coroutine.yield(true, 1, 105)
+coroutine.resume(wrap40)
+coroutine.yield(true, 2, 115)
+coroutine.resume(wrap40)
+coroutine.yield(true, 3, 102)
+coroutine.resume(wrap40)
+coroutine.yield(true, 4, 105)
+coroutine.resume(wrap40)
+coroutine.yield(true, 5, 108)
+coroutine.resume(wrap40)
+coroutine.yield(true, 6, 101)
+coroutine.resume(wrap40)
+coroutine.resume(wrap1)
+coroutine.yield(true, "mouse2release", function() end)
+local wrap41 = coroutine.wrap(function() end)
+coroutine.resume(wrap41, function() end, {
+    [1] = 109,
+    [10] = 101,
+    [11] = 97,
+    [12] = 115,
+    [13] = 101,
+    [2] = 111,
+    [3] = 117,
+    [4] = 115,
+    [5] = 101,
+    [6] = 50,
+    [7] = 114,
+    [8] = 101,
+    [9] = 108
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap41)
+coroutine.yield(true, 1, 109)
+coroutine.resume(wrap41)
+coroutine.yield(true, 2, 111)
+coroutine.resume(wrap41)
+coroutine.yield(true, 3, 117)
+coroutine.resume(wrap41)
+coroutine.yield(true, 4, 115)
+coroutine.resume(wrap41)
+coroutine.yield(true, 5, 101)
+coroutine.resume(wrap41)
+coroutine.yield(true, 6, 50)
+coroutine.resume(wrap41)
+coroutine.yield(true, 7, 114)
+coroutine.resume(wrap41)
+coroutine.yield(true, 8, 101)
+coroutine.resume(wrap41)
+coroutine.yield(true, 9, 108)
+coroutine.resume(wrap41)
+coroutine.yield(true, 10, 101)
+coroutine.resume(wrap41)
+coroutine.yield(true, 11, 97)
+coroutine.resume(wrap41)
+coroutine.yield(true, 12, 115)
+coroutine.resume(wrap41)
+coroutine.yield(true, 13, 101)
+coroutine.resume(wrap41)
+coroutine.resume(wrap1)
+coroutine.yield(true, "Vector3", {
+    ["fromAxis"] = function() end,
+    ["fromNormalId"] = function() end,
+    ["new"] = function() end,
+    ["one"] = Vector3.new(1, 1, 1),
+    ["zero"] = Vector3.new(0, 0, 0)
+})
+local wrap42 = coroutine.wrap(function() end)
+coroutine.resume(wrap42, function() end, {
+    [1] = 86,
+    [2] = 101,
+    [3] = 99,
+    [4] = 116,
+    [5] = 111,
+    [6] = 114,
+    [7] = 51
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap42)
+coroutine.yield(true, 1, 86)
+coroutine.resume(wrap42)
+coroutine.yield(true, 2, 101)
+coroutine.resume(wrap42)
+coroutine.yield(true, 3, 99)
+coroutine.resume(wrap42)
+coroutine.yield(true, 4, 116)
+coroutine.resume(wrap42)
+coroutine.yield(true, 5, 111)
+coroutine.resume(wrap42)
+coroutine.yield(true, 6, 114)
+coroutine.resume(wrap42)
+coroutine.yield(true, 7, 51)
+coroutine.resume(wrap42)
+coroutine.resume(wrap1)
+coroutine.yield(true, "print", function() end)
+local wrap43 = coroutine.wrap(function() end)
+coroutine.resume(wrap43, function() end, { [1] = 112, [2] = 114, [3] = 105, [4] = 110, [5] = 116 }, nil)
+coroutine.yield()
+coroutine.resume(wrap43)
+coroutine.yield(true, 1, 112)
+coroutine.resume(wrap43)
+coroutine.yield(true, 2, 114)
+coroutine.resume(wrap43)
+coroutine.yield(true, 3, 105)
+coroutine.resume(wrap43)
+coroutine.yield(true, 4, 110)
+coroutine.resume(wrap43)
+coroutine.yield(true, 5, 116)
+coroutine.resume(wrap43)
+coroutine.resume(wrap1)
+coroutine.yield(true, "UDim", { ["new"] = function() end })
+local wrap44 = coroutine.wrap(function() end)
+coroutine.resume(wrap44, function() end, { [1] = 85, [2] = 68, [3] = 105, [4] = 109 }, nil)
+coroutine.yield()
+coroutine.resume(wrap44)
+coroutine.yield(true, 1, 85)
+coroutine.resume(wrap44)
+coroutine.yield(true, 2, 68)
+coroutine.resume(wrap44)
+coroutine.yield(true, 3, 105)
+coroutine.resume(wrap44)
+coroutine.yield(true, 4, 109)
+coroutine.resume(wrap44)
+coroutine.resume(wrap1)
+coroutine.yield(true, "isrbxactive", function() end)
+local wrap45 = coroutine.wrap(function() end)
+coroutine.resume(wrap45, function() end, {
+    [1] = 105,
+    [10] = 118,
+    [11] = 101,
+    [2] = 115,
+    [3] = 114,
+    [4] = 98,
+    [5] = 120,
+    [6] = 97,
+    [7] = 99,
+    [8] = 116,
+    [9] = 105
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap45)
+coroutine.yield(true, 1, 105)
+coroutine.resume(wrap45)
+coroutine.yield(true, 2, 115)
+coroutine.resume(wrap45)
+coroutine.yield(true, 3, 114)
+coroutine.resume(wrap45)
+coroutine.yield(true, 4, 98)
+coroutine.resume(wrap45)
+coroutine.yield(true, 5, 120)
+coroutine.resume(wrap45)
+coroutine.yield(true, 6, 97)
+coroutine.resume(wrap45)
+coroutine.yield(true, 7, 99)
+coroutine.resume(wrap45)
+coroutine.yield(true, 8, 116)
+coroutine.resume(wrap45)
+coroutine.yield(true, 9, 105)
+coroutine.resume(wrap45)
+coroutine.yield(true, 10, 118)
+coroutine.resume(wrap45)
+coroutine.yield(true, 11, 101)
+coroutine.resume(wrap45)
+coroutine.resume(wrap1)
+coroutine.yield(true, "rconsoleinfo", function() end)
+local wrap46 = coroutine.wrap(function() end)
+coroutine.resume(wrap46, function() end, {
+    [1] = 114,
+    [10] = 110,
+    [11] = 102,
+    [12] = 111,
+    [2] = 99,
+    [3] = 111,
+    [4] = 110,
+    [5] = 115,
+    [6] = 111,
+    [7] = 108,
+    [8] = 101,
+    [9] = 105
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap46)
+coroutine.yield(true, 1, 114)
+coroutine.resume(wrap46)
+coroutine.yield(true, 2, 99)
+coroutine.resume(wrap46)
+coroutine.yield(true, 3, 111)
+coroutine.resume(wrap46)
+coroutine.yield(true, 4, 110)
+coroutine.resume(wrap46)
+coroutine.yield(true, 5, 115)
+coroutine.resume(wrap46)
+coroutine.yield(true, 6, 111)
+coroutine.resume(wrap46)
+coroutine.yield(true, 7, 108)
+coroutine.resume(wrap46)
+coroutine.yield(true, 8, 101)
+coroutine.resume(wrap46)
+coroutine.yield(true, 9, 105)
+coroutine.resume(wrap46)
+coroutine.yield(true, 10, 110)
+coroutine.resume(wrap46)
+coroutine.yield(true, 11, 102)
+coroutine.resume(wrap46)
+coroutine.yield(true, 12, 111)
+coroutine.resume(wrap46)
+coroutine.resume(wrap1)
+coroutine.yield(true, "RaycastParams", { ["new"] = function() end })
+local wrap47 = coroutine.wrap(function() end)
+coroutine.resume(wrap47, function() end, {
+    [1] = 82,
+    [10] = 114,
+    [11] = 97,
+    [12] = 109,
+    [13] = 115,
+    [2] = 97,
+    [3] = 121,
+    [4] = 99,
+    [5] = 97,
+    [6] = 115,
+    [7] = 116,
+    [8] = 80,
+    [9] = 97
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap47)
+coroutine.yield(true, 1, 82)
+coroutine.resume(wrap47)
+coroutine.yield(true, 2, 97)
+coroutine.resume(wrap47)
+coroutine.yield(true, 3, 121)
+coroutine.resume(wrap47)
+coroutine.yield(true, 4, 99)
+coroutine.resume(wrap47)
+coroutine.yield(true, 5, 97)
+coroutine.resume(wrap47)
+coroutine.yield(true, 6, 115)
+coroutine.resume(wrap47)
+coroutine.yield(true, 7, 116)
+coroutine.resume(wrap47)
+coroutine.yield(true, 8, 80)
+coroutine.resume(wrap47)
+coroutine.yield(true, 9, 97)
+coroutine.resume(wrap47)
+coroutine.yield(true, 10, 114)
+coroutine.resume(wrap47)
+coroutine.yield(true, 11, 97)
+coroutine.resume(wrap47)
+coroutine.yield(true, 12, 109)
+coroutine.resume(wrap47)
+coroutine.yield(true, 13, 115)
+coroutine.resume(wrap47)
+coroutine.resume(wrap1)
+coroutine.yield(true, "table", {
+    ["clear"] = function() end,
+    ["clone"] = function() end,
+    ["concat"] = function() end,
+    ["create"] = function() end,
+    ["find"] = function() end,
+    ["foreach"] = function() end,
+    ["foreachi"] = function() end,
+    ["freeze"] = function() end,
+    ["getn"] = function() end,
+    ["insert"] = function() end,
+    ["isfrozen"] = function() end,
+    ["maxn"] = function() end,
+    ["move"] = function() end,
+    ["pack"] = function() end,
+    ["remove"] = function() end,
+    ["sort"] = function() end,
+    ["unpack"] = function() end
+})
+local wrap48 = coroutine.wrap(function() end)
+coroutine.resume(wrap48, function() end, { [1] = 116, [2] = 97, [3] = 98, [4] = 108, [5] = 101 }, nil)
+coroutine.yield()
+coroutine.resume(wrap48)
+coroutine.yield(true, 1, 116)
+coroutine.resume(wrap48)
+coroutine.yield(true, 2, 97)
+coroutine.resume(wrap48)
+coroutine.yield(true, 3, 98)
+coroutine.resume(wrap48)
+coroutine.yield(true, 4, 108)
+coroutine.resume(wrap48)
+coroutine.yield(true, 5, 101)
+coroutine.resume(wrap48)
+coroutine.resume(wrap1)
+coroutine.yield(true, "TweenInfo", { ["new"] = function() end })
+local wrap49 = coroutine.wrap(function() end)
+coroutine.resume(wrap49, function() end, {
+    [1] = 84,
+    [2] = 119,
+    [3] = 101,
+    [4] = 101,
+    [5] = 110,
+    [6] = 73,
+    [7] = 110,
+    [8] = 102,
+    [9] = 111
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap49)
+coroutine.yield(true, 1, 84)
+coroutine.resume(wrap49)
+coroutine.yield(true, 2, 119)
+coroutine.resume(wrap49)
+coroutine.yield(true, 3, 101)
+coroutine.resume(wrap49)
+coroutine.yield(true, 4, 101)
+coroutine.resume(wrap49)
+coroutine.yield(true, 5, 110)
+coroutine.resume(wrap49)
+coroutine.yield(true, 6, 73)
+coroutine.resume(wrap49)
+coroutine.yield(true, 7, 110)
+coroutine.resume(wrap49)
+coroutine.yield(true, 8, 102)
+coroutine.resume(wrap49)
+coroutine.yield(true, 9, 111)
+coroutine.resume(wrap49)
+coroutine.resume(wrap1)
+coroutine.yield(true, "stats", stats)
+local wrap50 = coroutine.wrap(function() end)
+coroutine.resume(wrap50, function() end, { [1] = 115, [2] = 116, [3] = 97, [4] = 116, [5] = 115 }, nil)
+coroutine.yield()
+coroutine.resume(wrap50)
+coroutine.yield(true, 1, 115)
+coroutine.resume(wrap50)
+coroutine.yield(true, 2, 116)
+coroutine.resume(wrap50)
+coroutine.yield(true, 3, 97)
+coroutine.resume(wrap50)
+coroutine.yield(true, 4, 116)
+coroutine.resume(wrap50)
+coroutine.yield(true, 5, 115)
+coroutine.resume(wrap50)
+coroutine.resume(wrap1)
+coroutine.yield(true, "hookfunction", function() end)
+local wrap51 = coroutine.wrap(function() end)
+coroutine.resume(wrap51, function() end, {
+    [1] = 104,
+    [10] = 105,
+    [11] = 111,
+    [12] = 110,
+    [2] = 111,
+    [3] = 111,
+    [4] = 107,
+    [5] = 102,
+    [6] = 117,
+    [7] = 110,
+    [8] = 99,
+    [9] = 116
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap51)
+coroutine.yield(true, 1, 104)
+coroutine.resume(wrap51)
+coroutine.yield(true, 2, 111)
+coroutine.resume(wrap51)
+coroutine.yield(true, 3, 111)
+coroutine.resume(wrap51)
+coroutine.yield(true, 4, 107)
+coroutine.resume(wrap51)
+coroutine.yield(true, 5, 102)
+coroutine.resume(wrap51)
+coroutine.yield(true, 6, 117)
+coroutine.resume(wrap51)
+coroutine.yield(true, 7, 110)
+coroutine.resume(wrap51)
+coroutine.yield(true, 8, 99)
+coroutine.resume(wrap51)
+coroutine.yield(true, 9, 116)
+coroutine.resume(wrap51)
+coroutine.yield(true, 10, 105)
+coroutine.resume(wrap51)
+coroutine.yield(true, 11, 111)
+coroutine.resume(wrap51)
+coroutine.yield(true, 12, 110)
+coroutine.resume(wrap51)
+coroutine.resume(wrap1)
+coroutine.yield(true, "Seliware", seliware)
+local wrap52 = coroutine.wrap(function() end)
+coroutine.resume(wrap52, function() end, {
+    [1] = 83,
+    [2] = 101,
+    [3] = 108,
+    [4] = 105,
+    [5] = 119,
+    [6] = 97,
+    [7] = 114,
+    [8] = 101
+}, nil)
+coroutine.yield()
+coroutine.resume(wrap52)
+coroutine.yield(true, 1, 83)
+coroutine.resume(wrap52)
+coroutine.yield(true, 2, 101)
+coroutine.resume(wrap52)
+coroutine.yield(true, 3, 108)
+coroutine.resume(wrap52)
+coroutine.yield(true, 4, 105)
+coroutine.resume(wrap52)
+coroutine.yield(true, 5, 119)
+coroutine.resume(wrap52)
+coroutine.yield(true, 6, 97)
+coroutine.resume(wrap52)
+coroutine.yield(true, 7, 114)
+coroutine.resume(wrap52)
+coroutine.yield(true, 8, 101)
+coroutine.resume(wrap52)
+local wrap53 = coroutine.wrap(function() end)
+coroutine.resume(wrap53, function() end, { [1] = game, [2] = workspace, [3] = script }, nil)
+coroutine.yield()
+coroutine.resume(wrap53)
+coroutine.yield(true, 1, game)
+coroutine.resume(wrap53)
+coroutine.yield(true, 2, workspace)
+coroutine.resume(wrap53)
+coroutine.yield(true, 3, script)
+coroutine.resume(wrap53)
+error("[string \"Luraph    \"]:1: attempt to concatenate table with table")
