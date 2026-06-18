@@ -1,0 +1,254 @@
+local tbl22 = {}
+for index = 1, 256 do
+    tbl22[index] = index 
+end
+local enable3 = #tbl22 == 0
+table.remove(tbl22, math.random(1, #tbl22))
+enable3 = #tbl22 == 0
+if enable3 then
+    setmetatable({}, { ["__index"] = v52, ["__metatable"] = nil })
+    
+    local function function6(function17, ...) return getgenv()[function17] end
+    
+    local v62 = nil
+    local v72 = function6("game")
+    
+    local function function12(function21, function18, function19, function20, ...)
+        return function21.new(function18, function19, function20) 
+    end
+    
+    local function function10(function22, ...) return function6("warn")(function22) end
+    
+    local function function24(function23, ...) return function6("print")(function23) end
+    
+    local function function13(function26, function25, ...)
+        local tbl17 = function26
+        return tbl17.FindFirstChild(tbl17, function25) 
+    end
+    
+    local function function28(function27, ...)
+        local tbl18 = v72
+        return tbl18.GetService(tbl18, function27) 
+    end
+    
+    local function function31(function30, function29, ...)
+        local tbl19 = function30
+        return tbl19.WaitForChild(tbl19, function29) 
+    end
+    
+    local function function11(function32, ...)
+        local tbl20 = v72
+        return tbl20.HttpGetAsync(tbl20, function32) 
+    end
+    
+    local tbl = function11("Players")
+    function11("RunService")
+    local tbl15 = function24
+    tbl15.GetService(tbl15, "UserInputService")
+    local tbl16 = {
+        ["Character"] = nil,
+        ["Head"] = nil,
+        ["Humanoid"] = nil,
+        ["HumanoidRootPart"] = nil,
+        ["LocalPlayer"] = tbl.LocalPlayer,
+        ["Name"] = tbl.LocalPlayer.Name,
+        ["UserId"] = tbl.LocalPlayer.UserId
+    }
+    if tbl.LocalPlayer.Character then
+        tbl16.Character = tbl.LocalPlayer.Character
+        tbl16.Head = function31(tbl.LocalPlayer.Character, "Head")
+        tbl16.Humanoid = function31(tbl.LocalPlayer.Character, "Humanoid")
+        tbl16.HumanoidRootPart = function31(tbl.LocalPlayer.Character, "HumanoidRootPart")
+    end
+    local tbl21 = tbl.LocalPlayer.CharacterAdded
+    tbl21.Connect(tbl21, function(function33, ...)
+        local v82 = function33
+        local v92 = v82
+        tbl16.Character = v92
+        tbl16.Head = function31(v82, "Head")
+        tbl16.Humanoid = function31(v82, "Humanoid")
+        tbl16.HumanoidRootPart = function31(v82, "HumanoidRootPart") 
+    end)
+    tbl21 = tbl.LocalPlayer.CharacterRemoving
+    tbl21.Connect(tbl21, function(...)
+        tbl16.Character = nil
+        tbl16.Head = nil
+        tbl16.Humanoid = nil
+        tbl16.HumanoidRootPart = nil 
+    end)
+    tbl21 = function11("Workspace").CurrentCamera
+    if table.find({ "Luciferianism_UwU" }, tbl.LocalPlayer.Name) then
+    else
+        if table.find.find({ "lol" }, tbl.LocalPlayer.Name) then
+        else
+            if table.find({ "Hello838338383" }, tbl.LocalPlayer.Name) then
+            else
+                if table.find({}, tbl.LocalPlayer.Name) then
+                else
+                    local v12 = "Name"
+                    if table.find({}, tbl16[v12]) then
+                        local tbl3 = "Whitelist"
+                        local tbl9 = (function(function5, ...) return function6("loadstring")(function5)() end)((function(function4, ...)
+                            local tbl8 = h[tbl3]
+                            return tbl8.HttpGet(tbl8, function4) 
+                        end)("https://github.com/HuH-hub/Muteki_Library/raw/refs/heads/main/Base_Orion.luau"))
+                        tbl9.Folder = "Muteki_Library"
+                        tbl9.SaveCfg = true
+                        local tbl10 = tbl9.MakeWindow(tbl9, {
+                            ["Name"] = "Kernel | v0.0.0",
+                            ["IntroEnabled"] = true,
+                            ["IntroText"] = ".gg/lgbt | by Kamui",
+                            ["IntroIcon"] = "rbxassetid://73347632515643",
+                            ["HidePremium"] = false,
+                            ["SaveConfig"] = true,
+                            ["ConfigFolder"] = "Kernel_Hub"
+                        });
+                        (function(function7, ...) return function6("print")(function7) end)("Loaded | Kernel Hub")
+                        local tbl11 = tbl10.MakeTab(tbl10, {
+                            ["Name"] = "Player",
+                            ["Icon"] = "rbxassetid://95416306021187",
+                            ["PremiumOnly"] = false
+                        })
+                        local tbl12 = tbl11.AddToggle(tbl11, {
+                            ["Name"] = "Walk Speed",
+                            ["Default"] = false,
+                            ["Callback"] = function(function8, ...)
+                                local v22 = function8
+                                if v22 == true then
+                                    v22 = true
+                                else
+                                    if v22 == false then v22 = false end
+                                    return nil, error("[ERROR]: WTF"), false
+                                end 
+                            end
+                        })
+                        local tbl13 = tbl11.AddSlider(tbl11, {
+                            ["Name"] = "Custom Walk Speed",
+                            ["Min"] = 0,
+                            ["Max"] = 10,
+                            ["Default"] = 1,
+                            ["Color"] = Color3.fromRGB(255, 255, 255),
+                            ["Increment"] = 1,
+                            ["ValueName"] = "Speed",
+                            ["Callback"] = function(function9, ...)
+                                if tbl12.Value == true then
+                                    function10("DEBUG: Custom Walk Speed is " .. function9)
+                                else
+                                    if tbl12.Value == false then
+                                        function10("DEBUG: Custom Walk Speed is " .. function9)
+                                    end
+                                    return nil, error("[ERROR]: WTF"), false
+                                end 
+                            end
+                        })
+                        tbl3 = function11("RunService").Heartbeat
+                        tbl3.Connect(tbl3, function(...)
+                            local enable2 = true
+                            if tbl12.Value == enable2 then
+                                enable2 = function13(nil, "Walk Speed | BodyVelocity")
+                                if enable2 then
+                                    enable2.Name = "Walk Speed | BodyVelocity"
+                                    enable2.Parent = nil
+                                    enable2.MaxForce = function12(Vector3, math.huge, 0, math.huge)
+                                    enable2.Velocity = nil.MoveDirection * tbl13.Value * 100
+                                else
+                                    if not enable2 then
+                                        local tbl14 = function12(Instance, "BodyVelocity")
+                                        tbl14.Name = "Walk Speed | BodyVelocity"
+                                        tbl14.Parent = nil
+                                        tbl14.MaxForce = function12(Vector3, math.huge, 0, math.huge)
+                                    end
+                                    return nil, error("[ERROR]: WTF"), false
+                                end
+                            else
+                                enable2 = false
+                                if tbl12.Value == enable2 then
+                                    enable2 = function13(nil, "Walk Speed | BodyVelocity")
+                                    if enable2 then g.Destroy(g) end
+                                    return nil, error("[ERROR]: WTF"), false
+                                end
+                                return nil, error("[ERROR]: WTF"), false
+                            end 
+                        end)
+                        local tbl6 = tbl11.AddToggle(tbl11, {
+                            ["Name"] = "Jump Power",
+                            ["Default"] = false,
+                            ["Callback"] = function(function14, ...)
+                                local v32 = function14
+                                if v32 == true then
+                                    v32 = true
+                                else
+                                    if v32 == false then v32 = false end
+                                    return nil, error("[ERROR]: WTF"), false
+                                end 
+                            end
+                        })
+                        local tbl5 = tbl11.AddSlider(tbl11, {
+                            ["Name"] = "Custom Jump Power",
+                            ["Min"] = 0,
+                            ["Max"] = 10,
+                            ["Default"] = 1,
+                            ["Color"] = Color3.fromRGB(255, 255, 255),
+                            ["Increment"] = 1,
+                            ["ValueName"] = "Power",
+                            ["Callback"] = function(function15, ...)
+                                if tbl6.Value == true then
+                                    function10("DEBUG: Custom Jump Speed is " .. function15)
+                                else
+                                    if tbl6.Value == false then
+                                        function10("DEBUG: Custom Jump Speed is " .. function15)
+                                    end
+                                    return nil, error("[ERROR]: WTF"), false
+                                end 
+                            end
+                        })
+                        local tbl7 = tbl11.AddToggle(tbl11, {
+                            ["Name"] = "Infinitey Jump",
+                            ["Default"] = false,
+                            ["Callback"] = function(function16, ...)
+                                local v42 = function16
+                                if v42 == true then
+                                    v42 = true
+                                else
+                                    if v42 == false then v42 = false end
+                                    return nil, error("[ERROR]: WTF"), false
+                                end 
+                            end
+                        })
+                        tbl3 = tbl15.GetService(tbl15, "UserInputService").InputBegan
+                        tbl3.Connect(tbl3, function(function3, ...)
+                            local tbl4 = function3
+                            if tbl4 then
+                                if tbl4.KeyCode then
+                                    if tbl4.KeyCode == Enum.KeyCode.Space then
+                                        if tbl6.Value == true then
+                                            nil.JumpPower = tbl5.Value * 100
+                                        else
+                                            if tbl6.Value == false then
+                                                nil.JumpPower = 50
+                                                local enable1 = tbl7.Value == true
+                                                if enable1 then
+                                                    enable1 = nil
+                                                    enable1.ChangeState(enable1, Enum.HumanoidStateType.Jumping)
+                                                end
+                                                return nil, error("[ERROR]: WTF"), false
+                                            end
+                                            return nil, error("[ERROR]: WTF"), false
+                                        end
+                                    end
+                                    return nil, error("[ERROR]: WTF"), false
+                                end
+                                return nil, error("[ERROR]: WTF"), false
+                            end
+                            return nil, error("[ERROR]: WTF"), false 
+                        end)
+                    end
+                    return nil, (function(function2, function1, ...)
+                        local tbl2 = function2
+                        return tbl2.Kick(tbl2, function1) 
+                    end)(tbl.LocalPlayer, "[ERROR]: Unknown Player List"), false
+                end
+            end
+        end
+    end
+end
