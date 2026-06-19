@@ -1,0 +1,1 @@
+error("attempt to concatenate table with string")
