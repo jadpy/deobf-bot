@@ -1,0 +1,1 @@
+error("attempt to perform arithmetic (add) on number and nil")
