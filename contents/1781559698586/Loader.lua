@@ -1,1 +1,0 @@
-error("attempt to index nil with 'MoonSec_StringsHiddenAttr'")

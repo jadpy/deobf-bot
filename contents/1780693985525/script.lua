@@ -1,2 +1,0 @@
-getgenv()
-print("OK")

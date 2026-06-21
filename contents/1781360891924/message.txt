@@ -1,3 +1,0 @@
-getgenv()
-getgenv()
-print("hi")

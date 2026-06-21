@@ -1,2 +1,0 @@
-getgenv()
-Instance.new("Part")

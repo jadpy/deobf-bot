@@ -1,6 +1,0 @@
-Instance.new("Part").Position = Vector3.new(5, 5, 0)
-Instance.new("Part").Position = Vector3.new(10, 5, 0)
-Instance.new("Part").Position = Vector3.new(15, 5, 0)
-Instance.new("Part").Position = Vector3.new(20, 5, 0)
-Instance.new("Part").Position = Vector3.new(25, 5, 0)
-Instance.new("Part").Position = Vector3.new(50, 5, 0)

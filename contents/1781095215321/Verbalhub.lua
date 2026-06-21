@@ -1,1 +1,0 @@
-game:HttpGet("https://raw.githubusercontent.com/idkuserlua/hi/refs/heads/main/aaadd", true)

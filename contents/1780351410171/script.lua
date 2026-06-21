@@ -1,2 +1,0 @@
-game:GetFullName()
-print("game")

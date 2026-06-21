@@ -1,1 +1,0 @@
-game:HttpGet("https://raw.githubusercontent.com/dg2iugesgh/rfsdv324t/main/e23v2e.lua", true)

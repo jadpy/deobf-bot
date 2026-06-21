@@ -1,6 +1,0 @@
-game:GetService("Players")
-game:GetService("RunService")
-game:GetService("TweenService")
-game:GetService("UserInputService")
-game:GetService("Debris")
-game.Players.LocalPlayer.Character.Head:Destroy()

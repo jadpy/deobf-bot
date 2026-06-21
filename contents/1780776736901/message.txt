@@ -1,1 +1,0 @@
-error("attempt to perform arithmetic (sub) on nil and number")

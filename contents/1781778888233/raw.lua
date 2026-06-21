@@ -1,1 +1,0 @@
-error("invalid argument #1 to 'pow' (number expected, got table)")
