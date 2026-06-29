@@ -1,0 +1,3 @@
+getgenv()
+coroutine.resume(coroutine.create(function(Q, m, F, u, b) return A(V, { Q, m, F, u, b }, I, i) end))
+print(111)
