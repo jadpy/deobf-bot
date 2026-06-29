@@ -1,2 +1,0 @@
-getgenv()
-coroutine.resume(coroutine.create(function(v, P, i) return s(Z, { v, P, i }, J, y) end))

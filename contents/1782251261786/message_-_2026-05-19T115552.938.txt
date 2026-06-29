@@ -1,4 +1,0 @@
-game:GetService("Players")
-workspace:FindFirstChild("PracticeArea")
-game:GetService("UserInputService")
-game:GetService("UserInputService").InputBegan:Connect(function() end)

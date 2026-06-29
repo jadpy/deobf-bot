@@ -1,3 +1,0 @@
-getgenv()
-coroutine.resume(coroutine.create(function(G, L) return N(J, { G, L }, Q, V) end))
-print("good")
