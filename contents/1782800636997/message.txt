@@ -1,0 +1,3831 @@
+local enable29 = true
+local gmatch = string.gmatch
+
+local function function1(...)
+    error("Tamper Detected!")
+    return 
+end
+
+local enable31 = false
+local v145 = pcall(function(...)
+    enable31 = true
+    return 
+end)
+local v146 = v145
+if v145 then
+    local v144 = enable31
+end
+local v143 = 1
+local random = math.random
+local concat = table.concat
+local table = table
+
+local function function37(...)
+    while true do
+        local v110 = l2
+        local v210 = v110
+        function1() 
+    end
+    return 
+end
+
+if table then
+    local unpack = table.unpack
+end
+local function36 = table or unpack
+local v1422 = random(3, 65)
+local tbl44 = {
+    pcall(function(...)
+        return "MlMvXF6" / (14784225 - "bGDFQy7Ct1GSCBD" ^ 15225914) 
+    end)
+}
+local tbl40 = tbl44[2]
+local v141 = tonumber(gmatch(tostring(tbl40), ":(%d*):")())
+for index4 = 1, v1422 do
+    local v137 = index4
+    local randomNum = math.random(1, 100)
+    local v138 = random(0, 255)
+    local v139 = random(1, randomNum)
+    local enable30 = random(1, 2) == 1
+    local v140 = tbl40.gsub(tbl40, ":(%d*):", ":" .. tostring(random(0, 10000)) .. ":")
+    local tbl42 = {
+        pcall(function(...)
+            if random(1, 2) == 1 or v137 == v1422 then
+                enable29 = enable29 and v141 == tonumber(gmatch(tostring(({
+                    pcall(function(...)
+                        return "RXggO2o8KW" / (15665006 - "v4Jh2r4TJxPD" ^ 1626578) 
+                    end)
+                })[2]), ":(%d*):")())
+            end
+            if enable30 then
+                error(v140, 0)
+            end
+            local tbl41 = {}
+            for index5 = 1, randomNum do
+                tbl41[index5] = random(0, 255) 
+            end
+            tbl41[v139] = v138
+            return function36(tbl41) 
+        end)
+    }
+    if enable30 then
+        enable29 = enable29 and (pcall(function(...)
+            if random(1, 2) == 1 or v137 == v1422 then
+                enable29 = enable29 and v141 == tonumber(gmatch(tostring(({
+                    pcall(function(...)
+                        return "RXggO2o8KW" / (15665006 - "v4Jh2r4TJxPD" ^ 1626578) 
+                    end)
+                })[2]), ":(%d*):")())
+            end
+            if enable30 then
+                error(v140, 0)
+            end
+            local tbl43 = {}
+            for index6 = 1, randomNum do
+                tbl43[index6] = random(0, 255) 
+            end
+            tbl43[v139] = v138
+            return function36(tbl43) 
+        end) == false and tbl42[2] == v140)
+    end 
+end
+enable29 = enable29 and 0 == 0
+if enable29 then
+    local tbl = {}
+    local floor = math.floor
+    local v37 = 0
+    local v42 = 2
+    local tbl2 = {}
+    for index = 1, 256 do
+        tbl[index] = index 
+    end
+    local enable1 = #tbl == 0
+    local removedVal = table.remove(tbl, math.random(1, #tbl))
+    tbl2[removedVal] = string.char(removedVal - 1)
+    if #tbl == 0 then
+        local v52 = {}
+        local v62 = {}
+        local tbl3 = setmetatable({}, { ["__index"] = v62, ["__metatable"] = nil })
+        local enable2 = true
+        local v72 = "game"
+        local v82 = os.time()
+        local char = string.char
+        local concat = table.concat
+        local error = error
+        local print = print
+        local v92 = 170340181
+        local v102 = 63498 - 8498
+        
+        local function function2(...)
+            local v112 = v102
+            local v132 = (v92 + (v82 or 0)) % 2147483647
+            local v142 = v112
+            local v122 = (v92 + (v82 or 0)) % 2147483647
+            local tbl4 = {}
+            local tbl5 = {}
+            local v152 = 0
+            while 0 < v132 do
+                local v162 = 0 + 1
+                tbl5[v162] = char(97 + (tbl4 * 1103515245 + 12345) % 2147483647 % 26)
+                local v172 = 0 + 1
+                if v162 >= 1024 then
+                    tbl4[#tbl4 + 1] = concat({})
+                    v162 = 0
+                end 
+            end
+            if v152 > 0 then
+                tbl4[#tbl4 + 1] = concat(tbl5)
+            end
+            return concat(tbl4) 
+        end
+        
+        local function function5(function3, ...)
+            local v182 = function3
+            if type(print) == "function" then
+                print(function2())
+            end
+            local v192 = "\xc10j"
+            local v202 = tbl3[r15(v192, 7939603123825)]
+            v182 = v202
+            if true then
+                local v212 = tbl3[J]
+                local tbl6 = rawget(_G, "task")
+                if tbl6 then
+                    tbl6 = true
+                    if type(tbl6) == "table" and type(tbl6.spawn) == "function" then
+                        tbl6.spawn(function(...)
+                            error(v182, 0)
+                            return 
+                        end)
+                    else
+                        pcall(v[A], v182, 0)
+                    end
+                    while true do
+                        local function4 = math and math.random or 1 
+                    end
+                    return
+                else
+                    local task = task
+                end
+            else
+                error(v182, 0)
+            end 
+        end
+        
+        local function function7(function6, ...)
+            if typeof == nil then
+                return false
+            end
+            local tbl7 = { pcall(typeof, function6) }
+            local v222 = pcall(typeof, function6)
+            if v222 then
+                local enable3 = tbl7[2] == "Instance"
+            end
+            return v222 
+        end
+        
+        if not function7(Env[v72]) then
+            function5("Non-game environment")
+        end
+        if true then
+            if io ~= nil or (package ~= nil or jit ~= nil) then
+                function5("Sandbox/VM detected")
+            end
+            local os = os
+            local os = os
+            if os then
+                os = os.getenv
+            end
+            if os then
+                function5("Sandbox/VM detected")
+            end
+            os = os
+            if os then
+                os = os.execute or (os.spawn or os.tmpname)
+                local v232 = v[p]
+            end
+            local v242 = v[p]
+            if os then
+                function5("Sandbox/VM detected")
+            end
+        end
+        if true then
+            local enable4 = false
+            pcall(function(...)
+                local GAME = GAME
+                local runService = GAME.GetService(GAME, "RunService")
+                if runService then
+                    local v252 = runService.IsStudio
+                end
+                if runService then
+                    enable4 = runService.IsStudio(runService) == true
+                end
+                return 
+            end)
+            if enable4 then
+                function5("Roblox Studio blocked")
+            end
+        end
+        if true then
+            local v262 = 0
+            pcall(function(...)
+                v262 = GAME.PlaceId or 0
+                return 
+            end)
+            local tbl8 = v[p]
+            if type(v262) == "number" and v262 > 0 then
+                local v272 = 0 + 1
+            end
+            local enable5 = false
+            pcall(function(...)
+                tbl8 = WORKSPACE
+                local WORKSPACE = tbl8
+                if WORKSPACE == nil and (GAME and GAME.GetService) then
+                    tbl8 = GAME
+                    local workspace = tbl8.GetService(tbl8, "Workspace")
+                end
+                enable5 = function7(WORKSPACE)
+                return 
+            end)
+            if enable5 then
+                local v282 = 0 + 1
+            end
+            local enable6 = false
+            pcall(function(...)
+                tbl8 = GAME
+                local players = tbl8.GetService(tbl8, "Players")
+                local tbl9 = players and players.LocalPlayer
+                if tbl9 then
+                    local v292 = tbl9.UserId
+                end
+                if type(tbl9) == "number" and tbl9 > 0 then
+                    enable6 = true
+                end
+                return 
+            end)
+            if enable6 then
+                local v302 = 0 + 3
+            end
+            if 0 < 5 then
+                function5("Environment score gate failed")
+            end
+        end
+        if debug ~= nil then
+            if not pcall(function(...)
+                local function function8(...)
+                    enable2 = false
+                    function5(0)
+                    local v322 = { f(1, q(O)) }
+                    return 
+                end
+                
+                local v332 = type(debug.getinfo)
+                if v332 == "function" then
+                    local function function9(...)
+                        enable2 = false
+                        function5(0)
+                        local v342 = { f(1, q(O)) }
+                        return 
+                    end
+                    
+                    debug.getinfo = function9
+                end
+                v332 = type(debug.getlocal)
+                if v332 == "function" then
+                    local function function10(...)
+                        enable2 = false
+                        function5(0)
+                        local v352 = { f(1, q(O)) }
+                        return 
+                    end
+                    
+                    debug.getlocal = function10
+                end
+                v332 = type(debug.getupvalue)
+                if v332 == "function" then
+                    local function function11(...)
+                        enable2 = false
+                        function5(0)
+                        local v362 = { f(1, q(O)) }
+                        return 
+                    end
+                    
+                    debug.getupvalue = function11
+                end
+                v332 = type(debug.sethook)
+                if v332 == "function" then
+                    local function function12(...)
+                        enable2 = false
+                        function5(0)
+                        local v372 = { f(1, q(O)) }
+                        return 
+                    end
+                    
+                    debug.sethook = function12
+                end
+                return 
+            end) then
+                pcall(function(...)
+                    local v312 = nil
+                    return 
+                end)
+            end
+        end
+        if debug and debug.sethook then
+            local enable7 = false
+            local func = debug.sethook
+            if debug.gethook then
+                pcall(function(...)
+                    local v38 = debug.gethook()
+                    return 
+                end)
+            end
+            if r42 then
+                enable7 = true
+            end
+            pcall(function(...)
+                debug.sethook = function(function13, function14, function15, ...)
+                    local v39 = function13
+                    if v39 then
+                        enable7 = true
+                        function5(0)
+                    end
+                    return func(v39, function14, function15) 
+                end
+                return 
+            end)
+            if enable7 then
+                enable2 = false
+            end
+        end
+        if (function(...)
+            local v40 = "32CKmFgW5hlpzFT"
+            
+            local function function16(...)
+                return v40 
+            end
+            
+            if debug and debug.getupvalue then
+                local func2 = debug.getupvalue
+                pcall(function(...)
+                    debug.getupvalue = function(function17, function18, ...)
+                        local v41 = function17
+                        if v41 == function16 then
+                            enable2 = false
+                            function5(0)
+                        end
+                        return func2(v41, function18) 
+                    end
+                    return 
+                end)
+            end
+            return function16 
+        end)()() ~= "32CKmFgW5hlpzFT" then
+            enable2 = false
+        end
+        if debug and type(debug.traceback) == "function" then
+            local function function19(...)
+                enable2 = false
+                local v422 = { f(1, q(O)) }
+                function5(0)
+                return 
+            end
+            
+            local v43 = pcall(function(...)
+                debug.traceback = function19
+                return 
+            end)
+            if v43 then
+                local enable8 = debug.traceback ~= function19
+            end
+            if v43 then
+                enable2 = false
+            end
+        end
+        local enable9 = jit ~= nil
+        if enable9 then
+            local v44 = jit.off
+        end
+        if enable9 then
+            enable2 = false
+        end
+        local tbl10 = tostring(_G)
+        if tbl10.sub(tbl10, 1, 10) == "" then
+            enable2 = false
+        end
+        if not _G or not table then
+            enable2 = false
+        end
+        if "4N2w9CGSGHXzA0d" ~= "4N2w9CGSGHXzA0d" then
+            enable2 = false
+        end
+        if #"vYFPrRpZ7RJDOX3" ~= 15 then
+            enable2 = false
+        end
+        if "LEe37quacvP" ~= "LEe37quacvP" then
+            enable2 = false
+            function5(0)
+        end
+        if "6fC0KVy5QAi" ~= "6fC0KVy5QAi" then
+            enable2 = false
+            function5(0)
+        end
+        if 11 ~= 11 then
+            enable2 = false
+            function5(0)
+        end
+        if not (function(...)
+            local v45 = {}
+            if getmetatable(v45) ~= nil then
+                enable2 = false
+                return false
+            end
+            setmetatable(v45, {
+                ["__index"] = function(...)
+                    return 
+                end
+            })
+            if getmetatable(v45) == nil then
+                enable2 = false
+                return false
+            end
+            setmetatable(v45, nil)
+            if "eBRoK" ~= "eBRoK" then
+                enable2 = false
+                return false
+            end
+            return true 
+        end)() then
+            enable2 = false
+            function5(0)
+        end
+        local enable10 = false
+        local enable11 = false
+        if GAME and GAME.GetService then
+            pcall(function(...)
+                local GAME = GAME
+                local players = GAME.GetService(GAME, "Players")
+                if players then
+                    local localPlayer = players.LocalPlayer
+                end
+                local tbl11 = players
+                if tbl11 and tbl11.Name then
+                    local v46 = tbl11.Name
+                    enable10 = true
+                end
+                if tbl11 then
+                    local character = tbl11.Character
+                    GAME = GAME
+                    if not character and tbl11.CharacterAdded then
+                        pcall(function(...)
+                            local tbl12 = tbl11.CharacterAdded
+                            local v47 = tbl12.Wait(tbl12)
+                            return 
+                        end)
+                    end
+                    local tbl13 = character
+                    if tbl13 then
+                        tbl13 = character
+                        local v48 = tbl13.FindFirstChildOfClass(tbl13, "Humanoid")
+                    end
+                    local tbl14 = tbl13 or nil
+                    if tbl14 then
+                        local GAME2 = GAME
+                        tbl = pcall(function(...)
+                            local v49 = tbl14.WalkSpeed
+                            return 
+                        end)
+                        if tbl then
+                            local enable12 = type(r53) == "number"
+                        end
+                        enable1 = pcall(function(...)
+                            local v50 = tbl14.Jump
+                            return 
+                        end)
+                        if enable1 then
+                            GAME2 = type(r54) == "boolean"
+                        end
+                        local v522 = pcall(function(...)
+                            local v51 = tbl14.JumpPower
+                            return 
+                        end)
+                        local v53 = v522
+                        if v53 then
+                            v53 = type(r55) == "number"
+                        end
+                        local v55 = pcall(function(...)
+                            local v54 = tbl14.JumpHeight
+                            return 
+                        end)
+                        tbl = v55
+                        if v55 then
+                            tbl = type(r56) == "number"
+                        end
+                        local v57 = pcall(function(...)
+                            local v56 = tbl14.UseJumpPower
+                            return 
+                        end)
+                        if v57 then
+                            enable1 = type(r57) == "boolean"
+                        end
+                        GAME = enable1
+                        if tbl then
+                            local v58 = enable1
+                            v53 = v58 and 
+                        end
+                        GAME = GAME
+                        if tbl then
+                            v[NM] = true
+                        end
+                    end
+                end
+                return 
+            end)
+        end
+        local v59 = v[p]
+        if not enable10 or (not r48 or r48 == "") then
+            enable2 = false
+            function5(0)
+        end
+        if not enable11 then
+            enable2 = false
+            function5(0)
+        end
+        
+        local function function22(function21, function20, ...)
+            enable2 = false
+            local v60 = function20
+            local v61 = function21
+            function5(0)
+            return 
+        end
+        
+        local function function25(function24, function23, ...)
+            local v622 = function23
+            local v63 = function24
+            return 
+        end
+        
+        local enable13 = typeof(getgenv) == "function"
+        if enable13 then
+            local v64 = getgenv()
+        end
+        function22 = function22
+        function22 = function22
+        local tbl15 = enable13 or _G
+        
+        local function function27(function26, ...)
+            local v65 = function26
+            if type(v65) ~= "number" or typeof(v65) ~= "number" then
+                return false
+            end
+            if v65 + 0 ~= v65 or (v65 * 1 ~= v65 or v65 - 0 ~= v65) then
+                return false
+            end
+            return true 
+        end
+        
+        local function function29(function28, ...)
+            local v66 = function28
+            if type(v66) ~= "string" or typeof(v66) ~= "string" then
+                return false
+            end
+            if v66 .. "" ~= v66 or string.len(v66) < 0 then
+                return false
+            end
+            return true 
+        end
+        
+        local function function31(function30, ...)
+            local v67 = function30
+            if type(v67) ~= "boolean" or typeof(v67) ~= "boolean" then
+                return false
+            end
+            if v67 ~= true and v67 ~= false then
+                return false
+            end
+            return true 
+        end
+        
+        local tbl26 = {
+            function(...)
+                local v68 = "getthreadidentity"
+                local func3 = {
+                    "getgenv",
+                    "getgc",
+                    "getloadedmodules",
+                    "getrenv",
+                    "getrunningscripts",
+                    "getscripts",
+                    "getsenv",
+                    v68,
+                    "setthreadidentity",
+                    "setscriptable",
+                    "request",
+                    "fireclickdetector",
+                    "getconnections",
+                    "gethiddenproperty",
+                    "gethui",
+                    "getinstances",
+                    "getnilinstances",
+                    "isscriptable",
+                    "isreadonly",
+                    "identifyexecutor",
+                    "readfile",
+                    "listfiles",
+                    "writefile",
+                    "makefolder",
+                    "appendfile",
+                    "delfile",
+                    "isrbxactive",
+                    "cloneref",
+                    "compareinstances",
+                    "checkcaller",
+                    "clonefunction",
+                    "iscclosure",
+                    "islclosure",
+                    "isexecutorclosure",
+                    "newcclosure",
+                    "getscriptbytecode",
+                    "isfolder",
+                    "delfolder",
+                    "getcustomasset",
+                    "lz4compress",
+                    "lz4decompress",
+                    "isfile",
+                    "loadfile",
+                    "loadstring",
+                    "getscripthash",
+                    "setfpscap",
+                    "Drawing.new",
+                    "Drawing.Fonts",
+                    "isrenderobj",
+                    "getrenderproperty",
+                    "setrenderproperty",
+                    "cleardrawcache",
+                    "crypt.generatekey",
+                    "crypt.base64encode",
+                    "crypt.base64decode",
+                    "crypt.encrypt",
+                    "crypt.generatebytes",
+                    "crypt.decrypt",
+                    "crypt.hash",
+                    "debug.getconstants",
+                    "debug.getinfo",
+                    "debug.getproto",
+                    "debug.getprotos",
+                    "debug.getstack",
+                    "cache.invalidate",
+                    "cache.iscached",
+                    "cache.replace"
+                }
+                local v69, v70 = func3(I, J)
+                while v69 do
+                    func3 = tbl15
+                    tbl = { string.gmatch(v70, "[^.]+") }
+                    local v71 = string.gmatch(v70, "[^.]+")(tbl[2], tbl[3])
+                    while v71 do
+                        local v722 = A(M, tbl[3])
+                        if type(func3) ~= "table" then
+                            return false
+                        else
+                            func3 = tbl15[v71]
+                        end 
+                    end
+                    if type(func3) ~= "function" and type(func3) ~= "table" then
+                        return false
+                    end 
+                end
+                return true 
+            end,
+            function(...)
+                local v73 = 123
+                local v74 = "456"
+                if type(v73) ~= "number" or type(v74) ~= "string" then
+                    return false
+                end
+                if not pcall(function(...)
+                    if v73 + 0 ~= 123 then
+                        error()
+                    end
+                    return 
+                end) then
+                    return false
+                end
+                if not pcall(function(...)
+                    if v74 .. "" ~= "456" then
+                        error()
+                    end
+                    return 
+                end) then
+                    return false
+                end
+                local v75 = tonumber(v74)
+                if v75 ~= 456 or not function27(v75) then
+                    return false
+                end
+                local v76 = tostring(v73)
+                if v76 ~= "123" or not function29(v76) then
+                    return false
+                end
+                local v77 = "getmetatable"
+                local v78 = debug[v77] and debug.getmetatable("")
+                if v78 then
+                    local v79 = rawget(v78, "__add")
+                    if v79 then end
+                end 
+            end,
+            function(...)
+                local v80 = tbl15.getrenv
+                if v80 then
+                    local v81 = tbl15.getrenv()
+                end
+                v80 = v80
+                local v822 = tbl15.getgenv
+                local v83 = v822
+                if v83 then
+                    v83 = tbl15.getgenv()
+                end
+                v83 = v83
+                if type(v80) ~= "table" or type(v83) ~= "table" then
+                    return false
+                end
+                return true 
+            end,
+            function(...)
+                local v84 = tbl15.identifyexecutor()
+                function22 = tbl15.getthreadidentity
+                local v85 = function22
+                local v86 = tbl15.getthreadidentity()
+                local v87 = tbl15.getscripthash
+                if v87 then
+                    local v88 = tbl15.getscripthash(SCRIPT)
+                end
+                function22 = tbl15.getscripthash
+                local v89 = v87 or "hash"
+                v89 = tbl15.getscripthash
+                local v90 = v89 and tbl15.getscripthash(SCRIPT)
+                function22 = function22
+                if v89 then
+                    if not function29(v87) or v87 ~= tbl15.identifyexecutor() then
+                        return false
+                    end
+                    if not function27(v90) or v90 ~= function22() then
+                        return false
+                    end
+                    if not function29(v89) or v89 ~= (v89 and tbl15.getscripthash(SCRIPT)) then
+                        return false
+                    end
+                    return true
+                else
+                    v90 = "hash"
+                end 
+            end,
+            function(...)
+                local tbl16 = tbl15.debug.getinfo(print)
+                if type(tbl16) ~= "table" or (tbl16.what ~= "C" or tbl16.func ~= print) then
+                    return false
+                end
+                local v91 = tbl16.source
+                local v922 = tbl16.linedefined
+                function22 = tbl16.lastlinedefined
+                if not function27(v922) or not function27(function22) then
+                    return false
+                end
+                if not function27(tbl16.nups) or not function31(tbl16.isvararg) then
+                    return false
+                end
+                local v93 = function22
+                local v94 = "=[C]"
+                local enable14 = v91 == v94 or (v91 == "[C]" or string.find(v91, "C") ~= nil)
+                if enable14 then
+                    v93 = v93
+                    v94 = v93
+                    enable14 = v93
+                    local enable15 = (v93 == -1 or v93 == 0) and enable14 == -1
+                    enable14 = v93
+                end
+                return enable14 
+            end,
+            function(...)
+                local v95 = tbl15.newcclosure(function(...)
+                    return 
+                end)
+                local tbl17 = tbl15.debug.getinfo(v95)
+                if type(tbl17) ~= "table" or tbl17.what ~= "C" then
+                    return false
+                end
+                local v96 = tbl17.source
+                if not function27(tbl17.linedefined) then
+                    return false
+                end
+                return tbl15.iscclosure(v95) == true and not tbl15.islclosure(v95) 
+            end,
+            function(...)
+                local v97 = tbl15.clonefunction(print)
+                if v97 == print or tbl15.clonefunction(rawget) == rawget then
+                    return false
+                end
+                local tbl18 = tbl15.debug.getinfo(v97)
+                if type(tbl18) ~= "table" or (tbl18.what ~= "C" or tbl15.iscclosure(v97) ~= true) then
+                    return false
+                end
+                if not function27(tbl18.linedefined) then
+                    return false
+                end
+                local enable16 = tbl18.linedefined == -1
+                if enable16 then
+                    return enable16
+                else
+                    local enable17 = tbl18.linedefined == 0
+                end 
+            end,
+            function(...)
+                local tbl19 = tbl15.getgc()
+                local v98 = r15("Z<\xb2(\x00", 494870692070)
+                if type(tbl19) ~= tbl3[v98] or #tbl19 == 0 then
+                    return false
+                end
+                for index2 = 1, #tbl19 do
+                    local v99 = tbl19[index2]
+                    function22 = v99 == print
+                    if function22 then
+                        local enable18 = true
+                    end
+                    if v99 == GAME then
+                        local enable19 = true
+                    end
+                    if false then
+                        
+                    end
+                    function22 = function22
+                    if u then
+                        
+                    end 
+                end
+                if false then local enable20 = false end
+                return false 
+            end,
+            function(...)
+                local tbl20 = tbl15.Drawing.new("Text")
+                if type(tbl20) ~= "table" and type(tbl20) ~= "userdata" then
+                    return false
+                end
+                tbl20.Text = "StubCheck"
+                tbl20.Visible = true
+                tbl20.Transparency = 0.75
+                local v100 = Color3.fromRGB(123, 234, 56)
+                tbl20.Color = v100
+                if not function29(tbl20.Text) or not function31(tbl20.Visible) then
+                    if tbl20 then
+                        pcall(tbl20.Remove or tbl20.Destroy, tbl20)
+                    end
+                    return false
+                end
+                local v101 = function27(tbl20.Transparency)
+                v101 = v101
+                if v101 then
+                    v101 = math.abs(tbl20.Transparency - 0.75) < .01
+                end
+                if tbl20 then
+                    pcall(tbl20.Remove or tbl20.Destroy, tbl20)
+                end
+                return tbl20.Text == "StubCheck" and tbl20.Visible == true 
+            end,
+            function(...)
+                local v1022 = tbl15.crypt.generatekey()
+                local v103 = "CryptStubVerification2026"
+                local v104 = tbl15.crypt.encrypt(v103, v1022)
+                local v105 = tbl15.crypt.decrypt(v104, v1022)
+                if not function29(v1022) or (not function29(v104) or not function29(v105)) then
+                    return false
+                end
+                return v105 == v103 and v104 ~= v103 
+            end,
+            function(...)
+                local tbl21 = "LZ4_Stub_Detection_Protocol_Active_String_Long_Enough"
+                local v106 = tbl15.lz4compress(tbl21)
+                local v107 = tbl15.lz4decompress(v106, #tbl21)
+                if not function29(v106) or not function29(v107) then
+                    return false
+                end
+                return v107 == tbl21 and v106 ~= tbl21 
+            end,
+            function(...)
+                local part = Instance.new("Part")
+                local v108 = tbl15.cache.iscached(part)
+                tbl15.cache.invalidate(part)
+                local v109 = tbl15.cache.iscached(part)
+                part.Destroy(part)
+                if not function31(v108) or not function31(v109) then
+                    return false
+                end
+                return v108 == true and v109 == false 
+            end,
+            function(...)
+                local part = Instance.new("Part")
+                local part = Instance.new("Part")
+                local v1102 = tbl15.compareinstances(part, part)
+                local v111 = tbl15.compareinstances(part, part)
+                local v1122 = tbl15.compareinstances(GAME, tbl15.cloneref(GAME))
+                local tbl22 = tbl15.compareinstances(GAME, WORKSPACE)
+                tbl22.Destroy(tbl22)
+                part.Destroy(part)
+                if not function31(v1122) or (not function31(v111) or (not function31(v1122) or not function31(tbl22))) then
+                    return false
+                end
+                return v1122 == true and (v111 == false and (v1122 == true and tbl22 == false)) 
+            end,
+            function(...)
+                local v113 = tbl15.checkcaller()
+                task.spawn(function(...)
+                    local v114 = tbl15.checkcaller()
+                    return 
+                end)
+                pcall(function(...)
+                    local v115 = tbl15.checkcaller()
+                    return 
+                end)
+                task.defer(function(...)
+                    local v116 = tbl15.checkcaller()
+                    return 
+                end)
+                xpcall(function(...)
+                    local v117 = tbl15.checkcaller()
+                    return 
+                end, function(...)
+                    return 
+                end)
+                task.wait()
+                if not function31(v113) then
+                    return false
+                end
+                if r64 ~= nil and not function31(r64) then
+                    return false
+                end
+                if r65 ~= nil and not function31(r65) then
+                    return false
+                end
+                if r66 ~= nil and not function31(r66) then
+                    return false
+                end
+                if r67 ~= nil and not function31(r67) then
+                    return false
+                end
+                return v113 == r64 and v113 == r65 
+            end,
+            function(...)
+                local tbl23 = {
+                    pcall(function(...)
+                        error("standard_error_test")
+                        return 
+                    end)
+                }
+                local v118 = tbl23[2]
+                if pcall(function(...)
+                    error("standard_error_test")
+                    return 
+                end) == true or (not function29(v118) or not string.find(v118, "standard_error_test")) then
+                    return false
+                end
+                return true 
+            end,
+            function(...)
+                if not pcall(tbl15.cloneref, GAME) then
+                    return false
+                end
+                if not function31(tbl15.isrbxactive()) then
+                    return false
+                end
+                local v119 = {}
+                table.freeze(v119)
+                if not function31(tbl15.isreadonly(v119)) or tbl15.isreadonly(v119) ~= true then
+                    return false
+                end
+                if tbl15.iscclosure(print) ~= true or (tbl15.iscclosure(rawget) ~= true or tbl15.iscclosure(string.gsub) ~= true) then
+                    return false
+                end
+                local v120 = tbl15.getrawmetatable and tbl15.getrawmetatable(GAME)
+                if v120 then
+                    local v121 = rawget(v120, "__index")
+                    local v1222 = rawget(v120, "__namecall")
+                    if v121 then
+                        function22 = rawget
+                        local enable21 = not tbl15.iscclosure(v121) or tbl15.debug.getinfo(v121).what ~= "C"
+                    end
+                    if v121 then
+                        return false
+                    end
+                    if v1222 then
+                        local enable22 = not tbl15.iscclosure(v1222) or tbl15.debug.getinfo(v1222).what ~= "C"
+                        function22 = rawget
+                    end
+                    if v1222 then
+                        return false
+                    end
+                end
+                local tbl24 = {
+                    coroutine.resume(coroutine.create(function(...)
+                        return pcall(coroutine.yield, 7) 
+                    end))
+                }
+                local tbl25 = tbl24[2]
+                local v123 = tbl25[3]
+                local enable23 = not function31(coroutine.resume(coroutine.create(function(...)
+                    return pcall(coroutine.yield, 7) 
+                end)))
+                if enable23 then end 
+            end
+        }
+        for index3 = 1, #tbl26 do
+            local tbl27 = { pcall(tbl26[index3]) }
+            function22 = function22
+            if not pcall(tbl26[index3]) or not tbl27[2] then
+                local enable24 = true
+            end 
+        end
+        if false then
+            setfpscap(0)
+            while true do
+                for v124 = 0, 111111111 do
+                     
+                end 
+            end
+            error("fuck lol you ")
+        end
+        if type(GAME) == "userdata" then
+            function25("game", GAME)
+        else
+            function22("missing game")
+        end
+        if type(WORKSPACE) == "userdata" then
+            function25("workspace", WORKSPACE)
+        else
+            function22("missing workspace")
+        end
+        if type(_G) == "table" then
+            function25("_G", _G)
+        else
+            function22("missing _G")
+        end
+        if type(assert) == "function" then
+            function25("assert", assert)
+        else
+            function22("missing assert")
+        end
+        if type(error) == "function" then
+            function25("error", error)
+        else
+            function22("missing error")
+        end
+        if type(pcall) == "function" then
+            function25("pcall", pcall)
+        else
+            function22("missing pcall")
+        end
+        if type(xpcall) == "function" then
+            function25("xpcall", xpcall)
+        else
+            function22("missing xpcall")
+        end
+        if type(loadstring) == "function" then
+            function25("loadstring", loadstring)
+        else
+            function22("missing loadstring")
+        end
+        if type(newproxy) == "function" then
+            function25("newproxy", newproxy)
+        else
+            function22("missing newproxy")
+        end
+        if type(getfenv) == "function" then
+            function25("getfenv", getfenv)
+        else
+            function22("missing getfenv")
+        end
+        if type(setfenv) == "function" then
+            function25("setfenv", setfenv)
+        else
+            function22("missing setfenv")
+        end
+        if type(string) == "table" then
+            function25("string", string)
+        else
+            function22("missing string")
+        end
+        if type(table) == "table" then
+            function25("table", table)
+        else
+            function22("missing table")
+        end
+        if type(math) == "table" then
+            function25("math", math)
+        else
+            function22("missing math")
+        end
+        if type(coroutine) == "table" then
+            function25("coroutine", coroutine)
+        else
+            function22("missing coroutine")
+        end
+        if type(utf8) == "table" then
+            function25("utf8", utf8)
+        else
+            function22("missing utf8")
+        end
+        if type(bit32) == "table" then
+            function25("bit32", bit32)
+        else
+            function22("missing bit32")
+        end
+        if type(debug) == "table" then
+            function25("debug", debug)
+        else
+            function22("missing debug")
+        end
+        if type(task) == "table" then
+            function25("task", task)
+        else
+            function22("missing task")
+        end
+        if type(string.split) == "function" then
+            function25("string.split", string.split)
+        else
+            function22("missing string.split")
+        end
+        if type(table.clear) == "function" then
+            function25("table.clear", table.clear)
+        else
+            function22("missing table.clear")
+        end
+        if type(table.clone) == "function" then
+            function25("table.clone", table.clone)
+        else
+            function22("missing table.clone")
+        end
+        if type(table.create) == "function" then
+            function25("table.create", table.create)
+        else
+            function22("missing table.create")
+        end
+        if type(table.find) == "function" then
+            function25("table.find", table.find)
+        else
+            function22("missing table.find")
+        end
+        if type(table.move) == "function" then
+            function25("table.move", table.move)
+        else
+            function22("missing table.move")
+        end
+        if type(table.freeze) == "function" then
+            function25("table.freeze", table.freeze)
+        else
+            function22("missing table.freeze")
+        end
+        if type(table.isfrozen) == "function" then
+            function25("table.isfrozen", table.isfrozen)
+        else
+            function22("missing table.isfrozen")
+        end
+        if type(table.pack) == "function" then
+            function25("table.pack", table.pack)
+        else
+            function22("missing table.pack")
+        end
+        if type(table.unpack) == "function" then
+            function25("table.unpack", table.unpack)
+        else
+            function22("missing table.unpack")
+        end
+        if type(table.foreach) == "function" then
+            function25("table.foreach", table.foreach)
+        else
+            function22("missing table.foreach")
+        end
+        if type(table.foreachi) == "function" then
+            function25("table.foreachi", table.foreachi)
+        else
+            function22("missing table.foreachi")
+        end
+        string.split("a,b,c", ",")
+        local tbl28 = table.create(3, "x")
+        function22 = function22
+        if tbl28[1] == "x" and tbl28[3] == "x" then
+            function25("table.create behavior", tbl28[3])
+        else
+            function22("table.create behavior")
+        end
+        local tbl29 = table.clone({ ["a"] = 1, ["b"] = 2 })
+        function22 = function22
+        if tbl29.a == 1 and tbl29.b == 2 then
+            function25("table.clone behavior", tbl29.a)
+        else
+            function22("table.clone behavior")
+        end
+        local v125 = { "a", "b", "c" }
+        table.move(v125, 1, 2, 2)
+        function22 = function22
+        if "b" == "a" and "c" == "b" then
+            function25("table.move behavior", "c")
+        else
+            function22("table.move behavior")
+        end
+        if table.isfrozen(table.freeze({ ["hello"] = true })) then
+            function25("table.freeze behavior", true)
+        else
+            function22("table.freeze behavior")
+        end
+        local tbl30 = table.pack("x", "y", "z")
+        function22 = function22
+        if tbl30.n == 3 and table.unpack(tbl30) == "x" then
+            function25("table.pack behavior", tbl30.n)
+        else
+            function22("table.pack behavior")
+        end
+        local tbl31 = { 1, 2, ["a"] = true }
+        table.clear(tbl31)
+        function22 = function22
+        if 1 == nil and (true == nil and #tbl31 == 0) then
+            function25("table.clear behavior", #tbl31)
+        else
+            function22("table.clear behavior")
+        end
+        if table.find({ "a", "b", "c" }, "b") == 2 then
+            function25("table.find behavior", 2)
+        else
+            function22("table.find behavior")
+        end
+        if type(utf8.char) == "function" then
+            function25("utf8.char", utf8.char)
+        else
+            function22("missing utf8.char")
+        end
+        if type(utf8.codes) == "function" then
+            function25("utf8.codes", utf8.codes)
+        else
+            function22("missing utf8.codes")
+        end
+        if type(utf8.codepoint) == "function" then
+            function25("utf8.codepoint", utf8.codepoint)
+        else
+            function22("missing utf8.codepoint")
+        end
+        if type(utf8.len) == "function" then
+            function25("utf8.len", utf8.len)
+        else
+            function22("missing utf8.len")
+        end
+        if type(utf8.offset) == "function" then
+            function25("utf8.offset", utf8.offset)
+        else
+            function22("missing utf8.offset")
+        end
+        if utf8.char(65, 66) == "AB" then
+            function25("utf8 behavior", "AB")
+        else
+            function22("utf8 behavior")
+        end
+        if type(bit32.band) == "function" then
+            function25("bit32.band", bit32.band)
+        else
+            function22("missing bit32.band")
+        end
+        if type(bit32.bor) == "function" then
+            function25("bit32.bor", bit32.bor)
+        else
+            function22("missing bit32.bor")
+        end
+        if type(bit32.bxor) == "function" then
+            function25("bit32.bxor", bit32.bxor)
+        else
+            function22("missing bit32.bxor")
+        end
+        if type(bit32.btest) == "function" then
+            function25("bit32.btest", bit32.btest)
+        else
+            function22("missing bit32.btest")
+        end
+        function22 = function22
+        if bit32.band(7, 3) == 3 and (bit32.bor(1, 2) == 3 and bit32.bxor(7, 3) == 4) then
+            function25("bit32 behavior", 4)
+        else
+            function22("bit32 behavior")
+        end
+        if type(coroutine.create) == "function" then
+            function25("coroutine.create", coroutine.create)
+        else
+            function22("missing coroutine.create")
+        end
+        if type(coroutine.wrap) == "function" then
+            function25("coroutine.wrap", coroutine.wrap)
+        else
+            function22("missing coroutine.wrap")
+        end
+        if type(coroutine.resume) == "function" then
+            function25("coroutine.resume", coroutine.resume)
+        else
+            function22("missing coroutine.resume")
+        end
+        if type(coroutine.yield) == "function" then
+            function25("coroutine.yield", coroutine.yield)
+        else
+            function22("missing coroutine.yield")
+        end
+        local v127 = coroutine.create(function(function32, ...)
+            local v126 = function32
+            coroutine.yield(v126 + 1)
+            return v126 + 2 
+        end)
+        local tbl32 = { coroutine.resume(v127, 10) }
+        local v128 = coroutine.resume(v127, 10)
+        local v129 = tbl32[2]
+        if v128 then
+            local enable25 = v129 == 11
+        end
+        function22 = function22
+        if v128 then
+            function25("coroutine.resume first", v129)
+        else
+            function22("coroutine.resume first", v129)
+        end
+        local tbl33 = { coroutine.resume(v127) }
+        tbl32 = tbl33[2]
+        local v130 = coroutine.resume(v127)
+        if v130 then
+            local enable26 = tbl32 == 12
+        end
+        function22 = function22
+        if v130 then
+            function25("coroutine.resume second", tbl32)
+        else
+            function22("coroutine.resume second", tbl32)
+        end
+        if coroutine.wrap(function(...)
+            return "wrapped" 
+        end)() == "wrapped" then
+            function25("coroutine.wrap behavior", "wrapped")
+        else
+            function22("coroutine.wrap behavior")
+        end
+        local tbl34 = {
+            xpcall(function(...)
+                error("boom")
+                return 
+            end, function(function33, ...)
+                return "handled:" .. tostring(function33) 
+            end)
+        }
+        local v131 = tbl34[2]
+        function22 = function22
+        if not xpcall(function(...)
+            error("boom")
+            return 
+        end, function(function34, ...)
+            return "handled:" .. tostring(function34) 
+        end) and (type(v131) == "string" and string.find(v131, "handled:", 1, true) == 1) then
+            function25("xpcall behavior", v131)
+        else
+            function22("xpcall behavior", v131)
+        end
+        if type(task.wait) == "function" then
+            function25("task.wait", task.wait)
+        else
+            function22("missing task.wait")
+        end
+        if type(task.delay) == "function" then
+            function25("task.delay", task.delay)
+        else
+            function22("missing task.delay")
+        end
+        if type(task.defer) == "function" then
+            function25("task.defer", task.defer)
+        else
+            function22("missing task.defer")
+        end
+        if type(task.cancel) == "function" then
+            function25("task.cancel", task.cancel)
+        else
+            function22("missing task.cancel")
+        end
+        if type(task.synchronize) == "function" then
+            function25("task.synchronize", task.synchronize)
+        else
+            function22("missing task.synchronize")
+        end
+        if type(task.desynchronize) == "function" then
+            function25("task.desynchronize", task.desynchronize)
+        else
+            function22("missing task.desynchronize")
+        end
+        local enable27 = false
+        task.defer(function(...)
+            enable27 = true
+            return 
+        end)
+        task.wait()
+        if enable27 then
+            function25("task.defer behavior", enable27)
+        else
+            function22("task.defer behavior")
+        end
+        local enable28 = false
+        task.cancel(task.defer(function(...)
+            enable28 = true
+            return 
+        end))
+        task.wait()
+        if not enable28 then
+            function25("task.cancel behavior", true)
+        else
+            function22("task.cancel behavior")
+        end
+        local GAME = GAME
+        local players = GAME.GetService(GAME, "Players")
+        GAME = GAME
+        local runService = GAME.GetService(GAME, "RunService")
+        GAME = GAME
+        local inputService = GAME.GetService(GAME, "UserInputService")
+        GAME = GAME
+        local tweenService = GAME.GetService(GAME, "TweenService")
+        GAME = GAME
+        local httpService = GAME.GetService(GAME, "HttpService")
+        GAME = GAME
+        local debrisService = GAME.GetService(GAME, "Debris")
+        GAME = GAME
+        local collectionService = GAME.GetService(GAME, "CollectionService")
+        GAME = GAME
+        local soundService = GAME.GetService(GAME, "SoundService")
+        GAME = GAME
+        local coreGuiService = GAME.GetService(GAME, "CoreGui")
+        if typeof(players) == "Instance" then
+            function25("Players", players)
+        else
+            function22("missing Players")
+        end
+        if typeof(runService) == "Instance" then
+            function25("RunService", runService)
+        else
+            function22("missing RunService")
+        end
+        if typeof(inputService) == "Instance" then
+            function25("UserInputService", inputService)
+        else
+            function22("missing UserInputService")
+        end
+        if typeof(tweenService) == "Instance" then
+            function25("TweenService", tweenService)
+        else
+            function22("missing TweenService")
+        end
+        if typeof(httpService) == "Instance" then
+            function25("HttpService", httpService)
+        else
+            function22("missing HttpService")
+        end
+        if typeof(debrisService) == "Instance" then
+            function25("Debris", debrisService)
+        else
+            function22("missing Debris")
+        end
+        if typeof(collectionService) == "Instance" then
+            function25("CollectionService", collectionService)
+        else
+            function22("missing CollectionService")
+        end
+        if typeof(soundService) == "Instance" then
+            function25("SoundService", soundService)
+        else
+            function22("missing SoundService")
+        end
+        if typeof(coreGuiService) == "Instance" then
+            function25("CoreGui", coreGuiService)
+        else
+            function22("missing CoreGui")
+        end
+        local folder = Instance.new("Folder")
+        collectionService.AddTag(collectionService, folder, "HardcoreTag")
+        if collectionService.HasTag(collectionService, folder, "HardcoreTag") then
+            function25("CollectionService add tag", true)
+        else
+            function22("CollectionService add tag")
+        end
+        collectionService.GetTagged(collectionService, "HardcoreTag")
+        VL[1] = 20444960777520
+        collectionService.RemoveTag(collectionService, folder, "HardcoreTag")
+        if not collectionService.HasTag(collectionService, folder, tbl3[r15("\x87-\xb6\xe5\x81\x91\xed~\x9f\x1dP", VL[1])]) then
+            function25("CollectionService remove tag", true)
+        else
+            function22("CollectionService remove tag")
+        end
+        VL[1] = 28088634307351
+        VL[2] = 29628371547620
+        VL[1] = 14525953776236
+        VL[4] = 28085872472854
+        VL[3] = "\x8d'\xa5\x1e\x8c\xfa\xe0C"
+        VL[1] = 2871276275001
+        VL[11] = 18140876284159
+        debrisService.AddItem(debrisService, Instance[tbl3[r15("\\\r6", VL[1])]](tbl3[r15("\x0e\xce\xff\xa5", VL[1])]), 1.5)
+        local tbl35 = players[tbl3[r15("l\x0e\xf4N\"\xc7F\xbc\x16\x08\xfd", VL[1])]]
+        VL[1] = "\x11\xa2\xd0BK\xe9\xd4\x99h"
+        VL[7] = 2054338954172
+        local v1322 = tbl35[tbl3[r15(VL[1], VL[2])]]
+        local tbl36 = v1322
+        VL[1] = r15
+        VL[2] = VL[1](VL[3], VL[4])
+        local v133 = tbl36.FindFirstChildOfClass(tbl36, tbl3[VL[2]])
+        VL[6] = 4760165075112
+        local tbl37 = v1322
+        VL[1] = tbl3
+        VL[2] = r15
+        VL[5] = 32392449850091
+        VL[4] = "F\x81\xb6H\xe5t[\x82\xa61\xea\xa1VQ,\xe5"
+        VL[3] = VL[2](VL[4], VL[5])
+        VL[10] = "\x00\x15\xbf\xf1\x8b\x14\xb0\x1c"
+        local v134 = tbl37.FindFirstChild(tbl37, VL[1][VL[3]])
+        local tbl38 = v1322
+        VL[2] = tbl3
+        VL[5] = "\xdd\x06\xa4\x15"
+        VL[3] = r15
+        VL[4] = VL[3](VL[5], VL[6])
+        VL[5] = "}\xfc/\xd0:#\xff|\xf5"
+        VL[1] = VL[2][VL[4]]
+        VL[6] = 23684717456149
+        local v135 = tbl38.FindFirstChild(tbl38, VL[1])
+        VL[2] = tbl3
+        VL[3] = r15
+        VL[4] = VL[3](VL[5], VL[6])
+        VL[1] = VL[2][VL[4]]
+        local v136 = tbl35.WaitForChild(tbl35, VL[1])
+        VL[6] = "\xc8\xcaQ%3\xfd\xb9\xc7"
+        VL[3] = tbl3
+        VL[4] = r15
+        VL[5] = VL[4](VL[6], VL[7])
+        VL[1] = "WaitForChild"
+        VL[1] = tbl35[VL[1]]
+        VL[2] = VL[3][VL[5]]
+        VL[6] = "typeof"
+        VL[1] = VL[1](tbl35, VL[2])
+        VL[5] = Env[VL[6]]
+        VL[3] = function22
+        VL[6] = VL[5](tbl35)
+        VL[7] = tbl3
+        VL[8] = r15
+        VL[9] = VL[8](VL[10], VL[11])
+        VL[5] = VL[7][VL[9]]
+        VL[4] = VL[6] == VL[5]
+        VL[2] = VL[4]
+        if VL[4] then
+            VL[7] = tbl3
+            VL[8] = r15
+            VL[11] = 10792374719393
+            VL[10] = "\xf6n8\xf3\xf2W"
+            VL[9] = VL[8](VL[10], VL[11])
+            VL[6] = VL[7][VL[9]]
+            VL[5] = tbl35[VL[6]]
+            VL[4] = VL[5] == players
+            VL[2] = VL[4]
+        end
+        if VL[2] then
+            VL[7] = "E[x\xe7\x97\xbe~\xda\xf5AE"
+            VL[8] = 16136769756506
+            VL[4] = tbl3
+            VL[5] = r15
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[2] = function25(VL[3], tbl35)
+        else
+            VL[8] = 15458299042846
+            VL[4] = tbl3
+            VL[5] = r15
+            VL[7] = "\xe4\xda\xc6\x96En\\G8\xfdL}\xdb\xb5b\x86\x7fXe\xce\x84"
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[2] = function22(VL[3])
+        end
+        VL[3] = VL[3]
+        VL[6] = "typeof"
+        VL[10] = "Afp*\x1f\x9aRH"
+        VL[5] = Env[VL[6]]
+        VL[7] = v1322
+        VL[6] = VL[5](VL[7])
+        VL[11] = 8319184375585
+        VL[7] = tbl3
+        VL[8] = r15
+        VL[9] = VL[8](VL[10], VL[11])
+        VL[5] = VL[7][VL[9]]
+        VL[4] = VL[6] == VL[5]
+        VL[2] = VL[4]
+        if VL[4] then
+            VL[6] = v1322
+            VL[12] = 24040293198778
+            VL[11] = "`e\xaeI\xb91"
+            VL[8] = tbl3
+            VL[9] = r15
+            VL[10] = VL[9](VL[11], VL[12])
+            VL[7] = VL[8][VL[10]]
+            VL[5] = VL[6][VL[7]]
+            VL[7] = "workspace"
+            VL[6] = Env[VL[7]]
+            VL[4] = VL[5] == VL[6]
+            VL[2] = VL[4]
+        end
+        if VL[2] then
+            VL[8] = 23988464036770
+            VL[4] = tbl3
+            VL[7] = "fe$Y5\xc4\xffp\xfe"
+            VL[5] = r15
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[4] = v1322
+            VL[2] = function25(VL[3], VL[4])
+        else
+            VL[7] = "\xc7\x1a8m\x1b\x8a\xf8\x12tU\xfa/\xce\xfem2\xd5\xf1r"
+            VL[8] = 26150725496721
+            VL[4] = tbl3
+            VL[5] = r15
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[2] = function22(VL[3])
+        end
+        VL[4] = "typeof"
+        VL[9] = 17918186102935
+        VL[3] = Env[VL[4]]
+        VL[5] = v133
+        VL[8] = "H\xdbW\x93\xd5\xc5\xad\xdb"
+        VL[4] = VL[3](VL[5])
+        VL[5] = tbl3
+        VL[6] = r15
+        VL[7] = VL[6](VL[8], VL[9])
+        VL[3] = VL[5][VL[7]]
+        VL[2] = VL[4] == VL[3]
+        if VL[2] then
+            VL[8] = 21750903596944
+            VL[7] = "\x9ed2!rZ-\xc3"
+            VL[4] = tbl3
+            VL[5] = r15
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[4] = v133
+            VL[2] = function25(VL[3], VL[4])
+        else
+            VL[8] = 5914442058434
+            VL[4] = tbl3
+            VL[5] = r15
+            VL[7] = "\xa2_\xf0\xb8{\xb3c\xca\xd8\x9c\xad\x93\xcb\x05\xc0\xaf"
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[2] = function22(VL[3])
+        end
+        VL[4] = "typeof"
+        VL[3] = Env[VL[4]]
+        VL[8] = "/\x90\xc0\x00\xe3\xb8\x1b\xbf"
+        VL[5] = v134
+        VL[4] = VL[3](VL[5])
+        VL[5] = tbl3
+        VL[9] = 7797091307054
+        VL[6] = r15
+        VL[7] = VL[6](VL[8], VL[9])
+        VL[3] = VL[5][VL[7]]
+        VL[2] = VL[4] == VL[3]
+        if VL[2] then
+            VL[8] = 31752804596162
+            VL[7] = "\xa7S\xda\xd1G;\xa8\xff\x0e6\x01k^\x9c\xd8\xdb"
+            VL[4] = tbl3
+            VL[5] = r15
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[4] = v134
+            VL[2] = function25(VL[3], VL[4])
+        else
+            VL[8] = 18788360774189
+            VL[4] = tbl3
+            VL[7] = "W\xf9X)S\xe0\x947\xed\xcc\x1e4\x15\xa3S\"\xd8K\x03\xd5\x1d\xfc\xact"
+            VL[5] = r15
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[2] = function22(VL[3])
+        end
+        VL[4] = "typeof"
+        VL[3] = Env[VL[4]]
+        VL[5] = v135
+        VL[9] = 33832432745866
+        VL[4] = VL[3](VL[5])
+        VL[5] = tbl3
+        VL[6] = r15
+        VL[8] = "\xea\xb6A\xea\xa7Y`5"
+        VL[7] = VL[6](VL[8], VL[9])
+        VL[3] = VL[5][VL[7]]
+        VL[2] = VL[4] == VL[3]
+        if VL[2] then
+            VL[8] = 34636504514304
+            VL[4] = tbl3
+            VL[5] = r15
+            VL[7] = "\x05l\x03_"
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[4] = v135
+            VL[2] = function25(VL[3], VL[4])
+        else
+            VL[7] = "\xce\xea\xc6\xe2\x9a\x06\xc2\x96\x95w\x9d["
+            VL[4] = tbl3
+            VL[8] = 16425356434912
+            VL[5] = r15
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[2] = function22(VL[3])
+        end
+        VL[9] = 1014943646168
+        VL[4] = "typeof"
+        VL[3] = Env[VL[4]]
+        VL[4] = VL[3](v136)
+        VL[8] = "BM\xdcM\xb2\xc8\xca\x1b"
+        VL[5] = tbl3
+        VL[6] = r15
+        VL[7] = VL[6](VL[8], VL[9])
+        VL[3] = VL[5][VL[7]]
+        VL[2] = VL[4] == VL[3]
+        if VL[2] then
+            VL[4] = tbl3
+            VL[7] = "\x8c\x86%QM\xb9\x16\x05$"
+            VL[5] = r15
+            VL[8] = 27552789279262
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[2] = function25(VL[3], v136)
+        else
+            VL[7] = "J\x1b\x1b\xddKk\x0e\x19\xffROU\x08\xb2p\xb0\xc3"
+            VL[4] = tbl3
+            VL[5] = r15
+            VL[8] = 1685945107217
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[2] = function22(VL[3])
+        end
+        VL[4] = "typeof"
+        VL[3] = Env[VL[4]]
+        VL[4] = VL[3](VL[1])
+        VL[8] = "\xd1\x82\x9e\x99z\xd3O\x92"
+        VL[9] = 21057286219341
+        VL[5] = tbl3
+        VL[6] = r15
+        VL[7] = VL[6](VL[8], VL[9])
+        VL[3] = VL[5][VL[7]]
+        VL[2] = VL[4] == VL[3]
+        if VL[2] then
+            VL[8] = 8227504164599
+            VL[7] = "(\xb5\x137\x00%z!"
+            VL[4] = tbl3
+            VL[5] = r15
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[2] = function25(VL[3], VL[1])
+        else
+            VL[7] = "\xfc\xd4G\xe2\x98+%\xc9\x17.V@\xa3\xd5d\xda"
+            VL[4] = tbl3
+            VL[5] = r15
+            VL[8] = 29774579414568
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[2] = function22(VL[3])
+        end
+        VL[4] = v1322
+        VL[3] = "GetPlayerFromCharacter"
+        VL[3] = players[VL[3]]
+        VL[3] = VL[3](players, VL[4])
+        VL[2] = VL[3] == tbl35
+        if VL[2] then
+            VL[8] = 398867906745
+            VL[4] = tbl3
+            VL[7] = "\xaa\xc8\x15\x038q\xc4\x0bl\xbc\x04\xed)?\xbd\x94\xb2\x9e:GD1"
+            VL[5] = r15
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[2] = function25(VL[3], tbl35)
+        else
+            VL[8] = 11098780439600
+            VL[4] = tbl3
+            VL[7] = "\xc9\x80\x98I\xae\x8bubxh-\xdb\xfb\xa8\x8d\"]\xa1\\?\xd8\x96"
+            VL[5] = r15
+            VL[6] = VL[5](VL[7], VL[8])
+            VL[3] = VL[4][VL[6]]
+            VL[2] = function22(VL[3])
+        end
+        VL[2] = false
+        VL[3] = 40
+        v[VL[3]] = VL[2]
+        VL[8] = "Z\x98\xf4\xa9\x85D/\xc9\x8c\r\tp/\xc2"
+        VL[5] = tbl3
+        VL[9] = 24218578856973
+        VL[6] = r15
+        VL[7] = VL[6](VL[8], VL[9])
+        VL[4] = VL[5][VL[7]]
+        VL[5] = function(function35, ...)
+            u = function35
+            v1322 = u
+            v133 = u.FindFirstChildOfClass(u, "Humanoid")
+            v134 = u.FindFirstChild(u, "HumanoidRootPart")
+            v135 = u.FindFirstChild(u, "Head")
+            v[VL[3]] = true
+            return 
+        end
+        VL[11] = 16985085730533
+        VL[2] = tbl35[VL[4]]
+        VL[4] = "Connect"
+        VL[10] = "2Se\x834C\xd6\x17\x08"
+        VL[4] = VL[2][VL[4]]
+        VL[4] = VL[4](VL[2], VL[5])
+        VL[2] = false
+        VL[14] = 11935248111029
+        VL[4] = 41
+        v[VL[4]] = VL[2]
+        VL[2] = v133
+        VL[7] = tbl3
+        VL[8] = r15
+        VL[5] = "GetPropertyChangedSignal"
+        VL[9] = VL[8](VL[10], VL[11])
+        VL[5] = VL[2][VL[5]]
+        VL[6] = VL[7][VL[9]]
+        VL[5] = VL[5](VL[2], VL[6])
+        VL[6] = function(...)
+            v[VL[4]] = true
+            return 
+        end
+        VL[2] = "Connect"
+        VL[2] = VL[5][VL[2]]
+        VL[2] = VL[2](VL[5], VL[6])
+        VL[13] = "x\xe5\xca`\x11D:\x9b\x1e"
+        VL[2] = v133
+        VL[6] = tbl3
+        VL[7] = r15
+        VL[9] = "\xb4\xc0\xb6v\x077\xedc2"
+        VL[10] = 10361197155032
+        VL[8] = VL[7](VL[9], VL[10])
+        VL[5] = VL[6][VL[8]]
+        VL[8] = v133
+        VL[10] = tbl3
+        VL[11] = r15
+        VL[12] = VL[11](VL[13], VL[14])
+        VL[9] = VL[10][VL[12]]
+        VL[7] = VL[8][VL[9]]
+        VL[8] = 1
+        VL[6] = VL[7] + VL[8]
+        VL[2][VL[5]] = VL[6]
+        VL[2] = v[VL[4]]
+        if VL[2] then
+            VL[13] = 26497966911539
+            VL[6] = tbl3
+            VL[10] = 27777460466310
+            VL[9] = "V\x13\x97\nq\xb6\x90S\x82\x99\xfd;\xd6\xd1\x0cA{\xc7S|Bn\"4)"
+            VL[7] = r15
+            VL[8] = VL[7](VL[9], VL[10])
+            VL[5] = VL[6][VL[8]]
+            VL[7] = v133
+            VL[12] = "\xc8=\xfc0\xa6#\x059\x00"
+            VL[9] = tbl3
+            VL[10] = r15
+            VL[11] = VL[10](VL[12], VL[13])
+            VL[8] = VL[9][VL[11]]
+            VL[6] = VL[7][VL[8]]
+            VL[2] = function25(VL[5], VL[6])
+        else
+            VL[10] = 27393547153876
+            VL[6] = tbl3
+            VL[7] = r15
+            VL[9] = "\n\xbc\x9a\xf4\xf8\xb2\x9eh\x81LF-\xc1\xd8\xb1\xc4\xab\x81M\xcb\xca\xf4\xdaAX"
+            VL[8] = VL[7](VL[9], VL[10])
+            VL[5] = VL[6][VL[8]]
+            VL[2] = function22(VL[5])
+        end
+        VL[5] = VL[3]
+        VL[10] = "Vector2"
+        VL[8] = "type"
+        VL[7] = Env[VL[8]]
+        VL[9] = Env[VL[10]]
+        VL[8] = VL[7](VL[9])
+        VL[9] = tbl3
+        VL[13] = 912272736680
+        VL[12] = "\x9b\xfd\xce\xb2~"
+        VL[10] = r15
+        VL[11] = VL[10](VL[12], VL[13])
+        VL[7] = VL[9][VL[11]]
+        VL[6] = VL[8] == VL[7]
+        VL[2] = VL[6] and (VL[8] and VL[10])
+        if VL[2] then
+            VL[6] = tbl3
+            VL[7] = r15
+            VL[9] = "\xf4\xd0'!v\x1b\xc5#\xed~\xae\xa3\xd2\xb0i\xd10\x8d\x01\xbe+\xd7;"
+            VL[10] = 33272074124421
+            VL[8] = VL[7](VL[9], VL[10])
+            VL[7] = "Vector3"
+            VL[5] = VL[6][VL[8]]
+            VL[6] = Env[VL[7]]
+            VL[2] = function25(VL[5], VL[6])
+        else
+            VL[6] = tbl3
+            VL[7] = r15
+            VL[9] = "y\xfd~\xc6dU\xc3%c\xf7\xfc\x82\xbb\xd8,>\xac\x1b\x8a\xdat\x12p"
+            VL[10] = 2764170593543
+            VL[8] = VL[7](VL[9], VL[10])
+            VL[5] = VL[6][VL[8]]
+            VL[2] = function22(VL[5])
+        end
+        VL[11] = 32977440308220
+        VL[6] = "Vector2"
+        VL[10] = "\xec=n"
+        VL[16] = 33969107598794
+        VL[13] = 34516975189705
+        VL[5] = Env[VL[6]]
+        VL[7] = tbl3
+        VL[8] = r15
+        VL[9] = VL[8](VL[10], VL[11])
+        VL[6] = VL[7][VL[9]]
+        VL[20] = 26337524772840
+        VL[2] = VL[5][VL[6]]
+        VL[7] = 5
+        VL[6] = 4
+        VL[5] = VL[2](VL[6], VL[7])
+        VL[11] = "\xc7\xa4\xba"
+        VL[7] = "Vector3"
+        VL[6] = Env[VL[7]]
+        VL[8] = tbl3
+        VL[19] = "\xbd\xd2."
+        VL[9] = r15
+        VL[12] = 5884793342644
+        VL[10] = VL[9](VL[11], VL[12])
+        VL[7] = VL[8][VL[10]]
+        VL[2] = VL[6][VL[7]]
+        VL[12] = "_\x88\x03"
+        VL[8] = 2
+        VL[9] = 3
+        VL[7] = 1
+        VL[23] = 18317144580433
+        VL[6] = VL[2](VL[7], VL[8], VL[9])
+        VL[8] = "Vector2int16"
+        VL[7] = Env[VL[8]]
+        VL[24] = "]\xc8j"
+        VL[9] = tbl3
+        VL[10] = r15
+        VL[11] = VL[10](VL[12], VL[13])
+        VL[8] = VL[9][VL[11]]
+        VL[9] = 7
+        VL[2] = VL[7][VL[8]]
+        VL[8] = 6
+        VL[13] = "\xa4\x96j"
+        VL[7] = VL[2](VL[8], VL[9])
+        VL[9] = "Vector3int16"
+        VL[8] = Env[VL[9]]
+        VL[14] = 16581428977193
+        VL[10] = tbl3
+        VL[11] = r15
+        VL[12] = VL[11](VL[13], VL[14])
+        VL[9] = VL[10][VL[12]]
+        VL[2] = VL[8][VL[9]]
+        VL[11] = 10
+        VL[14] = "\x8d\x19v"
+        VL[9] = 8
+        VL[10] = 9
+        VL[8] = VL[2](VL[9], VL[10], VL[11])
+        VL[10] = "CFrame"
+        VL[15] = 4532853983294
+        VL[9] = Env[VL[10]]
+        VL[11] = tbl3
+        VL[12] = r15
+        VL[13] = VL[12](VL[14], VL[15])
+        VL[10] = VL[11][VL[13]]
+        VL[11] = 2
+        VL[15] = "\xa9/\x8fp\xc3b\xe8"
+        VL[12] = 3
+        VL[2] = VL[9][VL[10]]
+        VL[10] = 1
+        VL[9] = VL[2](VL[10], VL[11], VL[12])
+        VL[17] = 33006785412105
+        VL[11] = "Color3"
+        VL[10] = Env[VL[11]]
+        VL[12] = tbl3
+        VL[13] = r15
+        VL[14] = VL[13](VL[15], VL[16])
+        VL[11] = VL[12][VL[14]]
+        VL[12] = 50
+        VL[13] = 75
+        VL[2] = VL[10][VL[11]]
+        VL[11] = 25
+        VL[16] = "\x8b'Z"
+        VL[10] = VL[2](VL[11], VL[12], VL[13])
+        VL[12] = "UDim2"
+        VL[11] = Env[VL[12]]
+        VL[13] = tbl3
+        VL[14] = r15
+        VL[15] = VL[14](VL[16], VL[17])
+        VL[12] = VL[13][VL[15]]
+        VL[15] = 20
+        VL[2] = VL[11][VL[12]]
+        VL[12] = 0
+        VL[21] = 34692730519323
+        VL[13] = 10
+        VL[25] = 2105033688020
+        VL[14] = 0
+        VL[11] = VL[2](VL[12], VL[13], VL[14], VL[15])
+        VL[17] = "\x8d*\xc1"
+        VL[13] = "Rect"
+        VL[18] = 5547797645847
+        VL[12] = Env[VL[13]]
+        VL[14] = tbl3
+        VL[15] = r15
+        VL[16] = VL[15](VL[17], VL[18])
+        VL[15] = "Vector2"
+        VL[13] = VL[14][VL[16]]
+        VL[2] = VL[12][VL[13]]
+        VL[14] = Env[VL[15]]
+        VL[16] = tbl3
+        VL[17] = r15
+        VL[18] = VL[17](VL[19], VL[20])
+        VL[15] = VL[16][VL[18]]
+        VL[16] = 0
+        VL[13] = VL[14][VL[15]]
+        VL[22] = 29282937828675
+        VL[15] = 0
+        VL[14] = VL[13](VL[15], VL[16])
+        VL[20] = "\xcd\x8d2"
+        VL[16] = "Vector2"
+        VL[15] = Env[VL[16]]
+        VL[17] = tbl3
+        VL[18] = r15
+        VL[19] = VL[18](VL[20], VL[21])
+        VL[16] = VL[17][VL[19]]
+        VL[17] = 10
+        VL[13] = VL[15][VL[16]]
+        VL[16] = 10
+        VL[15] = { VL[13](VL[16], VL[17]) }
+        VL[12] = VL[2](VL[14], q(VL[15]))
+        VL[19] = 26605083865188
+        VL[14] = "Region3"
+        VL[18] = "r\x8ac"
+        VL[13] = Env[VL[14]]
+        VL[15] = tbl3
+        VL[16] = r15
+        VL[17] = VL[16](VL[18], VL[19])
+        VL[16] = "Vector3"
+        VL[14] = VL[15][VL[17]]
+        VL[2] = VL[13][VL[14]]
+        VL[20] = "\xbef\xff"
+        VL[15] = Env[VL[16]]
+        VL[17] = tbl3
+        VL[21] = 34565028953823
+        VL[18] = r15
+        VL[19] = VL[18](VL[20], VL[21])
+        VL[16] = VL[17][VL[19]]
+        VL[17] = 0
+        VL[18] = 0
+        VL[14] = VL[15][VL[16]]
+        VL[16] = 0
+        VL[26] = 29147492660484
+        VL[15] = VL[14](VL[16], VL[17], VL[18])
+        VL[17] = "Vector3"
+        VL[16] = Env[VL[17]]
+        VL[18] = tbl3
+        VL[19] = r15
+        VL[21] = "W\xe46"
+        VL[20] = VL[19](VL[21], VL[22])
+        VL[17] = VL[18][VL[20]]
+        VL[18] = 2
+        VL[21] = "\nE\x1e"
+        VL[14] = VL[16][VL[17]]
+        VL[22] = 10479437288207
+        VL[19] = 2
+        VL[17] = 2
+        VL[16] = { VL[14](VL[17], VL[18], VL[19]) }
+        VL[20] = 27003951771934
+        VL[13] = VL[2](VL[15], q(VL[16]))
+        VL[15] = "Region3int16"
+        VL[14] = Env[VL[15]]
+        VL[16] = tbl3
+        VL[19] = "\xd5\xe4\x05"
+        VL[17] = r15
+        VL[18] = VL[17](VL[19], VL[20])
+        VL[15] = VL[16][VL[18]]
+        VL[17] = "Vector3int16"
+        VL[2] = VL[14][VL[15]]
+        VL[16] = Env[VL[17]]
+        VL[18] = tbl3
+        VL[19] = r15
+        VL[20] = VL[19](VL[21], VL[22])
+        VL[17] = VL[18][VL[20]]
+        VL[15] = VL[16][VL[17]]
+        VL[17] = 0
+        VL[19] = 0
+        VL[18] = 0
+        VL[16] = VL[15](VL[17], VL[18], VL[19])
+        VL[22] = "\x07\x086"
+        VL[18] = "Vector3int16"
+        VL[17] = Env[VL[18]]
+        VL[19] = tbl3
+        VL[20] = r15
+        VL[21] = VL[20](VL[22], VL[23])
+        VL[18] = VL[19][VL[21]]
+        VL[15] = VL[17][VL[18]]
+        VL[20] = 1
+        VL[19] = 1
+        VL[18] = 1
+        VL[17] = { VL[15](VL[18], VL[19], VL[20]) }
+        VL[20] = "\x0c\x9c_"
+        VL[14] = VL[2](VL[16], q(VL[17]))
+        VL[16] = "NumberRange"
+        VL[15] = Env[VL[16]]
+        VL[23] = 12111516407303
+        VL[17] = tbl3
+        VL[18] = r15
+        VL[21] = 20304320062702
+        VL[19] = VL[18](VL[20], VL[21])
+        VL[16] = VL[17][VL[19]]
+        VL[22] = 18786295489068
+        VL[17] = 1
+        VL[2] = VL[15][VL[16]]
+        VL[16] = 0
+        VL[15] = VL[2](VL[16], VL[17])
+        VL[17] = "NumberSequence"
+        VL[16] = Env[VL[17]]
+        VL[18] = tbl3
+        VL[21] = "s\x9f\x95"
+        VL[19] = r15
+        VL[20] = VL[19](VL[21], VL[22])
+        VL[17] = VL[18][VL[20]]
+        VL[18] = 0.75
+        VL[2] = VL[16][VL[17]]
+        VL[17] = 0.25
+        VL[16] = VL[2](VL[17], VL[18])
+        VL[18] = "ColorSequence"
+        VL[22] = "G!\x98"
+        VL[17] = Env[VL[18]]
+        VL[19] = tbl3
+        VL[20] = r15
+        VL[21] = VL[20](VL[22], VL[23])
+        VL[20] = "Color3"
+        VL[18] = VL[19][VL[21]]
+        VL[2] = VL[17][VL[18]]
+        VL[19] = Env[VL[20]]
+        VL[21] = tbl3
+        VL[22] = r15
+        VL[23] = VL[22](VL[24], VL[25])
+        VL[25] = "O\x85'"
+        VL[20] = VL[21][VL[23]]
+        VL[18] = VL[19][VL[20]]
+        VL[21] = 0
+        VL[22] = 0
+        VL[20] = 1
+        VL[19] = VL[18](VL[20], VL[21], VL[22])
+        VL[21] = "Color3"
+        VL[20] = Env[VL[21]]
+        VL[22] = tbl3
+        VL[23] = r15
+        VL[24] = VL[23](VL[25], VL[26])
+        VL[23] = 0
+        VL[21] = VL[22][VL[24]]
+        VL[18] = VL[20][VL[21]]
+        VL[21] = 0
+        VL[22] = 1
+        VL[20] = { VL[18](VL[21], VL[22], VL[23]) }
+        VL[18] = VL[5]
+        VL[17] = VL[2](VL[19], q(VL[20]))
+        VL[21] = "typeof"
+        VL[20] = Env[VL[21]]
+        VL[26] = 24046764518333
+        VL[25] = "yo\xa2\x9c\xc4\xed\x05"
+        VL[21] = VL[20](VL[5])
+        VL[22] = tbl3
+        VL[23] = r15
+        VL[24] = VL[23](VL[25], VL[26])
+        VL[20] = VL[22][VL[24]]
+        VL[19] = VL[21] == VL[20]
+        VL[2] = VL[19] and (VL[21] and VL[23])
+        if VL[2] then
+            VL[22] = "\xaa3\xaasA\xd5{\xed\n\xf9\x8f\x8c"
+            VL[19] = tbl3
+            VL[20] = r15
+            VL[23] = 30794766891011
+            VL[21] = VL[20](VL[22], VL[23])
+            VL[18] = VL[19][VL[21]]
+            VL[2] = function25(VL[18], VL[6])
+        else
+            VL[19] = tbl3
+            VL[23] = 630603383077
+            VL[20] = r15
+            VL[22] = "\xc8l\xb9m[k\x13\x7f\xe4S\xfb*"
+            VL[21] = VL[20](VL[22], VL[23])
+            VL[18] = VL[19][VL[21]]
+            VL[2] = function22(VL[18])
+        end
+        VL[21] = "typeof"
+        VL[26] = 32453578668808
+        VL[20] = Env[VL[21]]
+        VL[21] = VL[20](VL[9])
+        VL[22] = tbl3
+        VL[23] = r15
+        VL[18] = VL[18]
+        VL[25] = "\x8e\x88\xff{C\x12"
+        VL[24] = VL[23](VL[25], VL[26])
+        VL[20] = VL[22][VL[24]]
+        VL[19] = VL[21] == VL[20]
+        VL[2] = VL[19] and (VL[21] and VL[23])
+        if VL[2] then
+            VL[22] = "|\xd4_\xf3\xc6\xa1\x11\t.\"\xa5\x12\xed\xaf\xc0\x8aC\xb6\xc2\x8a(j"
+            VL[19] = tbl3
+            VL[20] = r15
+            VL[23] = 20466461238586
+            VL[21] = VL[20](VL[22], VL[23])
+            VL[18] = VL[19][VL[21]]
+            VL[2] = function25(VL[18], VL[9])
+        else
+            VL[22] = "f/|H\xb8\x7f\xa3\x83C\x03q1\xa5\xe5\xfb1\xa7\x90\x82\xfe\xbe6"
+            VL[19] = tbl3
+            VL[23] = 4603098761311
+            VL[20] = r15
+            VL[21] = VL[20](VL[22], VL[23])
+            VL[18] = VL[19][VL[21]]
+            VL[2] = function22(VL[18])
+        end
+        VL[18] = VL[18]
+        VL[21] = "typeof"
+        VL[20] = Env[VL[21]]
+        VL[21] = VL[20](VL[13])
+        VL[26] = 34550352346840
+        VL[25] = "VL\xc0F\xdd\xc4\xb6"
+        VL[22] = tbl3
+        VL[23] = r15
+        VL[24] = VL[23](VL[25], VL[26])
+        VL[20] = VL[22][VL[24]]
+        VL[19] = VL[21] == VL[20]
+        VL[2] = VL[19]
+        if VL[19] then
+            VL[26] = 1863518110563
+            VL[21] = "typeof"
+            VL[20] = Env[VL[21]]
+            VL[21] = VL[20](VL[14])
+            VL[22] = tbl3
+            VL[25] = "\xf89i\x08]\xadd\xa0\xe7\x92\x93\xb1"
+            VL[23] = r15
+            VL[24] = VL[23](VL[25], VL[26])
+            VL[20] = VL[22][VL[24]]
+            VL[19] = VL[21] == VL[20]
+            VL[2] = VL[19]
+        end
+        if VL[2] then
+            VL[23] = 9135952744606
+            VL[19] = tbl3
+            VL[22] = "\x1b'\xfb\xb1\xa1x\xd1\xb1)\xf2^\x16"
+            VL[20] = r15
+            VL[21] = VL[20](VL[22], VL[23])
+            VL[18] = VL[19][VL[21]]
+            VL[2] = function25(VL[18], VL[14])
+        else
+            VL[22] = "\xb7\xaa\xe9\xe3I!<l+o\xbd'"
+            VL[19] = tbl3
+            VL[20] = r15
+            VL[23] = 33335087856802
+            VL[21] = VL[20](VL[22], VL[23])
+            VL[18] = VL[19][VL[21]]
+            VL[2] = function22(VL[18])
+        end
+        VL[18] = VL[18]
+        VL[25] = "F\x110\x86\xb43$\x94\xb7\x9c\xba"
+        VL[21] = "typeof"
+        VL[20] = Env[VL[21]]
+        VL[26] = 34870303522669
+        VL[21] = VL[20](VL[15])
+        VL[22] = tbl3
+        VL[23] = r15
+        VL[24] = VL[23](VL[25], VL[26])
+        VL[20] = VL[22][VL[24]]
+        VL[19] = VL[21] == VL[20]
+        VL[2] = VL[19] and VL[21]
+        function22 = VL[18]
+        if VL[2] then
+            VL[19] = tbl3
+            VL[20] = r15
+            VL[23] = 28477227660236
+            VL[22] = "\xe2@Yju/\xad\xeeU>%\xd9\xb0q"
+            VL[21] = VL[20](VL[22], VL[23])
+            VL[18] = VL[19][VL[21]]
+            VL[2] = function25(VL[18], VL[15])
+        else
+            VL[22] = "\x9b\x06\xe8\xe8\xd2\xfe>h_G\xc5\x1b<9"
+            VL[19] = tbl3
+            VL[20] = r15
+            VL[23] = 33108413938745
+            VL[21] = VL[20](VL[22], VL[23])
+            VL[18] = VL[19][VL[21]]
+            VL[2] = function22(VL[18])
+        end
+        VL[18] = function22
+        VL[23] = "os"
+        VL[22] = Env[VL[23]]
+        VL[24] = tbl3
+        VL[27] = "\xdd\x17n\xeb"
+        VL[28] = 34348334677626
+        VL[25] = r15
+        VL[20] = function22
+        VL[26] = VL[25](VL[27], VL[28])
+        VL[23] = VL[24][VL[26]]
+        VL[21] = VL[22][VL[23]]
+        VL[19] = VL[21]
+        if VL[21] then
+            VL[23] = "os"
+            VL[22] = Env[VL[23]]
+            VL[27] = "\xf5\x90\xfb\xed"
+            VL[24] = tbl3
+            VL[28] = 11610000135454
+            VL[25] = r15
+            VL[26] = VL[25](VL[27], VL[28])
+            VL[23] = VL[24][VL[26]]
+            VL[21] = VL[22][VL[23]]
+            VL[22] = VL[21]()
+            VL[19] = VL[22]
+        end
+        VL[20] = 0
+        VL[2] = VL[19] or VL[20]
+        VL[24] = "\x85kb{\x92\x18"
+        VL[25] = 18228361896232
+        VL[20] = "type"
+        VL[19] = Env[VL[20]]
+        VL[20] = VL[19](VL[2])
+        VL[21] = tbl3
+        VL[22] = r15
+        VL[23] = VL[22](VL[24], VL[25])
+        VL[19] = VL[21][VL[23]]
+        VL[18] = VL[20] ~= VL[19]
+        if VL[18] then
+            VL[18] = false
+            enable2 = VL[18]
+            VL[21] = 0
+            VL[19] = function5
+            VL[20] = VL[19](VL[21])
+        end
+        VL[21] = v82
+        VL[19] = VL[21]
+        VL[20] = VL[20]
+        if VL[21] then
+            VL[25] = "type"
+            VL[24] = Env[VL[25]]
+            VL[26] = v82
+            VL[25] = VL[24](VL[26])
+            VL[30] = 17950258061478
+            VL[22] = VL[20]
+            VL[26] = tbl3
+            VL[27] = r15
+            VL[29] = "\xdd=\x86\xa6\xb0\x99"
+            VL[28] = VL[27](VL[29], VL[30])
+            VL[24] = VL[26][VL[28]]
+            VL[23] = VL[25] == VL[24]
+            VL[21] = VL[23]
+            VL[19] = VL[21] and VL[23]
+            function22 = VL[22]
+        end
+        if VL[19] then
+            VL[19] = false
+            VL[22] = 0
+            enable2 = VL[19]
+            VL[20] = function5
+            VL[21] = VL[20](VL[22])
+        end
+        VL[21] = enable2
+        VL[20] = not VL[21]
+        if VL[20] then
+            VL[22] = 0
+            VL[20] = function5
+            VL[21] = VL[20](VL[22])
+        end
+        VL[25] = v[VL[21]]
+        VL[24] = not VL[25]
+        VL[20] = VL[24]
+        VL[21] = 68
+        VL[20] = true
+        VL[23] = function(...)
+            if typeof == nil or type(typeof) ~= "function" then
+                v[VL[21]] = false
+                return
+            end
+            if typeof(GAME) ~= "Instance" then
+                v[VL[21]] = false
+                return
+            end
+            if type(GAME.GetService) ~= "function" then
+                v[VL[21]] = false
+                return
+            end
+            p = GAME
+            if typeof(p.GetService(p, "RunService")) ~= "Instance" then
+                v[VL[21]] = false
+                return
+            end
+            J = WORKSPACE
+            Z = J == nil
+            if Z then
+                Z = GAME
+                J = Z.GetService(Z, "Workspace")
+            end
+            if typeof(J) ~= "Instance" then
+                v[VL[21]] = false
+                return
+            end
+            return 
+        end
+        VL[22] = "pcall"
+        v[VL[21]] = VL[20]
+        VL[20] = Env[VL[22]]
+        VL[22] = VL[20](VL[23])
+        VL[23] = VL[20]
+        VL[24] = not VL[22]
+        VL[20] = VL[24] or VL[20]
+        function22 = VL[23]
+        if VL[20] then
+            VL[20] = false
+            VL[25] = 0
+            enable2 = VL[20]
+            VL[23] = function5
+            VL[24] = VL[23](VL[25])
+        end
+        VL[26] = "table"
+        VL[21] = nil
+        VL[22] = nil
+        VL[22] = function22
+        VL[25] = Env[VL[26]]
+        VL[23] = VL[25]
+        VL[24] = function22
+        if VL[25] then
+            VL[27] = "table"
+            VL[31] = "\x0f\x1e\xacB\x02\xa0"
+            VL[32] = 33005069483017
+            VL[26] = Env[VL[27]]
+            VL[28] = tbl3
+            VL[29] = r15
+            VL[30] = VL[29](VL[31], VL[32])
+            VL[27] = VL[28][VL[30]]
+            VL[25] = VL[26][VL[27]]
+            VL[23] = VL[25]
+        end
+        VL[24] = "unpack"
+        VL[23] = Env[VL[24]]
+        VL[21] = VL[23]
+        VL[21] = VL[23] or VL[21]
+        function22 = VL[24]
+        VL[29] = 26109055119229
+        VL[24] = "type"
+        VL[23] = Env[VL[24]]
+        VL[24] = VL[23](VL[21])
+        VL[28] = "\x8b\xe3\xd6~eS\x8e\xe0"
+        VL[25] = tbl3
+        VL[26] = r15
+        VL[27] = VL[26](VL[28], VL[29])
+        VL[23] = VL[25][VL[27]]
+        VL[22] = VL[24] ~= VL[23]
+        if VL[22] then
+            VL[22] = false
+            VL[25] = 0
+            enable2 = VL[22]
+            VL[23] = function5
+            VL[24] = VL[23](VL[25])
+        end
+        VL[24] = 1
+        VL[25] = 2
+        VL[26] = 3
+        VL[30] = 1
+        VL[23] = { VL[24], VL[25], VL[26] }
+        VL[27] = { VL[21](VL[23]) }
+        VL[25] = VL[27][2]
+        VL[26] = VL[27][3]
+        VL[28] = VL[22]
+        VL[24] = VL[27][1]
+        VL[29] = VL[24] ~= VL[30]
+        VL[27] = VL[29] or VL[31]
+        if VL[27] then
+            VL[30] = 0
+            VL[27] = false
+            enable2 = VL[27]
+            VL[28] = function5
+            VL[29] = VL[28](VL[30])
+        end
+        VL[39] = "_ENV"
+        VL[38] = Env[VL[39]]
+        VL[28] = VL[38]
+        VL[37] = VL[28]
+        VL[29] = 32
+        VL[28] = true
+        v[VL[29]] = VL[28]
+        VL[28] = true
+        VL[30] = 33
+        v[VL[30]] = VL[28]
+        VL[31] = 34
+        VL[28] = true
+        v[VL[31]] = VL[28]
+        VL[28] = true
+        VL[32] = 35
+        v[VL[32]] = VL[28]
+        VL[36] = 36
+        VL[28] = true
+        VL[34] = 37
+        VL[35] = 38
+        VL[33] = 39
+        v[VL[33]] = VL[28]
+        VL[28] = true
+        v[VL[34]] = VL[28]
+        VL[39] = "_G"
+        VL[28] = 300
+        v[VL[35]] = VL[28]
+        VL[28] = 0.25
+        v[VL[36]] = VL[28]
+        VL[38] = Env[VL[39]]
+        VL[28] = VL[38] or VL[28]
+        VL[37] = 28
+        VL[38] = VL[37]
+        v[VL[37]] = VL[28]
+        VL[39] = v[VL[31]]
+        VL[28] = VL[39]
+        if VL[39] then
+            VL[43] = "getfenv"
+            VL[41] = "type"
+            VL[40] = Env[VL[41]]
+            VL[42] = Env[VL[43]]
+            VL[41] = VL[40](VL[42])
+            VL[42] = tbl3
+            VL[45] = ";\xdf+0Phcd"
+            VL[46] = 33315305487513
+            VL[43] = r15
+            VL[44] = VL[43](VL[45], VL[46])
+            VL[40] = VL[42][VL[44]]
+            VL[39] = VL[41] == VL[40]
+            VL[28] = VL[39]
+        end
+        function22 = VL[38]
+        if VL[28] then
+            VL[38] = "pcall"
+            VL[28] = Env[VL[38]]
+            VL[39] = function(...)
+                u = getfenv(0)
+                function22 = type(u) == "table"
+                if function22 then
+                    function22 = getfenv(0)
+                    v[VL[37]] = function22
+                end
+                return 
+            end
+            VL[38] = VL[28](VL[39])
+        end
+        VL[38] = "getfenv"
+        VL[39] = "getmetatable"
+        VL[40] = "newproxy"
+        VL[28] = Env[VL[38]]
+        VL[38] = 56
+        v[VL[38]] = VL[28]
+        VL[28] = Env[VL[39]]
+        VL[43] = function22
+        VL[39] = 57
+        v[VL[39]] = VL[28]
+        VL[28] = Env[VL[40]]
+        VL[40] = 58
+        VL[45] = "table"
+        VL[41] = function22
+        v[VL[40]] = VL[28]
+        VL[44] = Env[VL[45]]
+        VL[42] = VL[44]
+        VL[28] = VL[42] and VL[44]
+        function22 = VL[43]
+        if VL[42] then
+            function22 = VL[41]
+            VL[46] = "table"
+            VL[41] = 66
+            VL[44] = function22
+            v[VL[41]] = VL[28]
+            VL[45] = Env[VL[46]]
+            VL[42] = function22
+            VL[43] = VL[45]
+            if VL[45] then
+                VL[52] = 18597394620884
+                VL[47] = "table"
+                VL[51] = "\"\x99O.U\xef"
+                VL[46] = Env[VL[47]]
+                VL[48] = tbl3
+                VL[49] = r15
+                VL[50] = VL[49](VL[51], VL[52])
+                VL[47] = VL[48][VL[50]]
+                VL[45] = VL[46][VL[47]]
+                VL[43] = VL[45]
+            end
+            VL[44] = nil
+            VL[42] = 49
+            VL[28] = VL[43] or VL[44]
+            v[VL[42]] = VL[28]
+            VL[43] = "_ENV"
+            VL[28] = Env[VL[43]]
+            VL[44] = 50
+            VL[43] = 51
+            VL[45] = VL[44]
+            v[VL[43]] = VL[28]
+            VL[28] = nil
+            v[VL[44]] = VL[28]
+            VL[46] = v[VL[29]]
+            VL[28] = VL[46] and VL[48]
+            if VL[28] then
+                VL[46] = function(...)
+                    v[VL[44]] = getmetatable(v[VL[37]])
+                    return 
+                end
+                VL[45] = "pcall"
+                VL[28] = Env[VL[45]]
+                VL[45] = VL[28](VL[46])
+            end
+            VL[45] = function(...)
+                if v[VL[29]] and type(v[VL[37]]) == "table" then
+                    if type(getmetatable) == "function" then
+                        pcall(function(...)
+                            r74 = getmetatable(v[VL[37]])
+                            return 
+                        end)
+                    end
+                    function22 = r74 ~= v[VL[44]]
+                    if function22 then
+                        v[Z] = false
+                        return
+                    end
+                    function22 = function22
+                    if v[VL[43]] ~= nil and _ENV ~= v[VL[43]] then
+                        v[Z] = false
+                        return
+                    end
+                end
+                if v[VL[30]] then
+                    function22 = function22
+                    function22 = function22
+                    if v[VL[41]] ~= (table and table.unpack or unpack) then
+                        v[Z] = false
+                        return
+                    end
+                    if v[VL[42]] ~= (table and table.unpack or nil) then
+                        v[Z] = false
+                        return
+                    end
+                end
+                Z = v[VL[31]]
+                u = v[VL[33]] and (v[VL[40]] ~= nil and newproxy ~= v[VL[40]])
+                if Z then
+                    function22 = VL[45]
+                    u = v[VL[38]] ~= nil and getfenv ~= v[VL[38]]
+                end
+                if u then
+                    enable2 = false
+                    return
+                end
+                tbl10 = v[VL[32]]
+                if tbl10 then
+                    p = v[VL[39]] ~= nil and getmetatable ~= v[VL[39]]
+                    function22 = VL[45]
+                end
+                if tbl10 then
+                    enable2 = false
+                    return
+                end
+                function22 = VL[45]
+                if v[VL[33]] and (v[VL[40]] ~= nil and newproxy ~= v[VL[40]]) then
+                    enable2 = false
+                    return
+                end
+                return 
+            end
+            VL[28] = 5
+            v[VL[28]] = VL[45]
+            VL[45] = v[VL[28]]
+            VL[46] = VL[45]()
+            VL[46] = enable2
+            VL[45] = not VL[46]
+            if VL[45] then
+                VL[45] = function5
+                VL[48] = tbl3
+                VL[52] = 24961804709223
+                VL[51] = "\xb6\xfd\xed\xc6\x05[\xf4\x0e\x80|.)\x90>a"
+                VL[49] = r15
+                VL[50] = VL[49](VL[51], VL[52])
+                VL[47] = VL[48][VL[50]]
+                VL[46] = VL[45](VL[47])
+            end
+            VL[45] = function(...)
+                p = rawget(_G, "task")
+                if p then
+                    I = v[VL[34]]
+                    if I then enable9 = J == Z[v72] and type(u.wait) == "function" end
+                    if I then
+                        while enable2 do
+                            v[VL[28]]()
+                            if not enable2 then
+                                function5("hook/env tamper")
+                            end
+                            pcall(enable9.wait, v[VL[36]]) 
+                        end
+                        return
+                    end
+                    J = enable2
+                    enable9 = 0 < v[VL[35]]
+                    while not J do
+                        if enable9 then
+                            I = I + 1
+                            v[VL[28]]()
+                            if not enable2 then
+                                function5("hook/env tamper")
+                            end
+                            if type(u) == Z[v72] and type(u.wait) == "function" then
+                                pcall(u.wait, v[VL[36]])
+                            end
+                        end
+                        return 
+                    end
+                    enable9 = 0 < v[VL[35]]
+                else
+                    enable9 = task
+                end 
+            end
+            VL[51] = "_G"
+            VL[49] = "rawget"
+            VL[47] = VL[45]
+            VL[55] = "\xc8\xfc\xfen"
+            VL[48] = Env[VL[49]]
+            VL[56] = 12034298516963
+            VL[50] = Env[VL[51]]
+            VL[52] = tbl3
+            VL[53] = r15
+            VL[54] = VL[53](VL[55], VL[56])
+            VL[51] = VL[52][VL[54]]
+            VL[49] = VL[48](VL[50], VL[51])
+            VL[46] = VL[49]
+            if VL[49] then
+                VL[55] = "\x82jJN\x15"
+                VL[51] = "type"
+                VL[48] = VL[47]
+                VL[50] = Env[VL[51]]
+                VL[51] = VL[50](VL[46])
+                VL[56] = 18761742623264
+                VL[52] = tbl3
+                VL[53] = r15
+                VL[54] = VL[53](VL[55], VL[56])
+                VL[50] = VL[52][VL[54]]
+                VL[49] = VL[51] == VL[50]
+                VL[47] = VL[49]
+                if VL[49] then
+                    VL[51] = "type"
+                    VL[50] = Env[VL[51]]
+                    VL[54] = tbl3
+                    VL[58] = 12781134108479
+                    VL[57] = "b9B\x0f\xc2"
+                    VL[55] = r15
+                    VL[56] = VL[55](VL[57], VL[58])
+                    VL[53] = VL[54][VL[56]]
+                    VL[52] = VL[46][VL[53]]
+                    VL[55] = "\x85e\x92=4jW\xca"
+                    VL[51] = VL[50](VL[52])
+                    VL[56] = 32367694117600
+                    VL[52] = tbl3
+                    VL[53] = r15
+                    VL[54] = VL[53](VL[55], VL[56])
+                    VL[50] = VL[52][VL[54]]
+                    VL[49] = VL[51] == VL[50]
+                    VL[47] = VL[49]
+                end
+                function22 = VL[48]
+                if VL[47] then
+                    VL[52] = "(\xdc\x0f6!"
+                    VL[53] = 30675121256396
+                    VL[49] = tbl3
+                    VL[50] = r15
+                    VL[51] = VL[50](VL[52], VL[53])
+                    VL[48] = VL[49][VL[51]]
+                    VL[47] = VL[46][VL[48]]
+                    VL[48] = VL[47](VL[45])
+                else
+                    VL[50] = function22
+                    VL[48] = function22
+                    VL[52] = "coroutine"
+                    VL[51] = Env[VL[52]]
+                    VL[49] = VL[51] and VL[53]
+                    VL[50] = nil
+                    VL[47] = VL[49] or VL[50]
+                    VL[49] = VL[50]
+                    VL[48] = VL[47]
+                    if VL[47] then
+                        VL[53] = "coroutine"
+                        VL[51] = VL[50]
+                        VL[52] = Env[VL[53]]
+                        VL[50] = VL[52]
+                        VL[48] = VL[50] and VL[52]
+                        function22 = VL[51]
+                    end
+                    if VL[48] then
+                        VL[49] = "pcall"
+                        VL[48] = Env[VL[49]]
+                        VL[52] = "coroutine"
+                        VL[51] = Env[VL[52]]
+                        VL[56] = "\xf3&~\xf8U\xca"
+                        VL[57] = 19020519514777
+                        VL[53] = tbl3
+                        VL[54] = r15
+                        VL[55] = VL[54](VL[56], VL[57])
+                        VL[52] = VL[53][VL[55]]
+                        VL[50] = VL[51][VL[52]]
+                        VL[49] = VL[48](VL[50], VL[47])
+                    else
+                        VL[48] = VL[45]()
+                    end
+                    VL[47] = nil
+                    VL[44] = nil
+                    VL[40] = nil
+                    VL[39] = nil
+                    VL[45] = nil
+                    VL[38] = nil
+                    VL[30] = nil
+                    VL[37] = nil
+                    VL[35] = nil
+                    VL[32] = nil
+                    VL[36] = nil
+                    VL[42] = nil
+                    VL[41] = nil
+                    VL[34] = nil
+                    VL[33] = nil
+                    VL[31] = nil
+                    VL[29] = nil
+                    VL[43] = nil
+                    VL[28] = nil
+                    VL[46] = nil
+                    VL[29] = enable2
+                    VL[28] = not VL[29]
+                    if VL[28] then
+                        VL[30] = 0
+                        VL[28] = function5
+                        VL[29] = VL[28](VL[30])
+                    end
+                    VL[26] = nil
+                    VL[12] = nil
+                    VL[6] = nil
+                    VL[23] = nil
+                    VL[2] = nil
+                    VL[9] = nil
+                    VL[4] = nil
+                    VL[1] = nil
+                    VL[25] = nil
+                    VL[11] = nil
+                    VL[14] = nil
+                    VL[3] = nil
+                    VL[5] = nil
+                    VL[7] = nil
+                    VL[21] = nil
+                    VL[16] = nil
+                    VL[8] = nil
+                    VL[15] = nil
+                    VL[13] = nil
+                    VL[24] = nil
+                    VL[10] = nil
+                    VL[17] = nil
+                    if type(GAME) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(WORKSPACE) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.Players) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.Players.LocalPlayer) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.Lighting) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.ReplicatedStorage) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.ReplicatedFirst) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.StarterGui) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.StarterPack) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.StarterPlayer) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.Teams) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.SoundService) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.Chat) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.LocalizationService) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.TestService) ~= "userdata" then
+                        while true do end
+                    end
+                    local GAME3 = GAME
+                    if type(GAME3.GetService(GAME3, "Players")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME3 = GAME
+                    if type(GAME3.GetService(GAME3, "Workspace")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME3 = GAME
+                    if type(GAME3.GetService(GAME3, "RunService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME3 = GAME
+                    if type(GAME3.GetService(GAME3, "UserInputService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME3 = GAME
+                    if type(GAME3.GetService(GAME3, "TweenService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME3 = GAME
+                    if type(GAME3.GetService(GAME3, "HttpService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME3 = GAME
+                    if type(GAME3.GetService(GAME3, "MarketplaceService")) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(Instance.new("Part")) ~= "userdata" then
+                        while true do end
+                    end
+                    if typeof(GAME) ~= "Instance" then
+                        while true do end
+                    end
+                    if typeof(WORKSPACE) ~= "Instance" then
+                        while true do end
+                    end
+                    if typeof(GAME.Players.LocalPlayer) ~= "Instance" then
+                        while true do end
+                    end
+                    if GAME.ClassName ~= "DataModel" then
+                        while true do end
+                    end
+                    if WORKSPACE.ClassName ~= "Workspace" then
+                        while true do end
+                    end
+                    if GAME.Players.ClassName ~= "Players" then
+                        while true do end
+                    end
+                    if type(print) ~= "function" then
+                        while true do end
+                    end
+                    if type(warn) ~= "function" then
+                        while true do end
+                    end
+                    if type(error) ~= "function" then
+                        while true do end
+                    end
+                    if type(assert) ~= "function" then
+                        while true do end
+                    end
+                    if type(pcall) ~= "function" then
+                        while true do end
+                    end
+                    if type(xpcall) ~= "function" then
+                        while true do end
+                    end
+                    if type(GAME.GetService) ~= "function" then
+                        while true do end
+                    end
+                    if type(GAME.FindFirstChild) ~= "function" then
+                        while true do end
+                    end
+                    if type(Instance.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(getmetatable) ~= "function" then
+                        while true do end
+                    end
+                    if type(setmetatable) ~= "function" then
+                        while true do end
+                    end
+                    if type(rawget) ~= "function" then
+                        while true do end
+                    end
+                    if type(rawset) ~= "function" then
+                        while true do end
+                    end
+                    if type(next) ~= "function" then
+                        while true do end
+                    end
+                    if type(pairs) ~= "function" then
+                        while true do end
+                    end
+                    if type(ipairs) ~= "function" then
+                        while true do end
+                    end
+                    if type(tostring) ~= "function" then
+                        while true do end
+                    end
+                    if type(tonumber) ~= "function" then
+                        while true do end
+                    end
+                    if type(select) ~= "function" then
+                        while true do end
+                    end
+                    if type(tick) ~= "function" then
+                        while true do end
+                    end
+                    if type(wait) ~= "function" then
+                        while true do end
+                    end
+                    if type(spawn) ~= "function" then
+                        while true do end
+                    end
+                    if type(delay) ~= "function" then
+                        while true do end
+                    end
+                    if type(_G) ~= "table" then
+                        while true do end
+                    end
+                    if type(SHARED) ~= "table" then
+                        while true do end
+                    end
+                    if type(math) ~= "table" then
+                        while true do end
+                    end
+                    if type(string) ~= "table" then
+                        while true do end
+                    end
+                    if type(table) ~= "table" then
+                        while true do end
+                    end
+                    if type(coroutine) ~= "table" then
+                        while true do end
+                    end
+                    if type(debug) ~= "table" then
+                        while true do end
+                    end
+                    if type(os) ~= "table" then
+                        while true do end
+                    end
+                    if type(utf8) ~= "table" then
+                        while true do end
+                    end
+                    if type(bit32) ~= "table" then
+                        while true do end
+                    end
+                    if type(math.pi) ~= "number" then
+                        while true do end
+                    end
+                    if type(math.huge) ~= "number" then
+                        while true do end
+                    end
+                    if type(true) ~= "boolean" then
+                        while true do end
+                    end
+                    if type(false) ~= "boolean" then
+                        while true do end
+                    end
+                    if type(nil) ~= "nil" then
+                        while true do end
+                    end
+                    if WORKSPACE.Parent ~= GAME then
+                        while true do end
+                    end
+                    if GAME.Players.LocalPlayer.Parent ~= GAME.Players then
+                        while true do end
+                    end
+                    if getmetatable(GAME) == nil then
+                        while true do end
+                    end
+                    if getmetatable(WORKSPACE) == nil then
+                        while true do end
+                    end
+                    local GAME4 = GAME
+                    if GAME4.GetService(GAME4, "Players") == nil then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if GAME4.GetService(GAME4, "Workspace") == nil then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if GAME4.GetService(GAME4, "RunService") == nil then
+                        while true do end
+                    end
+                    if GAME.PlaceId == 0 then
+                        while true do end
+                    end
+                    local tbl39 = ""
+                    function22 = VL[49]
+                    if GAME.JobId == tbl39 and not tbl39.IsStudio(tbl39) then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "ContentProvider")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "Debris")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "InsertService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "LogService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "PhysicsService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "Stats")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "TeleportService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "TextService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "VirtualUser")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "GuiService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "VirtualInputManager")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "ContextActionService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "PathfindingService")) ~= "userdata" then
+                        while true do end
+                    end
+                    if type(GAME.Players.LocalPlayer.Character) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME.Players.LocalPlayer
+                    if type(GAME4.FindFirstChild(GAME4, "PlayerGui")) ~= "userdata" then
+                        while true do end
+                    end
+                    if typeof(GAME.Players.LocalPlayer.Character) ~= "Instance" then
+                        while true do end
+                    end
+                    if GAME.Players.LocalPlayer.Character == nil then
+                        while true do end
+                    end
+                    if GAME.Players.LocalPlayer.Character.Parent ~= WORKSPACE then
+                        while true do end
+                    end
+                    GAME4 = GAME.Players.LocalPlayer
+                    if type(GAME4.GetMouse(GAME4)) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME.Players.LocalPlayer
+                    if typeof(GAME4.GetMouse(GAME4)) ~= "Instance" then
+                        while true do end
+                    end
+                    if GAME.GameId == nil then
+                        while true do end
+                    end
+                    if GAME.CreatorId == nil then
+                        while true do end
+                    end
+                    if type(task) ~= "table" then
+                        while true do end
+                    end
+                    if type(task.wait) ~= "function" then
+                        while true do end
+                    end
+                    if type(task.spawn) ~= "function" then
+                        while true do end
+                    end
+                    if type(task.defer) ~= "function" then
+                        while true do end
+                    end
+                    if type(type) ~= "function" then
+                        while true do end
+                    end
+                    if type(typeof) ~= "function" then
+                        while true do end
+                    end
+                    if type(unpack) ~= "function" then
+                        while true do end
+                    end
+                    if type(loadstring) ~= "function" then
+                        while true do end
+                    end
+                    if string.len ~= string.len then
+                        while true do end
+                    end
+                    if math.floor ~= math.floor then
+                        while true do end
+                    end
+                    if table.insert ~= table.insert then
+                        while true do end
+                    end
+                    if WORKSPACE.Name ~= "Workspace" then
+                        while true do end
+                    end
+                    if GAME.Players.LocalPlayer.Name == "" then
+                        while true do end
+                    end
+                    if GAME.Players.LocalPlayer.UserId == 0 then
+                        while true do end
+                    end
+                    if GAME.Players.LocalPlayer.UserId < 0 then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if GAME4.GetService(GAME4, "CoreGui") == nil then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "CoreGui")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "ReplicatedStorage")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "ReplicatedFirst")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "ServerStorage")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "ServerScriptService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "StarterGui")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "StarterPack")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "StarterPlayer")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "Teams")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "SoundService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "Chat")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "LocalizationService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "TestService")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetService(GAME4, "Lighting")) ~= "userdata" then
+                        while true do end
+                    end
+                    if typeof(GAME.Lighting) ~= "Instance" then
+                        while true do end
+                    end
+                    if typeof(GAME.ReplicatedStorage) ~= "Instance" then
+                        while true do end
+                    end
+                    if typeof(GAME.ReplicatedFirst) ~= "Instance" then
+                        while true do end
+                    end
+                    if GAME.Lighting.ClassName ~= "Lighting" then
+                        while true do end
+                    end
+                    if GAME.ReplicatedStorage.ClassName ~= "ReplicatedStorage" then
+                        while true do end
+                    end
+                    if GAME.ReplicatedFirst.ClassName ~= "ReplicatedFirst" then
+                        while true do end
+                    end
+                    if GAME.StarterGui.ClassName ~= "StarterGui" then
+                        while true do end
+                    end
+                    if GAME.Players.LocalPlayer.ClassName ~= "Player" then
+                        while true do end
+                    end
+                    GAME4 = GAME.Players.LocalPlayer.Character
+                    if type(GAME4.FindFirstChild(GAME4, "Humanoid")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME.Players.LocalPlayer.Character
+                    if typeof(GAME4.FindFirstChild(GAME4, "Humanoid")) ~= "Instance" then
+                        while true do end
+                    end
+                    local character2 = GAME.Players.LocalPlayer.Character
+                    if character2.FindFirstChild(character2, "Humanoid").ClassName ~= "Humanoid" then
+                        while true do end
+                    end
+                    GAME4 = GAME.Players.LocalPlayer.Character
+                    if type(GAME4.FindFirstChild(GAME4, "HumanoidRootPart")) ~= "userdata" then
+                        while true do end
+                    end
+                    GAME4 = GAME.Players.LocalPlayer.Character
+                    if typeof(GAME4.FindFirstChild(GAME4, "HumanoidRootPart")) ~= "Instance" then
+                        while true do end
+                    end
+                    character2 = GAME.Players.LocalPlayer.Character
+                    if character2.FindFirstChild(character2, "HumanoidRootPart").ClassName ~= "Part" then
+                        while true do end
+                    end
+                    if type(Vector3) ~= "table" then
+                        while true do end
+                    end
+                    if type(Vector3.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(CFrame) ~= "table" then
+                        while true do end
+                    end
+                    if type(CFrame.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(Color3) ~= "table" then
+                        while true do end
+                    end
+                    if type(Color3.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(UDim2) ~= "table" then
+                        while true do end
+                    end
+                    if type(UDim2.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(UDim) ~= "table" then
+                        while true do end
+                    end
+                    if type(UDim.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(Vector2) ~= "table" then
+                        while true do end
+                    end
+                    if type(Vector2.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(NumberRange) ~= "table" then
+                        while true do end
+                    end
+                    if type(NumberRange.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(NumberSequence) ~= "table" then
+                        while true do end
+                    end
+                    if type(NumberSequence.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(ColorSequence) ~= "table" then
+                        while true do end
+                    end
+                    if type(ColorSequence.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(Ray.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(Axes) ~= "table" then
+                        while true do end
+                    end
+                    if type(Axes.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(Faces) ~= "table" then
+                        while true do end
+                    end
+                    if type(Faces.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(BrickColor) ~= "table" then
+                        while true do end
+                    end
+                    if type(BrickColor.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(Region3) ~= "table" then
+                        while true do end
+                    end
+                    if type(Region3.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(PhysicalProperties) ~= "table" then
+                        while true do end
+                    end
+                    if type(PhysicalProperties.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(Random) ~= "table" then
+                        while true do end
+                    end
+                    if type(Random.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(TweenInfo) ~= "table" then
+                        while true do end
+                    end
+                    if type(TweenInfo.new) ~= "function" then
+                        while true do end
+                    end
+                    if GAME.PlaceVersion == nil then
+                        while true do end
+                    end
+                    if GAME.Workspace ~= WORKSPACE then
+                        while true do end
+                    end
+                    if GAME.workspace ~= WORKSPACE then
+                        while true do end
+                    end
+                    GAME4 = GAME.Players.LocalPlayer
+                    if typeof(GAME4.WaitForChild(GAME4, "PlayerGui")) ~= "Instance" then
+                        while true do end
+                    end
+                    if GAME.Players.LocalPlayer.PlayerGui.ClassName ~= "PlayerGui" then
+                        while true do end
+                    end
+                    GAME4 = GAME.Players.LocalPlayer
+                    if type(GAME4.GetChildren(GAME4)) ~= "table" then
+                        while true do end
+                    end
+                    GAME4 = WORKSPACE
+                    if type(GAME4.GetChildren(GAME4)) ~= "table" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.GetChildren(GAME4)) ~= "table" then
+                        while true do end
+                    end
+                    GAME4 = GAME.Players
+                    if type(GAME4.GetPlayers(GAME4)) ~= "table" then
+                        while true do end
+                    end
+                    GAME4 = GAME.Players.LocalPlayer.Character
+                    if type(GAME4.GetChildren(GAME4)) ~= "table" then
+                        while true do end
+                    end
+                    if type(Instance) ~= "table" then
+                        while true do end
+                    end
+                    if type(GAME.Destroy) ~= "function" then
+                        while true do end
+                    end
+                    if type(WORKSPACE.Destroy) ~= "function" then
+                        while true do end
+                    end
+                    if type(GAME.Clone) ~= "function" then
+                        while true do end
+                    end
+                    if type(GAME.IsA) ~= "function" then
+                        while true do end
+                    end
+                    if type(GAME.FindFirstChild) ~= "function" then
+                        while true do end
+                    end
+                    if type(GAME.WaitForChild) ~= "function" then
+                        while true do end
+                    end
+                    if type(GAME.GetChildren) ~= "function" then
+                        while true do end
+                    end
+                    if type(GAME.GetDescendants) ~= "function" then
+                        while true do end
+                    end
+                    GAME4 = WORKSPACE
+                    if type(GAME4.IsA(GAME4, "Workspace")) ~= "boolean" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if type(GAME4.IsA(GAME4, "DataModel")) ~= "boolean" then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if GAME4.IsA(GAME4, "Workspace") == true then
+                        while true do end
+                    end
+                    GAME4 = WORKSPACE
+                    if GAME4.IsA(GAME4, "DataModel") == true then
+                        while true do end
+                    end
+                    GAME4 = GAME
+                    if GAME4.IsA(GAME4, "DataModel") ~= true then
+                        while true do end
+                    end
+                    GAME4 = WORKSPACE
+                    if GAME4.IsA(GAME4, "Workspace") ~= true then
+                        while true do end
+                    end
+                    if type(GAME.GetFullName) ~= "function" then
+                        while true do end
+                    end
+                    if type(WORKSPACE.GetFullName) ~= "function" then
+                        while true do end
+                    end
+                    GAME4 = WORKSPACE
+                    if GAME4.GetFullName(GAME4) ~= "Workspace" then
+                        while true do end
+                    end
+                    if type(WORKSPACE.FindFirstChildOfClass) ~= "function" then
+                        while true do end
+                    end
+                    if type(WORKSPACE.FindFirstChildWhichIsA) ~= "function" then
+                        while true do end
+                    end
+                    if type(WORKSPACE.GetPropertyChangedSignal) ~= "function" then
+                        while true do end
+                    end
+                    if type(GAME.GetPropertyChangedSignal) ~= "function" then
+                        while true do end
+                    end
+                    if type(GAME.IsLoaded) ~= "function" then
+                        while true do end
+                    end
+                    if typeof(Vector3.new(0, 0, 0)) ~= "Vector3" then
+                        while true do end
+                    end
+                    if typeof(CFrame.new(0, 0, 0)) ~= "CFrame" then
+                        while true do end
+                    end
+                    if typeof(Color3.new(1, 1, 1)) ~= "Color3" then
+                        while true do end
+                    end
+                    if typeof(UDim2.new(0, 0, 0, 0)) ~= "UDim2" then
+                        while true do end
+                    end
+                    if typeof(Vector2.new(0, 0)) ~= "Vector2" then
+                        while true do end
+                    end
+                    if typeof(NumberRange.new(0, 1)) ~= "NumberRange" then
+                        while true do end
+                    end
+                    if type(NumberSequenceKeypoint) ~= "table" then
+                        while true do end
+                    end
+                    if type(NumberSequenceKeypoint.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(ColorSequenceKeypoint) ~= "table" then
+                        while true do end
+                    end
+                    if type(ColorSequenceKeypoint.new) ~= "function" then
+                        while true do end
+                    end
+                    if typeof(BrickColor.new("White")) ~= "BrickColor" then
+                        while true do end
+                    end
+                    if type(GAME.GetObjects) ~= "function" then
+                        while true do end
+                    end
+                    if type(WORKSPACE.Raycast) ~= "function" then
+                        while true do end
+                    end
+                    if type(Region3int16) ~= "table" then
+                        while true do end
+                    end
+                    if type(Region3int16.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(Rect) ~= "table" then
+                        while true do end
+                    end
+                    if type(Rect.new) ~= "function" then
+                        while true do end
+                    end
+                    if type(DateTime) ~= "table" then
+                        while true do end
+                    end
+                    if type(DateTime.now) ~= "function" then
+                        while true do end
+                    end
+                    if type(utf8.char) ~= "function" then
+                        while true do end
+                    end
+                    if type(utf8.codes) ~= "function" then
+                        while true do end
+                    end
+                    if type(utf8.codepoint) ~= "function" then
+                        while true do end
+                    end
+                    if type(utf8.len) ~= "function" then
+                        while true do end
+                    end
+                    if type(utf8.offset) ~= "function" then
+                        while true do end
+                    end
+                    if type(bit32.arshift) ~= "function" then
+                        while true do end
+                    end
+                    if type(bit32.band) ~= "function" then
+                        while true do end
+                    end
+                    if type(bit32.bnot) ~= "function" then
+                        while true do end
+                    end
+                    if type(bit32.bor) ~= "function" then
+                        while true do end
+                    end
+                    if type(bit32.btest) ~= "function" then
+                        while true do end
+                    end
+                    if type(bit32.bxor) ~= "function" then
+                        while true do end
+                    end
+                    if type(bit32.extract) ~= "function" then
+                        while true do end
+                    end
+                    if type(bit32.replace) ~= "function" then
+                        while true do end
+                    end
+                    if type(bit32.lrotate) ~= "function" then
+                        while true do end
+                    end
+                    if type(bit32.lshift) ~= "function" then
+                        while true do end
+                    end
+                    if type(bit32.rrotate) ~= "function" then
+                        while true do end
+                    end
+                    if type(bit32.rshift) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.abs) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.acos) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.asin) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.atan) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.atan2) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.ceil) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.cos) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.cosh) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.deg) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.exp) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.floor) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.fmod) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.frexp) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.ldexp) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.log) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.log10) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.max) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.min) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.modf) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.pow) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.rad) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.random) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.randomseed) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.sin) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.sinh) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.sqrt) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.tan) ~= "function" then
+                        while true do end
+                    end
+                    if type(math.tanh) ~= "function" then
+                        while true do end
+                    end
+                    if type(string.byte) ~= "function" then
+                        while true do end
+                    end
+                    if type(string.char) ~= "function" then
+                        while true do end
+                    end
+                    if type(string.find) ~= "function" then
+                        while true do end
+                    end
+                    if type(string.format) ~= "function" then
+                        while true do end
+                    end
+                    if type(string.gmatch) ~= "function" then
+                        while true do end
+                    end
+                    if type(string.gsub) ~= "function" then
+                        while true do end
+                    end
+                    if type(string.len) ~= "function" then
+                        while true do end
+                    end
+                    if type(string.lower) ~= "function" then
+                        while true do end
+                    end
+                    if type(string.match) ~= "function" then
+                        while true do end
+                    end
+                    if type(string.rep) ~= "function" then
+                        while true do end
+                    end
+                    if type(string.reverse) ~= "function" then
+                        while true do end
+                    end
+                    if type(string.sub) ~= "function" then
+                        while true do end
+                    end
+                    if type(string.upper) ~= "function" then
+                        while true do end
+                    end
+                    if type(table.concat) ~= "function" then
+                        while true do end
+                    end
+                    if type(table.foreach) ~= "function" then
+                        while true do end
+                    end
+                    if type(table.foreachi) ~= "function" then
+                        while true do end
+                    end
+                    print("aaa")
+                    return
+                end
+            else
+                VL[49] = "task"
+                VL[48] = Env[VL[49]]
+                VL[46] = VL[48]
+            end
+        else
+            VL[43] = "unpack"
+            VL[42] = Env[VL[43]]
+            VL[28] = VL[42]
+        end
+    end
+end
+return (function(...)
+    while true do
+        local v110 = l2
+        local v210 = v110
+        function1() 
+    end
+    return 
+end)()
